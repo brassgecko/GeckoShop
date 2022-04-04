@@ -7408,67 +7408,67 @@
       "abr": "guestbed",
       "category": "Furniture",
       "defname": "BedGuest",
-      "price": 155
+      "price": -10
     },
     {
       "abr": "guestdoublebed",
       "category": "Furniture",
       "defname": "DoubleBedGuest",
-      "price": 292
+      "price": -10
     },
     {
       "abr": "guestroyalbed",
       "category": "Furniture",
       "defname": "RoyalBedGuest",
-      "price": 1467
+      "price": -10
     },
     {
       "abr": "guesthospitalbed",
       "category": "Furniture",
       "defname": "HospitalBedGuest",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "guestbedroll",
       "category": "Furniture",
       "defname": "BedrollGuest",
-      "price": 137
+      "price": -10
     },
     {
       "abr": "guestdoublebedroll",
       "category": "Furniture",
       "defname": "BedrollDoubleGuest",
-      "price": 290
+      "price": -10
     },
     {
       "abr": "guestslabbed",
       "category": "Furniture",
       "defname": "SlabBedGuest",
-      "price": 102
+      "price": -10
     },
     {
       "abr": "guestslabdoublebed",
       "category": "Furniture",
       "defname": "SlabDoubleBedGuest",
-      "price": 288
+      "price": -10
     },
     {
       "abr": "guestandroidpod",
       "category": "Furniture",
       "defname": "ATPP_AndroidPodGuest",
-      "price": 282
+      "price": -10
     },
     {
       "abr": "guestm7pod",
       "category": "Furniture",
       "defname": "ATPP_AndroidPodMechGuest",
-      "price": 1483
+      "price": -10
     },
     {
       "abr": "guestandroidupgradestation",
       "category": "Furniture",
       "defname": "AndroidOperationBedGuest",
-      "price": 1142
+      "price": -10
     }
   ],
   "total": 1245
