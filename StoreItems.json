@@ -8,7 +8,7 @@
     },
     {
       "abr": "wort",
-      "category": "Manufactured",
+      "category": "Alcohol precursor",
       "defname": "Wort",
       "price": -10
     },
@@ -244,12 +244,6 @@
       "abr": "standinglamp(blue)",
       "category": "Furniture",
       "defname": "StandingLamp_Blue",
-      "price": -10
-    },
-    {
-      "abr": "sunlamp",
-      "category": "Furniture",
-      "defname": "SunLamp",
       "price": -10
     },
     {
@@ -656,7 +650,7 @@
     },
     {
       "abr": "kibble",
-      "category": "Foods",
+      "category": "Animal Feed",
       "defname": "Kibble",
       "price": -10
     },
@@ -668,13 +662,13 @@
     },
     {
       "abr": "chocolate",
-      "category": "Foods",
+      "category": "Sweets",
       "defname": "Chocolate",
       "price": -10
     },
     {
       "abr": "milk",
-      "category": "Animal products",
+      "category": "Ingredients",
       "defname": "Milk",
       "price": -10
     },
@@ -829,26 +823,14 @@
       "price": -10
     },
     {
-      "abr": "agavefruit",
-      "category": "Vegetarian",
-      "defname": "RawAgave",
-      "price": -10
-    },
-    {
       "abr": "corn",
       "category": "Vegetarian",
       "defname": "RawCorn",
       "price": -10
     },
     {
-      "abr": "berries",
-      "category": "Vegetarian",
-      "defname": "RawBerries",
-      "price": -10
-    },
-    {
       "abr": "hay",
-      "category": "Foods",
+      "category": "Animal Feed",
       "defname": "Hay",
       "price": -10
     },
@@ -1384,6 +1366,12 @@
       "abr": "autopistol",
       "category": "Ranged weapons",
       "defname": "Gun_Autopistol",
+      "price": -10
+    },
+    {
+      "abr": "machinepistol",
+      "category": "Ranged weapons",
+      "defname": "Gun_MachinePistol",
       "price": -10
     },
     {
@@ -3169,399 +3157,1989 @@
       "price": -10
     },
     {
-      "abr": "vanometricheatsink",
+      "abr": "bionicbladder",
+      "category": "Bionic",
+      "defname": "BionicBladder",
+      "price": -10
+    },
+    {
+      "abr": "hygieneenhancer",
+      "category": "Bionic",
+      "defname": "HygieneEnhancer",
+      "price": -10
+    },
+    {
+      "abr": "plumbingvalve",
+      "category": "Hygiene",
+      "defname": "plumbingValve",
+      "price": -10
+    },
+    {
+      "abr": "latrine",
+      "category": "Hygiene",
+      "defname": "PitLatrine",
+      "price": -10
+    },
+    {
+      "abr": "watertub",
+      "category": "Hygiene",
+      "defname": "WashBucket",
+      "price": -10
+    },
+    {
+      "abr": "watertrough",
+      "category": "Hygiene",
+      "defname": "WaterTrough",
+      "price": -10
+    },
+    {
+      "abr": "waterbowl",
+      "category": "Hygiene",
+      "defname": "PetWaterBowl",
+      "price": -10
+    },
+    {
+      "abr": "litterbox",
+      "category": "Hygiene",
+      "defname": "LitterBox",
+      "price": -10
+    },
+    {
+      "abr": "basin",
+      "category": "Hygiene",
+      "defname": "BasinStuff",
+      "price": -10
+    },
+    {
+      "abr": "fountain",
+      "category": "Hygiene",
+      "defname": "Fountain",
+      "price": -10
+    },
+    {
+      "abr": "kitchensink",
+      "category": "Hygiene",
+      "defname": "KitchenSink",
+      "price": -10
+    },
+    {
+      "abr": "toilet",
+      "category": "Hygiene",
+      "defname": "ToiletStuff",
+      "price": -10
+    },
+    {
+      "abr": "smarttoilet",
+      "category": "Hygiene",
+      "defname": "ToiletAdvStuff",
+      "price": -10
+    },
+    {
+      "abr": "bathmat",
+      "category": "Furniture",
+      "defname": "BathMat",
+      "price": -10
+    },
+    {
+      "abr": "bathtub",
+      "category": "Hygiene",
+      "defname": "BathtubStuff",
+      "price": -10
+    },
+    {
+      "abr": "shower",
+      "category": "Hygiene",
+      "defname": "ShowerStuff",
+      "price": -10
+    },
+    {
+      "abr": "simpleshower",
+      "category": "Hygiene",
+      "defname": "ShowerSimple",
+      "price": -10
+    },
+    {
+      "abr": "powershower",
+      "category": "Hygiene",
+      "defname": "ShowerAdvStuff",
+      "price": -10
+    },
+    {
+      "abr": "hottub",
+      "category": "Hygiene",
+      "defname": "HotTub",
+      "price": -10
+    },
+    {
+      "abr": "washingmachine",
+      "category": "Hygiene",
+      "defname": "WashingMachine",
+      "price": -10
+    },
+    {
+      "abr": "fueledsaunaheater",
+      "category": "Hygiene",
+      "defname": "DBHSaunaHeaterLog",
+      "price": -10
+    },
+    {
+      "abr": "electricsaunaheater",
+      "category": "Hygiene",
+      "defname": "DBHSaunaHeaterElec",
+      "price": -10
+    },
+    {
+      "abr": "saunaseating",
+      "category": "Furniture",
+      "defname": "DBHSaunaSeating",
+      "price": -10
+    },
+    {
+      "abr": "electricpump",
+      "category": "Hygiene",
+      "defname": "ElectricPump",
+      "price": -10
+    },
+    {
+      "abr": "thermostat",
+      "category": "Hygiene",
+      "defname": "Thermostat",
+      "price": -10
+    },
+    {
+      "abr": "logboiler",
+      "category": "Hygiene",
+      "defname": "LogBoiler",
+      "price": -10
+    },
+    {
+      "abr": "gasboiler",
+      "category": "Hygiene",
+      "defname": "GasBoiler",
+      "price": -10
+    },
+    {
+      "abr": "electricboiler",
+      "category": "Hygiene",
+      "defname": "ElectricBoiler",
+      "price": -10
+    },
+    {
+      "abr": "hotwatertank",
+      "category": "Hygiene",
+      "defname": "HotWaterTank",
+      "price": -10
+    },
+    {
+      "abr": "radiator",
+      "category": "Hygiene",
+      "defname": "RadiatorStuffed",
+      "price": -10
+    },
+    {
+      "abr": "largeradiator",
+      "category": "Hygiene",
+      "defname": "RadiatorLarge",
+      "price": -10
+    },
+    {
+      "abr": "towelrail",
+      "category": "Hygiene",
+      "defname": "RadiatorTowelRail",
+      "price": -10
+    },
+    {
+      "abr": "ceilingfan2x2",
+      "category": "Hygiene",
+      "defname": "CeilingFan",
+      "price": -10
+    },
+    {
+      "abr": "ceilingfan1x1",
+      "category": "Hygiene",
+      "defname": "CeilingFanS",
+      "price": -10
+    },
+    {
+      "abr": "ceilingfan2x2(dark)",
+      "category": "Hygiene",
+      "defname": "CeilingFanDarklight",
+      "price": -10
+    },
+    {
+      "abr": "ceilingfan1x1(dark)",
+      "category": "Hygiene",
+      "defname": "CeilingFanSDarklight",
+      "price": -10
+    },
+    {
+      "abr": "air-conoutdoorunit",
+      "category": "Hygiene",
+      "defname": "AirConOutdoorUnit",
+      "price": -10
+    },
+    {
+      "abr": "air-conindoorunit",
+      "category": "Hygiene",
+      "defname": "AirconIndoorUnit",
+      "price": -10
+    },
+    {
+      "abr": "walk-infreezerunit",
+      "category": "Hygiene",
+      "defname": "FreezerUnit",
+      "price": -10
+    },
+    {
+      "abr": "irrigationsprinkler",
+      "category": "Hygiene",
+      "defname": "IrrigationSprinkler",
+      "price": -10
+    },
+    {
+      "abr": "firesprinkler",
+      "category": "Hygiene",
+      "defname": "FireSprinkler",
+      "price": -10
+    },
+    {
+      "abr": "biosolidscomposter",
+      "category": "Hygiene",
+      "defname": "BiosolidsComposter",
+      "price": -10
+    },
+    {
+      "abr": "biosolids",
+      "category": "Waste",
+      "defname": "Biosolids",
+      "price": -10
+    },
+    {
+      "abr": "cashregister",
+      "category": "Furniture",
+      "defname": "CashRegister_CashRegister",
+      "price": -10
+    },
+    {
+      "abr": "fermentingbarrel",
+      "category": "Production",
+      "defname": "UniversalFermenter",
+      "price": -10
+    },
+    {
+      "abr": "bamboobonsaipot",
+      "category": "Furniture",
+      "defname": "PlantPot_BambooBonsai",
+      "price": -10
+    },
+    {
+      "abr": "gardentea",
+      "category": "Garden Drinks",
+      "defname": "Cuptea",
+      "price": -10
+    },
+    {
+      "abr": "barleytea",
+      "category": "Garden Drinks",
+      "defname": "VG_BarleyTea",
+      "price": -10
+    },
+    {
+      "abr": "gardencoffee",
+      "category": "Garden Drinks",
+      "defname": "Coffee",
+      "price": -10
+    },
+    {
+      "abr": "fruitdrink",
+      "category": "Garden Drinks",
+      "defname": "Fruitdrink",
+      "price": -10
+    },
+    {
+      "abr": "chocolatemilk",
+      "category": "Garden Drinks",
+      "defname": "Chocomilk",
+      "price": -10
+    },
+    {
+      "abr": "bowlofstew",
+      "category": "Meals",
+      "defname": "bowlstew",
+      "price": -10
+    },
+    {
+      "abr": "stirfry",
+      "category": "Meals",
+      "defname": "stirfry",
+      "price": -10
+    },
+    {
+      "abr": "hardtack",
+      "category": "Foods",
+      "defname": "VG_Hardtack",
+      "price": -10
+    },
+    {
+      "abr": "coffeebeans",
+      "category": "Plant matter",
+      "defname": "CPD_CoffeeBeans",
+      "price": -10
+    },
+    {
+      "abr": "tealeaves",
+      "category": "Plant matter",
+      "defname": "Rawtea",
+      "price": -10
+    },
+    {
+      "abr": "silage",
+      "category": "Animal Feed",
+      "defname": "Silage",
+      "price": -10
+    },
+    {
+      "abr": "biofuel",
+      "category": "Manufactured",
+      "defname": "VG_Biofuel",
+      "price": -10
+    },
+    {
+      "abr": "hivepiece",
+      "category": "Raw resources",
+      "defname": "VG_Hivepiece",
+      "price": -10
+    },
+    {
+      "abr": "bamboo",
+      "category": "Raw resources",
+      "defname": "Bamboo",
+      "price": -10
+    },
+    {
+      "abr": "ironwood",
+      "category": "Raw resources",
+      "defname": "VG_IronWoodLog",
+      "price": -10
+    },
+    {
+      "abr": "agavefruit",
+      "category": "Fruits",
+      "defname": "RawAgave",
+      "price": -10
+    },
+    {
+      "abr": "berries",
+      "category": "Fruits",
+      "defname": "RawBerries",
+      "price": -10
+    },
+    {
+      "abr": "apples",
+      "category": "Fruits",
+      "defname": "Rawapple",
+      "price": -10
+    },
+    {
+      "abr": "banana",
+      "category": "Fruits",
+      "defname": "Rawbanana",
+      "price": -10
+    },
+    {
+      "abr": "grapes",
+      "category": "Fruits",
+      "defname": "Rawgrape",
+      "price": -10
+    },
+    {
+      "abr": "orange",
+      "category": "Fruits",
+      "defname": "Raworange",
+      "price": -10
+    },
+    {
+      "abr": "peach",
+      "category": "Fruits",
+      "defname": "Rawpeach",
+      "price": -10
+    },
+    {
+      "abr": "pineapple",
+      "category": "Fruits",
+      "defname": "Rawpineapple",
+      "price": -10
+    },
+    {
+      "abr": "blueberry",
+      "category": "Fruits",
+      "defname": "Rawblueberry",
+      "price": -10
+    },
+    {
+      "abr": "watermelon",
+      "category": "Fruits",
+      "defname": "Rawwatermelon",
+      "price": -10
+    },
+    {
+      "abr": "date",
+      "category": "Fruits",
+      "defname": "Rawdate",
+      "price": -10
+    },
+    {
+      "abr": "fig",
+      "category": "Fruits",
+      "defname": "Rawfig",
+      "price": -10
+    },
+    {
+      "abr": "gooseberry",
+      "category": "Fruits",
+      "defname": "Rawgooseberry",
+      "price": -10
+    },
+    {
+      "abr": "cloudberry",
+      "category": "Fruits",
+      "defname": "Rawcloudberry",
+      "price": -10
+    },
+    {
+      "abr": "cherries",
+      "category": "Fruits",
+      "defname": "RawCherry",
+      "price": -10
+    },
+    {
+      "abr": "coconut",
+      "category": "Fruits",
+      "defname": "RawCoconut",
+      "price": -10
+    },
+    {
+      "abr": "honey",
+      "category": "Ingredients",
+      "defname": "Honey",
+      "price": -10
+    },
+    {
+      "abr": "honeymead",
+      "category": "Drugs",
+      "defname": "Mead",
+      "price": -10
+    },
+    {
+      "abr": "redlentil",
+      "category": "Meat",
+      "defname": "RawRedLentil",
+      "price": -10
+    },
+    {
+      "abr": "mushroom",
+      "category": "Meat",
+      "defname": "Rawmushroom",
+      "price": -10
+    },
+    {
+      "abr": "snowbeet",
+      "category": "Vegetarian",
+      "defname": "Rawsnowbeet",
+      "price": -10
+    },
+    {
+      "abr": "barley",
+      "category": "Vegetarian",
+      "defname": "RawBarley",
+      "price": -10
+    },
+    {
+      "abr": "bean",
+      "category": "Vegetarian",
+      "defname": "Rawbean",
+      "price": -10
+    },
+    {
+      "abr": "olive",
+      "category": "Vegetarian",
+      "defname": "RawOlive",
+      "price": -10
+    },
+    {
+      "abr": "cactusfruit",
+      "category": "Vegetarian",
+      "defname": "RawCactusFruit",
+      "price": -10
+    },
+    {
+      "abr": "foodshelf2x2",
+      "category": "Furniture",
+      "defname": "VG_FoodShelf",
+      "price": -10
+    },
+    {
+      "abr": "cookie",
+      "category": "Lavish Meals",
+      "defname": "cookie",
+      "price": -10
+    },
+    {
+      "abr": "fruitpieslice",
+      "category": "Simple Meals",
+      "defname": "BlueberryPie",
+      "price": -10
+    },
+    {
+      "abr": "driedfruit",
+      "category": "Fruits",
+      "defname": "driedfruit",
+      "price": -10
+    },
+    {
+      "abr": "bread",
+      "category": "Simple Meals",
+      "defname": "Bread",
+      "price": -10
+    },
+    {
+      "abr": "sweetbun",
+      "category": "Fine Meals",
+      "defname": "sweetbun",
+      "price": -10
+    },
+    {
+      "abr": "grilledcheesesandwich",
+      "category": "Simple Meals",
+      "defname": "grilledcheese",
+      "price": -10
+    },
+    {
+      "abr": "cheeseburger",
+      "category": "Fine Meals",
+      "defname": "grilledmeat",
+      "price": -10
+    },
+    {
+      "abr": "pizza",
+      "category": "Lavish Meals",
+      "defname": "pizza",
+      "price": -10
+    },
+    {
+      "abr": "porridge",
+      "category": "Simple Meals",
+      "defname": "Porridge",
+      "price": -10
+    },
+    {
+      "abr": "yogurt",
+      "category": "Sweets",
+      "defname": "yogurt",
+      "price": -10
+    },
+    {
+      "abr": "icecream",
+      "category": "Sweets",
+      "defname": "icecream",
+      "price": -10
+    },
+    {
+      "abr": "smoothie",
+      "category": "Sweets",
+      "defname": "smoothie",
+      "price": -10
+    },
+    {
+      "abr": "tacos",
+      "category": "Fine Meals",
+      "defname": "Tacos",
+      "price": -10
+    },
+    {
+      "abr": "grilledsteak",
+      "category": "Simple Meals",
+      "defname": "Grilledsteak",
+      "price": -10
+    },
+    {
+      "abr": "grilledvegetables",
+      "category": "Simple Meals",
+      "defname": "Grilledveg",
+      "price": -10
+    },
+    {
+      "abr": "grilledkabob",
+      "category": "Simple Meals",
+      "defname": "Kabob",
+      "price": -10
+    },
+    {
+      "abr": "grilledpolenta",
+      "category": "Fine Meals",
+      "defname": "grilledpolenta",
+      "price": -10
+    },
+    {
+      "abr": "bakedpolenta",
+      "category": "Fine Meals",
+      "defname": "bakedpolenta",
+      "price": -10
+    },
+    {
+      "abr": "cornbread",
+      "category": "Simple Meals",
+      "defname": "Cornbread",
+      "price": -10
+    },
+    {
+      "abr": "muffin",
+      "category": "Fine Meals",
+      "defname": "muffin",
+      "price": -10
+    },
+    {
+      "abr": "meatpie",
+      "category": "Simple Meals",
+      "defname": "meatpie",
+      "price": -10
+    },
+    {
+      "abr": "wheat",
+      "category": "Vegetarian",
+      "defname": "Rawwheat",
+      "price": -10
+    },
+    {
+      "abr": "cheese",
+      "category": "Ingredients",
+      "defname": "cheese",
+      "price": -10
+    },
+    {
+      "abr": "sugar",
+      "category": "Ingredients",
+      "defname": "Sugar",
+      "price": -10
+    },
+    {
+      "abr": "flour",
+      "category": "Ingredients",
+      "defname": "Flour",
+      "price": -10
+    },
+    {
+      "abr": "cornmeal",
+      "category": "Ingredients",
+      "defname": "Cornmeal",
+      "price": -10
+    },
+    {
+      "abr": "veganeggsubstitute",
+      "category": "Eggs (unfert.)",
+      "defname": "VeganEgg",
+      "price": -10
+    },
+    {
+      "abr": "makiroll",
+      "category": "Fine Meals",
+      "defname": "MakiRoll",
+      "price": -10
+    },
+    {
+      "abr": "nigiri",
+      "category": "Fine Meals",
+      "defname": "Nigiri",
+      "price": -10
+    },
+    {
+      "abr": "caramel",
+      "category": "Sweets",
+      "defname": "Caramel",
+      "price": -10
+    },
+    {
+      "abr": "hardcandy",
+      "category": "Sweets",
+      "defname": "Hardcandy",
+      "price": -10
+    },
+    {
+      "abr": "taffy",
+      "category": "Sweets",
+      "defname": "Taffy",
+      "price": -10
+    },
+    {
+      "abr": "saltedmeat",
+      "category": "Meat",
+      "defname": "SaltedMeat",
+      "price": -10
+    },
+    {
+      "abr": "tofu",
+      "category": "Meat",
+      "defname": "Rawtofu",
+      "price": -10
+    },
+    {
+      "abr": "polenta",
+      "category": "Vegetarian",
+      "defname": "RawPolenta",
+      "price": -10
+    },
+    {
+      "abr": "pickledvegetable",
+      "category": "Vegetarian",
+      "defname": "PickledVeg",
+      "price": -10
+    },
+    {
+      "abr": "oven",
+      "category": "Production",
+      "defname": "Oven",
+      "price": -10
+    },
+    {
+      "abr": "electricoven",
+      "category": "Production",
+      "defname": "ElectricOven",
+      "price": -10
+    },
+    {
+      "abr": "fueledfoodpreptable",
+      "category": "Production",
+      "defname": "HandCanningstove",
+      "price": -10
+    },
+    {
+      "abr": "foodpreptable",
+      "category": "Production",
+      "defname": "Canningstove",
+      "price": -10
+    },
+    {
+      "abr": "fueledsweetstable",
+      "category": "Production",
+      "defname": "FueledCandyTable",
+      "price": -10
+    },
+    {
+      "abr": "sweetstable",
+      "category": "Production",
+      "defname": "CandyTable",
+      "price": -10
+    },
+    {
+      "abr": "cookingtools",
+      "category": "Production",
+      "defname": "CookingTools",
+      "price": -10
+    },
+    {
+      "abr": "millingstone",
+      "category": "Production",
+      "defname": "GrindStone",
+      "price": -10
+    },
+    {
+      "abr": "electricmillingstone",
+      "category": "Production",
+      "defname": "ElectricGrindStone",
+      "price": -10
+    },
+    {
+      "abr": "salt",
+      "category": "Raw resources",
+      "defname": "ChunkSalt",
+      "price": -10
+    },
+    {
+      "abr": "compoststarter",
+      "category": "Raw resources",
+      "defname": "VG_Compost",
+      "price": -10
+    },
+    {
+      "abr": "fertilizer",
+      "category": "Raw resources",
+      "defname": "RawFertilizer",
+      "price": -10
+    },
+    {
+      "abr": "pileofdirt",
+      "category": "Raw resources",
+      "defname": "VG_PileofDirt",
+      "price": -10
+    },
+    {
+      "abr": "ceilingsunlamp",
+      "category": "Furniture",
+      "defname": "CeilingSunLamp",
+      "price": -10
+    },
+    {
+      "abr": "smallceilingsunlamp",
+      "category": "Furniture",
+      "defname": "SmallCeilingSunLamp",
+      "price": -10
+    },
+    {
+      "abr": "miniceilingsunlamp",
+      "category": "Furniture",
+      "defname": "MiniCeilingSunLamp",
+      "price": -10
+    },
+    {
+      "abr": "aoceilingsunlamp",
+      "category": "Furniture",
+      "defname": "AO_CeilSunLamp",
+      "price": -10
+    },
+    {
+      "abr": "aosmallceilingsunlamp",
+      "category": "Furniture",
+      "defname": "AO_SmallCeilSunLamp",
+      "price": -10
+    },
+    {
+      "abr": "aominiceilingsunlamp",
+      "category": "Furniture",
+      "defname": "AO_MiniCeilSunLamp",
+      "price": -10
+    },
+    {
+      "abr": "heatedceilngsunlamp",
+      "category": "Furniture",
+      "defname": "HeatedceilngSunLamp",
+      "price": -10
+    },
+    {
+      "abr": "smallceilngheatedsunlamp",
+      "category": "Furniture",
+      "defname": "HeatedceilngSmallSunLamp",
+      "price": -10
+    },
+    {
+      "abr": "miniceilngheatedsunlamp",
+      "category": "Furniture",
+      "defname": "HeatedMiniceilngSunLamp",
+      "price": -10
+    },
+    {
+      "abr": "sunlampcolumn",
+      "category": "Furniture",
+      "defname": "SunlampColumn",
+      "price": -10
+    },
+    {
+      "abr": "sunlampcolumnao",
+      "category": "Furniture",
+      "defname": "SunlampColumnAO",
+      "price": -10
+    },
+    {
+      "abr": "heatedsunlampcolumn",
+      "category": "Furniture",
+      "defname": "HeatedSunlampColumn",
+      "price": -10
+    },
+    {
+      "abr": "sunlamp",
+      "category": "Furniture",
+      "defname": "SunLamp",
+      "price": -10
+    },
+    {
+      "abr": "smallsunlamp",
+      "category": "Furniture",
+      "defname": "SmallSunLamp",
+      "price": -10
+    },
+    {
+      "abr": "minisunlamp",
+      "category": "Furniture",
+      "defname": "MiniSunLamp",
+      "price": -10
+    },
+    {
+      "abr": "aosunlamp",
+      "category": "Furniture",
+      "defname": "AO_SunLamp",
+      "price": -10
+    },
+    {
+      "abr": "aosmallsunlamp",
+      "category": "Furniture",
+      "defname": "AO_SmallSunLamp",
+      "price": -10
+    },
+    {
+      "abr": "aominisunlamp",
+      "category": "Furniture",
+      "defname": "AO_MiniSunLamp",
+      "price": -10
+    },
+    {
+      "abr": "heatedsunlamp",
+      "category": "Furniture",
+      "defname": "HeatedSunLamp",
+      "price": -10
+    },
+    {
+      "abr": "smallheatedsunlamp",
+      "category": "Furniture",
+      "defname": "HeatedSmallSunLamp",
+      "price": -10
+    },
+    {
+      "abr": "miniheatedsunlamp",
+      "category": "Furniture",
+      "defname": "HeatedMiniSunLamp",
+      "price": -10
+    },
+    {
+      "abr": "applecider",
+      "category": "Garden alcohol",
+      "defname": "cider",
+      "price": -10
+    },
+    {
+      "abr": "rum",
+      "category": "Garden alcohol",
+      "defname": "rum",
+      "price": -10
+    },
+    {
+      "abr": "wine",
+      "category": "Garden alcohol",
+      "defname": "Wine",
+      "price": -10
+    },
+    {
+      "abr": "berrywine",
+      "category": "Garden alcohol",
+      "defname": "VGP_BerryWine",
+      "price": -10
+    },
+    {
+      "abr": "sake",
+      "category": "Garden alcohol",
+      "defname": "saki",
+      "price": -10
+    },
+    {
+      "abr": "vodka",
+      "category": "Garden alcohol",
+      "defname": "CPD_Vodka",
+      "price": -10
+    },
+    {
+      "abr": "tequila",
+      "category": "Garden alcohol",
+      "defname": "tequila",
+      "price": -10
+    },
+    {
+      "abr": "whisky",
+      "category": "Garden alcohol",
+      "defname": "CPD_Whiskey",
+      "price": -10
+    },
+    {
+      "abr": "brownale",
+      "category": "Garden alcohol",
+      "defname": "BrownAle",
+      "price": -10
+    },
+    {
+      "abr": "fruitshine",
+      "category": "Garden alcohol",
+      "defname": "Fruitshine",
+      "price": -10
+    },
+    {
+      "abr": "cornwort",
+      "category": "Alcohol precursor",
+      "defname": "CPD_CornWort",
+      "price": -10
+    },
+    {
+      "abr": "ricemash",
+      "category": "Alcohol precursor",
+      "defname": "CPD_RiceMash",
+      "price": -10
+    },
+    {
+      "abr": "undistilledvodka",
+      "category": "Alcohol precursor",
+      "defname": "CPD_VodkaPrecursor",
+      "price": -10
+    },
+    {
+      "abr": "berrywinemust",
+      "category": "Alcohol precursor",
+      "defname": "CPD_WineMust",
+      "price": -10
+    },
+    {
+      "abr": "sugarcanemash",
+      "category": "Alcohol precursor",
+      "defname": "VG_CaneMash",
+      "price": -10
+    },
+    {
+      "abr": "ambrosiamust",
+      "category": "Alcohol precursor",
+      "defname": "VG_AmbrosiaMust",
+      "price": -10
+    },
+    {
+      "abr": "agavemust",
+      "category": "Alcohol precursor",
+      "defname": "VG_AgaveMust",
+      "price": -10
+    },
+    {
+      "abr": "fruitmash",
+      "category": "Alcohol precursor",
+      "defname": "VG_FruitMash",
+      "price": -10
+    },
+    {
+      "abr": "fruitkvasswort",
+      "category": "Alcohol precursor",
+      "defname": "VG_FruitKvassWort",
+      "price": -10
+    },
+    {
+      "abr": "sugarcane",
+      "category": "Ingredients",
+      "defname": "Rawsugarcane",
+      "price": -10
+    },
+    {
+      "abr": "ambrosiawine",
+      "category": "Garden alcohol",
+      "defname": "VG_AmbrosiaWine",
+      "price": -10
+    },
+    {
+      "abr": "syrup",
+      "category": "Garden soda",
+      "defname": "CPD_Syrup",
+      "price": -10
+    },
+    {
+      "abr": "applesoda",
+      "category": "Garden soda",
+      "defname": "AppleSoda",
+      "price": -10
+    },
+    {
+      "abr": "bananasoda",
+      "category": "Garden soda",
+      "defname": "BananaSoda",
+      "price": -10
+    },
+    {
+      "abr": "grapesoda",
+      "category": "Garden soda",
+      "defname": "GrapeSoda",
+      "price": -10
+    },
+    {
+      "abr": "orangesoda",
+      "category": "Garden soda",
+      "defname": "OrangeSoda",
+      "price": -10
+    },
+    {
+      "abr": "mangosoda",
+      "category": "Garden soda",
+      "defname": "MangoSoda",
+      "price": -10
+    },
+    {
+      "abr": "peachsoda",
+      "category": "Garden soda",
+      "defname": "PeachSoda",
+      "price": -10
+    },
+    {
+      "abr": "pineapplesoda",
+      "category": "Garden soda",
+      "defname": "PineappleSoda",
+      "price": -10
+    },
+    {
+      "abr": "blueberrysoda",
+      "category": "Garden soda",
+      "defname": "BlueberrySoda",
+      "price": -10
+    },
+    {
+      "abr": "watermelonsoda",
+      "category": "Garden soda",
+      "defname": "WatermelonSoda",
+      "price": -10
+    },
+    {
+      "abr": "cloudberrysoda",
+      "category": "Garden soda",
+      "defname": "CloudberrySoda",
+      "price": -10
+    },
+    {
+      "abr": "gooseberrysoda",
+      "category": "Garden soda",
+      "defname": "GooseberrySoda",
+      "price": -10
+    },
+    {
+      "abr": "kiwisoda",
+      "category": "Garden soda",
+      "defname": "KiwiSoda",
+      "price": -10
+    },
+    {
+      "abr": "figsoda",
+      "category": "Garden soda",
+      "defname": "FigSoda",
+      "price": -10
+    },
+    {
+      "abr": "datesoda",
+      "category": "Garden soda",
+      "defname": "DateSoda",
+      "price": -10
+    },
+    {
+      "abr": "coconutsoda",
+      "category": "Garden soda",
+      "defname": "CoconutSoda",
+      "price": -10
+    },
+    {
+      "abr": "cherrysoda",
+      "category": "Garden soda",
+      "defname": "CherrySoda",
+      "price": -10
+    },
+    {
+      "abr": "mysterysoda",
+      "category": "Garden soda",
+      "defname": "MysterySoda",
+      "price": -10
+    },
+    {
+      "abr": "beetkvass",
+      "category": "Garden soda",
+      "defname": "VegetableKvass",
+      "price": -10
+    },
+    {
+      "abr": "kvasssoda",
+      "category": "Garden soda",
+      "defname": "KvassSoda",
+      "price": -10
+    },
+    {
+      "abr": "fruitkvass",
+      "category": "Garden soda",
+      "defname": "FruitKvass",
+      "price": -10
+    },
+    {
+      "abr": "industrialfermentingbarrel",
+      "category": "Production",
+      "defname": "VG_LargeFermentingBarrel",
+      "price": -10
+    },
+    {
+      "abr": "sodatable",
+      "category": "Production",
+      "defname": "CPD_DrinksTable",
+      "price": -10
+    },
+    {
+      "abr": "taintedskin",
+      "category": "Leathers",
+      "defname": "Tainted_Skin",
+      "price": -10
+    },
+    {
+      "abr": "m7mechanisedinfantry",
+      "category": "Animal",
+      "defname": "M7Mech",
+      "price": -10
+    },
+    {
+      "abr": "m8mechanisedinfantry",
+      "category": "Animal",
+      "defname": "M8Mech",
+      "price": -10
+    },
+    {
+      "abr": "microscyther",
+      "category": "Animal",
+      "defname": "MicroScyther",
+      "price": -10
+    },
+    {
+      "abr": "orbitalmech-falltargeter",
+      "category": "Ranged weapons",
+      "defname": "OrbitalTargeterMechFall",
+      "price": -10
+    },
+    {
+      "abr": "phytominingunit",
+      "category": "Animal",
+      "defname": "RoboticSheep",
+      "price": -10
+    },
+    {
+      "abr": "n.solutionunit",
+      "category": "Animals",
+      "defname": "RoboticCow",
+      "price": -10
+    },
+    {
+      "abr": "m.u.f.funit",
+      "category": "Animal",
+      "defname": "AndroidMuff",
+      "price": -10
+    },
+    {
+      "abr": "chemicalprocessingunit",
+      "category": "Animal",
+      "defname": "AndroidChicken",
+      "price": -10
+    },
+    {
+      "abr": "k-9cyberneticunit",
+      "category": "Animal",
+      "defname": "AndroidDog",
+      "price": -10
+    },
+    {
+      "abr": "structuregel",
+      "category": "Drugs",
+      "defname": "StructureGel",
+      "price": -10
+    },
+    {
+      "abr": "polymerantifreeze",
+      "category": "Drugs",
+      "defname": "Antifreeze",
+      "price": -10
+    },
+    {
+      "abr": "mechaniteswarm",
+      "category": "Drugs",
+      "defname": "MechSwarm",
+      "price": -10
+    },
+    {
+      "abr": "fractalenhancement",
+      "category": "Drugs",
+      "defname": "FractalPill",
+      "price": -10
+    },
+    {
+      "abr": "mono-salvepill",
+      "category": "Drugs",
+      "defname": "RegenPillAt",
+      "price": -10
+    },
+    {
+      "abr": "androidchargingstation",
       "category": "Misc",
-      "defname": "AS_ArchotechHeatsink",
+      "defname": "ATPP_ReloadStation",
       "price": -10
     },
     {
-      "abr": "vanometricfoodprocessor",
-      "category": "Special",
-      "defname": "AS_VanometricFoodProcessor",
+      "abr": "skymindv1antenna",
+      "category": "Misc",
+      "defname": "ATPP_SkyMindLAN",
       "price": -10
     },
     {
-      "abr": "smallcapturedasteroid,left",
-      "category": "Ship parts",
-      "defname": "AS_AsteroidChunkLeft",
+      "abr": "skymindrelaytower",
+      "category": "Misc",
+      "defname": "ATPP_SkyMindRelayTower",
       "price": -10
     },
     {
-      "abr": "smallcapturedasteroid,bottom",
-      "category": "Ship parts",
-      "defname": "AS_AsteroidChunkDown",
+      "abr": "skymindv2antenna",
+      "category": "Misc",
+      "defname": "ATPP_SkyMindWAN",
       "price": -10
     },
     {
-      "abr": "smallcapturedasteroid,right",
-      "category": "Ship parts",
-      "defname": "AS_AsteroidChunkReactor",
+      "abr": "i-100(skill)",
+      "category": "Misc",
+      "defname": "ATPP_I100Skill",
       "price": -10
     },
     {
-      "abr": "smallcapturedasteroid,top",
-      "category": "Ship parts",
-      "defname": "AS_AsteroidChunkTop",
+      "abr": "i-100(security)",
+      "category": "Misc",
+      "defname": "ATPP_I100Security",
       "price": -10
     },
     {
-      "abr": "mediumcapturedasteroid,top",
-      "category": "Ship parts",
-      "defname": "AS_AsteroidChunkBigTop",
+      "abr": "i-100(hacking)",
+      "category": "Misc",
+      "defname": "ATPP_I100Hacking",
       "price": -10
     },
     {
-      "abr": "mediumcapturedasteroid,left",
-      "category": "Ship parts",
-      "defname": "AS_AsteroidChunkBigSide",
+      "abr": "i-300(security)",
+      "category": "Misc",
+      "defname": "ATPP_I300Security",
       "price": -10
     },
     {
-      "abr": "mediumcapturedasteroid,bottom",
-      "category": "Ship parts",
-      "defname": "AS_AsteroidChunkBigBottom",
+      "abr": "i-300(skill)",
+      "category": "Misc",
+      "defname": "ATPP_I300Skill",
       "price": -10
     },
     {
-      "abr": "mediumcapturedasteroid,right",
-      "category": "Ship parts",
-      "defname": "AS_AsteroidChunkBigReactors",
+      "abr": "i-300(hacking)",
+      "category": "Misc",
+      "defname": "ATPP_I300Hacking",
       "price": -10
     },
     {
-      "abr": "hugecapturedasteroid,top",
-      "category": "Ship parts",
-      "defname": "AS_HugeAsteroidTop",
+      "abr": "i-500(security)",
+      "category": "Misc",
+      "defname": "ATPP_I500Security",
       "price": -10
     },
     {
-      "abr": "hugecapturedasteroid,bottom",
-      "category": "Ship parts",
-      "defname": "AS_HugeAsteroidBottom",
+      "abr": "i-500(skill)",
+      "category": "Misc",
+      "defname": "ATPP_I500Skill",
       "price": -10
     },
     {
-      "abr": "hugecapturedasteroid,left",
-      "category": "Ship parts",
-      "defname": "AS_HugeAsteroidLeft",
+      "abr": "i-500(hacking)",
+      "category": "Misc",
+      "defname": "ATPP_I500Hacking",
       "price": -10
     },
     {
-      "abr": "hugecapturedasteroid,right",
-      "category": "Ship parts",
-      "defname": "AS_HugeAsteroidRight",
+      "abr": "androidpod",
+      "category": "Furniture",
+      "defname": "ATPP_AndroidPod",
       "price": -10
     },
     {
-      "abr": "bioship,bottom",
-      "category": "Ship parts",
-      "defname": "AS_PurpleShipChunkBottom",
+      "abr": "m7pod",
+      "category": "Furniture",
+      "defname": "ATPP_AndroidPodMech",
       "price": -10
     },
     {
-      "abr": "bioship,bottomalternate",
-      "category": "Ship parts",
-      "defname": "AS_PurpleShipChunkBottomPointy",
+      "abr": "androidupgradestation",
+      "category": "Furniture",
+      "defname": "AndroidOperationBed",
       "price": -10
     },
     {
-      "abr": "bioship,sideleft",
-      "category": "Ship parts",
-      "defname": "AS_PurpleShipChunkSideLeft",
+      "abr": "upgradecabinet",
+      "category": "Furniture",
+      "defname": "AndroidOperationKit",
       "price": -10
     },
     {
-      "abr": "bioship,sideright",
-      "category": "Ship parts",
-      "defname": "AS_PurpleShipChunkSideRight",
+      "abr": "roboticsproductioncasket",
+      "category": "Production",
+      "defname": "AndroidProductionVat",
       "price": -10
     },
     {
-      "abr": "bioship,top",
-      "category": "Ship parts",
-      "defname": "AS_PurpleShipChunkTop",
+      "abr": "androidimplantsworkbench",
+      "category": "Production",
+      "defname": "AndroidOtherStuffTable",
       "price": -10
     },
     {
-      "abr": "bioship,topleft",
-      "category": "Ship parts",
-      "defname": "AS_PurpleShipChunkTopLeft",
+      "abr": "androidpartsworkbench",
+      "category": "Production",
+      "defname": "AndroidPartsTable",
       "price": -10
     },
     {
-      "abr": "bioship,topright",
-      "category": "Ship parts",
-      "defname": "AS_PurpleShipChunkTopRight",
+      "abr": "nanitesbank(hydraulic)",
+      "category": "Items",
+      "defname": "ATPP_NanitesHydraulicSerum",
       "price": -10
     },
     {
-      "abr": "bioship,wingleft",
-      "category": "Ship parts",
-      "defname": "AS_PurpleShipChunkWingLeft",
+      "abr": "nanitesbank(cpu)",
+      "category": "Items",
+      "defname": "ATPP_NanitesCPUSerum",
       "price": -10
     },
     {
-      "abr": "bioship,wingright",
-      "category": "Ship parts",
-      "defname": "AS_PurpleShipChunkWingRight",
+      "abr": "nanitesbank(cooling)",
+      "category": "Items",
+      "defname": "ATPP_NanitesCoolingSerum",
       "price": -10
     },
     {
-      "abr": "imperialescortship,bottom",
-      "category": "Ship parts",
-      "defname": "AS_BlueShipChunkBottom",
+      "abr": "nanitesbank(framework)",
+      "category": "Items",
+      "defname": "ATPP_NanitesFrameSerum",
       "price": -10
     },
     {
-      "abr": "imperialescortship,widebottom",
-      "category": "Ship parts",
-      "defname": "AS_BlueShipChunkBottomAlternate",
+      "abr": "basicnanokit",
+      "category": "Medicine",
+      "defname": "ATPP_AndroidNanokitBasic",
       "price": -10
     },
     {
-      "abr": "imperialescortship,roundcore",
-      "category": "Ship parts",
-      "defname": "AS_BlueShipChunkRound",
+      "abr": "intermediatenanokit",
+      "category": "Medicine",
+      "defname": "ATPP_AndroidNanokitIntermediate",
       "price": -10
     },
     {
-      "abr": "imperialescortship,leftside",
-      "category": "Ship parts",
-      "defname": "AS_BlueShipChunkSideLeft",
+      "abr": "advancednanokit",
+      "category": "Medicine",
+      "defname": "ATPP_AndroidNanokitAdvanced",
       "price": -10
     },
     {
-      "abr": "imperialescortship,rightside",
-      "category": "Ship parts",
-      "defname": "AS_BlueShipChunkSideRight",
+      "abr": "vx1neuralchip",
+      "category": "Android",
+      "defname": "ATPP_VX1Chip",
       "price": -10
     },
     {
-      "abr": "imperialescortship,smallleftside",
-      "category": "Ship parts",
-      "defname": "AS_BlueShipChunkSmallSideLeft",
+      "abr": "vx2neuralchip",
+      "category": "Android",
+      "defname": "ATPP_VX2Chip",
       "price": -10
     },
     {
-      "abr": "imperialescortship,smallrightside",
-      "category": "Ship parts",
-      "defname": "AS_BlueShipChunkSmallSideRight",
+      "abr": "vx3neuralchip",
+      "category": "Android",
+      "defname": "ATPP_VX3Chip",
       "price": -10
     },
     {
-      "abr": "imperialescortship,top",
-      "category": "Ship parts",
-      "defname": "AS_BlueShipChunkTop",
+      "abr": "vx0neuralchip",
+      "category": "Android",
+      "defname": "ATPP_VX0Chip",
       "price": -10
     },
     {
-      "abr": "imperialescortship,topalternate",
-      "category": "Ship parts",
-      "defname": "AS_BlueShipChunkTopAlternate",
+      "abr": "rxneuralchip",
+      "category": "Android",
+      "defname": "ATPP_RXChip",
       "price": -10
     },
     {
-      "abr": "imperialescortship,topwithantennas",
-      "category": "Ship parts",
-      "defname": "AS_BlueShipChunkTopAntennas",
+      "abr": "artificialbraint1",
+      "category": "Android",
+      "defname": "ATPP_T1ArtificialBrain",
       "price": -10
     },
     {
-      "abr": "imperialescortship,toplarge",
-      "category": "Ship parts",
-      "defname": "AS_BlueShipChunkTopPointy",
+      "abr": "artificialbraint2",
+      "category": "Android",
+      "defname": "ATPP_T2ArtificialBrain",
       "price": -10
     },
     {
-      "abr": "imperialescortship,smallwingleft",
-      "category": "Ship parts",
-      "defname": "AS_BlueShipChunkSmallWingLeft",
+      "abr": "artificialbraint3",
+      "category": "Android",
+      "defname": "ATPP_T3ArtificialBrain",
       "price": -10
     },
     {
-      "abr": "imperialescortship,smallwingright",
-      "category": "Ship parts",
-      "defname": "AS_BlueShipChunkSmallWingRight",
+      "abr": "artificialbraint4",
+      "category": "Android",
+      "defname": "ATPP_T4ArtificialBrain",
       "price": -10
     },
     {
-      "abr": "imperialescortship,wingleft",
-      "category": "Ship parts",
-      "defname": "AS_BlueShipChunkWingLeft",
+      "abr": "steelframing",
+      "category": "Android",
+      "defname": "SteelPlating",
       "price": -10
     },
     {
-      "abr": "imperialescortship,wingright",
-      "category": "Ship parts",
-      "defname": "AS_BlueShipChunkWingRight",
+      "abr": "plasteelframecoverings",
+      "category": "Android",
+      "defname": "PlasteelPlating",
       "price": -10
     },
     {
-      "abr": "imperialescortship,roundsideleft",
-      "category": "Ship parts",
-      "defname": "AS_BlueShipChunkRoundSideLeft",
+      "abr": "compositeframeplating",
+      "category": "Android",
+      "defname": "CompositePlating",
       "price": -10
     },
     {
-      "abr": "imperialescortship,roundsideright",
-      "category": "Ship parts",
-      "defname": "AS_BlueShipChunkRoundSideRight",
+      "abr": "hydraulicframe",
+      "category": "Android",
+      "defname": "HydraulicFrame",
       "price": -10
     },
     {
-      "abr": "imperialescortship,topnarrowantennas",
-      "category": "Ship parts",
-      "defname": "AS_BlueShipChunkTopAntennasNarrow",
+      "abr": "hydraulicleg",
+      "category": "Android",
+      "defname": "HydraulicLeg",
       "price": -10
     },
     {
-      "abr": "pirateship,top",
-      "category": "Ship parts",
-      "defname": "AS_GreyShipChunkTop",
+      "abr": "hydraulicarm",
+      "category": "Android",
+      "defname": "HydraulicArm",
       "price": -10
     },
     {
-      "abr": "pirateship,toplarge",
-      "category": "Ship parts",
-      "defname": "AS_GreyShipChunkTopPointy",
+      "abr": "miningarm",
+      "category": "Android",
+      "defname": "MiningArm_AT",
       "price": -10
     },
     {
-      "abr": "pirateship,largewingleft",
-      "category": "Ship parts",
-      "defname": "AS_GreyShipChukWingAlternateLeft",
+      "abr": "basicreplacementarm",
+      "category": "Android",
+      "defname": "BasicReplacementArm",
       "price": -10
     },
     {
-      "abr": "pirateship,largewingright",
-      "category": "Ship parts",
-      "defname": "AS_GreyShipChukWingAlternateRight",
+      "abr": "basicreplacementleg",
+      "category": "Android",
+      "defname": "BasicReplacementLeg",
       "price": -10
     },
     {
-      "abr": "pirateship,wingleft",
-      "category": "Ship parts",
-      "defname": "AS_GreyShipChukWingLeft",
+      "abr": "crudeheatsink",
+      "category": "Android",
+      "defname": "CrudeHeatsink",
       "price": -10
     },
     {
-      "abr": "pirateship,wingright",
-      "category": "Ship parts",
-      "defname": "AS_GreyShipChukWingRight",
+      "abr": "crudelightsensor",
+      "category": "Android",
+      "defname": "LightReceivingDiode",
       "price": -10
     },
     {
-      "abr": "pirateship,bottom",
-      "category": "Ship parts",
-      "defname": "AS_GreyShipChunkBottom",
+      "abr": "crudecoolantpump",
+      "category": "Android",
+      "defname": "FlimsyCoolantPump",
       "price": -10
     },
     {
-      "abr": "pirateship,sideleft",
-      "category": "Ship parts",
-      "defname": "AS_GreyShipChunkSideLeft",
+      "abr": "crudebatterypack",
+      "category": "Android",
+      "defname": "SmallBatteryPack",
       "price": -10
     },
     {
-      "abr": "pirateship,sideright",
-      "category": "Ship parts",
-      "defname": "AS_GreyShipChunkSideRight",
+      "abr": "crudemechanitestorage",
+      "category": "Android",
+      "defname": "TubeSealantTank",
       "price": -10
     },
     {
-      "abr": "mechanoidship,top",
-      "category": "Ship parts",
-      "defname": "AS_MechanoidShipTop",
+      "abr": "crudebio-reactor",
+      "category": "Android",
+      "defname": "LowPowerTransformer",
       "price": -10
     },
     {
-      "abr": "mechanoidship,bottomalternate",
-      "category": "Ship parts",
-      "defname": "AS_MechanoidShipBottomLong",
+      "abr": "crudepowerconverter",
+      "category": "Android",
+      "defname": "BasicDCConverter",
       "price": -10
     },
     {
-      "abr": "mechanoidship,bottom",
-      "category": "Ship parts",
-      "defname": "AS_MechanoidShipBottom",
+      "abr": "highpowerarm",
+      "category": "Android",
+      "defname": "AdvancedReplacementArm",
       "price": -10
     },
     {
-      "abr": "mechanoidship,wingleft",
-      "category": "Ship parts",
-      "defname": "AS_MechanoidWingLeft",
+      "abr": "highpowerleg",
+      "category": "Android",
+      "defname": "AdvancedReplacementLeg",
       "price": -10
     },
     {
-      "abr": "mechanoidship,wingright",
-      "category": "Ship parts",
-      "defname": "AS_MechanoidWingRight",
+      "abr": "advancedlightsensor",
+      "category": "Android",
+      "defname": "MultiSpectrumEye",
       "price": -10
     },
     {
-      "abr": "mechanoidship,sideleft",
-      "category": "Ship parts",
-      "defname": "AS_MechanoidSideLeft",
+      "abr": "advancedheatsink",
+      "category": "Android",
+      "defname": "MultiLayerHeatsink",
       "price": -10
     },
     {
-      "abr": "mechanoidship,sideright",
-      "category": "Ship parts",
-      "defname": "AS_MechanoidSideRight",
+      "abr": "advancedcoolantpump",
+      "category": "Android",
+      "defname": "AdvancedCoolantInjector",
       "price": -10
     },
     {
-      "abr": "mechanoidship,tankleft",
-      "category": "Ship parts",
-      "defname": "AS_MechanoidTankLeft",
+      "abr": "advancedbatterypack",
+      "category": "Android",
+      "defname": "NanowireBattery",
       "price": -10
     },
     {
-      "abr": "mechanoidship,tankright",
-      "category": "Ship parts",
-      "defname": "AS_MechanoidTankRight",
+      "abr": "advancedmechanitestorage",
+      "category": "Android",
+      "defname": "NaniteStorageDevice",
       "price": -10
     },
     {
-      "abr": "tradeship,bottom",
-      "category": "Ship parts",
-      "defname": "AS_OrangeShipBottom",
+      "abr": "advancedbio-reactor",
+      "category": "Android",
+      "defname": "HighPowerTransformer",
       "price": -10
     },
     {
-      "abr": "tradeship,bottomalternate",
-      "category": "Ship parts",
-      "defname": "AS_OrangeShipBottomAlternate",
+      "abr": "advancedpowerconverter",
+      "category": "Android",
+      "defname": "HighPowerConverter",
       "price": -10
     },
     {
-      "abr": "tradeship,top",
-      "category": "Ship parts",
-      "defname": "AS_OrangeShipTop",
+      "abr": "basiccounterweight",
+      "category": "Android",
+      "defname": "BasicRearCounterweight",
       "price": -10
     },
     {
-      "abr": "tradeship,tanksleft",
-      "category": "Ship parts",
-      "defname": "AS_OrangeShipTanksLeft",
+      "abr": "advancedcounterweight",
+      "category": "Android",
+      "defname": "AdvRearCounterweight",
       "price": -10
     },
     {
-      "abr": "tradeship,tanksright",
-      "category": "Ship parts",
-      "defname": "AS_OrangeShipTanksRight",
+      "abr": "crudejaw",
+      "category": "Android",
+      "defname": "CrudeJawAndroid",
       "price": -10
     },
     {
-      "abr": "tradeship,sideleft",
-      "category": "Ship parts",
-      "defname": "AS_OrangeShipLeft",
+      "abr": "cyberneticjaw",
+      "category": "Android",
+      "defname": "AdvJawAndroid",
       "price": -10
     },
     {
-      "abr": "tradeship,sideright",
-      "category": "Ship parts",
-      "defname": "AS_OrangeShipRight",
+      "abr": "positronicrewiring",
+      "category": "Android",
+      "defname": "PositronMindImplant",
+      "price": -10
+    },
+    {
+      "abr": "soldierimplant",
+      "category": "Android",
+      "defname": "SoldierMindImplant",
+      "price": -10
+    },
+    {
+      "abr": "blueprintsimplant",
+      "category": "Android",
+      "defname": "BuilderMindImplant",
+      "price": -10
+    },
+    {
+      "abr": "tricorderimplant",
+      "category": "Android",
+      "defname": "SurgeonMindImplant",
+      "price": -10
+    },
+    {
+      "abr": "neuralhighways",
+      "category": "Android",
+      "defname": "SpeedMindImplant",
+      "price": -10
+    },
+    {
+      "abr": "geologicalimplant",
+      "category": "Android",
+      "defname": "GeoMindImplant",
+      "price": -10
+    },
+    {
+      "abr": "engineeringimplant",
+      "category": "Android",
+      "defname": "MechanicMindImplant",
+      "price": -10
+    },
+    {
+      "abr": "cuisineimplant",
+      "category": "Android",
+      "defname": "CookingMindImplant",
+      "price": -10
+    },
+    {
+      "abr": "charismaimplant",
+      "category": "Android",
+      "defname": "CharismaMindImplant",
+      "price": -10
+    },
+    {
+      "abr": "negotiatorimplant",
+      "category": "Android",
+      "defname": "NegotiationMindImplant",
+      "price": -10
+    },
+    {
+      "abr": "zoologyimplant",
+      "category": "Android",
+      "defname": "AnimalMindImplant",
+      "price": -10
+    },
+    {
+      "abr": "agriculturalimplant",
+      "category": "Android",
+      "defname": "FarmingMindImplant",
+      "price": -10
+    },
+    {
+      "abr": "basiclaborchip",
+      "category": "Android",
+      "defname": "BasicLaborMindImplant",
+      "price": -10
+    },
+    {
+      "abr": "evolvingaiupgrade",
+      "category": "Android",
+      "defname": "EvolvingImplant",
+      "price": -10
+    },
+    {
+      "abr": "cyberneticarm",
+      "category": "Android",
+      "defname": "CyberReplacementArm",
+      "price": -10
+    },
+    {
+      "abr": "cyberneticleg",
+      "category": "Android",
+      "defname": "CyberReplacementLeg",
+      "price": -10
+    },
+    {
+      "abr": "archotechheatsink",
+      "category": "Android",
+      "defname": "SecretHeatsink",
+      "price": -10
+    },
+    {
+      "abr": "archotechlightsensor",
+      "category": "Android",
+      "defname": "MDEye",
+      "price": -10
+    },
+    {
+      "abr": "archotechcoolantpump",
+      "category": "Android",
+      "defname": "SecretCoolantPump",
+      "price": -10
+    },
+    {
+      "abr": "archotechbatterypack",
+      "category": "Android",
+      "defname": "SecretBatteryPack",
+      "price": -10
+    },
+    {
+      "abr": "archotechmechanitestorage",
+      "category": "Android",
+      "defname": "ArchotechNanites",
+      "price": -10
+    },
+    {
+      "abr": "archotechbio-reactor",
+      "category": "Android",
+      "defname": "MolecularDecomposer",
+      "price": -10
+    },
+    {
+      "abr": "archotechpowerconverter",
+      "category": "Android",
+      "defname": "QuantumConverter",
+      "price": -10
+    },
+    {
+      "abr": "crudehearingsensor",
+      "category": "Android",
+      "defname": "CrudeHearingS",
+      "price": -10
+    },
+    {
+      "abr": "advancedhearingsensor",
+      "category": "Android",
+      "defname": "AdvHearingS",
+      "price": -10
+    },
+    {
+      "abr": "archotechhearingsensor",
+      "category": "Android",
+      "defname": "ArchHearingS",
+      "price": -10
+    },
+    {
+      "abr": "advancedsmellingsensor",
+      "category": "Android",
+      "defname": "SmellingAdvS",
+      "price": -10
+    },
+    {
+      "abr": "crudesmellingsensor",
+      "category": "Android",
+      "defname": "CrudeSmellingS",
+      "price": -10
+    },
+    {
+      "abr": "archotechsmellingsensor",
+      "category": "Android",
+      "defname": "ArchSmellingS",
+      "price": -10
+    },
+    {
+      "abr": "upgradekit",
+      "category": "Manufactured",
+      "defname": "RepairKitAT",
+      "price": -10
+    },
+    {
+      "abr": "androidassemblykit",
+      "category": "Items",
+      "defname": "AndroidT1Kit",
+      "price": -10
+    },
+    {
+      "abr": "advandroidassemblykit",
+      "category": "Manufactured",
+      "defname": "AndroidT2Kit",
+      "price": -10
+    },
+    {
+      "abr": "swarmshell",
+      "category": "Mortar shells",
+      "defname": "Nanoswarm_shell",
+      "price": -10
+    },
+    {
+      "abr": "chemicalcapsule",
+      "category": "Manufactured",
+      "defname": "ChemicalEgg",
+      "price": -10
+    },
+    {
+      "abr": "metallicwool",
+      "category": "Textiles",
+      "defname": "SteelWool",
+      "price": -10
+    },
+    {
+      "abr": "nutrientsolution",
+      "category": "Animal products",
+      "defname": "NSolution",
+      "price": -10
+    },
+    {
+      "abr": "40mmcannon",
+      "category": "Ranged weapons",
+      "defname": "Mech40MMCannon",
+      "price": -10
+    },
+    {
+      "abr": "mastiffshotgun",
+      "category": "Ranged weapons",
+      "defname": "MechMastiffGun",
+      "price": -10
+    },
+    {
+      "abr": "handcannon",
+      "category": "Ranged weapons",
+      "defname": "MechHandCannon",
+      "price": -10
+    },
+    {
+      "abr": "anti-mechrifle",
+      "category": "Ranged weapons",
+      "defname": "AntiMechRifle",
+      "price": -10
+    },
+    {
+      "abr": "t1android",
+      "category": "Animal",
+      "defname": "Android1Tier",
+      "price": -10
+    },
+    {
+      "abr": "t2android",
+      "category": "Animal",
+      "defname": "Android2Tier",
+      "price": -10
+    },
+    {
+      "abr": "t3android",
+      "category": "Animal",
+      "defname": "Android3Tier",
+      "price": -10
+    },
+    {
+      "abr": "t4android",
+      "category": "Animal",
+      "defname": "Android4Tier",
+      "price": -10
+    },
+    {
+      "abr": "t5android",
+      "category": "Animal",
+      "defname": "Android5Tier",
+      "price": -10
+    },
+    {
+      "abr": "haulerbasestation",
+      "category": "Furniture",
+      "defname": "AIRobot_RechargeStation_Hauler",
+      "price": -10
+    },
+    {
+      "abr": "cleanerbasestation",
+      "category": "Furniture",
+      "defname": "AIRobot_RechargeStation_Cleaner",
+      "price": -10
+    },
+    {
+      "abr": "haulingbot",
+      "category": "Animal",
+      "defname": "AIRobot_Hauler",
+      "price": -10
+    },
+    {
+      "abr": "cleaningbot",
+      "category": "Animal",
+      "defname": "AIRobot_Cleaner",
+      "price": -10
+    },
+    {
+      "abr": "queen",
+      "category": "Animals",
+      "defname": "BI_Queen",
       "price": -10
     },
     {
@@ -4897,1935 +6475,177 @@
       "price": -10
     },
     {
-      "abr": "internalarmorplate",
-      "category": "Ultratech",
-      "defname": "InternalArmorPlate",
-      "price": -10
-    },
-    {
-      "abr": "archotechregenerator",
-      "category": "Archotech",
-      "defname": "ArchotechRegenerator",
-      "price": -10
-    },
-    {
-      "abr": "archotechsubdermalarmor",
-      "category": "Archotech",
-      "defname": "ArchotechSubdermalArmor",
-      "price": -10
-    },
-    {
-      "abr": "archotechcortex",
-      "category": "Archotech",
-      "defname": "ArchotechCortex",
-      "price": -10
-    },
-    {
-      "abr": "archotechbioadapter",
-      "category": "Archotech",
-      "defname": "ArchotechBioadapter",
-      "price": -10
-    },
-    {
-      "abr": "archotechmetamorphose",
-      "category": "Archotech",
-      "defname": "ArchotechMetamorphose",
-      "price": -10
-    },
-    {
-      "abr": "vanometricstomach",
-      "category": "Archotech",
-      "defname": "ArchotechVanometricStomach",
-      "price": -10
-    },
-    {
-      "abr": "cerebralturbocharger",
-      "category": "Archotech",
-      "defname": "ArchotechCerebralTurbocharger",
-      "price": -10
-    },
-    {
-      "abr": "neuralrecharger",
-      "category": "Archotech",
-      "defname": "ArchotechNeuralRecharger",
-      "price": -10
-    },
-    {
-      "abr": "archotechjoywire",
-      "category": "Archotech",
-      "defname": "ArchotechJoywire",
-      "price": -10
-    },
-    {
-      "abr": "archotechnanoskin",
-      "category": "Archotech",
-      "defname": "ArchotechNanoskin",
-      "price": -10
-    },
-    {
-      "abr": "<color=#00fff7>eyeofthevoid</color>",
-      "category": "Evolved body parts",
-      "defname": "EVOR_Item_Eye_EyeOfTheVoid",
-      "price": -10
-    },
-    {
-      "abr": "<color=#00fff7>norncrown</color>",
-      "category": "Evolved body parts",
-      "defname": "EVOR_Item_Sternum_NornCrown",
-      "price": -10
-    },
-    {
-      "abr": "<color=#00fff7>reactiveshimmerworms</color>",
-      "category": "Evolved body parts",
-      "defname": "EVOR_Item_Sternum_ReactiveShimmerworms",
-      "price": -10
-    },
-    {
-      "abr": "<color=#00fff7>mucousgland</color>",
-      "category": "Evolved body parts",
-      "defname": "EVOR_Item_Torso_MucousGland",
-      "price": -10
-    },
-    {
-      "abr": "thenorncrown",
-      "category": "Evolved body parts",
-      "defname": "EVOR_Item_Artifact_Royalty_NornCrown",
-      "price": -10
-    },
-    {
-      "abr": "reactiveshimmerworms",
-      "category": "Evolved body parts",
-      "defname": "EVOR_Item_Artifact_Royalty_ReactiveWorms",
-      "price": -10
-    },
-    {
-      "abr": "psychicresonancetissue",
-      "category": "Evolved body parts",
-      "defname": "EVOR_Item_Skull_Resonance",
-      "price": -10
-    },
-    {
-      "abr": "<color=#00fff7>extrananofilterlung</color>",
-      "category": "Evolved body parts",
-      "defname": "EVOR_Item_AbdominalAndChestcavity_ExtraNanofilterLung",
-      "price": -10
-    },
-    {
-      "abr": "<color=#00fff7>auxilaryheart</color>",
-      "category": "Evolved body parts",
-      "defname": "EVOR_Item_AbdominalAndChestcavity_AuxilaryHeart",
-      "price": -10
-    },
-    {
-      "abr": "<color=#00fff7>combatserumgland</color>",
-      "category": "Evolved body parts",
-      "defname": "EVOR_Item_AbdominalAndChestcavity_CombatSerumGland",
-      "price": -10
-    },
-    {
-      "abr": "<color=#00fff7>hormoneregulator</color>",
-      "category": "Evolved body parts",
-      "defname": "EVOR_Item_AbdominalAndChestcavity_HormoneRegulator",
-      "price": -10
-    },
-    {
-      "abr": "<color=#00fff7>lymphaticproliferator</color>",
-      "category": "Evolved body parts",
-      "defname": "EVOR_Item_AbdominalAndChestcavity_LymphaticProliferator",
-      "price": -10
-    },
-    {
-      "abr": "<color=#00fff7>rasvacoule</color>",
-      "category": "Evolved body parts",
-      "defname": "EVOR_Item_AbdominalAndChestcavity_RasVacoule",
-      "price": -10
-    },
-    {
-      "abr": "<color=#00fff7>featheredwings</color>",
-      "category": "Evolved body parts",
-      "defname": "EVOR_Item_Back_FeatheredWings",
-      "price": -10
-    },
-    {
-      "abr": "<color=#00fff7>leatherywings</color>",
-      "category": "Evolved body parts",
-      "defname": "EVOR_Item_Back_LeatheryWings",
-      "price": -10
-    },
-    {
-      "abr": "<color=#00fff7>tentaclecluster</color>",
-      "category": "Evolved body parts",
-      "defname": "EVOR_Item_Back_TentacleCluster",
-      "price": -10
-    },
-    {
-      "abr": "<color=#00fff7>musculaturebraces</color>",
-      "category": "Evolved body parts",
-      "defname": "EVOR_Item_Back_MusculatureBraces",
-      "price": -10
-    },
-    {
-      "abr": "<color=#00fff7>peltgrowth</color>",
-      "category": "Evolved body parts",
-      "defname": "EVOR_Item_Back_PeltGrowth",
-      "price": -10
-    },
-    {
-      "abr": "<color=#00fff7>waterfilledgrowth</color>",
-      "category": "Evolved body parts",
-      "defname": "EVOR_Item_Back_WaterFilledGrowth",
-      "price": -10
-    },
-    {
-      "abr": "<color=#00fff7>neuralhyperthreader</color>",
-      "category": "Evolved body parts",
-      "defname": "EVOR_Item_Brain_NeuralHyperthreader",
-      "price": -10
-    },
-    {
-      "abr": "<color=#00fff7>butchersnails</color>",
-      "category": "Evolved body parts",
-      "defname": "EVOR_Item_Brain_ButchersNails",
-      "price": -10
-    },
-    {
-      "abr": "<color=#00fff7>reptilianfrontalcortex</color>",
-      "category": "Evolved body parts",
-      "defname": "EVOR_Item_Brain_ReptilianFrontalCortex",
-      "price": -10
-    },
-    {
-      "abr": "<color=#00fff7>plaguelesions</color>",
-      "category": "Evolved body parts",
-      "defname": "EVOR_Item_Sternum_PlagueLesions",
-      "price": -10
-    },
-    {
-      "abr": "<color=#00fff7>reinforcedtortoiseshell</color>",
-      "category": "Evolved body parts",
-      "defname": "EVOR_Item_Sternum_ReinforcedTortoiseShell",
-      "price": -10
-    },
-    {
-      "abr": "<color=#00fff7>extradextrousappendage</color>",
-      "category": "Evolved body parts",
-      "defname": "EVOR_Item_Appendage_ExtradextrousArm",
-      "price": -10
-    },
-    {
-      "abr": "<color=#00fff7>rendingclaw</color>",
-      "category": "Evolved body parts",
-      "defname": "EVOR_Item_Appendage_RendingClaw",
-      "price": -10
-    },
-    {
-      "abr": "<color=#00fff7>highpressurepincer</color>",
-      "category": "Evolved body parts",
-      "defname": "EVOR_Item_Appendage_HighPressurePincer",
-      "price": -10
-    },
-    {
-      "abr": "<color=#00fff7>sonicimpactmace</color>",
-      "category": "Evolved body parts",
-      "defname": "EVOR_Item_Appendage_SonicImpactMace",
-      "price": -10
-    },
-    {
-      "abr": "<color=#00fff7>venopillararm</color>",
-      "category": "Evolved body parts",
-      "defname": "EVOR_Item_Appendage_VenopillarArm",
-      "price": -10
-    },
-    {
-      "abr": "<color=#00fff7>frostmantishook</color>",
-      "category": "Evolved body parts",
-      "defname": "EVOR_Item_Appendage_FrostMantisHook",
-      "price": -10
-    },
-    {
-      "abr": "<color=#00fff7>salamanderwhip</color>",
-      "category": "Evolved body parts",
-      "defname": "EVOR_Item_Appendage_SalamanderWhip",
-      "price": -10
-    },
-    {
-      "abr": "<color=#00fff7>ossifiedbonesaber</color>",
-      "category": "Evolved body parts",
-      "defname": "EVOR_Item_Appendage_OssifiedBoneSaber",
-      "price": -10
-    },
-    {
-      "abr": "<color=#00fff7>triplatedlimb</color>",
-      "category": "Evolved body parts",
-      "defname": "EVOR_Item_Appendage_TriPlacedLimb",
-      "price": -10
-    },
-    {
-      "abr": "<color=#00fff7>reinforcedleg</color>",
-      "category": "Evolved body parts",
-      "defname": "EVOR_Item_Appendage_ReinforcedLeg",
-      "price": -10
-    },
-    {
-      "abr": "<color=#00fff7>graspingleg</color>",
-      "category": "Evolved body parts",
-      "defname": "EVOR_Item_Appendage_GraspingLeg",
-      "price": -10
-    },
-    {
-      "abr": "<color=#00fff7>shirehorseleg</color>",
-      "category": "Evolved body parts",
-      "defname": "EVOR_Item_Appendage_ShireHorseLeg",
-      "price": -10
-    },
-    {
-      "abr": "<color=#00fff7>weigthedtail</color>",
-      "category": "Evolved body parts",
-      "defname": "EVOR_Item_Appendage_WeightedTail",
-      "price": -10
-    },
-    {
-      "abr": "<color=#00fff7>venomousstinger</color>",
-      "category": "Evolved body parts",
-      "defname": "EVOR_Item_Tail_VenomousStinger",
-      "price": -10
-    },
-    {
-      "abr": "<color=#00fff7>triwovenprimaryheart</color>",
-      "category": "Evolved body parts",
-      "defname": "EVOR_Item_Heart_TriwovenPrimaryHeart",
-      "price": -10
-    },
-    {
-      "abr": "<color=#00fff7>triplefilterpasskidney</color>",
-      "category": "Evolved body parts",
-      "defname": "EVOR_Item_Kidney_TripleFilterPassKidney",
-      "price": -10
-    },
-    {
-      "abr": "<color=#00fff7>perspirationcleansingkidney</color>",
-      "category": "Evolved body parts",
-      "defname": "EVOR_Item_Kidney_PerspirationCleansingKidney",
-      "price": -10
-    },
-    {
-      "abr": "<color=#00fff7>nanoalveolilung</color>",
-      "category": "Evolved body parts",
-      "defname": "EVOR_Item_Lung_NanoAlveoliLung",
-      "price": -10
-    },
-    {
-      "abr": "<color=#00fff7>multichamberstomach</color>",
-      "category": "Evolved body parts",
-      "defname": "EVOR_Item_Stomach_MultichamberStomach",
-      "price": -10
-    },
-    {
-      "abr": "<color=#00fff7>quadlobeliver</color>",
-      "category": "Evolved body parts",
-      "defname": "EVOR_Item_Liver_QuadlobeLiver",
-      "price": -10
-    },
-    {
-      "abr": "<color=#00fff7>regenerativeliver</color>",
-      "category": "Evolved body parts",
-      "defname": "EVOR_Item_Liver_RegenerativeLiver",
-      "price": -10
-    },
-    {
-      "abr": "<color=#00fff7>neuroacceleratedspine</color>",
-      "category": "Evolved body parts",
-      "defname": "EVOR_Item_Spine_NeuroAcceleratedSpine",
-      "price": -10
-    },
-    {
-      "abr": "<color=#00fff7>multispectrumeye</color>",
-      "category": "Evolved body parts",
-      "defname": "EVOR_Item_Eye_MultispectrumEye",
-      "price": -10
-    },
-    {
-      "abr": "<color=#00fff7>iridescenteye</color>",
-      "category": "Evolved body parts",
-      "defname": "EVOR_Item_Eye_IridescentEye",
-      "price": -10
-    },
-    {
-      "abr": "<color=#00fff7>microanalyzernose</color>",
-      "category": "Evolved body parts",
-      "defname": "EVOR_Item_Nose_MicroAnalyzerNose",
-      "price": -10
-    },
-    {
-      "abr": "<color=#00fff7>pheromonereleasernose</color>",
-      "category": "Evolved body parts",
-      "defname": "EVOR_Item_Nose_PheromoneReleaserNose",
-      "price": -10
-    },
-    {
-      "abr": "<color=#00fff7>multifrequencyear</color>",
-      "category": "Evolved body parts",
-      "defname": "EVOR_Item_Ear_MultifrequencyEar",
-      "price": -10
-    },
-    {
-      "abr": "<color=#00fff7>distendablejaw</color>",
-      "category": "Evolved body parts",
-      "defname": "EVOR_Item_Jaw_DistendableJaw",
-      "price": -10
-    },
-    {
-      "abr": "<color=#00fff7>venomousfangs</color>",
-      "category": "Evolved body parts",
-      "defname": "EVOR_Item_Jaw_VenomousFangs",
-      "price": -10
-    },
-    {
-      "abr": "<color=#00fff7>psychicresonancetissue</color>",
-      "category": "Evolved body parts",
-      "defname": "EVOR_Item_Protection_Skull_PsychicResonanceTissue",
-      "price": -10
-    },
-    {
-      "abr": "<color=#00fff7>interferenceshielding</color>",
-      "category": "Evolved body parts",
-      "defname": "EVOR_Item_Protection_Skull_InterferenceShielding",
-      "price": -10
-    },
-    {
-      "abr": "<color=#00fff7>cranialplating</color>",
-      "category": "Evolved body parts",
-      "defname": "EVOR_Item_Protection_Skull_CranialPlating",
-      "price": -10
-    },
-    {
-      "abr": "<color=#00fff7>multilayereddermalplating</color>",
-      "category": "Evolved body parts",
-      "defname": "EVOR_Item_Protection_Torso_MultilayeredDermalPlating",
-      "price": -10
-    },
-    {
-      "abr": "<color=#00fff7>flameretardantskin</color>",
-      "category": "Evolved body parts",
-      "defname": "EVOR_Item_Protection_Skin_FlameRetardantSkin",
-      "price": -10
-    },
-    {
-      "abr": "<color=#00fff7>variableinsulationskin</color>",
-      "category": "Evolved body parts",
-      "defname": "EVOR_Item_Protection_Skin_VariableInsulationSkin",
-      "price": -10
-    },
-    {
-      "abr": "<color=#00fff7>shimmeringskin</color>",
-      "category": "Evolved body parts",
-      "defname": "EVOR_Item_Protection_Skin_ShimmeringSkin",
-      "price": -10
-    },
-    {
-      "abr": "<color=#00fff7>radiationabsorbingskin</color>",
-      "category": "Evolved body parts",
-      "defname": "EVOR_Item_Protection_Skin_RadiationAbsorbingSkin",
-      "price": -10
-    },
-    {
-      "abr": "<color=#00fff7>phytoplanktonskin</color>",
-      "category": "Evolved body parts",
-      "defname": "EVOR_Item_Protection_Skin_PhytoplanktonSkin",
-      "price": -10
-    },
-    {
-      "abr": "<color=#00fff7>calciumalloyribcage</color>",
-      "category": "Evolved body parts",
-      "defname": "EVOR_Item_Protection_Ribcage_CalciumAlloyRibcage",
-      "price": -10
-    },
-    {
-      "abr": "<color=#00fff7>reinforcedneckmuscles</color>",
-      "category": "Evolved body parts",
-      "defname": "EVOR_Item_Protection_Neck_ReinforcedNeckMuscles",
-      "price": -10
-    },
-    {
-      "abr": "organgrowingworksbench",
+      "abr": "animalprostheticstable",
       "category": "Production",
-      "defname": "EVOR_Building_Cellbench",
+      "defname": "TableAnimalProsthetics",
       "price": -10
     },
     {
-      "abr": "proteinslag",
-      "category": "Manufactured",
-      "defname": "EVOR_Resource_Protein",
+      "abr": "simpleprostheticanimaltail",
+      "category": "Animal Body Part",
+      "defname": "ProstheticTailAnimal",
       "price": -10
     },
     {
-      "abr": "nanomechanites",
-      "category": "Manufactured",
-      "defname": "EVOR_Resource_Mechanites",
+      "abr": "simpleprostheticanimalleg",
+      "category": "Animal Body Part",
+      "defname": "SimpleProstheticLegAnimal",
       "price": -10
     },
     {
-      "abr": "advancedinformationchip",
-      "category": "Chips",
-      "defname": "AdvancedInformationChip",
+      "abr": "simpleprostheticanimalarm",
+      "category": "Animal Body Part",
+      "defname": "SimpleProstheticArmAnimal",
       "price": -10
     },
     {
-      "abr": "advancedresearchchip",
-      "category": "Chips",
-      "defname": "AdvancedResearchChip",
+      "abr": "simpleanimalnose",
+      "category": "Animal Body Part",
+      "defname": "NoseAnimalSimple",
       "price": -10
     },
     {
-      "abr": "advancedaichip",
-      "category": "Chips",
-      "defname": "AdvancedAChip",
+      "abr": "simpleanimaljawimplant",
+      "category": "Animal Body Part",
+      "defname": "JawAnimalSimple",
       "price": -10
     },
     {
-      "abr": "advancedpsychicchip",
-      "category": "Chips",
-      "defname": "AdvancedPsychicChip",
+      "abr": "simpleanimalearimplant",
+      "category": "Animal Body Part",
+      "defname": "EarAnimalSimple",
       "price": -10
     },
     {
-      "abr": "advancedtoxicchip",
-      "category": "Chips",
-      "defname": "AdvancedToxicChip",
+      "abr": "simpleanimalspine",
+      "category": "Animal Body Part",
+      "defname": "SpineAnimalSimple",
       "price": -10
     },
     {
-      "abr": "advancedstomachchip",
-      "category": "Chips",
-      "defname": "AdvancedStomachChip",
+      "abr": "bionicanimalleg",
+      "category": "Animal Body Part",
+      "defname": "BionicLegAnimal",
       "price": -10
     },
     {
-      "abr": "advancedmedicalchip",
-      "category": "Chips",
-      "defname": "AdvancedMedicalChip",
+      "abr": "bionicanimalarm",
+      "category": "Animal Body Part",
+      "defname": "BionicArmAnimal",
       "price": -10
     },
     {
-      "abr": "advancedfarmerchip",
-      "category": "Chips",
-      "defname": "AdvancedFarmerChip",
+      "abr": "bionicanimaleye",
+      "category": "Animal Body Part",
+      "defname": "BionicEyeAnimal",
       "price": -10
     },
     {
-      "abr": "advancedminingchip",
-      "category": "Chips",
-      "defname": "AdvancedMiningChip",
+      "abr": "bionicanimaljaw",
+      "category": "Animal Body Part",
+      "defname": "JawAnimalBionic",
       "price": -10
     },
     {
-      "abr": "advancedimmunoboostingchip",
-      "category": "Chips",
-      "defname": "AdvancedImmuneChip",
+      "abr": "bionicanimalearimplant",
+      "category": "Animal Body Part",
+      "defname": "EarAnimalBionic",
       "price": -10
     },
     {
-      "abr": "advancedsleepstopperchip(unused)",
-      "category": "Chips",
-      "defname": "AdvancedSleepstopperChip",
+      "abr": "bionicanimalspine",
+      "category": "Animal Body Part",
+      "defname": "SpineAnimalBionic",
       "price": -10
     },
     {
-      "abr": "basicinformationchip",
-      "category": "Chips",
-      "defname": "BasicInformationChip",
+      "abr": "bionicanimalbrainstimulator",
+      "category": "Animal Body Part",
+      "defname": "AnimalBrainStimulator",
       "price": -10
     },
     {
-      "abr": "basicresearchchip",
-      "category": "Chips",
-      "defname": "BasicResearchChip",
+      "abr": "bionicanimalheart",
+      "category": "Animal Body Part",
+      "defname": "BionicAnimalHeart",
       "price": -10
     },
     {
-      "abr": "basicaichip",
-      "category": "Chips",
-      "defname": "BasicAChip",
+      "abr": "bionicanimalstomach",
+      "category": "Animal Body Part",
+      "defname": "BionicAnimalStomach",
       "price": -10
     },
     {
-      "abr": "basicpsychicchip",
-      "category": "Chips",
-      "defname": "BasicPsychicChip",
+      "abr": "bionicanimallung",
+      "category": "Animal Body Part",
+      "defname": "BionicAnimalLung",
       "price": -10
     },
     {
-      "abr": "basictoxicchip",
-      "category": "Chips",
-      "defname": "BasicToxicChip",
+      "abr": "bionicanimalliver",
+      "category": "Animal Body Part",
+      "defname": "BionicAnimalLiver",
       "price": -10
     },
     {
-      "abr": "basicstomachchip",
-      "category": "Chips",
-      "defname": "BasicStomachChip",
+      "abr": "bionicanimalkidney",
+      "category": "Animal Body Part",
+      "defname": "BionicAnimalKidney",
       "price": -10
     },
     {
-      "abr": "basicmedicalchip",
-      "category": "Chips",
-      "defname": "BasicMedicalChip",
+      "abr": "refrigerator",
+      "category": "Furniture",
+      "defname": "owl_refrigerator",
       "price": -10
     },
     {
-      "abr": "basicfarmerchip",
-      "category": "Chips",
-      "defname": "BasicFarmerChip",
+      "abr": "doublewiderefrigerator",
+      "category": "Furniture",
+      "defname": "owl_doublerefrigerator",
       "price": -10
     },
     {
-      "abr": "basicminingchip",
-      "category": "Chips",
-      "defname": "BasicMiningChip",
+      "abr": "beetkvasswort",
+      "category": "Alcohol precursor",
+      "defname": "VG_VegKvassWort",
       "price": -10
     },
     {
-      "abr": "basicimmunoassistingchip",
-      "category": "Chips",
-      "defname": "BasicImmuneChip",
+      "abr": "kvasssodawort",
+      "category": "Alcohol precursor",
+      "defname": "VG_KvassSodaWort",
       "price": -10
     },
     {
-      "abr": "basicsleepstopperchip(unused)",
-      "category": "Chips",
-      "defname": "BasicSleepstopperChip",
+      "abr": "brownmalt",
+      "category": "Alcohol precursor",
+      "defname": "VG_BrownMalt",
       "price": -10
     },
     {
-      "abr": "primitivechipset",
-      "category": "Chipsets",
-      "defname": "PrimitiveChipset",
+      "abr": "meadbase",
+      "category": "Alcohol precursor",
+      "defname": "VG_MeadBase",
       "price": -10
     },
     {
-      "abr": "basicchipset",
-      "category": "Chipsets",
-      "defname": "BasicChipset",
+      "abr": "winemust",
+      "category": "Alcohol precursor",
+      "defname": "VG_GrapeMust",
       "price": -10
     },
     {
-      "abr": "advancedchipset",
-      "category": "Chipsets",
-      "defname": "AdvancedChipset",
+      "abr": "cidermust",
+      "category": "Alcohol precursor",
+      "defname": "VG_CiderMust",
       "price": -10
     },
     {
-      "abr": "glitterworldchipset",
-      "category": "Chipsets",
-      "defname": "GlitterworldChipset",
-      "price": -10
-    },
-    {
-      "abr": "solder",
-      "category": "Chipsets",
-      "defname": "Solder",
-      "price": -10
-    },
-    {
-      "abr": "crudeimmunechip",
-      "category": "Chips",
-      "defname": "CrudeImmuneChip",
-      "price": -10
-    },
-    {
-      "abr": "glitterworldinformationchip",
-      "category": "Chips",
-      "defname": "GlitterworldInformationChip",
-      "price": -10
-    },
-    {
-      "abr": "glitterworldresearchchip",
-      "category": "Chips",
-      "defname": "GlitterworldResearchChip",
-      "price": -10
-    },
-    {
-      "abr": "glitterworldaichip",
-      "category": "Chips",
-      "defname": "GlitterworldAChip",
-      "price": -10
-    },
-    {
-      "abr": "glitterworldpsychicchip",
-      "category": "Chips",
-      "defname": "GlitterworldPsychicChip",
-      "price": -10
-    },
-    {
-      "abr": "glitterworldtoxicchip",
-      "category": "Chips",
-      "defname": "GlitterworldToxicChip",
-      "price": -10
-    },
-    {
-      "abr": "glitterworldstomachchip",
-      "category": "Chips",
-      "defname": "GlitterworldStomachChip",
-      "price": -10
-    },
-    {
-      "abr": "glitterworldmedicalchip",
-      "category": "Chips",
-      "defname": "GlitterworldMedicalChip",
-      "price": -10
-    },
-    {
-      "abr": "glitterworldfarmerchip",
-      "category": "Chips",
-      "defname": "GlitterworldFarmerChip",
-      "price": -10
-    },
-    {
-      "abr": "glitterworldminingchip",
-      "category": "Chips",
-      "defname": "GlitterworldMiningChip",
-      "price": -10
-    },
-    {
-      "abr": "glitterworldnanoimmunechip",
-      "category": "Chips",
-      "defname": "GlitterworldImmuneChip",
-      "price": -10
-    },
-    {
-      "abr": "glitterworldsleepstopperchip",
-      "category": "Chips",
-      "defname": "GlitterworldSleepstopperChip",
-      "price": -10
-    },
-    {
-      "abr": "nanotechchip",
-      "category": "Chips",
-      "defname": "NanotechChip",
-      "price": -10
-    },
-    {
-      "abr": "implantassembler",
+      "abr": "gardencomposter",
       "category": "Production",
-      "defname": "ElectricAssembler",
-      "price": -10
-    },
-    {
-      "abr": "electronicsworkbench",
-      "category": "Production",
-      "defname": "ElectronicsWorkbench",
-      "price": -10
-    },
-    {
-      "abr": "stunbaton",
-      "category": "Melee weapons",
-      "defname": "MeleeWeapon_BSP_StunBaton",
-      "price": -10
-    },
-    {
-      "abr": "baseballbat",
-      "category": "Melee weapons",
-      "defname": "MeleeWeapon_BSP_BaseballBat",
-      "price": -10
-    },
-    {
-      "abr": "chainsaw",
-      "category": "Melee weapons",
-      "defname": "MeleeWeapon_BSP_Chainsaw",
-      "price": -10
-    },
-    {
-      "abr": "chargesword",
-      "category": "Melee weapons",
-      "defname": "MeleeWeapon_BSP_ChargeSword",
-      "price": -10
-    },
-    {
-      "abr": "rockethammer",
-      "category": "Melee weapons",
-      "defname": "MeleeWeapon_BSP_RocketHammer",
-      "price": -10
-    },
-    {
-      "abr": "assaultauto-shotgun",
-      "category": "Ranged weapons",
-      "defname": "Itzal_AAShotgun",
-      "price": -10
-    },
-    {
-      "abr": "alternativebolt-actionrifle",
-      "category": "Ranged weapons",
-      "defname": "Itzal_AltBoltActionRifle",
-      "price": -10
-    },
-    {
-      "abr": "appistol",
-      "category": "Ranged weapons",
-      "defname": "Itzal_APPistol",
-      "price": -10
-    },
-    {
-      "abr": "apassaultrifle",
-      "category": "Ranged weapons",
-      "defname": "Itzal_APARifle",
-      "price": -10
-    },
-    {
-      "abr": "apsniper",
-      "category": "Ranged weapons",
-      "defname": "Itzal_APSniper",
-      "price": -10
-    },
-    {
-      "abr": "convertedassaultrifle",
-      "category": "Ranged weapons",
-      "defname": "Itzal_AssaultRifleB",
-      "price": -10
-    },
-    {
-      "abr": "areocarbine",
-      "category": "Ranged weapons",
-      "defname": "Itzal_AreoCarbine",
-      "price": -10
-    },
-    {
-      "abr": "areorifle",
-      "category": "Ranged weapons",
-      "defname": "Itzal_AreoRifle",
-      "price": -10
-    },
-    {
-      "abr": "ascendedpistol",
-      "category": "Ranged weapons",
-      "defname": "Itzal_AscendedPistol",
-      "price": -10
-    },
-    {
-      "abr": "ascendedrifle",
-      "category": "Ranged weapons",
-      "defname": "Itzal_AscendedRifle",
-      "price": -10
-    },
-    {
-      "abr": "assaultsmg",
-      "category": "Ranged weapons",
-      "defname": "Itzal_AssaultSMG",
-      "price": -10
-    },
-    {
-      "abr": "auto-targetpistol",
-      "category": "Ranged weapons",
-      "defname": "Itzal_ATPistol",
-      "price": -10
-    },
-    {
-      "abr": "ballisticknife",
-      "category": "Ranged weapons",
-      "defname": "Itzal_BKnife",
-      "price": -10
-    },
-    {
-      "abr": "burstpistol",
-      "category": "Ranged weapons",
-      "defname": "Itzal_BPistol",
-      "price": -10
-    },
-    {
-      "abr": "bullpupsniperrifle",
-      "category": "Ranged weapons",
-      "defname": "Itzal_BPSniper",
-      "price": -10
-    },
-    {
-      "abr": "breachingshotgun",
-      "category": "Ranged weapons",
-      "defname": "Itzal_BreachShotgun",
-      "price": -10
-    },
-    {
-      "abr": "burstrifle",
-      "category": "Ranged weapons",
-      "defname": "Itzal_BurstRifle",
-      "price": -10
-    },
-    {
-      "abr": "bustershotgun",
-      "category": "Ranged weapons",
-      "defname": "Itzal_BusterShotgun",
-      "price": -10
-    },
-    {
-      "abr": "caselesscarbine",
-      "category": "Ranged weapons",
-      "defname": "Itzal_CCarbine",
-      "price": -10
-    },
-    {
-      "abr": "cheappistol",
-      "category": "Ranged weapons",
-      "defname": "Itzal_CheapPistol",
-      "price": -10
-    },
-    {
-      "abr": "civillanpistol",
-      "category": "Ranged weapons",
-      "defname": "Itzal_CivPistol",
-      "price": -10
-    },
-    {
-      "abr": "compactpistol",
-      "category": "Ranged weapons",
-      "defname": "Itzal_CompactPistol",
-      "price": -10
-    },
-    {
-      "abr": "defensesmg",
-      "category": "Ranged weapons",
-      "defname": "Itzal_DefenseSMG",
-      "price": -10
-    },
-    {
-      "abr": "defensivelmg",
-      "category": "Ranged weapons",
-      "defname": "Itzal_DMG",
-      "price": -10
-    },
-    {
-      "abr": "eliterifle",
-      "category": "Ranged weapons",
-      "defname": "Itzal_EliteRifle",
-      "price": -10
-    },
-    {
-      "abr": "burstgrenadeluncher",
-      "category": "Ranged weapons",
-      "defname": "Itzal_BurstGrenadeLauncher",
-      "price": -10
-    },
-    {
-      "abr": "glitterworldsportingbow",
-      "category": "Ranged weapons",
-      "defname": "Itzal_GWSBow",
-      "price": -10
-    },
-    {
-      "abr": "huntingbow",
-      "category": "Ranged weapons",
-      "defname": "Itzal_HBow",
-      "price": -10
-    },
-    {
-      "abr": "heavycarbine",
-      "category": "Ranged weapons",
-      "defname": "Itzal_HCarbine",
-      "price": -10
-    },
-    {
-      "abr": "heavymachinepistol",
-      "category": "Ranged weapons",
-      "defname": "Itzal_HeavyMachinePistol",
-      "price": -10
-    },
-    {
-      "abr": "hyper-milerifle",
-      "category": "Ranged weapons",
-      "defname": "Itzal_HMRifle",
-      "price": -10
-    },
-    {
-      "abr": "kugelblitzlauncher",
-      "category": "Ranged weapons",
-      "defname": "Itzal_Kugelblitz",
-      "price": -10
-    },
-    {
-      "abr": "long-barreledpistol",
-      "category": "Ranged weapons",
-      "defname": "Itzal_LBpistol",
-      "price": -10
-    },
-    {
-      "abr": "lightrevolver",
-      "category": "Ranged weapons",
-      "defname": "Itzal_LRevolver",
-      "price": -10
-    },
-    {
-      "abr": "magneticrifle",
-      "category": "Ranged weapons",
-      "defname": "Itzal_MagRifle",
-      "price": -10
-    },
-    {
-      "abr": "magneticsmg",
-      "category": "Ranged weapons",
-      "defname": "Itzal_MagSMG",
-      "price": -10
-    },
-    {
-      "abr": "magneticsniperrifle",
-      "category": "Ranged weapons",
-      "defname": "Itzal_MagSniper",
-      "price": -10
-    },
-    {
-      "abr": "menacingrevolver",
-      "category": "Ranged weapons",
-      "defname": "Itzal_Menacing_Revolver",
-      "price": -10
-    },
-    {
-      "abr": "militarypistol",
-      "category": "Ranged weapons",
-      "defname": "Itzal_MilitaryPistol",
-      "price": -10
-    },
-    {
-      "abr": "millitarifle",
-      "category": "Ranged weapons",
-      "defname": "Itzal_MillitaRifle",
-      "price": -10
-    },
-    {
-      "abr": "makeshiftchargerifle",
-      "category": "Ranged weapons",
-      "defname": "Itzal_MakeshiftChargeRifle",
-      "price": -10
-    },
-    {
-      "abr": "pistolcarbine",
-      "category": "Ranged weapons",
-      "defname": "Itzal_PCarbine",
-      "price": -10
-    },
-    {
-      "abr": "pdw",
-      "category": "Ranged weapons",
-      "defname": "Itzal_PDW",
-      "price": -10
-    },
-    {
-      "abr": "pathfinderrifle",
-      "category": "Ranged weapons",
-      "defname": "Itzal_PFRifle",
-      "price": -10
-    },
-    {
-      "abr": "pistollmg",
-      "category": "Ranged weapons",
-      "defname": "Itzal_PistolLMG",
-      "price": -10
-    },
-    {
-      "abr": "policecarbine",
-      "category": "Ranged weapons",
-      "defname": "Itzal_PoliceCarbine",
-      "price": -10
-    },
-    {
-      "abr": "portassaultrifle",
-      "category": "Ranged weapons",
-      "defname": "Itzal_PortRifle",
-      "price": -10
-    },
-    {
-      "abr": "paratrooperrifle",
-      "category": "Ranged weapons",
-      "defname": "Itzal_PTRifle",
-      "price": -10
-    },
-    {
-      "abr": "quickchargerifle",
-      "category": "Ranged weapons",
-      "defname": "Itzal_QCRifle",
-      "price": -10
-    },
-    {
-      "abr": "rebelsmg",
-      "category": "Ranged weapons",
-      "defname": "Itzal_RebelSMG",
-      "price": -10
-    },
-    {
-      "abr": "reloadablerocketlauncher",
-      "category": "Ranged weapons",
-      "defname": "Itzal_RRL",
-      "price": -10
-    },
-    {
-      "abr": "salvoshotgun",
-      "category": "Ranged weapons",
-      "defname": "Itzal_SalvoShotgun",
-      "price": -10
-    },
-    {
-      "abr": "straight-boltrifle",
-      "category": "Ranged weapons",
-      "defname": "Itzal_SBRifle",
-      "price": -10
-    },
-    {
-      "abr": "scoutrifle",
-      "category": "Ranged weapons",
-      "defname": "Itzal_ScoutRifle",
-      "price": -10
-    },
-    {
-      "abr": "scoutshotgun",
-      "category": "Ranged weapons",
-      "defname": "Itzal_ScoutShotgun",
-      "price": -10
-    },
-    {
-      "abr": "side-fedassaultrifle",
-      "category": "Ranged weapons",
-      "defname": "Itzal_SFARifle",
-      "price": -10
-    },
-    {
-      "abr": "super-heavymg",
-      "category": "Ranged weapons",
-      "defname": "Itzal_SHMG",
-      "price": -10
-    },
-    {
-      "abr": "streamlinerevolver",
-      "category": "Ranged weapons",
-      "defname": "Itzal_SL_Revolver",
-      "price": -10
-    },
-    {
-      "abr": "singleshotgrenadelauncher",
-      "category": "Ranged weapons",
-      "defname": "Itzal_SSGL",
-      "price": -10
-    },
-    {
-      "abr": "stormrifle",
-      "category": "Ranged weapons",
-      "defname": "Itzal_STrifle",
-      "price": -10
-    },
-    {
-      "abr": "strikepistol",
-      "category": "Ranged weapons",
-      "defname": "Itzal_StrikePistol",
-      "price": -10
-    },
-    {
-      "abr": "suppressivelmg",
-      "category": "Ranged weapons",
-      "defname": "Itzal_SupMG",
-      "price": -10
-    },
-    {
-      "abr": "sweeperassaultrifle",
-      "category": "Ranged weapons",
-      "defname": "Itzal_SweeperRifle",
-      "price": -10
-    },
-    {
-      "abr": "tacticalshovel",
-      "category": "Melee weapons",
-      "defname": "Itzal_TacShovel",
-      "price": -10
-    },
-    {
-      "abr": "tacticalsword",
-      "category": "Melee weapons",
-      "defname": "Itzal_TacSword",
-      "price": -10
-    },
-    {
-      "abr": "tacticalrevolver",
-      "category": "Ranged weapons",
-      "defname": "Itzal_Tac_Revolver",
-      "price": -10
-    },
-    {
-      "abr": "tankermachinepistol",
-      "category": "Ranged weapons",
-      "defname": "Itzal_TankerMPistol",
-      "price": -10
-    },
-    {
-      "abr": "thermobariclauncher",
-      "category": "Ranged weapons",
-      "defname": "Itzal_TBLauncher",
-      "price": -10
-    },
-    {
-      "abr": "tunedassaultrifle",
-      "category": "Ranged weapons",
-      "defname": "Itzal_TunedRifle",
-      "price": -10
-    },
-    {
-      "abr": "20mm",
-      "category": "Ranged weapons",
-      "defname": "Itzal_20MM",
-      "price": -10
-    },
-    {
-      "abr": "autorevolver",
-      "category": "Ranged weapons",
-      "defname": "Itzal_AutoRevolver",
-      "price": -10
-    },
-    {
-      "abr": "avalancherifle",
-      "category": "Ranged weapons",
-      "defname": "Itzal_AvalancheRifle",
-      "price": -10
-    },
-    {
-      "abr": "carbonmachinepistol",
-      "category": "Ranged weapons",
-      "defname": "Itzal_CarbonMP",
-      "price": -10
-    },
-    {
-      "abr": "chaingun",
-      "category": "Ranged weapons",
-      "defname": "Itzal_Chaingun",
-      "price": -10
-    },
-    {
-      "abr": "contingencyrifle",
-      "category": "Ranged weapons",
-      "defname": "Itzal_ContingencyRifle",
-      "price": -10
-    },
-    {
-      "abr": "gatlinggun",
-      "category": "Ranged weapons",
-      "defname": "Itzal_Gatling",
-      "price": -10
-    },
-    {
-      "abr": "rocketpistol",
-      "category": "Ranged weapons",
-      "defname": "Itzal_RocketPistol",
-      "price": -10
-    },
-    {
-      "abr": "makeshiftshotgun",
-      "category": "Ranged weapons",
-      "defname": "Itzal_MakeshiftSG",
-      "price": -10
-    },
-    {
-      "abr": "massdriver",
-      "category": "Ranged weapons",
-      "defname": "Itzal_MassDriver",
-      "price": -10
-    },
-    {
-      "abr": "matchrifle",
-      "category": "Ranged weapons",
-      "defname": "Itzal_MatchRifle",
-      "price": -10
-    },
-    {
-      "abr": "scopedrevolver",
-      "category": "Ranged weapons",
-      "defname": "Itzal_ScopedRevolver",
-      "price": -10
-    },
-    {
-      "abr": "semi-autocombatshotgun",
-      "category": "Ranged weapons",
-      "defname": "Itzal_SemiCombatShotgun",
-      "price": -10
-    },
-    {
-      "abr": "stalwartmachinepistol",
-      "category": "Ranged weapons",
-      "defname": "Itzal_StalwartMP",
-      "price": -10
-    },
-    {
-      "abr": "suppressivebattlerifle",
-      "category": "Ranged weapons",
-      "defname": "Itzal_SupBR",
-      "price": -10
-    },
-    {
-      "abr": "trenchsmg",
-      "category": "Ranged weapons",
-      "defname": "Itzal_TrenchSMG",
-      "price": -10
-    },
-    {
-      "abr": "twinchamberassaultrifle",
-      "category": "Ranged weapons",
-      "defname": "Itzal_TwinChamberAR",
-      "price": -10
-    },
-    {
-      "abr": "wheel-lockrifle",
-      "category": "Ranged weapons",
-      "defname": "Itzal_Wheel-lockRifle",
-      "price": -10
-    },
-    {
-      "abr": ".50calibermg",
-      "category": "Ranged weapons",
-      "defname": "Itzal_FiveOMG",
-      "price": -10
-    },
-    {
-      "abr": "aalmg",
-      "category": "Ranged weapons",
-      "defname": "Itzal_AAMG",
-      "price": -10
-    },
-    {
-      "abr": "emergencysmg",
-      "category": "Ranged weapons",
-      "defname": "Itzal_EmergencySMG",
-      "price": -10
-    },
-    {
-      "abr": "evokerpistol",
-      "category": "Ranged weapons",
-      "defname": "Itzal_Evoker",
-      "price": -10
-    },
-    {
-      "abr": "exoticassaultrifle",
-      "category": "Ranged weapons",
-      "defname": "Itzal_ExoticAssaultRifle",
-      "price": -10
-    },
-    {
-      "abr": "frontlineassaultrifle",
-      "category": "Ranged weapons",
-      "defname": "Itzal_AssaultRifle",
-      "price": -10
-    },
-    {
-      "abr": "gunspear",
-      "category": "Ranged weapons",
-      "defname": "Itzal_GunSpear",
-      "price": -10
-    },
-    {
-      "abr": "high-calibermachinegun",
-      "category": "Ranged weapons",
-      "defname": "Itzal_HCMG",
-      "price": -10
-    },
-    {
-      "abr": "heavyminigun",
-      "category": "Ranged weapons",
-      "defname": "Itzal_HeavyMinigun",
-      "price": -10
-    },
-    {
-      "abr": "largesemi-automaticrifle",
-      "category": "Ranged weapons",
-      "defname": "Itzal_LSARifle",
-      "price": -10
-    },
-    {
-      "abr": "prototypeassaultrifle",
-      "category": "Ranged weapons",
-      "defname": "Itzal_PrototypeAssaultRifle",
-      "price": -10
-    },
-    {
-      "abr": "rafficarifle",
-      "category": "Ranged weapons",
-      "defname": "Itzal_RafficaRifle",
-      "price": -10
-    },
-    {
-      "abr": "insectoidassaultrifle",
-      "category": "Ranged weapons",
-      "defname": "Itzal_InsectoidAR",
-      "price": -10
-    },
-    {
-      "abr": "rebelcarbine",
-      "category": "Ranged weapons",
-      "defname": "Itzal_RebelCarbine",
-      "price": -10
-    },
-    {
-      "abr": "super-heavybattlerifle",
-      "category": "Ranged weapons",
-      "defname": "Itzal_SuperHeavyBattleRifle",
-      "price": -10
-    },
-    {
-      "abr": "targetpistol",
-      "category": "Ranged weapons",
-      "defname": "Itzal_TargetPistol",
-      "price": -10
-    },
-    {
-      "abr": "aacannon",
-      "category": "Ranged weapons",
-      "defname": "Itzal_AACannon",
-      "price": -10
-    },
-    {
-      "abr": "aegissmg",
-      "category": "Ranged weapons",
-      "defname": "Itzal_AegisSMG",
-      "price": -10
-    },
-    {
-      "abr": "aircrewrevolver",
-      "category": "Ranged weapons",
-      "defname": "Itzal_AircrewRevolver",
-      "price": -10
-    },
-    {
-      "abr": "atcannon",
-      "category": "Ranged weapons",
-      "defname": "Itzal_ATCannon",
-      "price": -10
-    },
-    {
-      "abr": "automaticchargelance",
-      "category": "Ranged weapons",
-      "defname": "Itzal_AutoChargeLance",
-      "price": -10
-    },
-    {
-      "abr": "automaticmilitarypistol",
-      "category": "Ranged weapons",
-      "defname": "Itzal_AutoMilitaryPistol",
-      "price": -10
-    },
-    {
-      "abr": "billowassaultrifle",
-      "category": "Ranged weapons",
-      "defname": "Itzal_BillowAR",
-      "price": -10
-    },
-    {
-      "abr": "boomstick",
-      "category": "Ranged weapons",
-      "defname": "Itzal_Boomstick",
-      "price": -10
-    },
-    {
-      "abr": "bracedmachinepistol",
-      "category": "Ranged weapons",
-      "defname": "Itzal_BracedMachinePistol",
-      "price": -10
-    },
-    {
-      "abr": "burstsmg",
-      "category": "Ranged weapons",
-      "defname": "Itzal_BurstSMG",
-      "price": -10
-    },
-    {
-      "abr": "caselesscombatrifle",
-      "category": "Ranged weapons",
-      "defname": "Itzal_CCRifle",
-      "price": -10
-    },
-    {
-      "abr": "covertassaultrifle",
-      "category": "Ranged weapons",
-      "defname": "Itzal_CovertAR",
-      "price": -10
-    },
-    {
-      "abr": "covertmachinepistol",
-      "category": "Ranged weapons",
-      "defname": "Gun_MachinePistol",
-      "price": -10
-    },
-    {
-      "abr": "covertpistol",
-      "category": "Ranged weapons",
-      "defname": "Itzal_CovertPistol",
-      "price": -10
-    },
-    {
-      "abr": "covertsmg",
-      "category": "Ranged weapons",
-      "defname": "Itzal_CovertSMG",
-      "price": -10
-    },
-    {
-      "abr": "covertsniperrifle",
-      "category": "Ranged weapons",
-      "defname": "Itzal_CovertSniper",
-      "price": -10
-    },
-    {
-      "abr": "cyrorifle",
-      "category": "Ranged weapons",
-      "defname": "Itzal_CyroRifle",
-      "price": -10
-    },
-    {
-      "abr": "double-barreledrifle",
-      "category": "Ranged weapons",
-      "defname": "Itzal_DBR",
-      "price": -10
-    },
-    {
-      "abr": "jungleauto-sniper",
-      "category": "Ranged weapons",
-      "defname": "Itzal_JungleAS",
-      "price": -10
-    },
-    {
-      "abr": "magazinefedgrenadelauncher",
-      "category": "Ranged weapons",
-      "defname": "Itzal_MFGL",
-      "price": -10
-    },
-    {
-      "abr": "mmg",
-      "category": "Ranged weapons",
-      "defname": "Itzal_MMG",
-      "price": -10
-    },
-    {
-      "abr": "mobilemachinegun",
-      "category": "Ranged weapons",
-      "defname": "Itzal_MobileMG",
-      "price": -10
-    },
-    {
-      "abr": "needlerifle",
-      "category": "Ranged weapons",
-      "defname": "Itzal_NeeldeRifle",
-      "price": -10
-    },
-    {
-      "abr": "open-boltmachinepistol",
-      "category": "Ranged weapons",
-      "defname": "Itzal_OBMachinePistol",
-      "price": -10
-    },
-    {
-      "abr": "particlepistol",
-      "category": "Ranged weapons",
-      "defname": "Itzal_ParticlePistol",
-      "price": -10
-    },
-    {
-      "abr": "particlerifle",
-      "category": "Ranged weapons",
-      "defname": "Itzal_ParticleRifle",
-      "price": -10
-    },
-    {
-      "abr": "pocketpistol",
-      "category": "Ranged weapons",
-      "defname": "Itzal_PocketPistol",
-      "price": -10
-    },
-    {
-      "abr": "raifu",
-      "category": "Ranged weapons",
-      "defname": "Itzal_Raifu",
-      "price": -10
-    },
-    {
-      "abr": "dualscoutrifle",
-      "category": "Ranged weapons",
-      "defname": "Itzal_ScoutRifleXTWO",
-      "price": -10
-    },
-    {
-      "abr": "skirmishrifle",
-      "category": "Ranged weapons",
-      "defname": "Itzal_SkirmishR",
-      "price": -10
-    },
-    {
-      "abr": "convertedskirmishrifle",
-      "category": "Ranged weapons",
-      "defname": "Itzal_SkirmishRTWO",
-      "price": -10
-    },
-    {
-      "abr": "solrifle",
-      "category": "Ranged weapons",
-      "defname": "Itzal_SolRifle",
-      "price": -10
-    },
-    {
-      "abr": "sportingrifle",
-      "category": "Ranged weapons",
-      "defname": "Itzal_SportingRifle",
-      "price": -10
-    },
-    {
-      "abr": "stalkercarbine",
-      "category": "Ranged weapons",
-      "defname": "Itzal_StalkerCarbine",
-      "price": -10
-    },
-    {
-      "abr": "stalwartrifle",
-      "category": "Ranged weapons",
-      "defname": "Itzal_StalwartRifle",
-      "price": -10
-    },
-    {
-      "abr": "valiantrifle",
-      "category": "Ranged weapons",
-      "defname": "Itzal_ValiantRifle",
-      "price": -10
-    },
-    {
-      "abr": "bullpuppathfinderrifle",
-      "category": "Ranged weapons",
-      "defname": "Itzal_BullpupPFR",
-      "price": -10
-    },
-    {
-      "abr": "buzzersmg",
-      "category": "Ranged weapons",
-      "defname": "Itzal_BuzzerSMG",
-      "price": -10
-    },
-    {
-      "abr": "clusterbomblauncher",
-      "category": "Ranged weapons",
-      "defname": "Itzal_CBomb",
-      "price": -10
-    },
-    {
-      "abr": "covertcarbine",
-      "category": "Ranged weapons",
-      "defname": "Itzal_CovertCarbine",
-      "price": -10
-    },
-    {
-      "abr": "covertheavysniperrifle",
-      "category": "Ranged weapons",
-      "defname": "Itzal_CovertHSniper",
-      "price": -10
-    },
-    {
-      "abr": "cutlasspistol",
-      "category": "Ranged weapons",
-      "defname": "Itzal_CutlassP",
-      "price": -10
-    },
-    {
-      "abr": "glauserpistol",
-      "category": "Ranged weapons",
-      "defname": "Itzal_Glauser",
-      "price": -10
-    },
-    {
-      "abr": "heavychargeminigun",
-      "category": "Ranged weapons",
-      "defname": "Itzal_HeavyCM",
-      "price": -10
-    },
-    {
-      "abr": "chargerailgun",
-      "category": "Ranged weapons",
-      "defname": "Itzal_HeavyCRG",
-      "price": -10
-    },
-    {
-      "abr": "pocketanti-materielrifle",
-      "category": "Ranged weapons",
-      "defname": "Itzal_PocketAMR",
-      "price": -10
-    },
-    {
-      "abr": "sbr",
-      "category": "Ranged weapons",
-      "defname": "Itzal_SBR",
-      "price": -10
-    },
-    {
-      "abr": "servicelmg",
-      "category": "Ranged weapons",
-      "defname": "Itzal_ServiceLMG",
-      "price": -10
-    },
-    {
-      "abr": "manstopperpistol",
-      "category": "Ranged weapons",
-      "defname": "Itzal_ManstopperPistol",
-      "price": -10
-    },
-    {
-      "abr": "uzismg",
-      "category": "Ranged weapons",
-      "defname": "Itzal_Uzi",
-      "price": -10
-    },
-    {
-      "abr": "chargeuzismg",
-      "category": "Ranged weapons",
-      "defname": "Itzal_UziC",
-      "price": -10
-    },
-    {
-      "abr": "artillerymachinepistol",
-      "category": "Ranged weapons",
-      "defname": "Itzal_ArtilleryMP",
-      "price": -10
-    },
-    {
-      "abr": "beowulfassaultrifle",
-      "category": "Ranged weapons",
-      "defname": "Itzal_Beowulf",
-      "price": -10
-    },
-    {
-      "abr": "bfg",
-      "category": "Ranged weapons",
-      "defname": "Itzal_BFG",
-      "price": -10
-    },
-    {
-      "abr": "bullpuplmg",
-      "category": "Ranged weapons",
-      "defname": "Itzal_BullpupLMG",
-      "price": -10
-    },
-    {
-      "abr": "bullpupshotgun",
-      "category": "Ranged weapons",
-      "defname": "Itzal_BullpupSG",
-      "price": -10
-    },
-    {
-      "abr": "harpoongun",
-      "category": "Ranged weapons",
-      "defname": "Itzal_Harpoon",
-      "price": -10
-    },
-    {
-      "abr": "high-caliberpistol",
-      "category": "Ranged weapons",
-      "defname": "Itzal_HCPistol",
-      "price": -10
-    },
-    {
-      "abr": "highcapacityrevolver",
-      "category": "Ranged weapons",
-      "defname": "Itzal_HiRevolver",
-      "price": -10
-    },
-    {
-      "abr": "interceptionassaultrifle",
-      "category": "Ranged weapons",
-      "defname": "Itzal_InterceptionRifle",
-      "price": -10
-    },
-    {
-      "abr": "jezail",
-      "category": "Ranged weapons",
-      "defname": "Itzal_Jezail",
-      "price": -10
-    },
-    {
-      "abr": "longrevolver",
-      "category": "Ranged weapons",
-      "defname": "Itzal_LongRevolver",
-      "price": -10
-    },
-    {
-      "abr": "militarytommygun",
-      "category": "Ranged weapons",
-      "defname": "Itzal_MilitaryTG",
-      "price": -10
-    },
-    {
-      "abr": "augerrifle",
-      "category": "Ranged weapons",
-      "defname": "Itzal_PodGun",
-      "price": -10
-    },
-    {
-      "abr": "policepistol",
-      "category": "Ranged weapons",
-      "defname": "Itzal_PolicePistol",
-      "price": -10
-    },
-    {
-      "abr": "pathfidershotgun",
-      "category": "Ranged weapons",
-      "defname": "Itzal_PathShotgun",
-      "price": -10
-    },
-    {
-      "abr": "rafficapistol",
-      "category": "Ranged weapons",
-      "defname": "Itzal_Raffica",
-      "price": -10
-    },
-    {
-      "abr": "revolvercarbine",
-      "category": "Ranged weapons",
-      "defname": "Itzal_RevolverC",
-      "price": -10
-    },
-    {
-      "abr": "salvolauncher",
-      "category": "Ranged weapons",
-      "defname": "Itzal_SalvoLauncher",
-      "price": -10
-    },
-    {
-      "abr": "vectorsub-machinegun",
-      "category": "Ranged weapons",
-      "defname": "Itzal_Vector",
-      "price": -10
-    },
-    {
-      "abr": "volleygun",
-      "category": "Ranged weapons",
-      "defname": "Itzal_VolleyGun",
-      "price": -10
-    },
-    {
-      "abr": "rectangularlumber",
-      "category": "Melee weapons",
-      "defname": "Gnm_Melee_RectangularLumber",
-      "price": -10
-    },
-    {
-      "abr": "pocketknife",
-      "category": "Melee weapons",
-      "defname": "Gnm_Melee_PocketKnife",
-      "price": -10
-    },
-    {
-      "abr": "switchblade",
-      "category": "Melee weapons",
-      "defname": "Gnm_Melee_SwitchBlade",
-      "price": -10
-    },
-    {
-      "abr": "fryingpan",
-      "category": "Melee weapons",
-      "defname": "Gnm_Melee_FryingPan",
-      "price": -10
-    },
-    {
-      "abr": "sidehandlebaton",
-      "category": "Melee weapons",
-      "defname": "Gnm_Melee_SideHandleBaton",
-      "price": -10
-    },
-    {
-      "abr": "clawbar",
-      "category": "Melee weapons",
-      "defname": "Gnm_Melee_ClawBar",
-      "price": -10
-    },
-    {
-      "abr": "karambitknife",
-      "category": "Melee weapons",
-      "defname": "Gnm_Melee_KarambitKnife",
-      "price": -10
-    },
-    {
-      "abr": "machete",
-      "category": "Melee weapons",
-      "defname": "Gnm_Melee_Machete",
-      "price": -10
-    },
-    {
-      "abr": "katana",
-      "category": "Melee weapons",
-      "defname": "Gnm_Melee_Katana",
-      "price": -10
-    },
-    {
-      "abr": "energyblade",
-      "category": "Melee weapons",
-      "defname": "Gnm_Melee_EnergyKatana",
-      "price": -10
-    },
-    {
-      "abr": "flameedge",
-      "category": "Melee weapons",
-      "defname": "Gnm_Melee_FlameEdge",
-      "price": -10
-    },
-    {
-      "abr": "stoneaxe",
-      "category": "Melee weapons",
-      "defname": "Gnm_Melee_StoneAxe",
-      "price": -10
-    },
-    {
-      "abr": "stoneknife",
-      "category": "Melee weapons",
-      "defname": "Gnm_Melee_StoneKnife",
-      "price": -10
-    },
-    {
-      "abr": "stonespear",
-      "category": "Melee weapons",
-      "defname": "Gnm_Melee_StoneSpear",
-      "price": -10
-    },
-    {
-      "abr": "barbarian'sheavystoneaxe",
-      "category": "Melee weapons",
-      "defname": "Gnm_Melee_HeavyStoneAxe",
-      "price": -10
-    },
-    {
-      "abr": "thrumbohornclub",
-      "category": "Melee weapons",
-      "defname": "Gnm_Melee_ThrumboClub",
-      "price": -10
-    },
-    {
-      "abr": "thrumbohornspear",
-      "category": "Melee weapons",
-      "defname": "Gnm_Melee_ThrumboSpear",
-      "price": -10
-    },
-    {
-      "abr": "thrumbohornsword",
-      "category": "Melee weapons",
-      "defname": "Gnm_Melee_ThrumboSword",
-      "price": -10
-    },
-    {
-      "abr": "shieldedjumppack",
-      "category": "Utility",
-      "defname": "Apparel_JumpPackWithShield",
-      "price": -10
-    },
-    {
-      "abr": "advancedshieldbelt",
-      "category": "Utility",
-      "defname": "Apparel_ShieldBeltVTwo",
-      "price": -10
-    },
-    {
-      "abr": "shieldcapacitor",
-      "category": "Utility",
-      "defname": "Apparel_ShieldCapacitor",
-      "price": -10
-    },
-    {
-      "abr": "shieldregenerator",
-      "category": "Utility",
-      "defname": "Apparel_ShieldRegenerator",
-      "price": -10
-    },
-    {
-      "abr": "autopsytable",
-      "category": "Production",
-      "defname": "TableAutopsy",
+      "defname": "VG_Compostbin",
       "price": -10
     },
     {
@@ -7141,6 +6961,12 @@
       "price": -10
     },
     {
+      "abr": "n.solutionunitmeat",
+      "category": "Meat",
+      "defname": "Meat_RoboticCow",
+      "price": -10
+    },
+    {
       "abr": "zombiemeat",
       "category": "Meat",
       "defname": "Meat_Zombie",
@@ -7330,30 +7156,6 @@
       "abr": "techprint(circadianinfluence)",
       "category": "Techprints",
       "defname": "Techprint_CircadianInfluence",
-      "price": -10
-    },
-    {
-      "abr": "techprint(psychicareamoodprofileration)",
-      "category": "Techprints",
-      "defname": "Techprint_EVOR_Research_Artifact_NornCrown",
-      "price": -10
-    },
-    {
-      "abr": "techprint(psuedo-invisibilitystudies)",
-      "category": "Techprints",
-      "defname": "Techprint_EVOR_Research_Artifact_ShimmerWorm",
-      "price": -10
-    },
-    {
-      "abr": "techprint(weaponizedgermengineering)",
-      "category": "Techprints",
-      "defname": "Techprint_EVOR_Research_Artifact_Lesions",
-      "price": -10
-    },
-    {
-      "abr": "techprint(engineeredresistantshellplating)",
-      "category": "Techprints",
-      "defname": "Techprint_EVOR_Research_Artifact_Tortoise",
       "price": -10
     },
     {
@@ -7601,7 +7403,73 @@
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Intellectual",
       "price": -10
+    },
+    {
+      "abr": "guestbed",
+      "category": "Furniture",
+      "defname": "BedGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestdoublebed",
+      "category": "Furniture",
+      "defname": "DoubleBedGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestroyalbed",
+      "category": "Furniture",
+      "defname": "RoyalBedGuest",
+      "price": -10
+    },
+    {
+      "abr": "guesthospitalbed",
+      "category": "Furniture",
+      "defname": "HospitalBedGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestbedroll",
+      "category": "Furniture",
+      "defname": "BedrollGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestdoublebedroll",
+      "category": "Furniture",
+      "defname": "BedrollDoubleGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestslabbed",
+      "category": "Furniture",
+      "defname": "SlabBedGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestslabdoublebed",
+      "category": "Furniture",
+      "defname": "SlabDoubleBedGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestandroidpod",
+      "category": "Furniture",
+      "defname": "ATPP_AndroidPodGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestm7pod",
+      "category": "Furniture",
+      "defname": "ATPP_AndroidPodMechGuest",
+      "price": -10
+    },
+    {
+      "abr": "guestandroidupgradestation",
+      "category": "Furniture",
+      "defname": "AndroidOperationBedGuest",
+      "price": -10
     }
   ],
-  "total": 1267
+  "total": 1245
 }

@@ -44,23 +44,6 @@
       "localCooldown": 0,
       "mod": "Twitch Toolkit"
     },
-    "description": null,
-    "name": "Purchase list",
-    "usage": "!purchaselist",
-    "userLevel": "Anyone",
-    "shortcut": false
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "Twitch Toolkit"
-    },
     "description": "Gives a viewer some of your coins.",
     "name": "Gift coins",
     "usage": "!giftcoins <viewer> <amount>",
@@ -231,23 +214,6 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": null,
-    "name": "Revive any pawn",
-    "usage": "!reviveanypawn",
-    "userLevel": "Anyone",
-    "shortcut": true
-  },
-  {
-    "data": {
-      "isShortcut": true,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
     "description": "Replaces a trait with a different trait.",
     "name": "Replace trait",
     "usage": "!replacetrait <old> <new>",
@@ -285,23 +251,6 @@
     "description": "Upgrades a skill's passion... sometimes.",
     "name": "Add passion",
     "usage": "!passion <skill>",
-    "userLevel": "Anyone",
-    "shortcut": true
-  },
-  {
-    "data": {
-      "isShortcut": true,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": null,
-    "name": "Rescue me",
-    "usage": "!rescueme",
     "userLevel": "Anyone",
     "shortcut": true
   },
@@ -353,6 +302,23 @@
     "description": "Shows an overview of your pawn's health. If a capacity is specified, it'll show what's affecting it.",
     "name": "Viewer health",
     "usage": "!mypawnhealth [capacity]",
+    "userLevel": "Anyone",
+    "shortcut": false
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
+    "description": null,
+    "name": "Viewer needs",
+    "usage": "!mypawnneeds",
     "userLevel": "Anyone",
     "shortcut": false
   },
@@ -486,6 +452,40 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
+    "description": "Shows the current research progress. If a project is specified, it'll show the progress of that instead.",
+    "name": "Research",
+    "usage": "!research [project/item]",
+    "userLevel": "Anyone",
+    "shortcut": false
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
+    "description": "Shows the first few results for the query in the given category. Valid categories are: 'pawns', 'traits', 'items', 'events', 'diseases', 'animals', and 'skills'.",
+    "name": "Lookup",
+    "usage": "!lookup <item/category> [query]",
+    "userLevel": "Anyone",
+    "shortcut": false
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
     "description": "Similar to the lookup command, except it'll show the price for the first valid match.",
     "name": "Price check",
     "usage": "!price <item/category> [query]",
@@ -507,6 +507,40 @@
     "name": "Unstick",
     "usage": "!unstick",
     "userLevel": "Moderator",
+    "shortcut": false
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
+    "description": null,
+    "name": "Colony wealth",
+    "usage": "!wealth",
+    "userLevel": "Anyone",
+    "shortcut": false
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
+    "description": null,
+    "name": "Colonist count",
+    "usage": "!colonists",
+    "userLevel": "Anyone",
     "shortcut": false
   },
   {
