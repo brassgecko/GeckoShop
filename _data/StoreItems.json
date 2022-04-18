@@ -6595,6 +6595,162 @@
       "price": -10
     },
     {
+      "abr": "doormat",
+      "category": "Furniture",
+      "defname": "DoorMatLeather",
+      "price": -10
+    },
+    {
+      "abr": "mediumdoormat",
+      "category": "Furniture",
+      "defname": "DoorMatMediumLeather",
+      "price": -10
+    },
+    {
+      "abr": "largedoormat",
+      "category": "Furniture",
+      "defname": "DoorMatBigLeather",
+      "price": -10
+    },
+    {
+      "abr": "linkeddoormat",
+      "category": "Furniture",
+      "defname": "DoorMatLinkedLeather",
+      "price": -10
+    },
+    {
+      "abr": "doormat(red)",
+      "category": "Furniture",
+      "defname": "DoorMatRed",
+      "price": -10
+    },
+    {
+      "abr": "doormat(orange)",
+      "category": "Furniture",
+      "defname": "DoorMatOrange",
+      "price": -10
+    },
+    {
+      "abr": "doormat(green)",
+      "category": "Furniture",
+      "defname": "DoorMatGreen",
+      "price": -10
+    },
+    {
+      "abr": "doormat(teal)",
+      "category": "Furniture",
+      "defname": "DoorMatTeal",
+      "price": -10
+    },
+    {
+      "abr": "doormat(blue)",
+      "category": "Furniture",
+      "defname": "DoorMatBlue",
+      "price": -10
+    },
+    {
+      "abr": "mediumdoormat(red)",
+      "category": "Furniture",
+      "defname": "DoorMatMediumRed",
+      "price": -10
+    },
+    {
+      "abr": "mediumdoormat(orange)",
+      "category": "Furniture",
+      "defname": "DoorMatMediumOrange",
+      "price": -10
+    },
+    {
+      "abr": "mediumdoormat(green)",
+      "category": "Furniture",
+      "defname": "DoorMatMediumGreen",
+      "price": -10
+    },
+    {
+      "abr": "mediumdoormat(teal)",
+      "category": "Furniture",
+      "defname": "DoorMatMediumTeal",
+      "price": -10
+    },
+    {
+      "abr": "mediumdoormat(blue)",
+      "category": "Furniture",
+      "defname": "DoorMatMediumBlue",
+      "price": -10
+    },
+    {
+      "abr": "largedoormat(red)",
+      "category": "Furniture",
+      "defname": "DoorMatBigRed",
+      "price": -10
+    },
+    {
+      "abr": "largedoormat(orange)",
+      "category": "Furniture",
+      "defname": "DoorMatBigOrange",
+      "price": -10
+    },
+    {
+      "abr": "largedoormat(green)",
+      "category": "Furniture",
+      "defname": "DoorMatBigGreen",
+      "price": -10
+    },
+    {
+      "abr": "largedoormat(teal)",
+      "category": "Furniture",
+      "defname": "DoorMatBigTeal",
+      "price": -10
+    },
+    {
+      "abr": "largedoormat(blue)",
+      "category": "Furniture",
+      "defname": "DoorMatBigBlue",
+      "price": -10
+    },
+    {
+      "abr": "linkeddoormat(red)",
+      "category": "Furniture",
+      "defname": "DoorMatLinkedRed",
+      "price": -10
+    },
+    {
+      "abr": "linkeddoormat(orange)",
+      "category": "Furniture",
+      "defname": "DoorMatLinkedOrange",
+      "price": -10
+    },
+    {
+      "abr": "linkeddoormat(green)",
+      "category": "Furniture",
+      "defname": "DoorMatLinkedGreen",
+      "price": -10
+    },
+    {
+      "abr": "linkeddoormat(teal)",
+      "category": "Furniture",
+      "defname": "DoorMatLinkedTeal",
+      "price": -10
+    },
+    {
+      "abr": "linkeddoormat(blue)",
+      "category": "Furniture",
+      "defname": "DoorMatLinkedBlue",
+      "price": -10
+    },
+    {
+      "abr": "circuitbreaker",
+      "category": "Power",
+      "defname": "Building_RTCircuitBreaker",
+      "price": -10
+    },
+    {
+      "abr": "makeshiftfuse",
+      "category": "Power",
+      "defname": "Building_RTMakeshiftFuse",
+      "price": -10
+    },
+    {
       "abr": "refrigerator",
       "category": "Furniture",
       "defname": "owl_refrigerator",
@@ -6604,6 +6760,12 @@
       "abr": "doublewiderefrigerator",
       "category": "Furniture",
       "defname": "owl_doublerefrigerator",
+      "price": -10
+    },
+    {
+      "abr": "glasspane",
+      "category": "Manufactured",
+      "defname": "GlassPane",
       "price": -10
     },
     {
@@ -7471,5 +7633,5 @@
       "price": -10
     }
   ],
-  "total": 1245
+  "total": 1272
 }

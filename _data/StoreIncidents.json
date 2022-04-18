@@ -16,11 +16,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "genderswap",
-		"price": 600,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "passionshuffle",
 		"price": 2000,
 		"karmatype": "Neutral"
@@ -61,5 +56,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 12
+	"total": 11
 }
