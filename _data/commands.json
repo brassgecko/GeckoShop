@@ -38,6 +38,24 @@
   {
     "data": {
       "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "Twitch Toolkit"
+    },
+    "description": null,
+    "name": "Join queue",
+    "usage": "!joinqueue",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "JoinQueue"
+  },
+  {
+    "data": {
+      "isShortcut": false,
       "isBuy": true,
       "isBalance": false,
       "hasGlobalCooldown": false,
@@ -118,9 +136,9 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Set the color of clothing or equipment. Limited color names can be used, or hex codes in format #000000",
+    "description": null,
     "name": "Dye apparel",
-    "usage": "!dye apparelname=color",
+    "usage": "!dye",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "DyeApparel"
@@ -406,6 +424,24 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
+    "description": null,
+    "name": "Fix all pawns",
+    "usage": "!fixallpawns",
+    "userLevel": "Moderator",
+    "shortcut": false,
+    "defName": "FixAllPawns"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
     "description": "Shows your pawn's relationships to other viewers.",
     "name": "Viewer relations",
     "usage": "!mypawnrelations [viewer]",
@@ -479,6 +515,24 @@
       "mod": "ToolkitUtils"
     },
     "description": null,
+    "name": "Unstick",
+    "usage": "!unstick",
+    "userLevel": "Moderator",
+    "shortcut": false,
+    "defName": "UnstickAll"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
+    "description": null,
     "name": "Colony wealth",
     "usage": "!wealth",
     "userLevel": "Anyone",
@@ -521,4 +575,22 @@
     "shortcut": false,
     "defName": "UnstickMe"
   },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitCore"
+    },
+    "description": null,
+    "name": "hello",
+    "usage": "!hello",
+    "userLevel": "Moderator",
+    "shortcut": false,
+    "defName": "HelloWorld"
+  }
 ]

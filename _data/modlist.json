@@ -3,7 +3,7 @@
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
-    "version": "1.2.0.0"
+    "version": "1.3.0.0"
   },
   {
     "author": "Fluffy",
@@ -36,12 +36,6 @@
     "version": "1.3.0.4"
   },
   {
-    "author": "Kiame Vivacity",
-    "name": "[KV] Save Storage, Outfit, Crafting, Drug, & Operation Settings",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "CrashM",
     "name": "CM Color Coded Mood Bar [1.1+]",
     "steamId": "2006605356",
@@ -72,28 +66,22 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "lost_RD",
-    "name": "Slow Down",
-    "steamId": "1077748917",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Andreas Pardeike",
     "name": "Camera+",
     "steamId": "867467808",
-    "version": "2.2.4.0"
+    "version": "2.3.2.0"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "No Pause Challenge",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "UnlimitedHugs",
     "name": "Map Reroll",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Oblitus",
-    "name": "My Little Planet",
-    "steamId": "1117406550",
-    "version": "1.0.0.0"
   },
   {
     "author": "Kosaro",
@@ -112,18 +100,6 @@
     "name": "Toggleable Readouts",
     "steamId": "2661792499",
     "version": "1.3"
-  },
-  {
-    "author": "Neptimus7",
-    "name": "Progress Renderer",
-    "steamId": "2010777010",
-    "version": "1.3.2"
-  },
-  {
-    "author": "Falconne",
-    "name": "Heat Map",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "FluffyKittens",
@@ -150,6 +126,18 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Torann",
+    "name": "A RimWorld of Magic",
+    "steamId": "1201382956",
+    "version": "2.5.7.2"
+  },
+  {
+    "author": "Kure",
+    "name": "Kure's Rimworld of Magic Class Expansion Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "hodlhodl",
     "name": "ToolkitCore",
     "steamId": "2018368654",
@@ -174,118 +162,22 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "brucethemoose",
+    "name": "Hybrid Storytellers",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Rainbeau Flambe (original) & Kiame Vivacity",
     "name": "[KV] More Trait Slots",
     "steamId": "1508292711",
     "version": "1.0.7862.37403"
   },
   {
-    "author": "NilchEi",
-    "name": "Powerful Faction Bases",
-    "steamId": "1570960972",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Kentington and Thain",
-    "name": "Save Our Ship 2",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races",
-    "steamId": "839005762",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Dubwise",
     "name": "Dubs Bad Hygiene",
     "steamId": "836308268",
     "version": "2.7.7366"
-  },
-  {
-    "author": "Orion",
-    "name": "Hospitality",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Orion",
-    "name": "Cash Register",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Orion",
-    "name": "Gastronomy",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Syrchalis",
-    "name": "[SYR] Universal Fermenter",
-    "steamId": "2073225100",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "dismarzero",
-    "name": "VGP Vegetable Garden",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "dismarzero",
-    "name": "VGP Garden Gourmet",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "dismarzero",
-    "name": "VGP Garden Tools",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "dismarzero",
-    "name": "VGP Garden Drinks UF",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Carny Senpai",
-    "name": "Enable Oversized Weapons",
-    "steamId": "2543371889",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Atlas and  aRandomKiwi",
-    "name": "Android tiers",
-    "steamId": "1386412863",
-    "version": "3.0.0.3"
-  },
-  {
-    "author": "Reborn by Winterbloom",
-    "name": "Android tiers - Gynoids Reborn",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Haplo",
-    "name": "Misc. Robots",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "SomewhereOutInSpace",
-    "name": "Rimsential - Spaceports",
-    "steamId": "2663999215",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "AUTOMATIC",
-    "name": "Trader ships",
-    "steamId": "2046222331",
-    "version": "1.0.350.0854"
   },
   {
     "author": "Machine",
@@ -297,7 +189,7 @@
     "author": "Andreas Pardeike",
     "name": "Zombieland",
     "steamId": "928376710",
-    "version": "3.0.8.0"
+    "version": "3.1.0.0"
   },
   {
     "author": "Syrchalis",
@@ -322,6 +214,12 @@
     "name": "Less Mechanoids",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "miyamiya",
+    "name": "Compressed Raid",
+    "steamId": "2377478084",
+    "version": "1.0.0.0"
   },
   {
     "author": "Lucifer",
@@ -486,12 +384,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "ChickenBites84 and  Denneisk",
-    "name": "Factorial Range Firefights",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Sozzky",
     "name": "Projectile Speed Booster",
     "steamId": "2552851555",
@@ -628,12 +520,6 @@
     "name": "Pawn Rules",
     "steamId": "1499843448",
     "version": "1.5.0.0"
-  },
-  {
-    "author": "Tyler",
-    "name": "Pawn Education (Continued)",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Fuu Chan",

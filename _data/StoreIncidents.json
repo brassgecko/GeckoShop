@@ -1,11 +1,6 @@
 {
 	"incitems" : [
 	{
-		"abr": "pawn",
-		"price": 1,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "trait",
 		"price": 1,
 		"karmatype": "Good"
@@ -14,6 +9,11 @@
 		"abr": "removetrait",
 		"price": 1,
 		"karmatype": "Good"
+	},
+	{
+		"abr": "genderswap",
+		"price": 500,
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "passionshuffle",
