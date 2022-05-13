@@ -9449,7 +9449,7 @@
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
@@ -18679,26 +18679,6 @@
     "Mod": "Dubs Bad Hygiene",
     "KarmaType": null
   },
-  "owl_doublerefrigerator": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Simple Utilities: Fridge",
-    "KarmaType": null
-  },
   "PitLatrine": {
     "CustomName": null,
     "HasQuantityLimit": false,
@@ -18739,7 +18719,7 @@
     "Mod": "Dubs Bad Hygiene",
     "KarmaType": null
   },
-  "WaterTrough": {
+  "owl_doublerefrigerator": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -18756,27 +18736,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Bad Hygiene",
-    "KarmaType": null
-  },
-  "PetWaterBowl": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Dubs Bad Hygiene",
+    "Mod": "Simple Utilities: Fridge",
     "KarmaType": null
   },
   "LitterBox": {

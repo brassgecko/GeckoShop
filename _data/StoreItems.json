@@ -2836,7 +2836,7 @@
       "abr": "shardofspiritextraction",
       "category": "Magic artifacts",
       "defname": "TM_Artifact_ClassExtraction",
-      "price": -10
+      "price": 1000
     },
     {
       "abr": "essenceofmight",
@@ -5623,18 +5623,6 @@
       "price": -10
     },
     {
-      "abr": "watertrough",
-      "category": "Hygiene",
-      "defname": "WaterTrough",
-      "price": -10
-    },
-    {
-      "abr": "waterbowl",
-      "category": "Hygiene",
-      "defname": "PetWaterBowl",
-      "price": -10
-    },
-    {
       "abr": "litterbox",
       "category": "Hygiene",
       "defname": "LitterBox",
@@ -8395,17 +8383,17 @@
       "price": -10
     },
     {
-      "abr": "skilltrainer(social)",
-      "category": "Skilltrainers",
-      "defname": "Neurotrainer_Social",
-      "price": -10
-    },
-    {
       "abr": "skilltrainer(intellectual)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Intellectual",
       "price": -10
+    },
+    {
+      "abr": "skilltrainer(social)",
+      "category": "Skilltrainers",
+      "defname": "Neurotrainer_Social",
+      "price": -10
     }
   ],
-  "total": 1401
+  "total": 1399
 }

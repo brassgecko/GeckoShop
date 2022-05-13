@@ -1,6 +1,11 @@
 {
 	"incitems" : [
 	{
+		"abr": "pawn",
+		"price": 1,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "trait",
 		"price": 1,
 		"karmatype": "Good"
@@ -46,6 +51,11 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "use",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
 		"abr": "randomchildhood",
 		"price": 3000,
 		"karmatype": "Neutral"
@@ -56,5 +66,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 11
+	"total": 13
 }
