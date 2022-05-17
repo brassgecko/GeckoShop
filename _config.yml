@@ -23,7 +23,7 @@ store:
 #   limit       → Whether or not the list will display when a trait can bypass the trait limit.
 #   description → Whether or not the list will display the trait's description.
   traits:
-    conflicts: true
+    conflicts: false
     stats: true
     karma: true
     limit: true
