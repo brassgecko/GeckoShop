@@ -880,49 +880,49 @@
       "abr": "silver",
       "category": "Raw resources",
       "defname": "Silver",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "gold",
       "category": "Raw resources",
       "defname": "Gold",
-      "price": -10
+      "price": 17
     },
     {
       "abr": "steelingot",
       "category": "Raw resources",
       "defname": "Steel",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "plasteel",
       "category": "Raw resources",
       "defname": "Plasteel",
-      "price": -10
+      "price": 15
     },
     {
       "abr": "wood",
       "category": "Raw resources",
       "defname": "WoodLog",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "uranium",
       "category": "Raw resources",
       "defname": "Uranium",
-      "price": -10
+      "price": 10
     },
     {
       "abr": "jade",
       "category": "Raw resources",
       "defname": "Jade",
-      "price": -10
+      "price": 8
     },
     {
       "abr": "cloth",
       "category": "Textiles",
       "defname": "Cloth",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "synthread",
@@ -934,7 +934,7 @@
       "abr": "devilstrand",
       "category": "Textiles",
       "defname": "DevilstrandCloth",
-      "price": -10
+      "price": 9
     },
     {
       "abr": "hyperweave",
@@ -976,49 +976,49 @@
       "abr": "leather",
       "category": "Leathers",
       "defname": "Leather_Plain",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "dogleather",
       "category": "Leathers",
       "defname": "Leather_Dog",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "wolfskin",
       "category": "Leathers",
       "defname": "Leather_Wolf",
-      "price": -10
+      "price": 5
     },
     {
       "abr": "pantherafur",
       "category": "Leathers",
       "defname": "Leather_Panthera",
-      "price": -10
+      "price": 5
     },
     {
       "abr": "camelhide",
       "category": "Leathers",
       "defname": "Leather_Camel",
-      "price": -10
+      "price": 4
     },
     {
       "abr": "heavyfur",
       "category": "Leathers",
       "defname": "Leather_Bluefur",
-      "price": -10
+      "price": 4
     },
     {
       "abr": "thickleather",
       "category": "Leathers",
       "defname": "Leather_Bear",
-      "price": -10
+      "price": 5
     },
     {
       "abr": "guineapigfur",
       "category": "Leathers",
       "defname": "Leather_GuineaPig",
-      "price": -10
+      "price": 8
     },
     {
       "abr": "humanleather",
@@ -1030,67 +1030,67 @@
       "abr": "pigskin",
       "category": "Leathers",
       "defname": "Leather_Pig",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "softfur",
       "category": "Leathers",
       "defname": "Leather_Light",
-      "price": -10
+      "price": 5
     },
     {
       "abr": "birdleather",
       "category": "Leathers",
       "defname": "Leather_Bird",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "chinchillafur",
       "category": "Leathers",
       "defname": "Leather_Chinchilla",
-      "price": -10
+      "price": 11
     },
     {
       "abr": "foxfur",
       "category": "Leathers",
       "defname": "Leather_Fox",
-      "price": -10
+      "price": 6
     },
     {
       "abr": "scaleleather",
       "category": "Leathers",
       "defname": "Leather_Lizard",
-      "price": -10
+      "price": 4
     },
     {
       "abr": "elephantleather",
       "category": "Leathers",
       "defname": "Leather_Elephant",
-      "price": -10
+      "price": 5
     },
     {
       "abr": "heavyfur",
       "category": "Leathers",
       "defname": "Leather_Heavy",
-      "price": -10
+      "price": 6
     },
     {
       "abr": "thickscaleleather",
       "category": "Leathers",
       "defname": "Leather_Rhinoceros",
-      "price": -10
+      "price": 5
     },
     {
       "abr": "thrumbofur",
       "category": "Leathers",
       "defname": "Leather_Thrumbo",
-      "price": -10
+      "price": 23
     },
     {
       "abr": "patchleather",
       "category": "Leathers",
       "defname": "Leather_Patch",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "shieldbelt",
@@ -5314,13 +5314,13 @@
       "abr": "brownfur",
       "category": "Leathers",
       "defname": "Leather_Brownfur",
-      "price": -10
+      "price": 4
     },
     {
       "abr": "exoticleather",
       "category": "Leathers",
       "defname": "Leather_ACP",
-      "price": -10
+      "price": 6
     },
     {
       "abr": "angorarabbit",
@@ -6262,7 +6262,7 @@
       "abr": "leather",
       "category": "Leathers",
       "defname": "DankPyon_DummyLeather",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "smoker",
@@ -6826,67 +6826,67 @@
       "abr": "darkwood",
       "category": "Raw resources",
       "defname": "DankPyon_DarkWoodLog",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "elvenwood",
       "category": "Raw resources",
       "defname": "DankPyon_ElvenWoodLog",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "dryadwood",
       "category": "Raw resources",
       "defname": "DankPyon_DryadWoodLog",
-      "price": -10
+      "price": 7
     },
     {
       "abr": "ancientwood",
       "category": "Raw resources",
       "defname": "DankPyon_AncientWoodLog",
-      "price": -10
+      "price": 17
     },
     {
       "abr": "coalchunks",
       "category": "Raw resources",
       "defname": "DankPyon_Coal",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "ironore",
       "category": "Raw resources",
       "defname": "DankPyon_IronOre",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "ironingot",
       "category": "Raw resources",
       "defname": "DankPyon_IronIngot",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "silverore",
       "category": "Raw resources",
       "defname": "DankPyon_SilverOre",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "goldore",
       "category": "Raw resources",
       "defname": "DankPyon_GoldOre",
-      "price": -10
+      "price": 5
     },
     {
       "abr": "bone",
       "category": "Raw resources",
       "defname": "DankPyon_Bone",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "linen",
       "category": "Textiles",
       "defname": "DankPyon_Linen",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "tinyhide",
@@ -7210,7 +7210,7 @@
       "abr": "rawhide",
       "category": "Leathers",
       "defname": "DankPyon_Leather_Rawhide",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "fat",
@@ -7294,7 +7294,7 @@
       "abr": "cotton",
       "category": "Raw resources",
       "defname": "DankPyon_RawCotton",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "wheat",
@@ -7390,13 +7390,13 @@
       "abr": "daerleather",
       "category": "Leathers",
       "defname": "DankPyon_Leather_Daer",
-      "price": -10
+      "price": 25
     },
     {
       "abr": "lindwurmscales",
       "category": "Leathers",
       "defname": "DankPyon_Leather_Lindwurm",
-      "price": -10
+      "price": 33
     },
     {
       "abr": "roxwool",
@@ -8368,19 +8368,19 @@
       "abr": "fenrirskin",
       "category": "Leathers",
       "defname": "VFEV_Leather_Fenrir",
-      "price": -10
+      "price": 27
     },
     {
       "abr": "lothurrleather",
       "category": "Leathers",
       "defname": "VFEV_Leather_Lothurr",
-      "price": -10
+      "price": 22
     },
     {
       "abr": "njorunfur",
       "category": "Leathers",
       "defname": "VFEV_Leather_Njorun",
-      "price": -10
+      "price": 17
     },
     {
       "abr": "guardianhelmet",
@@ -9094,7 +9094,7 @@
       "abr": "nettlehemp",
       "category": "Textiles",
       "defname": "AYNettleHemp",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "aloeleaves",
@@ -9808,7 +9808,7 @@
       "abr": "crocodillianscale",
       "category": "Leathers",
       "defname": "Leather_Croco",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "squamatascale",
