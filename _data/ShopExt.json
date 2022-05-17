@@ -1989,6 +1989,66 @@
       "degree": -1
     },
     {
+      "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Humanoid Alien Races",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Xenophobia",
+      "name": "xenophobe",
+      "canAdd": false,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 3000,
+      "degree": 1
+    },
+    {
+      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Humanoid Alien Races",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Xenophobia",
+      "name": "xenophile",
+      "canAdd": false,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 3000,
+      "degree": -1
+    },
+    {
       "description": "Timmy is abnormally receptive to the ebb and flow of mana, he will gain mana 40% faster than normal but his maximum mana capacity is reduced by 20.",
       "stats": [
 
@@ -2014,8 +2074,8 @@
       },
       "defName": "TM_ArcaneConduitTD",
       "name": "arcaneconduit",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 3000,
       "degree": 0
@@ -2046,8 +2106,8 @@
       },
       "defName": "TM_ManaWellTD",
       "name": "manawell",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 3000,
       "degree": 0
@@ -2108,8 +2168,8 @@
       },
       "defName": "TM_FaeBloodTD",
       "name": "faeblood",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 3000,
       "degree": 0
@@ -2168,8 +2228,8 @@
       },
       "defName": "TM_EnlightenedTD",
       "name": "enlightened",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 3000,
       "degree": 0
@@ -2198,8 +2258,8 @@
       },
       "defName": "TM_CursedTD",
       "name": "cursed",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 3000,
       "degree": 0
@@ -2228,8 +2288,8 @@
       },
       "defName": "TM_OKWithDeath",
       "name": "unaffectedbydeath",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 3000,
       "degree": 0
@@ -2296,9 +2356,9 @@
         "shaman",
         "golemancer"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -2366,8 +2426,8 @@
       },
       "defName": "Undead",
       "name": "undead",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 3000,
       "degree": 0
@@ -2433,9 +2493,9 @@
         "shaman",
         "golemancer"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -2502,8 +2562,8 @@
       },
       "defName": "TM_Gifted",
       "name": "magicallygifted",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 3000,
       "degree": 0
@@ -3136,9 +3196,9 @@
       },
       "defName": "TM_Empath",
       "name": "empath",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 0
     },
@@ -3402,9 +3462,9 @@
       },
       "defName": "TM_Wanderer",
       "name": "wanderer",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 0
     },
@@ -3670,9 +3730,9 @@
       },
       "defName": "InnerFire",
       "name": "firemage",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 0
     },
@@ -3936,9 +3996,9 @@
       },
       "defName": "HeartOfFrost",
       "name": "icemage",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 0
     },
@@ -4198,9 +4258,9 @@
       },
       "defName": "StormBorn",
       "name": "lightningmage",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 0
     },
@@ -4468,9 +4528,9 @@
       },
       "defName": "Arcanist",
       "name": "arcanemage",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 0
     },
@@ -4736,9 +4796,9 @@
       },
       "defName": "Druid",
       "name": "druid",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 0
     },
@@ -5000,9 +5060,9 @@
       },
       "defName": "Paladin",
       "name": "paladin",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 0
     },
@@ -5262,9 +5322,9 @@
       },
       "defName": "Summoner",
       "name": "summoner",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 0
     },
@@ -5530,9 +5590,9 @@
       },
       "defName": "Necromancer",
       "name": "necromancer",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 0
     },
@@ -5822,9 +5882,9 @@
       },
       "defName": "Lich",
       "name": "lich",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 0
     },
@@ -6094,9 +6154,9 @@
       },
       "defName": "Priest",
       "name": "priest",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 0
     },
@@ -6352,9 +6412,9 @@
       },
       "defName": "TM_Bard",
       "name": "entertainer",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 0
     },
@@ -6610,9 +6670,9 @@
       },
       "defName": "TM_Bard",
       "name": "performer",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 1
     },
@@ -6868,9 +6928,9 @@
       },
       "defName": "TM_Bard",
       "name": "minstrel",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 2
     },
@@ -7126,9 +7186,9 @@
       },
       "defName": "TM_Bard",
       "name": "bard",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 3
     },
@@ -7404,9 +7464,9 @@
       },
       "defName": "Succubus",
       "name": "succubus",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 0
     },
@@ -7682,9 +7742,9 @@
       },
       "defName": "Warlock",
       "name": "warlock",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 0
     },
@@ -7956,9 +8016,9 @@
       },
       "defName": "Geomancer",
       "name": "geomancer",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 0
     },
@@ -8234,9 +8294,9 @@
       },
       "defName": "Technomancer",
       "name": "technomancer",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 0
     },
@@ -8502,9 +8562,9 @@
       },
       "defName": "BloodMage",
       "name": "bloodmage",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 0
     },
@@ -8772,9 +8832,9 @@
       },
       "defName": "Enchanter",
       "name": "enchanter",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 0
     },
@@ -9034,9 +9094,9 @@
       },
       "defName": "Chronomancer",
       "name": "chronomancer",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 0
     },
@@ -9296,9 +9356,9 @@
       },
       "defName": "ChaosMage",
       "name": "chaosmage",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 0
     },
@@ -9936,9 +9996,9 @@
       },
       "defName": "TM_TheShadow",
       "name": "shadow",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 0
     },
@@ -10574,9 +10634,9 @@
       },
       "defName": "TM_Brightmage",
       "name": "brightmage",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 0
     },
@@ -11210,9 +11270,9 @@
       },
       "defName": "TM_Shaman",
       "name": "shaman",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 0
     },
@@ -11842,9 +11902,9 @@
       },
       "defName": "TM_Golemancer",
       "name": "golemancer",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 0
     },
@@ -11909,9 +11969,9 @@
         "empath",
         "apothecary"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -11978,8 +12038,8 @@
       },
       "defName": "PhysicalProdigy",
       "name": "physicallyadept",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 3000,
       "degree": 0
@@ -12244,9 +12304,9 @@
       },
       "defName": "TM_Wayfarer",
       "name": "wayfarer",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 0
     },
@@ -12885,8 +12945,8 @@
       "defName": "TM_Apothecary",
       "name": "apothecary",
       "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 0
     },
@@ -13163,8 +13223,8 @@
       "defName": "Gladiator",
       "name": "gladiator",
       "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 0
     },
@@ -13430,9 +13490,9 @@
       },
       "defName": "Ranger",
       "name": "woodsman",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 0
     },
@@ -13698,9 +13758,9 @@
       },
       "defName": "Ranger",
       "name": "hunter",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 1
     },
@@ -13966,9 +14026,9 @@
       },
       "defName": "Ranger",
       "name": "scout",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 2
     },
@@ -14235,8 +14295,8 @@
       "defName": "Ranger",
       "name": "ranger",
       "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 3
     },
@@ -14494,9 +14554,9 @@
       },
       "defName": "TM_Sniper",
       "name": "sharpshooter",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 0
     },
@@ -14755,8 +14815,8 @@
       "defName": "TM_Sniper",
       "name": "sniper",
       "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 1
     },
@@ -15014,9 +15074,9 @@
       },
       "defName": "TM_Sniper",
       "name": "mastersniper",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 2
     },
@@ -15274,9 +15334,9 @@
       },
       "defName": "TM_Sniper",
       "name": "legendarysniper",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 3
     },
@@ -15532,9 +15592,9 @@
       },
       "defName": "Bladedancer",
       "name": "bladesman",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 0
     },
@@ -15790,9 +15850,9 @@
       },
       "defName": "Bladedancer",
       "name": "blademaster",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 1
     },
@@ -16051,8 +16111,8 @@
       "defName": "Bladedancer",
       "name": "bladedancer",
       "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 2
     },
@@ -16310,9 +16370,9 @@
       },
       "defName": "Bladedancer",
       "name": "legendarybladedancer",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 3
     },
@@ -16582,9 +16642,9 @@
       },
       "defName": "Faceless",
       "name": "faceless",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 0
     },
@@ -16850,9 +16910,9 @@
       },
       "defName": "TM_Psionic",
       "name": "psionic",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 0
     },
@@ -17112,9 +17172,9 @@
       },
       "defName": "DeathKnight",
       "name": "deathknight",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 0
     },
@@ -17381,8 +17441,8 @@
       "defName": "TM_Monk",
       "name": "monk",
       "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 0
     },
@@ -17643,8 +17703,8 @@
       "defName": "TM_Commander",
       "name": "commander",
       "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 0
     },
@@ -17912,9 +17972,9 @@
       },
       "defName": "TM_SuperSoldier",
       "name": "supersoldier",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 0
     },
@@ -18448,9 +18508,9 @@
       },
       "defName": "TM_RedMage",
       "name": "redmage",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 4
     },
@@ -18976,9 +19036,9 @@
       },
       "defName": "TM_Ninja",
       "name": "ninja",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 4
     },
@@ -19498,9 +19558,9 @@
       },
       "defName": "TM_ElementalGunner",
       "name": "elementalgunner",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 4
     },
@@ -20018,9 +20078,9 @@
       },
       "defName": "TM_Bombardier",
       "name": "bombardier",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 4
     },
@@ -20546,9 +20606,9 @@
       },
       "defName": "TM_Railbreaker",
       "name": "railbreaker",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 4
     },
@@ -21077,8 +21137,8 @@
       "defName": "TM_Samurai",
       "name": "samurai",
       "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 4
     },
@@ -21608,9 +21668,9 @@
       },
       "defName": "TM_Gadgeteer",
       "name": "gadgeteer",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 4
     },
@@ -22138,9 +22198,9 @@
       },
       "defName": "TM_WindMage",
       "name": "windmage",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 4
     },
@@ -22674,9 +22734,9 @@
       },
       "defName": "TM_Medic",
       "name": "medic",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 4
     },
@@ -23198,9 +23258,9 @@
       },
       "defName": "TM_ChromaMage",
       "name": "chromamage",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 4
     },
@@ -23726,9 +23786,9 @@
       },
       "defName": "TM_Harbinger",
       "name": "harbinger",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 4
     },
@@ -24254,9 +24314,9 @@
       },
       "defName": "TM_Reaper",
       "name": "reaper",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 4
     },
@@ -24799,8 +24859,8 @@
       "defName": "TM_Berserker",
       "name": "berserker",
       "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 4
     },
@@ -25326,9 +25386,9 @@
       },
       "defName": "TM_Scion",
       "name": "scion",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 4
     },
@@ -25853,8 +25913,8 @@
       "defName": "TM_Plaguedoctor",
       "name": "plaguedoctor",
       "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 4
     },
@@ -26376,9 +26436,9 @@
       },
       "defName": "TM_Cleric",
       "name": "cleric",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 4
     },
@@ -26904,9 +26964,9 @@
       },
       "defName": "TM_Arbormancer",
       "name": "arbormancer",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 4
     },
@@ -27428,9 +27488,9 @@
       },
       "defName": "TM_Chainwarden",
       "name": "chainwarden",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 4
     },
@@ -27957,8 +28017,8 @@
       "defName": "TM_Ambusher",
       "name": "ambusher",
       "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 4
     },
@@ -28484,9 +28544,9 @@
       },
       "defName": "TM_Saboteur",
       "name": "saboteur",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 4
     },
@@ -29016,9 +29076,9 @@
       },
       "defName": "TM_Keeper",
       "name": "keeper",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 4
     },
@@ -29550,9 +29610,9 @@
       },
       "defName": "TM_Pridestalker",
       "name": "pridestalker",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 4
     },
@@ -30100,9 +30160,9 @@
       },
       "defName": "TM_Starseeker",
       "name": "starseeker",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 4
     },
@@ -30650,9 +30710,9 @@
       },
       "defName": "TM_Aspirant",
       "name": "aspirant",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 4
     },
@@ -31173,8 +31233,8 @@
       "defName": "TM_Hawkeye",
       "name": "hawkeye",
       "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 4
     },
@@ -31698,9 +31758,9 @@
       },
       "defName": "TM_Atronach",
       "name": "atronach",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 4
     },
@@ -32232,9 +32292,9 @@
       },
       "defName": "TM_SupportSpecialist",
       "name": "supportspecialist",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 4
     },
@@ -32767,8 +32827,8 @@
       "defName": "TM_Scrapper",
       "name": "scrapper",
       "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 4
     },
@@ -33296,9 +33356,9 @@
       },
       "defName": "TM_Oracle",
       "name": "oracle",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 4
     },
@@ -33826,9 +33886,9 @@
       },
       "defName": "TM_Mystic",
       "name": "mystic",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 4
     },
@@ -34354,9 +34414,9 @@
       },
       "defName": "TM_Spellbreaker",
       "name": "spellbreaker",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 4
     },
@@ -34878,9 +34938,9 @@
       },
       "defName": "TM_Duskbringer",
       "name": "duskbringer",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 4
     },
@@ -35408,9 +35468,9 @@
       },
       "defName": "TM_Thunderblessed",
       "name": "thunderblessed",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 4
     },
@@ -35936,9 +35996,9 @@
       },
       "defName": "TM_Deadeye",
       "name": "deadeye",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 4
     },
@@ -36464,9 +36524,9 @@
       },
       "defName": "TM_Spellthief",
       "name": "spellthief",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 4
     },
@@ -36992,9 +37052,9 @@
       },
       "defName": "TM_Dragoon",
       "name": "dragoon",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 4
     },
@@ -37530,9 +37590,9 @@
       },
       "defName": "TM_BlackMage",
       "name": "blackmage",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 4
     },
@@ -38062,9 +38122,9 @@
       },
       "defName": "TM_Scholar",
       "name": "scholar",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 4
     },
@@ -38590,9 +38650,9 @@
       },
       "defName": "TM_Gunbreaker",
       "name": "gunbreaker",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 4
     },
@@ -39112,9 +39172,9 @@
       },
       "defName": "TM_Gunner",
       "name": "gunner",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 4
     },
@@ -39651,8 +39711,8 @@
       "defName": "TM_Warrior",
       "name": "warrior",
       "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 4
     },
@@ -40179,8 +40239,8 @@
       "defName": "TM_Nomad",
       "name": "nomad",
       "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 4
     },
@@ -40704,9 +40764,9 @@
       },
       "defName": "TM_Guardian",
       "name": "guardian",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 4
     },
@@ -41228,9 +41288,9 @@
       },
       "defName": "TM_Holosmith",
       "name": "holosmith",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 4
     },
@@ -41758,9 +41818,9 @@
       },
       "defName": "TM_Troubadour",
       "name": "troubadour",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 4
     },
@@ -42286,9 +42346,9 @@
       },
       "defName": "TM_Gambler",
       "name": "gambler",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 4
     },
@@ -42813,8 +42873,8 @@
       "defName": "TM_Chef",
       "name": "chef",
       "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 4
     },
@@ -43343,8 +43403,8 @@
       "defName": "TM_Miner",
       "name": "miner",
       "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 4
     },
@@ -43870,9 +43930,9 @@
       },
       "defName": "TM_Striker",
       "name": "striker",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 4
     },
@@ -44394,9 +44454,9 @@
       },
       "defName": "TM_RuneKnight",
       "name": "runeknight",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 4
     },
@@ -44926,9 +44986,9 @@
       },
       "defName": "TM_BlossomBlader",
       "name": "blossomblader",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 4
     },
@@ -45446,9 +45506,9 @@
       },
       "defName": "TM_Ravenous",
       "name": "ravenous",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 4
     },
@@ -45968,9 +46028,9 @@
       },
       "defName": "TM_MechHunter",
       "name": "mechhunter",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 4
     },
@@ -46492,9 +46552,9 @@
       },
       "defName": "TM_Gunslinger",
       "name": "gunslinger",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 4
     },
@@ -46504,9 +46564,8 @@
         "+5.00 melee hit chance",
         "-15.0 shooting accuracy",
         "+65% pain shock threshold",
-        "-15% global work speed",
-        "-15% mental break threshold",
-        "x75% incoming damage multiplier"
+        "-25% global work speed",
+        "-15% mental break threshold"
       ],
       "conflicts": [
         "bladesman",
@@ -47015,16 +47074,15 @@
           "+5.00 melee hit chance",
           "-15.0 shooting accuracy",
           "+65% pain shock threshold",
-          "-15% global work speed",
-          "-15% mental break threshold",
-          "x75% incoming damage multiplier"
+          "-25% global work speed",
+          "-15% mental break threshold"
         ]
       },
       "defName": "TM_Shadowbringer",
       "name": "shadowbringer",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 4
     },
@@ -47548,9 +47606,9 @@
       },
       "defName": "TM_Warden",
       "name": "warden",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 4
     },
@@ -48076,131 +48134,11 @@
       },
       "defName": "TM_Chempunk",
       "name": "chempunk",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 7000,
       "removePrice": 3000,
       "degree": 4
-    },
-    {
-      "description": "Timmy is obsessed with germs and will wash much more frequently than normal.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Hygienic",
-      "name": "germaphobe",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3000,
-      "degree": 2
-    },
-    {
-      "description": "Timmy is very hygienic and will wash more frequently.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Hygienic",
-      "name": "hygienic",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3000,
-      "degree": 1
-    },
-    {
-      "description": "Timmy is very unhygienic and will wash less frequently.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Hygienic",
-      "name": "unhygienic",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3000,
-      "degree": -1
-    },
-    {
-      "description": "Timmy has very low standards of cleanliness and will only wash when they absolutely have to.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Hygienic",
-      "name": "slob",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3000,
-      "degree": -2
     },
     {
       "description": "Timmy has remarkable kinesthetic intelligence. he seems to dance around danger with preternatural grace.",
@@ -48228,6 +48166,170 @@
       },
       "defName": "Nimble",
       "name": "nimble",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 3000,
+      "degree": 0
+    },
+    {
+      "description": "Timmy's reflexes are truly out of this world. They can parry melee attacks without any training and with luck even bullets.",
+      "stats": [
+        "+10.0 melee parry melee chance",
+        "+5.0 melee parry projectile chance",
+        "+1000% melee avoid chance"
+      ],
+      "conflicts": [
+        "wimp"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Supreme Melee (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "wimp"
+        ],
+        "stats": [
+          "+10.0 melee parry melee chance",
+          "+5.0 melee parry projectile chance",
+          "+1000% melee avoid chance"
+        ]
+      },
+      "defName": "SupremeMelee_QuickReflexes",
+      "name": "quickreflexes",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 3000,
+      "degree": 1
+    },
+    {
+      "description": "Timmy's reflexes transcend common sense. They can easily parry melee attacks without any training and with a bit of luck even bullets.",
+      "stats": [
+        "+20.0 melee parry melee chance",
+        "+10.0 melee parry projectile chance",
+        "+2000% melee avoid chance"
+      ],
+      "conflicts": [
+        "wimp"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Supreme Melee (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "wimp"
+        ],
+        "stats": [
+          "+20.0 melee parry melee chance",
+          "+10.0 melee parry projectile chance",
+          "+2000% melee avoid chance"
+        ]
+      },
+      "defName": "SupremeMelee_QuickReflexes",
+      "name": "transcendentreflexes",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 3000,
+      "degree": 2
+    },
+    {
+      "description": "Timmy is a formidable fighter. he knows how to effectively handle a weapon and take blows.",
+      "stats": [
+        "+2.0 shooting accuracy",
+        "-15% aiming time",
+        "+4.00 melee hit chance",
+        "+600% melee avoid chance",
+        "-10% incoming damage multiplier",
+        "-10% trap spring chance",
+        "-90% mental break threshold",
+        "+10% pain shock threshold",
+        "x5% global certainty loss factor"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Medieval Overhaul",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+2.0 shooting accuracy",
+          "-15% aiming time",
+          "+4.00 melee hit chance",
+          "+600% melee avoid chance",
+          "-10% incoming damage multiplier",
+          "-10% trap spring chance",
+          "-90% mental break threshold",
+          "+10% pain shock threshold",
+          "x5% global certainty loss factor"
+        ]
+      },
+      "defName": "DankPyon_Fighter",
+      "name": "fighter",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 3000,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is a veteran. he has experienced countless of horrifying battles enough to break a common man. ",
+      "stats": [
+        "+6.0 shooting accuracy",
+        "-25% aiming time",
+        "+8.00 melee hit chance",
+        "+1200% melee avoid chance",
+        "+10% medical tend quality",
+        "-30% incoming damage multiplier",
+        "+0.30 move speed",
+        "-20% trap spring chance",
+        "-15% mental break threshold",
+        "+30% pain shock threshold",
+        "x25% global certainty loss factor"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Medieval Overhaul",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+6.0 shooting accuracy",
+          "-25% aiming time",
+          "+8.00 melee hit chance",
+          "+1200% melee avoid chance",
+          "+10% medical tend quality",
+          "-30% incoming damage multiplier",
+          "+0.30 move speed",
+          "-20% trap spring chance",
+          "-15% mental break threshold",
+          "+30% pain shock threshold",
+          "x25% global certainty loss factor"
+        ]
+      },
+      "defName": "DankPyon_Veteran",
+      "name": "veteran",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -49871,7 +49973,7 @@
           "+4.60 Move speed",
           "+28.8F [16.0C] Minimum comfortable temperature",
           "+46.8F [26.0C] Maximum comfortable temperature",
-          "+75 Leather amount",
+          "+0 Leather amount",
           "+3 Honor value"
         ],
         "mod": "Unknown",
@@ -49882,34 +49984,469 @@
       "defName": "Human",
       "enabled": true,
       "name": "human",
-      "price": 5000
+      "price": 2000
     },
     {
       "data": {
         "stats": [
-          "+70.00 Mass",
-          "+100% Flammability",
-          "-108.0F [-60.0C] Minimum comfortable temperature",
-          "+360.0F [200.0C] Maximum comfortable temperature",
-          "+0% Psychic sensitivity",
-          "+0% Toxic sensitivity",
-          "+0 Meat amount",
-          "+0 Leather amount",
-          "+0 Carrying capacity",
-          "+0.00% Social impact",
-          "+0.0% Armor - Blunt",
-          "+0.0% Armor - Sharp",
-          "+0.0% Armor - Heat"
+          "+35.00 Mass",
+          "+10% Flammability",
+          "+$1500 Market value",
+          "+4.50 Move speed",
+          "+9.0F [5.0C] Minimum comfortable temperature",
+          "+81.0F [45.0C] Maximum comfortable temperature",
+          "+20 Leather amount",
+          "+100% Psychic sensitivity",
+          "+30.0% Armor - Blunt",
+          "+50.0% Armor - Sharp",
+          "+20.0% Armor - Heat",
+          "+110% Global work speed"
         ],
         "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
-      "description": "A zombie",
-      "defName": "Zombie",
-      "enabled": false,
-      "name": "Zombie",
-      "price": 1
+      "description": "Territorial strongly built large humanoid creatures, Crocodillians are profiecient in combat and living in swampy choked enviroments.",
+      "defName": "FR_Alien_Croco",
+      "enabled": true,
+      "name": "Crocodillian",
+      "price": 2000
+    },
+    {
+      "data": {
+        "stats": [
+          "+35.00 Mass",
+          "+10% Flammability",
+          "+$1500 Market value",
+          "+4.80 Move speed",
+          "+9.0F [5.0C] Minimum comfortable temperature",
+          "+81.0F [45.0C] Maximum comfortable temperature",
+          "+20 Leather amount",
+          "+100% Psychic sensitivity",
+          "+25.0% Armor - Blunt",
+          "+40.0% Armor - Sharp",
+          "+20.0% Armor - Heat",
+          "+110% Global work speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Territorial medium sized humanoid creatures, Squamata are profiecient like their kin Crocodillians in combat and living in swampy choked enviroments.",
+      "defName": "FR_Alien_Squamata",
+      "enabled": true,
+      "name": "Squamata",
+      "price": 2000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+20% Flammability",
+          "+$2000 Market value",
+          "+4.60 Move speed",
+          "+21.6F [12.0C] Minimum comfortable temperature",
+          "+72.0F [40.0C] Maximum comfortable temperature",
+          "+25 Leather amount",
+          "+25% Mental break threshold",
+          "+80% Global learning factor",
+          "+80.00% Negotiation ability",
+          "+80.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A race of humanoids that resemble spiders and are typically found in the Underdark.",
+      "defName": "O21_FR_Chitine",
+      "enabled": true,
+      "name": "Chitine",
+      "price": 2000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+30% Flammability",
+          "+$2000 Market value",
+          "+5.20 Move speed",
+          "+14.4F [8.0C] Minimum comfortable temperature",
+          "+50.4F [28.0C] Maximum comfortable temperature",
+          "+25 Leather amount",
+          "+115% Psychic sensitivity",
+          "+80% Mining speed",
+          "+2.0 Beauty"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Drow, also known as dark elves, deep elves, night elves, or sometimes \"The Ones Who Went Below\" on the surface, were a dark-skinned sub-race of elves that predominantly lived in the Underdark. They were hated and feared due to their cruelty, though some non-evil and an even smaller number of good drow existed.",
+      "defName": "O21_FR_DarkElf",
+      "enabled": true,
+      "name": "Dark Elf",
+      "price": 2000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.20 Move speed",
+          "+28.8F [16.0C] Minimum comfortable temperature",
+          "+46.8F [26.0C] Maximum comfortable temperature",
+          "+35 Leather amount",
+          "+3 Honor value",
+          "+200% Mining speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Dwarves, sometimes called the Stout Folk, were a natural humanoid race common throughout parts of Toril as well as Abeir. Dwarves were a tough, tradition-abiding folk known for their strong martial traditions and beautiful craftsmanship.",
+      "defName": "O21_FR_Dwarf",
+      "enabled": true,
+      "name": "Dwarf",
+      "price": 2000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+20% Flammability",
+          "+$2000 Market value",
+          "+5.00 Move speed",
+          "+3.6F [2.0C] Minimum comfortable temperature",
+          "+57.6F [32.0C] Maximum comfortable temperature",
+          "+25 Leather amount",
+          "+20% Mental break threshold",
+          "+80% Global learning factor",
+          "+150% Animal gather speed",
+          "+150% Plant work speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A race of reclusive giant-kin, usually they prefer to avoid contact with other sentient races making them a very rare sight.",
+      "defName": "O21_FR_Firbolg",
+      "enabled": true,
+      "name": "Firbolg",
+      "price": 2000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+30% Flammability",
+          "+$2000 Market value",
+          "+4.80 Move speed",
+          "+14.4F [8.0C] Minimum comfortable temperature",
+          "+50.4F [28.0C] Maximum comfortable temperature",
+          "+20 Leather amount",
+          "+110% Psychic sensitivity",
+          "+110% Mining speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The gith were a race of humanoids who had been enslaved by mind flayers for countless generations. Some sages claimed that they were once descended from humans, while others maintained that their original race was in fact unknown. After breaking free from their enslavement, philosophical differences led to a bitter internal conflict, which divided the gith into two main different races at constant odds with each other: the githyanki and the githzerai.",
+      "defName": "O21_FR_Gith",
+      "enabled": true,
+      "name": "Gith",
+      "price": 2000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+30% Flammability",
+          "+$2000 Market value",
+          "+4.20 Move speed",
+          "+14.4F [8.0C] Minimum comfortable temperature",
+          "+50.4F [28.0C] Maximum comfortable temperature",
+          "+25 Leather amount",
+          "+100% Psychic sensitivity",
+          "+120% Mining speed",
+          "+120% Global work speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Goblins were a race of small and numerous goblinoids common throughout Toril, often living in underground caverns near the surface known as lairs. The race was often, though not always, dominated by other goblinoids, most commonly hobgoblins. Goblins may have, in fact, been initially created by this related race to serve as scouts and infiltrators.",
+      "defName": "O21_FR_Goblin",
+      "enabled": true,
+      "name": "Goblin",
+      "price": 2000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.00 Move speed",
+          "+28.8F [16.0C] Minimum comfortable temperature",
+          "+46.8F [26.0C] Maximum comfortable temperature",
+          "+20 Leather amount",
+          "+3 Honor value",
+          "+115% Hunger rate multiplier",
+          "+120% Hunting stealth"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Also known as Hin, or the \"quick folk\" amongst themselves, Halflings are small humanoid creatures, very similar in appearance to Humans, but around half their size.",
+      "defName": "O21_FR_Halfling",
+      "enabled": true,
+      "name": "Halfling",
+      "price": 2000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+30% Flammability",
+          "+$2000 Market value",
+          "+4.80 Move speed",
+          "+14.4F [8.0C] Minimum comfortable temperature",
+          "+50.4F [28.0C] Maximum comfortable temperature",
+          "+20 Leather amount",
+          "+100% Psychic sensitivity",
+          "+115% Mining speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Half-orcs were humanoids born of both human and orc ancestry by a multitude of means. Having the combined physical power of their orcish ancestors with the agility of their humans ones, half-orcs were formidable individuals. Though they were often shunned in both human and orcish society for different reasons, half-orcs have proven themselves from time to time as worthy heroes and dangerous villains. Their existence implied an interesting backstory that most would not like to dwell on.",
+      "defName": "O21_FR_HalfOrc",
+      "enabled": true,
+      "name": "Half-Orc",
+      "price": 2000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+30% Flammability",
+          "+$2000 Market value",
+          "+4.50 Move speed",
+          "+14.4F [8.0C] Minimum comfortable temperature",
+          "+50.4F [28.0C] Maximum comfortable temperature",
+          "+25 Leather amount",
+          "+100% Psychic sensitivity",
+          "+120% Mining speed",
+          "+90% Global work speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Hobgoblins are a larger, stronger, smarter, and more menacing form of goblinoids than goblins, but not as powerful as bugbears. It is believed they may have created the latter two races.",
+      "defName": "O21_FR_Hobgoblin",
+      "enabled": true,
+      "name": "Hobgoblin",
+      "price": 2000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+50% Flammability",
+          "+$2000 Market value",
+          "+4.60 Move speed",
+          "-36.0F [-20.0C] Minimum comfortable temperature",
+          "+72.0F [40.0C] Maximum comfortable temperature",
+          "+20 Leather amount",
+          "+100% Psychic sensitivity",
+          "+40% Hunger rate multiplier"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Killoren were a relatively new and uncommon race of fey. It was unknown whether they were created by a deity or were spontaneously created by nature itself.",
+      "defName": "O21_FR_Killoren",
+      "enabled": true,
+      "name": "Killoren",
+      "price": 2500
+    },
+    {
+      "data": {
+        "stats": [
+          "+35.00 Mass",
+          "+10% Flammability",
+          "+$1500 Market value",
+          "+4.30 Move speed",
+          "+14.4F [8.0C] Minimum comfortable temperature",
+          "+50.4F [28.0C] Maximum comfortable temperature",
+          "+20 Leather amount",
+          "+100% Psychic sensitivity",
+          "+20.0% Armor - Blunt",
+          "+35.0% Armor - Sharp",
+          "+15.0% Armor - Heat",
+          "+120% Global work speed",
+          "+120% Mining speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Aggressive, xenophobic, yet industrious small humanoid creatures, kobolds are noted for their skill at building traps and preparing ambushes.",
+      "defName": "O21_FR_Kobold",
+      "enabled": true,
+      "name": "Kobold",
+      "price": 2000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+30% Flammability",
+          "+$2000 Market value",
+          "+5.20 Move speed",
+          "+14.4F [8.0C] Minimum comfortable temperature",
+          "+50.4F [28.0C] Maximum comfortable temperature",
+          "+25 Leather amount",
+          "+115% Psychic sensitivity",
+          "+80% Mining speed",
+          "+2.0 Beauty"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Moon elves, also known as Teu-tel-quessir in the elven language or as silver elves, were the most common of all the elven subraces. More tolerant of humans than other elves, moon elves were the ancestors of most half-elves.",
+      "defName": "O21_FR_MoonElf",
+      "enabled": true,
+      "name": "Moon Elf",
+      "price": 2000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+30% Flammability",
+          "+$2000 Market value",
+          "+4.00 Move speed",
+          "+7.2F [4.0C] Minimum comfortable temperature",
+          "+57.6F [32.0C] Maximum comfortable temperature",
+          "+20 Leather amount",
+          "+130% Mining speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Orcs were a race of humanoids that had been a threat to the civilized cultures of Toril, particularly Faerûn, for as long as any could remember. This changed somewhat in the years preceding and immediately after the Spellplague, when a horde of mountain orcs under the command of King Obould Many-Arrows unified into a single kingdom, one that was remarkably civilized.",
+      "defName": "O21_FR_Orc",
+      "enabled": true,
+      "name": "Orc",
+      "price": 2000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+30% Flammability",
+          "+$2000 Market value",
+          "+5.20 Move speed",
+          "+14.4F [8.0C] Minimum comfortable temperature",
+          "+50.4F [28.0C] Maximum comfortable temperature",
+          "+25 Leather amount",
+          "+115% Psychic sensitivity",
+          "+80% Mining speed",
+          "+2.0 Beauty",
+          "+120% Global learning factor",
+          "+120.00% Negotiation ability",
+          "+120.00% Trade price improvement"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The sun elves, also sometimes known as gold elves, sometimes as high elves due to their stereotypically elitist ways, and Ar-tel-quessir in their own language were a subrace of high elves historically rare in Faerûn due to the Retreat, in which the majority abandoned the continent for Evermeet, although during the Era of Upheaval they began returning to the mainland. Haughty and arrogant, sun elves typically felt themselves superior to most other races, including other Tel-quessir.",
+      "defName": "O21_FR_SunElf",
+      "enabled": true,
+      "name": "Sun Elf",
+      "price": 2000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+30% Flammability",
+          "+$2000 Market value",
+          "+5.50 Move speed",
+          "+14.4F [8.0C] Minimum comfortable temperature",
+          "+50.4F [28.0C] Maximum comfortable temperature",
+          "+20 Leather amount",
+          "+100% Psychic sensitivity",
+          "+40% Hunger rate multiplier"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Tabaxi also known as jaguar people or cat-men, were a race of feline humanoids native to the jungles of Maztica.",
+      "defName": "O21_FR_Tabaxi",
+      "enabled": true,
+      "name": "Tabaxi",
+      "price": 2500
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+20% Flammability",
+          "+$2000 Market value",
+          "+4.60 Move speed",
+          "+21.6F [12.0C] Minimum comfortable temperature",
+          "+72.0F [40.0C] Maximum comfortable temperature",
+          "+25 Leather amount",
+          "+45% Mental break threshold",
+          "+110% Global learning factor",
+          "+115.00% Negotiation ability",
+          "+120.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Tieflings were human-based planetouched, native outsiders that were infused with the touch of the fiendish planes, most often through descent from fiends—demons, Yugoloths, devils, evil deities, and others who had bred with humans. Tieflings were known for their cunning and personal allure, which made them excellent deceivers as well as inspiring leaders when prejudices were laid aside.",
+      "defName": "O21_FR_Tiefling",
+      "enabled": true,
+      "name": "Tiefling",
+      "price": 2000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+30% Flammability",
+          "+$2000 Market value",
+          "+5.20 Move speed",
+          "+14.4F [8.0C] Minimum comfortable temperature",
+          "+50.4F [28.0C] Maximum comfortable temperature",
+          "+25 Leather amount",
+          "+115% Psychic sensitivity",
+          "+80% Mining speed",
+          "+2.0 Beauty"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Wood elves, also known as copper elves, or Or-tel-quessir were the most populous of the elven races. Wood elves saw themselves as guardians of the Tel-quessir forest homes that were largely abandoned after the Crown Wars and before the Retreat, but unlike most elves they did not view themselves as a people apart from the rest of Faerûn.",
+      "defName": "O21_FR_WoodElf",
+      "enabled": true,
+      "name": "Wood Elf",
+      "price": 2000
     }
   ]
 }
