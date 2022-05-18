@@ -84,15 +84,15 @@
     "version": null
   },
   {
+    "author": "CrashM",
+    "name": "CM Color Coded Mood Bar [1.1+]",
+    "steamId": "2006605356",
+    "version": "1.3.3136.1"
+  },
+  {
     "author": "PeteTimesSix",
     "name": "Compact Hediffs",
     "steamId": "2031734067",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "lost_RD",
-    "name": "Slow Down",
-    "steamId": "1077748917",
     "version": "1.0.0.0"
   },
   {
@@ -100,6 +100,12 @@
     "name": "Camera+",
     "steamId": "867467808",
     "version": "2.3.2.0"
+  },
+  {
+    "author": "lost_RD",
+    "name": "Slow Down",
+    "steamId": "1077748917",
+    "version": "1.0.0.0"
   },
   {
     "author": "Fluffy",
@@ -234,6 +240,12 @@
     "version": "1.0.3.2"
   },
   {
+    "author": "SirRandoo",
+    "name": "ToolkitPolls",
+    "steamId": "2435838514",
+    "version": "1.1.1.6"
+  },
+  {
     "author": "Orpheusly",
     "name": "Rimsential - Homebound",
     "steamId": null,
@@ -268,6 +280,12 @@
     "name": "Compressed Raid",
     "steamId": "2377478084",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Kirby23590",
+    "name": "[KIR]No Mechanoid Raids",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "1trickPonyta",
@@ -418,12 +436,6 @@
     "name": "[Kit] Just A Flesh Wound",
     "steamId": "2260055393",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "DaLLaN",
-    "name": "Combat Update 1.3",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "SinaKpaa",

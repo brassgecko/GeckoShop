@@ -116,6 +116,11 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "reviveme",
+		"price": 3000,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "passionshuffle",
 		"price": 2000,
 		"karmatype": "Neutral"
@@ -181,5 +186,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 36
+	"total": 37
 }
