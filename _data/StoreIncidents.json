@@ -96,11 +96,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "levelskill",
-		"price": 1500,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "trait",
 		"price": 1,
 		"karmatype": "Good"
@@ -157,6 +152,11 @@
 	},
 	{
 		"abr": "cleartraits",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "use",
 		"price": 1,
 		"karmatype": "Neutral"
 	},
