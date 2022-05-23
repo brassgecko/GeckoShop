@@ -27,7 +27,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -57,7 +57,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -89,7 +89,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -121,7 +121,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -151,7 +151,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -181,7 +181,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -223,7 +223,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -263,7 +263,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -293,7 +293,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -323,7 +323,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -355,7 +355,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -387,7 +387,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -425,7 +425,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -436,9 +436,9 @@
       "conflicts": [
 
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -455,7 +455,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -466,9 +466,9 @@
       "conflicts": [
 
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -485,7 +485,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -496,9 +496,9 @@
       "conflicts": [
 
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -515,7 +515,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -545,7 +545,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -575,7 +575,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -607,7 +607,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -641,7 +641,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -671,7 +671,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -703,7 +703,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -733,7 +733,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -763,7 +763,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -793,7 +793,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -823,7 +823,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -853,7 +853,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -883,7 +883,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -913,7 +913,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -943,7 +943,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -975,7 +975,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -1005,7 +1005,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -1037,7 +1037,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": -1
     },
     {
@@ -1067,7 +1067,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 1
     },
     {
@@ -1097,7 +1097,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 2
     },
     {
@@ -1127,7 +1127,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 2
     },
     {
@@ -1157,7 +1157,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 1
     },
     {
@@ -1189,7 +1189,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": -1
     },
     {
@@ -1219,7 +1219,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 2
     },
     {
@@ -1249,7 +1249,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 1
     },
     {
@@ -1279,7 +1279,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": -1
     },
     {
@@ -1309,7 +1309,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": -2
     },
     {
@@ -1341,7 +1341,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 2
     },
     {
@@ -1373,7 +1373,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 1
     },
     {
@@ -1405,7 +1405,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": -1
     },
     {
@@ -1437,7 +1437,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": -2
     },
     {
@@ -1469,7 +1469,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 1
     },
     {
@@ -1501,7 +1501,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 2
     },
     {
@@ -1531,7 +1531,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 2
     },
     {
@@ -1561,7 +1561,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 1
     },
     {
@@ -1591,7 +1591,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": -1
     },
     {
@@ -1621,7 +1621,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": -2
     },
     {
@@ -1651,7 +1651,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 2
     },
     {
@@ -1681,7 +1681,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 1
     },
     {
@@ -1711,7 +1711,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": -1
     },
     {
@@ -1741,7 +1741,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": -2
     },
     {
@@ -1773,7 +1773,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 1
     },
     {
@@ -1805,7 +1805,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": -1
     },
     {
@@ -1835,7 +1835,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 2
     },
     {
@@ -1865,7 +1865,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 1
     },
     {
@@ -1895,7 +1895,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": -1
     },
     {
@@ -1925,7 +1925,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": -2
     },
     {
@@ -1955,7 +1955,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 1
     },
     {
@@ -1985,7 +1985,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": -1
     },
     {
@@ -2012,10 +2012,10 @@
       },
       "defName": "Xenophobia",
       "name": "xenophobe",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 1
     },
     {
@@ -2042,10 +2042,10 @@
       },
       "defName": "Xenophobia",
       "name": "xenophile",
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": -1
     },
     {
@@ -2074,10 +2074,10 @@
       },
       "defName": "TM_ArcaneConduitTD",
       "name": "arcaneconduit",
-      "canAdd": false,
-      "canRemove": false,
+      "canAdd": true,
+      "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2106,10 +2106,10 @@
       },
       "defName": "TM_ManaWellTD",
       "name": "manawell",
-      "canAdd": false,
-      "canRemove": false,
+      "canAdd": true,
+      "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2141,7 +2141,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2168,10 +2168,10 @@
       },
       "defName": "TM_FaeBloodTD",
       "name": "faeblood",
-      "canAdd": false,
-      "canRemove": false,
+      "canAdd": true,
+      "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2201,7 +2201,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2228,10 +2228,10 @@
       },
       "defName": "TM_EnlightenedTD",
       "name": "enlightened",
-      "canAdd": false,
-      "canRemove": false,
+      "canAdd": true,
+      "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2258,10 +2258,10 @@
       },
       "defName": "TM_CursedTD",
       "name": "cursed",
-      "canAdd": false,
-      "canRemove": false,
+      "canAdd": true,
+      "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2288,10 +2288,10 @@
       },
       "defName": "TM_OKWithDeath",
       "name": "unaffectedbydeath",
-      "canAdd": false,
-      "canRemove": false,
+      "canAdd": true,
+      "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2426,10 +2426,10 @@
       },
       "defName": "Undead",
       "name": "undead",
-      "canAdd": false,
-      "canRemove": false,
+      "canAdd": true,
+      "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2562,10 +2562,10 @@
       },
       "defName": "TM_Gifted",
       "name": "magicallygifted",
-      "canAdd": false,
-      "canRemove": false,
+      "canAdd": true,
+      "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -2878,9 +2878,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -3196,10 +3196,10 @@
       },
       "defName": "TM_Empath",
       "name": "empath",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -3328,9 +3328,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -3462,10 +3462,10 @@
       },
       "defName": "TM_Wanderer",
       "name": "wanderer",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -3595,9 +3595,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -3730,10 +3730,10 @@
       },
       "defName": "InnerFire",
       "name": "firemage",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -3862,9 +3862,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -3996,10 +3996,10 @@
       },
       "defName": "HeartOfFrost",
       "name": "icemage",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -4126,9 +4126,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -4258,10 +4258,10 @@
       },
       "defName": "StormBorn",
       "name": "lightningmage",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -4392,9 +4392,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -4528,10 +4528,10 @@
       },
       "defName": "Arcanist",
       "name": "arcanemage",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -4661,9 +4661,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -4796,10 +4796,10 @@
       },
       "defName": "Druid",
       "name": "druid",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -4927,9 +4927,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -5060,10 +5060,10 @@
       },
       "defName": "Paladin",
       "name": "paladin",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -5190,9 +5190,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -5322,10 +5322,10 @@
       },
       "defName": "Summoner",
       "name": "summoner",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -5455,9 +5455,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -5590,10 +5590,10 @@
       },
       "defName": "Necromancer",
       "name": "necromancer",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -5735,9 +5735,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -5882,10 +5882,10 @@
       },
       "defName": "Lich",
       "name": "lich",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -6017,9 +6017,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -6154,10 +6154,10 @@
       },
       "defName": "Priest",
       "name": "priest",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -6282,9 +6282,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -6412,10 +6412,10 @@
       },
       "defName": "TM_Bard",
       "name": "entertainer",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -6540,9 +6540,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -6670,10 +6670,10 @@
       },
       "defName": "TM_Bard",
       "name": "performer",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 1
     },
     {
@@ -6798,9 +6798,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -6928,10 +6928,10 @@
       },
       "defName": "TM_Bard",
       "name": "minstrel",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 2
     },
     {
@@ -7056,9 +7056,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -7186,10 +7186,10 @@
       },
       "defName": "TM_Bard",
       "name": "bard",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 3
     },
     {
@@ -7324,9 +7324,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -7464,10 +7464,10 @@
       },
       "defName": "Succubus",
       "name": "succubus",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -7602,9 +7602,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -7742,10 +7742,10 @@
       },
       "defName": "Warlock",
       "name": "warlock",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -7878,9 +7878,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -8016,10 +8016,10 @@
       },
       "defName": "Geomancer",
       "name": "geomancer",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -8154,9 +8154,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -8294,10 +8294,10 @@
       },
       "defName": "Technomancer",
       "name": "technomancer",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -8427,9 +8427,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -8562,10 +8562,10 @@
       },
       "defName": "BloodMage",
       "name": "bloodmage",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -8696,9 +8696,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -8832,10 +8832,10 @@
       },
       "defName": "Enchanter",
       "name": "enchanter",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -8962,9 +8962,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -9094,10 +9094,10 @@
       },
       "defName": "Chronomancer",
       "name": "chronomancer",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -9224,9 +9224,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -9356,10 +9356,10 @@
       },
       "defName": "ChaosMage",
       "name": "chaosmage",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -9675,9 +9675,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -9996,10 +9996,10 @@
       },
       "defName": "TM_TheShadow",
       "name": "shadow",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -10010,7 +10010,7 @@
         "+1000% melee avoid chance",
         "+10% global work speed",
         "-25% aiming time",
-        "-35.0 shooting accuracy",
+        "-15.0 shooting accuracy",
         "+10.00% social impact",
         "+30% toxic sensitivity",
         "-30 carrying capacity",
@@ -10314,9 +10314,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -10625,7 +10625,7 @@
           "+1000% melee avoid chance",
           "+10% global work speed",
           "-25% aiming time",
-          "-35.0 shooting accuracy",
+          "-15.0 shooting accuracy",
           "+10.00% social impact",
           "+30% toxic sensitivity",
           "-30 carrying capacity",
@@ -10634,10 +10634,10 @@
       },
       "defName": "TM_Brightmage",
       "name": "brightmage",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -10951,9 +10951,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -11270,10 +11270,10 @@
       },
       "defName": "TM_Shaman",
       "name": "shaman",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -11585,9 +11585,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -11902,10 +11902,10 @@
       },
       "defName": "TM_Golemancer",
       "name": "golemancer",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -12038,10 +12038,10 @@
       },
       "defName": "PhysicalProdigy",
       "name": "physicallyadept",
-      "canAdd": false,
-      "canRemove": false,
+      "canAdd": true,
+      "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -12170,9 +12170,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -12304,10 +12304,10 @@
       },
       "defName": "TM_Wayfarer",
       "name": "wayfarer",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -12623,9 +12623,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -12945,9 +12945,9 @@
       "defName": "TM_Apothecary",
       "name": "apothecary",
       "canAdd": true,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -13082,9 +13082,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -13223,9 +13223,9 @@
       "defName": "Gladiator",
       "name": "gladiator",
       "canAdd": true,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -13241,7 +13241,8 @@
         "-10% smelting speed",
         "-10% construction speed",
         "+10.00% tame animal chance",
-        "+10.00% train animal chance"
+        "+10.00% train animal chance",
+        "+2.0 shooting accuracy"
       ],
       "conflicts": [
         "physicallyadept",
@@ -13355,9 +13356,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -13485,15 +13486,16 @@
           "-10% smelting speed",
           "-10% construction speed",
           "+10.00% tame animal chance",
-          "+10.00% train animal chance"
+          "+10.00% train animal chance",
+          "+2.0 shooting accuracy"
         ]
       },
       "defName": "Ranger",
       "name": "woodsman",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -13509,7 +13511,8 @@
         "-15% smelting speed",
         "-15% construction speed",
         "+12.00% tame animal chance",
-        "+12.00% train animal chance"
+        "+12.00% train animal chance",
+        "+3.0 shooting accuracy"
       ],
       "conflicts": [
         "physicallyadept",
@@ -13623,9 +13626,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -13753,15 +13756,16 @@
           "-15% smelting speed",
           "-15% construction speed",
           "+12.00% tame animal chance",
-          "+12.00% train animal chance"
+          "+12.00% train animal chance",
+          "+3.0 shooting accuracy"
         ]
       },
       "defName": "Ranger",
       "name": "hunter",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 1
     },
     {
@@ -13777,7 +13781,8 @@
         "-18% smelting speed",
         "-18% construction speed",
         "+14.00% tame animal chance",
-        "+14.00% train animal chance"
+        "+14.00% train animal chance",
+        "+4.0 shooting accuracy"
       ],
       "conflicts": [
         "physicallyadept",
@@ -13891,9 +13896,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -14021,15 +14026,16 @@
           "-18% smelting speed",
           "-18% construction speed",
           "+14.00% tame animal chance",
-          "+14.00% train animal chance"
+          "+14.00% train animal chance",
+          "+4.0 shooting accuracy"
         ]
       },
       "defName": "Ranger",
       "name": "scout",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 2
     },
     {
@@ -14045,7 +14051,8 @@
         "-20% smelting speed",
         "-20% construction speed",
         "+15.00% tame animal chance",
-        "+15.00% train animal chance"
+        "+15.00% train animal chance",
+        "+5.0 shooting accuracy"
       ],
       "conflicts": [
         "physicallyadept",
@@ -14159,9 +14166,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -14289,15 +14296,16 @@
           "-20% smelting speed",
           "-20% construction speed",
           "+15.00% tame animal chance",
-          "+15.00% train animal chance"
+          "+15.00% train animal chance",
+          "+5.0 shooting accuracy"
         ]
       },
       "defName": "Ranger",
       "name": "ranger",
       "canAdd": true,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 3
     },
     {
@@ -14305,7 +14313,7 @@
       "stats": [
         "+0.10 move speed",
         "-10% aiming time",
-        "+2.0 shooting accuracy",
+        "+3.0 shooting accuracy",
         "-10% research speed",
         "-10% global work speed",
         "-10.00% tame animal chance",
@@ -14423,9 +14431,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -14545,7 +14553,7 @@
         "stats": [
           "+0.10 move speed",
           "-10% aiming time",
-          "+2.0 shooting accuracy",
+          "+3.0 shooting accuracy",
           "-10% research speed",
           "-10% global work speed",
           "-10.00% tame animal chance",
@@ -14554,10 +14562,10 @@
       },
       "defName": "TM_Sniper",
       "name": "sharpshooter",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -14565,7 +14573,7 @@
       "stats": [
         "+0.15 move speed",
         "-15% aiming time",
-        "+4.0 shooting accuracy",
+        "+6.0 shooting accuracy",
         "-13% research speed",
         "-13% global work speed",
         "-13.00% tame animal chance",
@@ -14683,9 +14691,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -14805,7 +14813,7 @@
         "stats": [
           "+0.15 move speed",
           "-15% aiming time",
-          "+4.0 shooting accuracy",
+          "+6.0 shooting accuracy",
           "-13% research speed",
           "-13% global work speed",
           "-13.00% tame animal chance",
@@ -14815,9 +14823,9 @@
       "defName": "TM_Sniper",
       "name": "sniper",
       "canAdd": true,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 1
     },
     {
@@ -14825,7 +14833,7 @@
       "stats": [
         "+0.20 move speed",
         "-22% aiming time",
-        "+6.0 shooting accuracy",
+        "+8.0 shooting accuracy",
         "-15% research speed",
         "-15% global work speed",
         "-15.00% tame animal chance",
@@ -14943,9 +14951,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -15065,7 +15073,7 @@
         "stats": [
           "+0.20 move speed",
           "-22% aiming time",
-          "+6.0 shooting accuracy",
+          "+8.0 shooting accuracy",
           "-15% research speed",
           "-15% global work speed",
           "-15.00% tame animal chance",
@@ -15074,10 +15082,10 @@
       },
       "defName": "TM_Sniper",
       "name": "mastersniper",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 2
     },
     {
@@ -15085,7 +15093,7 @@
       "stats": [
         "+0.25 move speed",
         "-30% aiming time",
-        "+8.0 shooting accuracy",
+        "+10.0 shooting accuracy",
         "-16% research speed",
         "-16% global work speed",
         "-16.00% tame animal chance",
@@ -15203,9 +15211,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -15325,7 +15333,7 @@
         "stats": [
           "+0.25 move speed",
           "-30% aiming time",
-          "+8.0 shooting accuracy",
+          "+10.0 shooting accuracy",
           "-16% research speed",
           "-16% global work speed",
           "-16.00% tame animal chance",
@@ -15334,10 +15342,10 @@
       },
       "defName": "TM_Sniper",
       "name": "legendarysniper",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 3
     },
     {
@@ -15462,9 +15470,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -15592,10 +15600,10 @@
       },
       "defName": "Bladedancer",
       "name": "bladesman",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -15720,9 +15728,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -15850,10 +15858,10 @@
       },
       "defName": "Bladedancer",
       "name": "blademaster",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 1
     },
     {
@@ -15979,9 +15987,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -16111,9 +16119,9 @@
       "defName": "Bladedancer",
       "name": "bladedancer",
       "canAdd": true,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 2
     },
     {
@@ -16239,9 +16247,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -16370,10 +16378,10 @@
       },
       "defName": "Bladedancer",
       "name": "legendarybladedancer",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 3
     },
     {
@@ -16505,9 +16513,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -16642,10 +16650,10 @@
       },
       "defName": "Faceless",
       "name": "faceless",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -16775,9 +16783,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -16910,10 +16918,10 @@
       },
       "defName": "TM_Psionic",
       "name": "psionic",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -17040,9 +17048,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -17172,10 +17180,10 @@
       },
       "defName": "DeathKnight",
       "name": "deathknight",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -17305,9 +17313,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -17441,9 +17449,9 @@
       "defName": "TM_Monk",
       "name": "monk",
       "canAdd": true,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -17570,9 +17578,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -17703,9 +17711,9 @@
       "defName": "TM_Commander",
       "name": "commander",
       "canAdd": true,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -17836,9 +17844,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -17972,10 +17980,10 @@
       },
       "defName": "TM_SuperSoldier",
       "name": "supersoldier",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -18239,9 +18247,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -18508,10 +18516,10 @@
       },
       "defName": "TM_RedMage",
       "name": "redmage",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 4
     },
     {
@@ -18771,9 +18779,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -19036,10 +19044,10 @@
       },
       "defName": "TM_Ninja",
       "name": "ninja",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 4
     },
     {
@@ -19296,9 +19304,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -19558,10 +19566,10 @@
       },
       "defName": "TM_ElementalGunner",
       "name": "elementalgunner",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 4
     },
     {
@@ -19817,9 +19825,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -20078,10 +20086,10 @@
       },
       "defName": "TM_Bombardier",
       "name": "bombardier",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 4
     },
     {
@@ -20341,9 +20349,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -20606,10 +20614,10 @@
       },
       "defName": "TM_Railbreaker",
       "name": "railbreaker",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 4
     },
     {
@@ -20870,9 +20878,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -21137,9 +21145,9 @@
       "defName": "TM_Samurai",
       "name": "samurai",
       "canAdd": true,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 4
     },
     {
@@ -21401,9 +21409,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -21668,10 +21676,10 @@
       },
       "defName": "TM_Gadgeteer",
       "name": "gadgeteer",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 4
     },
     {
@@ -21932,9 +21940,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -22198,10 +22206,10 @@
       },
       "defName": "TM_WindMage",
       "name": "windmage",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 4
     },
     {
@@ -22465,9 +22473,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -22734,10 +22742,10 @@
       },
       "defName": "TM_Medic",
       "name": "medic",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 4
     },
     {
@@ -22995,9 +23003,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -23258,10 +23266,10 @@
       },
       "defName": "TM_ChromaMage",
       "name": "chromamage",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 4
     },
     {
@@ -23521,9 +23529,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -23786,10 +23794,10 @@
       },
       "defName": "TM_Harbinger",
       "name": "harbinger",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 4
     },
     {
@@ -24049,9 +24057,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -24314,10 +24322,10 @@
       },
       "defName": "TM_Reaper",
       "name": "reaper",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 4
     },
     {
@@ -24585,9 +24593,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -24859,9 +24867,9 @@
       "defName": "TM_Berserker",
       "name": "berserker",
       "canAdd": true,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 4
     },
     {
@@ -25121,9 +25129,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -25386,10 +25394,10 @@
       },
       "defName": "TM_Scion",
       "name": "scion",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 4
     },
     {
@@ -25648,9 +25656,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -25913,9 +25921,9 @@
       "defName": "TM_Plaguedoctor",
       "name": "plaguedoctor",
       "canAdd": true,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 4
     },
     {
@@ -26173,9 +26181,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -26436,10 +26444,10 @@
       },
       "defName": "TM_Cleric",
       "name": "cleric",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 4
     },
     {
@@ -26699,9 +26707,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -26964,10 +26972,10 @@
       },
       "defName": "TM_Arbormancer",
       "name": "arbormancer",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 4
     },
     {
@@ -27225,9 +27233,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -27488,10 +27496,10 @@
       },
       "defName": "TM_Chainwarden",
       "name": "chainwarden",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 4
     },
     {
@@ -27751,9 +27759,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -28017,9 +28025,9 @@
       "defName": "TM_Ambusher",
       "name": "ambusher",
       "canAdd": true,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 4
     },
     {
@@ -28279,9 +28287,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -28544,10 +28552,10 @@
       },
       "defName": "TM_Saboteur",
       "name": "saboteur",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 4
     },
     {
@@ -28809,9 +28817,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -29076,10 +29084,10 @@
       },
       "defName": "TM_Keeper",
       "name": "keeper",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 4
     },
     {
@@ -29342,9 +29350,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -29610,10 +29618,10 @@
       },
       "defName": "TM_Pridestalker",
       "name": "pridestalker",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 4
     },
     {
@@ -29884,9 +29892,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -30160,10 +30168,10 @@
       },
       "defName": "TM_Starseeker",
       "name": "starseeker",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 4
     },
     {
@@ -30434,9 +30442,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -30710,10 +30718,10 @@
       },
       "defName": "TM_Aspirant",
       "name": "aspirant",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 4
     },
     {
@@ -30970,9 +30978,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -31233,9 +31241,9 @@
       "defName": "TM_Hawkeye",
       "name": "hawkeye",
       "canAdd": true,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 4
     },
     {
@@ -31494,9 +31502,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -31758,10 +31766,10 @@
       },
       "defName": "TM_Atronach",
       "name": "atronach",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 4
     },
     {
@@ -32024,9 +32032,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -32292,10 +32300,10 @@
       },
       "defName": "TM_SupportSpecialist",
       "name": "supportspecialist",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 4
     },
     {
@@ -32558,9 +32566,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -32827,9 +32835,9 @@
       "defName": "TM_Scrapper",
       "name": "scrapper",
       "canAdd": true,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 4
     },
     {
@@ -33090,9 +33098,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -33356,10 +33364,10 @@
       },
       "defName": "TM_Oracle",
       "name": "oracle",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 4
     },
     {
@@ -33620,9 +33628,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -33886,10 +33894,10 @@
       },
       "defName": "TM_Mystic",
       "name": "mystic",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 4
     },
     {
@@ -34149,9 +34157,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -34414,10 +34422,10 @@
       },
       "defName": "TM_Spellbreaker",
       "name": "spellbreaker",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 4
     },
     {
@@ -34675,9 +34683,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -34938,10 +34946,10 @@
       },
       "defName": "TM_Duskbringer",
       "name": "duskbringer",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 4
     },
     {
@@ -35202,9 +35210,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -35468,10 +35476,10 @@
       },
       "defName": "TM_Thunderblessed",
       "name": "thunderblessed",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 4
     },
     {
@@ -35731,9 +35739,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -35996,10 +36004,10 @@
       },
       "defName": "TM_Deadeye",
       "name": "deadeye",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 4
     },
     {
@@ -36259,9 +36267,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -36524,10 +36532,10 @@
       },
       "defName": "TM_Spellthief",
       "name": "spellthief",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 4
     },
     {
@@ -36787,9 +36795,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -37052,10 +37060,10 @@
       },
       "defName": "TM_Dragoon",
       "name": "dragoon",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 4
     },
     {
@@ -37320,9 +37328,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -37590,10 +37598,10 @@
       },
       "defName": "TM_BlackMage",
       "name": "blackmage",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 4
     },
     {
@@ -37855,9 +37863,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -38122,10 +38130,10 @@
       },
       "defName": "TM_Scholar",
       "name": "scholar",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 4
     },
     {
@@ -38385,9 +38393,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -38650,10 +38658,10 @@
       },
       "defName": "TM_Gunbreaker",
       "name": "gunbreaker",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 4
     },
     {
@@ -38910,9 +38918,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -39172,10 +39180,10 @@
       },
       "defName": "TM_Gunner",
       "name": "gunner",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 4
     },
     {
@@ -39440,9 +39448,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -39711,9 +39719,9 @@
       "defName": "TM_Warrior",
       "name": "warrior",
       "canAdd": true,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 4
     },
     {
@@ -39973,9 +39981,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -40239,9 +40247,9 @@
       "defName": "TM_Nomad",
       "name": "nomad",
       "canAdd": true,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 4
     },
     {
@@ -40500,9 +40508,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -40764,10 +40772,10 @@
       },
       "defName": "TM_Guardian",
       "name": "guardian",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 4
     },
     {
@@ -41025,9 +41033,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -41288,10 +41296,10 @@
       },
       "defName": "TM_Holosmith",
       "name": "holosmith",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 4
     },
     {
@@ -41552,9 +41560,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -41818,10 +41826,10 @@
       },
       "defName": "TM_Troubadour",
       "name": "troubadour",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 4
     },
     {
@@ -42081,9 +42089,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -42346,10 +42354,10 @@
       },
       "defName": "TM_Gambler",
       "name": "gambler",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 4
     },
     {
@@ -42608,9 +42616,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -42873,9 +42881,9 @@
       "defName": "TM_Chef",
       "name": "chef",
       "canAdd": true,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 4
     },
     {
@@ -43136,9 +43144,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -43403,9 +43411,9 @@
       "defName": "TM_Miner",
       "name": "miner",
       "canAdd": true,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 4
     },
     {
@@ -43665,9 +43673,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -43930,10 +43938,10 @@
       },
       "defName": "TM_Striker",
       "name": "striker",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 4
     },
     {
@@ -44191,9 +44199,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -44454,10 +44462,10 @@
       },
       "defName": "TM_RuneKnight",
       "name": "runeknight",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 4
     },
     {
@@ -44719,9 +44727,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -44986,10 +44994,10 @@
       },
       "defName": "TM_BlossomBlader",
       "name": "blossomblader",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 4
     },
     {
@@ -45245,9 +45253,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -45506,10 +45514,10 @@
       },
       "defName": "TM_Ravenous",
       "name": "ravenous",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 4
     },
     {
@@ -45766,9 +45774,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -46028,10 +46036,10 @@
       },
       "defName": "TM_MechHunter",
       "name": "mechhunter",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 4
     },
     {
@@ -46289,9 +46297,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -46552,10 +46560,10 @@
       },
       "defName": "TM_Gunslinger",
       "name": "gunslinger",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 4
     },
     {
@@ -46815,9 +46823,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -47080,10 +47088,10 @@
       },
       "defName": "TM_Shadowbringer",
       "name": "shadowbringer",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 4
     },
     {
@@ -47342,9 +47350,9 @@
         "shadowbringer",
         "chempunk"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -47606,10 +47614,10 @@
       },
       "defName": "TM_Warden",
       "name": "warden",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 4
     },
     {
@@ -47869,9 +47877,9 @@
         "shadowbringer",
         "warden"
       ],
-      "bypassLimit": true,
+      "bypassLimit": false,
       "data": {
-        "canBypassLimit": true,
+        "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -48134,10 +48142,10 @@
       },
       "defName": "TM_Chempunk",
       "name": "chempunk",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 7000,
-      "removePrice": 3000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 4
     },
     {
@@ -48169,7 +48177,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -48203,7 +48211,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 1
     },
     {
@@ -48237,7 +48245,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 2
     },
     {
@@ -48280,10 +48288,10 @@
       },
       "defName": "DankPyon_Fighter",
       "name": "fighter",
-      "canAdd": false,
-      "canRemove": false,
+      "canAdd": true,
+      "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -48330,10 +48338,10 @@
       },
       "defName": "DankPyon_Veteran",
       "name": "veteran",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 5000,
-      "removePrice": 5000,
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -48373,7 +48381,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -48413,7 +48421,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -48445,7 +48453,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -48477,7 +48485,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -48507,7 +48515,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -48537,7 +48545,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -48569,7 +48577,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -48601,7 +48609,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -48635,7 +48643,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -48671,7 +48679,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -48703,7 +48711,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -48735,7 +48743,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -48765,7 +48773,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -48795,7 +48803,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -48827,7 +48835,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -48859,7 +48867,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -48891,7 +48899,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -48923,7 +48931,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -48953,7 +48961,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -48983,7 +48991,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -49013,7 +49021,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -49043,7 +49051,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -49073,7 +49081,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -49103,7 +49111,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -49135,7 +49143,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -49167,7 +49175,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -49197,7 +49205,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -49227,7 +49235,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -49257,7 +49265,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -49287,7 +49295,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -49317,7 +49325,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -49347,7 +49355,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -49377,7 +49385,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -49429,7 +49437,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -49481,7 +49489,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -49513,7 +49521,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -49545,7 +49553,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -49583,7 +49591,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -49621,7 +49629,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -49653,7 +49661,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -49685,7 +49693,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -49719,7 +49727,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -49753,7 +49761,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -49793,7 +49801,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -49835,7 +49843,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -49865,7 +49873,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -49895,7 +49903,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -49927,7 +49935,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     },
     {
@@ -49959,7 +49967,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 3000,
+      "removePrice": 5500,
       "degree": 0
     }
   ],
@@ -49984,7 +49992,7 @@
       "defName": "Human",
       "enabled": true,
       "name": "human",
-      "price": 2000
+      "price": 2917
     },
     {
       "data": {
@@ -50010,7 +50018,7 @@
       "defName": "FR_Alien_Croco",
       "enabled": true,
       "name": "Crocodillian",
-      "price": 2000
+      "price": 2500
     },
     {
       "data": {
@@ -50036,7 +50044,7 @@
       "defName": "FR_Alien_Squamata",
       "enabled": true,
       "name": "Squamata",
-      "price": 2000
+      "price": 2500
     },
     {
       "data": {
@@ -50061,7 +50069,7 @@
       "defName": "O21_FR_Chitine",
       "enabled": true,
       "name": "Chitine",
-      "price": 2000
+      "price": 3333
     },
     {
       "data": {
@@ -50085,7 +50093,7 @@
       "defName": "O21_FR_DarkElf",
       "enabled": true,
       "name": "Dark Elf",
-      "price": 2000
+      "price": 3333
     },
     {
       "data": {
@@ -50108,7 +50116,7 @@
       "defName": "O21_FR_Dwarf",
       "enabled": true,
       "name": "Dwarf",
-      "price": 2000
+      "price": 2917
     },
     {
       "data": {
@@ -50133,7 +50141,7 @@
       "defName": "O21_FR_Firbolg",
       "enabled": true,
       "name": "Firbolg",
-      "price": 2000
+      "price": 3333
     },
     {
       "data": {
@@ -50156,7 +50164,7 @@
       "defName": "O21_FR_Gith",
       "enabled": true,
       "name": "Gith",
-      "price": 2000
+      "price": 3333
     },
     {
       "data": {
@@ -50180,7 +50188,7 @@
       "defName": "O21_FR_Goblin",
       "enabled": true,
       "name": "Goblin",
-      "price": 2000
+      "price": 3333
     },
     {
       "data": {
@@ -50204,7 +50212,7 @@
       "defName": "O21_FR_Halfling",
       "enabled": true,
       "name": "Halfling",
-      "price": 2000
+      "price": 2917
     },
     {
       "data": {
@@ -50227,7 +50235,7 @@
       "defName": "O21_FR_HalfOrc",
       "enabled": true,
       "name": "Half-Orc",
-      "price": 2000
+      "price": 3333
     },
     {
       "data": {
@@ -50251,7 +50259,7 @@
       "defName": "O21_FR_Hobgoblin",
       "enabled": true,
       "name": "Hobgoblin",
-      "price": 2000
+      "price": 3333
     },
     {
       "data": {
@@ -50274,7 +50282,7 @@
       "defName": "O21_FR_Killoren",
       "enabled": true,
       "name": "Killoren",
-      "price": 2500
+      "price": 3333
     },
     {
       "data": {
@@ -50301,7 +50309,7 @@
       "defName": "O21_FR_Kobold",
       "enabled": true,
       "name": "Kobold",
-      "price": 2000
+      "price": 2500
     },
     {
       "data": {
@@ -50325,7 +50333,7 @@
       "defName": "O21_FR_MoonElf",
       "enabled": true,
       "name": "Moon Elf",
-      "price": 2000
+      "price": 3333
     },
     {
       "data": {
@@ -50347,7 +50355,7 @@
       "defName": "O21_FR_Orc",
       "enabled": true,
       "name": "Orc",
-      "price": 2000
+      "price": 3333
     },
     {
       "data": {
@@ -50374,7 +50382,7 @@
       "defName": "O21_FR_SunElf",
       "enabled": true,
       "name": "Sun Elf",
-      "price": 2000
+      "price": 3333
     },
     {
       "data": {
@@ -50397,7 +50405,7 @@
       "defName": "O21_FR_Tabaxi",
       "enabled": true,
       "name": "Tabaxi",
-      "price": 2500
+      "price": 3333
     },
     {
       "data": {
@@ -50422,7 +50430,7 @@
       "defName": "O21_FR_Tiefling",
       "enabled": true,
       "name": "Tiefling",
-      "price": 2000
+      "price": 3333
     },
     {
       "data": {
@@ -50446,7 +50454,7 @@
       "defName": "O21_FR_WoodElf",
       "enabled": true,
       "name": "Wood Elf",
-      "price": 2000
+      "price": 3333
     }
   ]
 }
