@@ -100,6 +100,24 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
+    "description": null,
+    "name": "Revive me",
+    "usage": "!reviveme",
+    "userLevel": "Anyone",
+    "shortcut": true,
+    "defName": "ReviveMeShortcut"
+  },
+  {
+    "data": {
+      "isShortcut": true,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
     "description": "Shuffles your passions. If a skill is specified, you'll be guaranteed a minor passion in it.",
     "name": "Passion shuffle",
     "usage": "!passionshuffle [skill]",

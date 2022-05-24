@@ -1,4 +1,4 @@
-{
+﻿{
   "traits": [
     {
       "description": "Timmy enjoys the feeling of freedom that comes from being nude. he can handle clothing, but will be happier without it.",
@@ -436,9 +436,9 @@
       "conflicts": [
 
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -466,9 +466,9 @@
       "conflicts": [
 
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -496,9 +496,9 @@
       "conflicts": [
 
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -2426,8 +2426,8 @@
       },
       "defName": "Undead",
       "name": "undead",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 3000,
       "degree": 0
@@ -2878,9 +2878,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -3328,9 +3328,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -3595,9 +3595,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -3862,9 +3862,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -4126,9 +4126,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -4392,9 +4392,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -4661,9 +4661,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -4927,9 +4927,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -5190,9 +5190,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -5455,9 +5455,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -5735,9 +5735,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -6017,9 +6017,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -6282,9 +6282,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -6540,9 +6540,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -6798,9 +6798,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -7056,9 +7056,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -7324,9 +7324,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -7602,9 +7602,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -7878,9 +7878,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -8154,9 +8154,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -8427,9 +8427,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -8696,9 +8696,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -8962,9 +8962,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -9224,9 +9224,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -9675,9 +9675,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -10314,9 +10314,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -10951,9 +10951,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -11585,9 +11585,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -12039,7 +12039,7 @@
       "defName": "PhysicalProdigy",
       "name": "physicallyadept",
       "canAdd": false,
-      "canRemove": false,
+      "canRemove": true,
       "addPrice": 3500,
       "removePrice": 3000,
       "degree": 0
@@ -12170,9 +12170,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -12623,9 +12623,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -13082,9 +13082,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -13356,9 +13356,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -13626,9 +13626,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -13896,9 +13896,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -14166,9 +14166,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -14431,9 +14431,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -14691,9 +14691,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -14951,9 +14951,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -15211,9 +15211,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -15470,9 +15470,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -15728,9 +15728,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -15987,9 +15987,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -16247,9 +16247,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -16513,9 +16513,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -16783,9 +16783,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -17048,9 +17048,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -17313,9 +17313,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -17578,9 +17578,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -17844,9 +17844,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
@@ -18247,9 +18247,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -18779,9 +18779,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -19304,9 +19304,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -19825,9 +19825,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -20349,9 +20349,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -20878,9 +20878,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -21409,9 +21409,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -21940,9 +21940,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -22473,9 +22473,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -23003,9 +23003,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -23529,9 +23529,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -24057,9 +24057,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -24593,9 +24593,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -25129,9 +25129,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -25656,9 +25656,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -26181,9 +26181,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -26707,9 +26707,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -27233,9 +27233,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -27759,9 +27759,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -28287,9 +28287,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -28817,9 +28817,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -29350,9 +29350,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -29892,9 +29892,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -30442,9 +30442,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -30978,9 +30978,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -31502,9 +31502,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -32032,9 +32032,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -32566,9 +32566,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -33098,9 +33098,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -33628,9 +33628,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -34157,9 +34157,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -34683,9 +34683,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -35210,9 +35210,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -35739,9 +35739,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -36267,9 +36267,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -36795,9 +36795,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -37328,9 +37328,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -37863,9 +37863,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -38393,9 +38393,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -38918,9 +38918,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -39448,9 +39448,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -39981,9 +39981,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -40508,9 +40508,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -41033,9 +41033,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -41560,9 +41560,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -42089,9 +42089,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -42616,9 +42616,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -43144,9 +43144,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -43673,9 +43673,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -44199,9 +44199,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -44727,9 +44727,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -45253,9 +45253,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -45774,9 +45774,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -46297,9 +46297,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -46823,9 +46823,9 @@
         "warden",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -47350,9 +47350,9 @@
         "shadowbringer",
         "chempunk"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -47877,9 +47877,9 @@
         "shadowbringer",
         "warden"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
@@ -48288,8 +48288,8 @@
       },
       "defName": "DankPyon_Fighter",
       "name": "fighter",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 3000,
       "degree": 0
@@ -48338,8 +48338,8 @@
       },
       "defName": "DankPyon_Veteran",
       "name": "veteran",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 3000,
       "degree": 0
