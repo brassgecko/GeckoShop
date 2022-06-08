@@ -3280,7 +3280,7 @@
       "abr": "elephantspear",
       "category": "Melee",
       "defname": "TM_ElephantSpear",
-      "price": 1333
+      "price": -10
     },
     {
       "abr": "elephanttusk",
@@ -8710,25 +8710,25 @@
       "abr": "elixirofcalming",
       "category": "Elixirs",
       "defname": "AYElixirCalming",
-      "price": -10
+      "price": 38
     },
     {
       "abr": "elixirofinciting",
       "category": "Elixirs",
       "defname": "AYElixirInciting",
-      "price": -10
+      "price": 48
     },
     {
       "abr": "elixiroflucidity",
       "category": "Elixirs",
       "defname": "AYElixirLucidity",
-      "price": -10
+      "price": 27
     },
     {
       "abr": "elixirofsoothing",
       "category": "Elixirs",
       "defname": "AYElixirSoothing",
-      "price": -10
+      "price": 30
     },
     {
       "abr": "aloecream",
@@ -10942,13 +10942,13 @@
       "abr": "ambernecklace",
       "category": "Jewelry",
       "defname": "DankPyon_Necklace_Amber",
-      "price": 301
+      "price": -10
     },
     {
       "abr": "amberring",
       "category": "Jewelry",
       "defname": "DankPyon_Ring_Amber",
-      "price": 301
+      "price": -10
     },
     {
       "abr": "ancientbrazier",
@@ -11050,13 +11050,13 @@
       "abr": "citrinenecklace",
       "category": "Jewelry",
       "defname": "DankPyon_Necklace_Citrine",
-      "price": 228
+      "price": -10
     },
     {
       "abr": "citrinering",
       "category": "Jewelry",
       "defname": "DankPyon_Ring_Citrine",
-      "price": 228
+      "price": -10
     },
     {
       "abr": "cleaningbench",
@@ -11110,7 +11110,7 @@
       "abr": "emeraldnecklace",
       "category": "Jewelry",
       "defname": "DankPyon_Necklace_Emerald",
-      "price": 517
+      "price": -10
     },
     {
       "abr": "emeraldskull",
@@ -11380,13 +11380,13 @@
       "abr": "jadenecklace",
       "category": "Jewelry",
       "defname": "DankPyon_Necklace_Jade",
-      "price": 267
+      "price": -10
     },
     {
       "abr": "jadering",
       "category": "Jewelry",
       "defname": "DankPyon_Ring_Jade",
-      "price": 267
+      "price": -10
     },
     {
       "abr": "jewelrybench",
@@ -11512,13 +11512,13 @@
       "abr": "onyxnecklace",
       "category": "Jewelry",
       "defname": "DankPyon_Necklace_Onyx",
-      "price": 367
+      "price": -10
     },
     {
       "abr": "onyxring",
       "category": "Jewelry",
       "defname": "DankPyon_Ring_Onyx",
-      "price": 367
+      "price": -10
     },
     {
       "abr": "pedestal",
@@ -11560,7 +11560,7 @@
       "abr": "ringnecklace",
       "category": "Jewelry",
       "defname": "DankPyon_Ring_Emerald",
-      "price": 517
+      "price": -10
     },
     {
       "abr": "ringofhaste",
@@ -11602,13 +11602,13 @@
       "abr": "rubynecklace",
       "category": "Jewelry",
       "defname": "DankPyon_Necklace_Ruby",
-      "price": 808
+      "price": -10
     },
     {
       "abr": "rubyring",
       "category": "Jewelry",
       "defname": "DankPyon_Ring_Ruby",
-      "price": 808
+      "price": -10
     },
     {
       "abr": "rubyskull",
@@ -11650,13 +11650,13 @@
       "abr": "sapphirenecklace",
       "category": "Jewelry",
       "defname": "DankPyon_Necklace_Sapphire",
-      "price": 658
+      "price": -10
     },
     {
       "abr": "sapphirering",
       "category": "Jewelry",
       "defname": "DankPyon_Ring_Sapphire",
-      "price": 658
+      "price": -10
     },
     {
       "abr": "sapphireskull",
@@ -11836,7 +11836,7 @@
       "abr": "winter'sreign",
       "category": "Magic foci",
       "defname": "TM_WinterStaff",
-      "price": 7500
+      "price": -10
     },
     {
       "abr": "zweihanderhelm",

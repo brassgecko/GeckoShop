@@ -21859,7 +21859,7 @@
     "Mod": "A Dog Said... Animal Prosthetics",
     "KarmaType": null
   },
-  "owl_doublerefrigerator": {
+  "aniheart": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21876,10 +21876,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Simple Utilities: Fridge",
+    "Mod": "Anima Bionics",
     "KarmaType": null
   },
-  "owl_refrigerator": {
+  "animaentArm": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21896,7 +21896,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Simple Utilities: Fridge",
+    "Mod": "Anima Bionics",
     "KarmaType": null
   },
   "LWM_BigShelf": {
@@ -34059,7 +34059,7 @@
     "Mod": "Anima Bionics",
     "KarmaType": null
   },
-  "denture": {
+  "owl_doublerefrigerator": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -34076,7 +34076,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Simple Utilities: Fridge",
     "KarmaType": null
   },
   "TM_WinterStaff": {
@@ -40001,12 +40001,12 @@
   },
   "DankPyon_Citrine": {
     "CustomName": null,
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1,
     "ResearchOverrides": null,
     "IsUsable": true,
@@ -40021,12 +40021,12 @@
   },
   "DankPyon_Amber": {
     "CustomName": null,
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1,
     "ResearchOverrides": null,
     "IsUsable": true,
@@ -40041,12 +40041,12 @@
   },
   "DankPyon_Onyx": {
     "CustomName": null,
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1,
     "ResearchOverrides": null,
     "IsUsable": true,
@@ -40061,12 +40061,12 @@
   },
   "DankPyon_Emerald": {
     "CustomName": null,
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1,
     "ResearchOverrides": null,
     "IsUsable": true,
@@ -40081,12 +40081,12 @@
   },
   "DankPyon_Sapphire": {
     "CustomName": null,
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1,
     "ResearchOverrides": null,
     "IsUsable": true,
@@ -40101,12 +40101,12 @@
   },
   "DankPyon_Ruby": {
     "CustomName": null,
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "QuantityLimit": -1,
+    "QuantityLimit": 1,
     "Weight": 1,
     "ResearchOverrides": null,
     "IsUsable": true,
@@ -41559,7 +41559,7 @@
     "Mod": "Medieval Overhaul",
     "KarmaType": null
   },
-  "animaentArm": {
+  "owl_refrigerator": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -41576,10 +41576,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Anima Bionics",
+    "Mod": "Simple Utilities: Fridge",
     "KarmaType": null
   },
-  "aniheart": {
+  "denture": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -41596,7 +41596,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Anima Bionics",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "KarmaType": null
   },
   "Meat_DankPyon_LargeCobraForest": {
