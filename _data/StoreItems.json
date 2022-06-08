@@ -7684,19 +7684,19 @@
       "abr": "roundshield",
       "category": "Shields",
       "defname": "DankPyon_Shield",
-      "price": -10
+      "price": 279
     },
     {
       "abr": "kiteshield",
       "category": "Shields",
       "defname": "DankPyon_ShieldKite",
-      "price": -10
+      "price": 285
     },
     {
       "abr": "heatershield",
       "category": "Shields",
       "defname": "DankPyon_ShieldHeater",
-      "price": -10
+      "price": 224
     },
     {
       "abr": "bludgeon",
