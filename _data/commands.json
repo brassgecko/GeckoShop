@@ -3,114 +3,6 @@
     "data": {
       "isShortcut": false,
       "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "Twitch Toolkit"
-    },
-    "description": "Updates the current list of active viewers.",
-    "name": "Refresh viewers",
-    "usage": "!refreshviewers",
-    "userLevel": "Moderator",
-    "shortcut": false,
-    "defName": "RefreshViewers"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "Twitch Toolkit"
-    },
-    "description": "Gives eveyrone coins.",
-    "name": "Give all coins",
-    "usage": "!giveallcoins <coins>",
-    "userLevel": "Moderator",
-    "shortcut": false,
-    "defName": "GiveAllCoins"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "Twitch Toolkit"
-    },
-    "description": "Gives a viewer coins.",
-    "name": "Give coins",
-    "usage": "!givecoins <viewer> <coins>",
-    "userLevel": "Moderator",
-    "shortcut": false,
-    "defName": "GiveCoins"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "Twitch Toolkit"
-    },
-    "description": "Shows the balance of a given user.",
-    "name": "Check user",
-    "usage": "!checkuser <viewer>",
-    "userLevel": "Moderator",
-    "shortcut": false,
-    "defName": "CheckUser"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "Twitch Toolkit"
-    },
-    "description": "Sets the current karma for a given user.",
-    "name": "Set karma",
-    "usage": "!setkarma <viewer> <karma>",
-    "userLevel": "Moderator",
-    "shortcut": false,
-    "defName": "SetKarma"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "Twitch Toolkit"
-    },
-    "description": "Toggles coin generation.",
-    "name": "Toggle coins",
-    "usage": "!togglecoins",
-    "userLevel": "Moderator",
-    "shortcut": false,
-    "defName": "ToggleCoins"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
       "isBalance": true,
       "hasGlobalCooldown": false,
       "globalCooldown": 0,
@@ -124,6 +16,24 @@
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "CheckBalance"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "Twitch Toolkit"
+    },
+    "description": null,
+    "name": "Purchase list",
+    "usage": "!purchaselist",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "PurchaseList"
   },
   {
     "data": {
@@ -155,11 +65,11 @@
       "mod": "Twitch Toolkit"
     },
     "description": null,
-    "name": "Mod info",
-    "usage": "!modinfo",
+    "name": "Join queue",
+    "usage": "!joinqueue",
     "userLevel": "Anyone",
     "shortcut": false,
-    "defName": "ModInfo"
+    "defName": "JoinQueue"
   },
   {
     "data": {
@@ -181,24 +91,6 @@
   },
   {
     "data": {
-      "isShortcut": true,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "Twitch Toolkit"
-    },
-    "description": "Lets you wager coins to level up a skill of your choosing.",
-    "name": "Level skill",
-    "usage": "!levelskill <skill> <coins>",
-    "userLevel": "Anyone",
-    "shortcut": true,
-    "defName": "LevelSkillShortcut"
-  },
-  {
-    "data": {
       "isShortcut": false,
       "isBuy": false,
       "isBalance": false,
@@ -214,24 +106,6 @@
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "ModSettings"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": null,
-    "name": "Viewer class",
-    "usage": "!mypawnclass",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "MyPawnClass"
   },
   {
     "data": {
@@ -299,11 +173,65 @@
       "mod": "ToolkitUtils"
     },
     "description": null,
+    "name": "Revive all",
+    "usage": "!reviveall",
+    "userLevel": "Anyone",
+    "shortcut": true,
+    "defName": "ReviveAllShortcut"
+  },
+  {
+    "data": {
+      "isShortcut": true,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
+    "description": null,
     "name": "Revive me",
     "usage": "!reviveme",
     "userLevel": "Anyone",
     "shortcut": true,
     "defName": "ReviveMeShortcut"
+  },
+  {
+    "data": {
+      "isShortcut": true,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
+    "description": null,
+    "name": "Heal me",
+    "usage": "!healme",
+    "userLevel": "Anyone",
+    "shortcut": true,
+    "defName": "HealMeShortcut"
+  },
+  {
+    "data": {
+      "isShortcut": true,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
+    "description": null,
+    "name": "Healall",
+    "usage": "!healall",
+    "userLevel": "Anyone",
+    "shortcut": true,
+    "defName": "HealAllShortcut"
   },
   {
     "data": {
@@ -370,12 +298,12 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "Replaces a trait with a different trait.",
-    "name": "Replace trait",
-    "usage": "!replacetrait <old> <new>",
+    "description": null,
+    "name": "Heal any pawn",
+    "usage": "!healanypawn",
     "userLevel": "Anyone",
     "shortcut": true,
-    "defName": "ReplaceTraitShortcut"
+    "defName": "HealAnyPawnShortcut"
   },
   {
     "data": {
@@ -388,12 +316,12 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": "It's like buy item, but it gets added to your inventory if possible.",
-    "name": "Backpack",
-    "usage": "!backpack <item> [quantity]",
+    "description": "Replaces a trait with a different trait.",
+    "name": "Replace trait",
+    "usage": "!replacetrait <old> <new>",
     "userLevel": "Anyone",
     "shortcut": true,
-    "defName": "BackpackShortcut"
+    "defName": "ReplaceTraitShortcut"
   },
   {
     "data": {
@@ -430,6 +358,24 @@
     "userLevel": "Anyone",
     "shortcut": true,
     "defName": "AddPassionShortcut"
+  },
+  {
+    "data": {
+      "isShortcut": true,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
+    "description": null,
+    "name": "Full heal",
+    "usage": "!fullheal",
+    "userLevel": "Anyone",
+    "shortcut": true,
+    "defName": "FullHealShortcut"
   },
   {
     "data": {
@@ -718,24 +664,6 @@
     "userLevel": "Moderator",
     "shortcut": false,
     "defName": "UnstickAll"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": null,
-    "name": "Toggle store",
-    "usage": "!togglestore",
-    "userLevel": "Moderator",
-    "shortcut": false,
-    "defName": "ToggleStore"
   },
   {
     "data": {
