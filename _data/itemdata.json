@@ -1,4 +1,4 @@
-﻿{
+{
   "Beer": {
     "CustomName": null,
     "HasQuantityLimit": false,
@@ -3084,7 +3084,7 @@
     "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
-    "IsStuffAllowed": true,
+    "IsStuffAllowed": false,
     "IsWeapon": false,
     "QuantityLimit": 1,
     "Weight": 1,
@@ -3184,7 +3184,7 @@
     "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
-    "IsStuffAllowed": true,
+    "IsStuffAllowed": false,
     "IsWeapon": false,
     "QuantityLimit": 1,
     "Weight": 1,
@@ -3224,7 +3224,7 @@
     "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
-    "IsStuffAllowed": true,
+    "IsStuffAllowed": false,
     "IsWeapon": false,
     "QuantityLimit": 1,
     "Weight": 1,
@@ -6841,12 +6841,12 @@
   },
   "AYLavenderSoap": {
     "CustomName": null,
-    "HasQuantityLimit": false,
+    "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "QuantityLimit": -1,
+    "QuantityLimit": 10,
     "Weight": 1,
     "ResearchOverrides": null,
     "IsUsable": true,
@@ -19019,6 +19019,26 @@
     "Mod": "VGP Vegetable Garden",
     "KarmaType": null
   },
+  "TableAutopsy": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Harvest Organs Post Mortem",
+    "KarmaType": null
+  },
   "bowlstew": {
     "CustomName": null,
     "HasQuantityLimit": false,
@@ -19040,26 +19060,6 @@
     "KarmaType": null
   },
   "aniheart": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Anima Bionics",
-    "KarmaType": null
-  },
-  "animaentArm": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -19317,6 +19317,26 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "More Psycasts",
+    "KarmaType": null
+  },
+  "animaentArm": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Anima Bionics",
     "KarmaType": null
   }
 }

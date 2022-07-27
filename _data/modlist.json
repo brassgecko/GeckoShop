@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "author": "Andreas Pardeike",
     "name": "Harmony",
@@ -432,6 +432,12 @@
     "version": null
   },
   {
+    "author": "Smuffle",
+    "name": "Harvest Organs Post Mortem",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "dismarzero",
     "name": "VGP Vegetable Garden",
     "steamId": null,
@@ -450,16 +456,22 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki,  Sarg Bjornson,  Taranchuk and  Reann Shepard",
+    "name": "Vanilla Ideology Expanded - Dryads",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Slashandz",
     "name": "Double Dryads",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Oskar Potocki,  Sarg Bjornson,  Taranchuk and  Reann Shepard",
-    "name": "Vanilla Ideology Expanded - Dryads",
-    "steamId": null,
-    "version": null
+    "author": "busted_bunny",
+    "name": "Gauranlen Tree Expanded",
+    "steamId": "2605358686",
+    "version": "1.0.0.0"
   },
   {
     "author": "Murmur",

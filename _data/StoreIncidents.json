@@ -136,23 +136,8 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "herdmigration",
-		"price": 200,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "wildman",
-		"price": 1000,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "rarethrumbos",
 		"price": 500,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "skillincrease",
-		"price": 200,
 		"karmatype": "Good"
 	},
 	{
@@ -306,5 +291,5 @@
 		"karmatype": "Doom"
 	}
 	],
-	"total": 61
+	"total": 58
 }

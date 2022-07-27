@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "data": {
       "isShortcut": false,
@@ -16,24 +16,6 @@
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "CheckBalance"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "Twitch Toolkit"
-    },
-    "description": null,
-    "name": "Purchase list",
-    "usage": "!purchaselist",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "PurchaseList"
   },
   {
     "data": {
