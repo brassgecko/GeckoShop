@@ -479,6 +479,24 @@
       "mod": "ToolkitUtils"
     },
     "description": null,
+    "name": "Viewer body",
+    "usage": "!mypawnbody",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "MyPawnBody"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
+    "description": null,
     "name": "Viewer story",
     "usage": "!mypawnstory",
     "userLevel": "Anyone",

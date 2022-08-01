@@ -3788,7 +3788,7 @@
       },
       "description": "A cold hearted creature, embodying the wilds. They have a alluring speech and their branches constantly shifts. They eat rarely but when they do, they eat meat.",
       "defName": "Alien_Dryad",
-      "enabled": false,
+      "enabled": true,
       "name": "dryad",
       "price": 2000
     },

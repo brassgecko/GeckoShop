@@ -1486,7 +1486,7 @@
       "abr": "recurvebow",
       "category": "Ranged weapons",
       "defname": "Bow_Recurve",
-      "price": -10
+      "price": 163
     },
     {
       "abr": "greatbow",
@@ -2416,7 +2416,7 @@
       "abr": "psylinkneuroformer",
       "category": "Archotech",
       "defname": "PsychicAmplifier",
-      "price": -10
+      "price": 4333
     },
     {
       "abr": "drape",
@@ -5458,175 +5458,175 @@
       "abr": "psytrainer(painblock)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Painblock",
-      "price": -10
+      "price": 417
     },
     {
       "abr": "psytrainer(stun)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Stun",
-      "price": -10
+      "price": 417
     },
     {
       "abr": "psytrainer(burden)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Burden",
-      "price": -10
+      "price": 417
     },
     {
       "abr": "psytrainer(blindingpulse)",
       "category": "Psytrainers",
       "defname": "Psytrainer_BlindingPulse",
-      "price": -10
+      "price": 667
     },
     {
       "abr": "psytrainer(neuralheatdump)",
       "category": "Psytrainers",
       "defname": "Psytrainer_EntropyDump",
-      "price": -10
+      "price": 667
     },
     {
       "abr": "psytrainer(beckon)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Beckon",
-      "price": -10
+      "price": 917
     },
     {
       "abr": "psytrainer(vertigopulse)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VertigoPulse",
-      "price": -10
+      "price": 917
     },
     {
       "abr": "psytrainer(chaosskip)",
       "category": "Psytrainers",
       "defname": "Psytrainer_ChaosSkip",
-      "price": -10
+      "price": 917
     },
     {
       "abr": "psytrainer(skip)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Skip",
-      "price": -10
+      "price": 1167
     },
     {
       "abr": "psytrainer(wallraise)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Wallraise",
-      "price": -10
+      "price": 1167
     },
     {
       "abr": "psytrainer(smokepop)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Smokepop",
-      "price": -10
+      "price": 1167
     },
     {
       "abr": "psytrainer(focus)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Focus",
-      "price": -10
+      "price": 1167
     },
     {
       "abr": "psytrainer(berserk)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Berserk",
-      "price": -10
+      "price": 1417
     },
     {
       "abr": "psytrainer(invisibility)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Invisibility",
-      "price": -10
+      "price": 1417
     },
     {
       "abr": "psytrainer(berserkpulse)",
       "category": "Psytrainers",
       "defname": "Psytrainer_BerserkPulse",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "psytrainer(manhunterpulse)",
       "category": "Psytrainers",
       "defname": "Psytrainer_ManhunterPulse",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "psytrainer(masschaosskip)",
       "category": "Psytrainers",
       "defname": "Psytrainer_MassChaosSkip",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "psytrainer(waterskip)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Waterskip",
-      "price": -10
+      "price": 667
     },
     {
       "abr": "psytrainer(flashstorm)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Flashstorm",
-      "price": -10
+      "price": 1417
     },
     {
       "abr": "psytrainer(skipshield)",
       "category": "Psytrainers",
       "defname": "Psytrainer_BulletShield",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "psytrainer(solarpinhole)",
       "category": "Psytrainers",
       "defname": "Psytrainer_SolarPinhole",
-      "price": -10
+      "price": 417
     },
     {
       "abr": "psytrainer(wordoftrust)",
       "category": "Psytrainers",
       "defname": "Psytrainer_WordOfTrust",
-      "price": -10
+      "price": 417
     },
     {
       "abr": "psytrainer(wordofjoy)",
       "category": "Psytrainers",
       "defname": "Psytrainer_WordOfJoy",
-      "price": -10
+      "price": 667
     },
     {
       "abr": "psytrainer(wordoflove)",
       "category": "Psytrainers",
       "defname": "Psytrainer_WordOfLove",
-      "price": -10
+      "price": 917
     },
     {
       "abr": "psytrainer(wordofserenity)",
       "category": "Psytrainers",
       "defname": "Psytrainer_WordOfSerenity",
-      "price": -10
+      "price": 1167
     },
     {
       "abr": "psytrainer(wordofinspiration)",
       "category": "Psytrainers",
       "defname": "Psytrainer_WordOfInspiration",
-      "price": -10
+      "price": 1417
     },
     {
       "abr": "psytrainer(farskip)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Farskip",
-      "price": -10
+      "price": 1417
     },
     {
       "abr": "psytrainer(neuroquake)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Neuroquake",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "psytrainer(chunkskip)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Chunkskip",
-      "price": -10
+      "price": 417
     },
     {
       "abr": "skilltrainer(shooting)",
@@ -5710,73 +5710,73 @@
       "abr": "psytrainer(arcticpinhole)",
       "category": "Psytrainers",
       "defname": "Psytrainer_MorePsycasts_ArcticPinhole",
-      "price": -10
+      "price": 667
     },
     {
       "abr": "psytrainer(cleanskip)",
       "category": "Psytrainers",
       "defname": "Psytrainer_MorePsycasts_CleanSkip",
-      "price": -10
+      "price": 917
     },
     {
       "abr": "psytrainer(fertilityskip)",
       "category": "Psytrainers",
       "defname": "Psytrainer_MorePsycasts_FertilitySkip",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "psytrainer(flashheal)",
       "category": "Psytrainers",
       "defname": "Psytrainer_MorePsycasts_FlashHeal",
-      "price": -10
+      "price": 917
     },
     {
       "abr": "psytrainer(haulskip)",
       "category": "Psytrainers",
       "defname": "Psytrainer_MorePsycasts_HaulSkip",
-      "price": -10
+      "price": 1167
     },
     {
       "abr": "psytrainer(healscars)",
       "category": "Psytrainers",
       "defname": "Psytrainer_MorePsycasts_HealScars",
-      "price": -10
+      "price": 1167
     },
     {
       "abr": "psytrainer(healingtouch)",
       "category": "Psytrainers",
       "defname": "Psytrainer_MorePsycasts_HealingTouch",
-      "price": -10
+      "price": 667
     },
     {
       "abr": "psytrainer(ignite)",
       "category": "Psytrainers",
       "defname": "Psytrainer_MorePsycasts_Ignite",
-      "price": -10
+      "price": 417
     },
     {
       "abr": "psytrainer(mending)",
       "category": "Psytrainers",
       "defname": "Psytrainer_MorePsycasts_Mending",
-      "price": -10
+      "price": 1417
     },
     {
       "abr": "psytrainer(regrowbodyparts)",
       "category": "Psytrainers",
       "defname": "Psytrainer_MorePsycasts_RegrowBodyParts",
-      "price": -10
+      "price": 1417
     },
     {
       "abr": "psytrainer(revivingtouch)",
       "category": "Psytrainers",
       "defname": "Psytrainer_MorePsycasts_RevivingTouch",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "psytrainer(stabilizingtouch)",
       "category": "Psytrainers",
       "defname": "Psytrainer_MorePsycasts_StabilizingTouch",
-      "price": -10
+      "price": 417
     },
     {
       "abr": "repairstoolkit",
@@ -5800,7 +5800,7 @@
       "abr": "autopsytable",
       "category": "Production",
       "defname": "TableAutopsy",
-      "price": 400
+      "price": -10
     }
   ],
   "total": 967
