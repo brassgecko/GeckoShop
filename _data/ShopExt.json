@@ -3823,9 +3823,9 @@
       },
       "description": "The Dryads, the spiteful protectors of the forest. A truer form of the cold hearted wraiths of Athel Loren.",
       "defName": "Alien_DryadWild",
-      "enabled": false,
+      "enabled": true,
       "name": "wild dryad",
-      "price": 3333
+      "price": 2000
     },
     {
       "data": {
