@@ -38,24 +38,6 @@
   {
     "data": {
       "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "Twitch Toolkit"
-    },
-    "description": null,
-    "name": "Join queue",
-    "usage": "!joinqueue",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "JoinQueue"
-  },
-  {
-    "data": {
-      "isShortcut": false,
       "isBuy": true,
       "isBalance": false,
       "hasGlobalCooldown": false,
@@ -190,42 +172,6 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": null,
-    "name": "Heal me",
-    "usage": "!healme",
-    "userLevel": "Anyone",
-    "shortcut": true,
-    "defName": "HealMeShortcut"
-  },
-  {
-    "data": {
-      "isShortcut": true,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": null,
-    "name": "Healall",
-    "usage": "!healall",
-    "userLevel": "Anyone",
-    "shortcut": true,
-    "defName": "HealAllShortcut"
-  },
-  {
-    "data": {
-      "isShortcut": true,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
     "description": "Shuffles your passions. If a skill is specified, you'll be guaranteed a minor passion in it.",
     "name": "Passion shuffle",
     "usage": "!passionshuffle [skill]",
@@ -280,24 +226,6 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
-    "description": null,
-    "name": "Heal any pawn",
-    "usage": "!healanypawn",
-    "userLevel": "Anyone",
-    "shortcut": true,
-    "defName": "HealAnyPawnShortcut"
-  },
-  {
-    "data": {
-      "isShortcut": true,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
     "description": "Replaces a trait with a different trait.",
     "name": "Replace trait",
     "usage": "!replacetrait <old> <new>",
@@ -340,24 +268,6 @@
     "userLevel": "Anyone",
     "shortcut": true,
     "defName": "AddPassionShortcut"
-  },
-  {
-    "data": {
-      "isShortcut": true,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": null,
-    "name": "Full heal",
-    "usage": "!fullheal",
-    "userLevel": "Anyone",
-    "shortcut": true,
-    "defName": "FullHealShortcut"
   },
   {
     "data": {
