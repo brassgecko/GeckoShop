@@ -9,8 +9,8 @@ body {
 
 .tab {
     overflow: hidden;
-    border: 1px solid #cccccc;
-    background-color: #f1f1f1;
+    border: 1px solid #bf6060;
+    background-color: #bf6060;
 }
 
 .tab button {
@@ -53,6 +53,10 @@ body {
 
 table {
     display: table;
+}
+
+table tbody tr:hover {
+    background-color: #bf6060;
 }
 
 th {
