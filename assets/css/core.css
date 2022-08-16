@@ -3,7 +3,7 @@
 }
 
 body {
-    background-color: #9eadac;
+    background-color: #b8ac9e;
     line-height: 1;
 }
 
@@ -46,7 +46,7 @@ body {
 .search {
     width: 100%;
     font-size: 16px;
-    color: #ffaa00;
+    background-color: #b89e9e;
     padding: 12px 20px 12px 40px;
     border: 1px solid #8e9c9b;
     margin-bottom: 12px;
@@ -57,7 +57,7 @@ table {
 }
 
 table tbody tr:hover {
-    background-color: #c0c2c9;
+    background-color: #b89e9e;
 }
 
 th {
