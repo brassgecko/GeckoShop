@@ -24,7 +24,7 @@ body {
 }
 
 .tab button:hover {
-    background-color: #cccccc;
+    background-color: #c0c2c9;
 }
 
 .tabContent {
@@ -46,8 +46,9 @@ body {
 .search {
     width: 100%;
     font-size: 16px;
+    color: #ffaa00;
     padding: 12px 20px 12px 40px;
-    border: 1px solid #dddddd;
+    border: 1px solid #8e9c9b;
     margin-bottom: 12px;
 }
 
@@ -56,7 +57,7 @@ table {
 }
 
 table tbody tr:hover {
-    background-color: #bf6060;
+    background-color: #c0c2c9;
 }
 
 th {
