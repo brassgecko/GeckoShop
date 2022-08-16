@@ -52,6 +52,7 @@ their traits and gear, send resources to help build, send raiders to try to burn
 Some useful shortcuts if you have purchased a colonist, to save time and avoid me becoming confused:
 - `$wear itemName` to instantly wear armor or clothing
 - `$equip itemName` to instantly equip a weapon
+- `$wear tribalwear[cloth,normal]`: use [] to specify material and/or item quality
 - `$use itemName` to instantly use food (might not fill hunger) or other consumables 
 - `$backpack itemName` to put things in your colonist inventory
 - `$surgery itemName` to buy a body mod and queue the operation
@@ -69,12 +70,9 @@ one with `!openlootbox`
 <br/>
 ## What is Karma?
 
-Karma is a system that adjusts the number of coins you earn. Higher karma, more coins! Beneficial events 
+Karma is multiplier on the number of coins you earn - higher karma, more coins! Beneficial events 
 will raise your karma, harmful events will lower it, and anything neutral -may- raise your karma, 
-depending on my settings for the current scenario. BE WARNED! Your karma CAN go negative to the point 
-that it begins draining your coins away, at which point you rely on my mercy or the generosity of other 
-viewers for a chance to recover. Plan your evils carefully!
-
+depending on the current scenario. Max and min karma may change, or be locked to 100%.
 
 {%- if puppeteer -%}
 <br/>
