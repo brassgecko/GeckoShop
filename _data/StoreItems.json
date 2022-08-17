@@ -964,31 +964,31 @@
       "abr": "sheepwool",
       "category": "Wools",
       "defname": "WoolSheep",
-      "price": -10
+      "price": 4
     },
     {
       "abr": "alpacawool",
       "category": "Wools",
       "defname": "WoolAlpaca",
-      "price": -10
+      "price": 6
     },
     {
       "abr": "megaslothwool",
       "category": "Wools",
       "defname": "WoolMegasloth",
-      "price": -10
+      "price": 4
     },
     {
       "abr": "muffalowool",
       "category": "Wools",
       "defname": "WoolMuffalo",
-      "price": -10
+      "price": 4
     },
     {
       "abr": "bisonwool",
       "category": "Wools",
       "defname": "WoolBison",
-      "price": -10
+      "price": 4
     },
     {
       "abr": "plainleather",
@@ -2866,31 +2866,31 @@
       "abr": "angorawool",
       "category": "Wools",
       "defname": "ACPAngoraWool",
-      "price": -10
+      "price": 7
     },
     {
       "abr": "llamawool",
       "category": "Wools",
       "defname": "ACPLlamaWool",
-      "price": -10
+      "price": 5
     },
     {
       "abr": "spidersilk",
       "category": "Wools",
       "defname": "ACPSpidersilk",
-      "price": -10
+      "price": 13
     },
     {
       "abr": "direwolfwool",
       "category": "Wools",
       "defname": "ACPBDireWolfWool",
-      "price": -10
+      "price": 8
     },
     {
       "abr": "ferretsilk",
       "category": "Wools",
       "defname": "ACPFerretSilk",
-      "price": -10
+      "price": 10
     },
     {
       "abr": "brownfur",
