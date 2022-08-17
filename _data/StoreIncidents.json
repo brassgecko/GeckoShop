@@ -21,6 +21,16 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "randominspire",
+		"price": 450,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "surgery",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
 		"abr": "passionshuffle",
 		"price": 2000,
 		"karmatype": "Neutral"
@@ -28,6 +38,11 @@
 	{
 		"abr": "replacetrait",
 		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "rescueme",
+		"price": 1000,
 		"karmatype": "Neutral"
 	},
 	{
@@ -49,7 +64,32 @@
 		"abr": "cleartraits",
 		"price": 1,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "use",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "wear",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "equip",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "randomchildhood",
+		"price": 1500,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "randomadulthood",
+		"price": 1500,
+		"karmatype": "Neutral"
 	}
 	],
-	"total": 10
+	"total": 18
 }

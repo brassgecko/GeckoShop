@@ -6841,18 +6841,6 @@
       "price": -10
     },
     {
-      "abr": "waterbowl",
-      "category": "Hygiene",
-      "defname": "PetWaterBowl",
-      "price": -10
-    },
-    {
-      "abr": "watertrough",
-      "category": "Hygiene",
-      "defname": "WaterTrough",
-      "price": -10
-    },
-    {
       "abr": "watertub",
       "category": "Hygiene",
       "defname": "WashBucket",
@@ -6865,5 +6853,5 @@
       "price": -10
     }
   ],
-  "total": 1144
+  "total": 1142
 }
