@@ -21,11 +21,6 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "randominspire",
-		"price": 450,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "surgery",
 		"price": 1,
 		"karmatype": "Neutral"
@@ -91,5 +86,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 18
+	"total": 17
 }
