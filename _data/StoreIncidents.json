@@ -1,6 +1,51 @@
 {
 	"incitems" : [
 	{
+		"abr": "clearweather",
+		"price": 300,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "rain",
+		"price": 300,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "foggyrain",
+		"price": 300,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "rainythunderstorm",
+		"price": 300,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "snowgentle",
+		"price": 300,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "snowhard",
+		"price": 300,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "fog",
+		"price": 300,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "meteor",
+		"price": 2000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "party",
+		"price": 2000,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "pawn",
 		"price": 1,
 		"karmatype": "Good"
@@ -21,23 +66,13 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "surgery",
-		"price": 1,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "passionshuffle",
-		"price": 2000,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "replacetrait",
 		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "rescueme",
-		"price": 1000,
+		"price": 2500,
 		"karmatype": "Neutral"
 	},
 	{
@@ -47,7 +82,12 @@
 	},
 	{
 		"abr": "removepassion",
-		"price": 5000,
+		"price": 3000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "backpack",
+		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{
@@ -77,14 +117,14 @@
 	},
 	{
 		"abr": "randomchildhood",
-		"price": 1500,
+		"price": 2000,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "randomadulthood",
-		"price": 1500,
+		"price": 2000,
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 17
+	"total": 25
 }
