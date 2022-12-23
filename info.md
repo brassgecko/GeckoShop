@@ -41,6 +41,8 @@ These instructions go with my stream at [twitch.tv/brassgecko](twitch.tv/brassge
 [Twitch Toolkit](https://steamcommunity.com/sharedfiles/filedetails/?id=1718525787) in order to help or harm 
 the colony. If anything's confusing, wrong, or broken please say so in the chat!
 
+NOTE: If the current colony is a very limited toolkit setup, such as for a survival scenario,
+items and events may be limited or restricted entirely and the info below may not apply.
 
 ## What does Twitch Toolkit do?
 
