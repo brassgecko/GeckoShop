@@ -395,17 +395,17 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 100,
+      "removePrice": 100,
       "degree": 0,
       "description": "Timmy is romantically and sexually attracted to people of his own gender.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -423,11 +423,11 @@
       "description": "Timmy is romantically and sexually attracted to people regardless of gender.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -1885,11 +1885,11 @@
       "description": "Timmy is romantically and sexually attracted to people of the opposite gender.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Way Better Romance",
@@ -1907,11 +1907,11 @@
       "description": "Timmy is uninterested in sexual engagements, but is romantically attracted to people of the opposite gender.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Way Better Romance",
@@ -1929,11 +1929,11 @@
       "description": "Timmy is uninterested in sexual engagements, but is romantically attracted to people of his own gender.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Way Better Romance",
@@ -1951,11 +1951,11 @@
       "description": "Timmy is uninterested in sexual engagements, but is romantically attracted to people regardless of gender.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Way Better Romance",
@@ -1975,13 +1975,13 @@
       "conflicts": [
         "philanderer"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "philanderer"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Way Better Romance",
@@ -2001,13 +2001,13 @@
       "conflicts": [
         "faithful"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "faithful"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Way Better Romance",
@@ -3580,9 +3580,9 @@
       },
       "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
       "defName": "Human",
-      "enabled": false,
+      "enabled": true,
       "name": "human",
-      "price": 1
+      "price": 500
     },
     {
       "data": {

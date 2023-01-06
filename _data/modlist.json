@@ -45,7 +45,7 @@
     "author": "void",
     "name": "Character Editor",
     "steamId": "1874644848",
-    "version": "1.4.1206.0"
+    "version": "1.4.1238.0"
   },
   {
     "author": "Jaxe",
@@ -96,6 +96,12 @@
     "version": "1.11.0.0"
   },
   {
+    "author": "brucethemoose",
+    "name": "Hybrid Storytellers",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "hodlhodl",
     "name": "ToolkitCore",
     "steamId": "2018368654",
@@ -117,7 +123,7 @@
     "author": "Andreas Pardeike",
     "name": "Zombieland",
     "steamId": "928376710",
-    "version": "3.3.0.0"
+    "version": "3.4.1.0"
   },
   {
     "author": "Dubwise",
@@ -141,12 +147,6 @@
     "author": "PeteTimesSix",
     "name": "Research Reinvented: Stepping Stones",
     "steamId": "2868389782",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Fishbrains",
-    "name": "TechBlock",
-    "steamId": "1970774610",
     "version": "1.0.0.0"
   },
   {
@@ -192,6 +192,12 @@
     "version": "1.0.8330.21987"
   },
   {
+    "author": "Syrchalis",
+    "name": "[SYR] Set Up Camp",
+    "steamId": "1470065926",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Donald",
     "name": "Vanilla Combat Reloaded",
     "steamId": "2860414285",
@@ -208,12 +214,6 @@
     "name": "RunAndGun",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Atkana",
-    "name": "Passive Cover",
-    "steamId": "2732147678",
-    "version": "1.0.0.0"
   },
   {
     "author": "SinaKpaa",
@@ -288,6 +288,12 @@
     "version": null
   },
   {
+    "author": "Atkana",
+    "name": "Interception Tweaks",
+    "steamId": "2880136489",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "JisPichi",
     "name": "Stranger Danger",
     "steamId": "2554037708",
@@ -320,6 +326,12 @@
   {
     "author": "Victorique, Aurani and Tarojun",
     "name": "Expanded Prosthetics and Organ Engineering - Forked",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lilscoot + Bustedbunny (Updated by SL4VP0WER and slightly edited by Pearasect)",
+    "name": "Wheelchairs",
     "steamId": null,
     "version": null
   },
@@ -442,6 +454,12 @@
     "name": "Common Sense",
     "steamId": "1561769193",
     "version": "1.0.8391.36780"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Pharmacist Temporary 1.4 Update",
+    "steamId": "2880823401",
+    "version": "2.9.140"
   },
   {
     "author": "Weilbyte",
