@@ -202,7 +202,7 @@
       "abr": "anti-materielrifle",
       "category": "Heavy",
       "defname": "Gun_AntiMaterielRifle",
-      "price": 1333
+      "price": -10
     },
     {
       "abr": "apples",
@@ -310,7 +310,7 @@
       "abr": "automaticbattlerifle",
       "category": "Rifles",
       "defname": "Gun_AutomaticBattleRifle",
-      "price": 683
+      "price": -10
     },
     {
       "abr": "automaticshotgun",
@@ -322,7 +322,7 @@
       "abr": "automaticsniperrifle",
       "category": "Rare/unique",
       "defname": "Gun_AutomaticSniperRifle",
-      "price": 1000
+      "price": -10
     },
     {
       "abr": "auxiliaryai(combat)",
@@ -358,7 +358,7 @@
       "abr": "balancedbullpuprifle",
       "category": "Rifles",
       "defname": "Gun_BalancedBullpupRifle",
-      "price": 683
+      "price": -10
     },
     {
       "abr": "bamboo",
@@ -394,7 +394,7 @@
       "abr": "barleytea",
       "category": "Garden Drinks",
       "defname": "VG_BarleyTea",
-      "price": -10
+      "price": 13
     },
     {
       "abr": "basicsubcore",
@@ -664,7 +664,7 @@
       "abr": "bolt-actionpistol",
       "category": "Pistols",
       "defname": "Gun_BoltActionPistol",
-      "price": 283
+      "price": -10
     },
     {
       "abr": "bolt-actionrifle",
@@ -754,7 +754,7 @@
       "abr": "breech-loadingsniper",
       "category": "Sniper rifles",
       "defname": "Gun_BreechLoadingSniper",
-      "price": 400
+      "price": -10
     },
     {
       "abr": "brewery",
@@ -772,7 +772,7 @@
       "abr": "bullpuppdw",
       "category": "Submachine guns",
       "defname": "Gun_BullpupPDW",
-      "price": 600
+      "price": -10
     },
     {
       "abr": "burka",
@@ -796,7 +796,7 @@
       "abr": "button-downshirt",
       "category": "Misc",
       "defname": "Apparel_CollarShirt",
-      "price": -10
+      "price": 166
     },
     {
       "abr": "cactusfruit",
@@ -922,7 +922,7 @@
       "abr": "checkpointrifle",
       "category": "Rifles",
       "defname": "Gun_CheckpointRifle",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "chemfuel",
@@ -994,7 +994,7 @@
       "abr": "chocolatemilk",
       "category": "Garden Drinks",
       "defname": "Chocomilk",
-      "price": -10
+      "price": 25
     },
     {
       "abr": "christmastree",
@@ -1084,13 +1084,13 @@
       "abr": "compactcarbine",
       "category": "Rifles",
       "defname": "Gun_CompactCarbine",
-      "price": 650
+      "price": -10
     },
     {
       "abr": "compactlightmachinegun",
       "category": "Machine guns",
       "defname": "Gun_CompactLightMachineGun",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "component",
@@ -1126,7 +1126,7 @@
       "abr": "convertedbolt-actionrifle",
       "category": "Rifles",
       "defname": "Gun_ConvertedBoltActionRifle",
-      "price": 533
+      "price": -10
     },
     {
       "abr": "coolingribimplant",
@@ -1252,7 +1252,7 @@
       "abr": "defencerifle",
       "category": "Rifles",
       "defname": "Gun_DefenceRifle",
-      "price": 650
+      "price": -10
     },
     {
       "abr": "detoxifierkidney",
@@ -1444,7 +1444,7 @@
       "abr": "duster",
       "category": "Misc",
       "defname": "Apparel_Duster",
-      "price": -10
+      "price": 327
     },
     {
       "abr": "dye",
@@ -1558,7 +1558,7 @@
       "abr": "eltexhelmet",
       "category": "Headgear",
       "defname": "Apparel_PsyfocusHelmet",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "eltexrobe",
@@ -1576,13 +1576,13 @@
       "abr": "eltexskullcap",
       "category": "Headgear",
       "defname": "Apparel_EltexSkullcap",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "eltexstaff",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_PsyfocusStaff",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "eltexvest",
@@ -1744,7 +1744,7 @@
       "abr": "flamebow",
       "category": "Ranged weapons",
       "defname": "Flamebow",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "flatscreentelevision",
@@ -1816,7 +1816,7 @@
       "abr": "fruitdrink",
       "category": "Garden Drinks",
       "defname": "Fruitdrink",
-      "price": -10
+      "price": 12
     },
     {
       "abr": "fueledsaunaheater",
@@ -1852,7 +1852,7 @@
       "abr": "gardencoffee",
       "category": "Garden Drinks",
       "defname": "Coffee",
-      "price": -10
+      "price": 13
     },
     {
       "abr": "gardenfish",
@@ -1864,7 +1864,7 @@
       "abr": "gardentea",
       "category": "Garden Drinks",
       "defname": "Cuptea",
-      "price": -10
+      "price": 13
     },
     {
       "abr": "gasboiler",
@@ -1942,7 +1942,7 @@
       "abr": "general-purposemachinegun",
       "category": "Machine guns",
       "defname": "Gun_GPMG",
-      "price": 767
+      "price": -10
     },
     {
       "abr": "gibbetcage",
@@ -2008,7 +2008,7 @@
       "abr": "gold-platedruggedassaultrifle",
       "category": "Rare/unique",
       "defname": "Gun_GoldPlatedRuggedAssaultRifle",
-      "price": 1333
+      "price": -10
     },
     {
       "abr": "goose",
@@ -2200,13 +2200,13 @@
       "abr": "heavybandolier",
       "category": "Misc",
       "defname": "Apparel_Bandolier",
-      "price": -10
+      "price": 271
     },
     {
       "abr": "heavycombatrifle",
       "category": "Rifles",
       "defname": "Gun_HeavyCombatRifle",
-      "price": 767
+      "price": -10
     },
     {
       "abr": "heavyfur",
@@ -2260,7 +2260,7 @@
       "abr": "hivepiece",
       "category": "Raw resources",
       "defname": "VG_Hivepiece",
-      "price": 250
+      "price": -10
     },
     {
       "abr": "honey",
@@ -2470,7 +2470,7 @@
       "abr": "improvisedrifle",
       "category": "Rifles",
       "defname": "Gun_ImprovisedRifle",
-      "price": 200
+      "price": -10
     },
     {
       "abr": "incendiarylauncher",
@@ -2500,7 +2500,7 @@
       "abr": "infantryautomaticrifle",
       "category": "Machine guns",
       "defname": "Gun_InfantryAutomaticRifle",
-      "price": 750
+      "price": -10
     },
     {
       "abr": "infinitechemreactor",
@@ -2722,7 +2722,7 @@
       "abr": "largelever-actionrifle",
       "category": "Rifles",
       "defname": "Gun_LargeLeverActionRifle",
-      "price": 383
+      "price": -10
     },
     {
       "abr": "largenatureshrine",
@@ -2740,7 +2740,7 @@
       "abr": "largerevolver",
       "category": "Pistols",
       "defname": "Gun_LargeRevolver",
-      "price": 400
+      "price": -10
     },
     {
       "abr": "largesculpture",
@@ -2788,13 +2788,13 @@
       "abr": "lever-actionshotgun",
       "category": "Shotguns",
       "defname": "Gun_LeverActionShotgun",
-      "price": 367
+      "price": -10
     },
     {
       "abr": "lever-actionsniper",
       "category": "Sniper rifles",
       "defname": "Gun_LeverActionSniper",
-      "price": 467
+      "price": -10
     },
     {
       "abr": "lightmachinegun",
@@ -3172,25 +3172,25 @@
       "abr": "modernisedarquebus",
       "category": "Rare/unique",
       "defname": "Gun_ModernisedArquebus",
-      "price": 233
+      "price": -10
     },
     {
       "abr": "modernisedbullpuprifle",
       "category": "Rifles",
       "defname": "Gun_ModernisedBullpupRifle",
-      "price": 750
+      "price": -10
     },
     {
       "abr": "modernisedruggedassaultrifle",
       "category": "Rifles",
       "defname": "Gun_ModernisedRuggedAssaultRifle",
-      "price": 717
+      "price": -10
     },
     {
       "abr": "modifiedlightsupportweapon",
       "category": "Rare/unique",
       "defname": "Gun_ModifiedLightSupportWeapon",
-      "price": 767
+      "price": -10
     },
     {
       "abr": "modularstool",
@@ -3226,7 +3226,7 @@
       "abr": "monosword",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_MonoSword",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "morbidslab(broad)",
@@ -3544,7 +3544,7 @@
       "abr": "personalisedbullpuppdw",
       "category": "Rare/unique",
       "defname": "Gun_PersonalisedBullpupPDW",
-      "price": 633
+      "price": -10
     },
     {
       "abr": "pew",
@@ -3604,7 +3604,7 @@
       "abr": "plasmasword",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_PlasmaSword",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "plasteel",
@@ -3658,19 +3658,19 @@
       "abr": "polymerbullpuprifle",
       "category": "Rifles",
       "defname": "Gun_PolymerBullpupRifle",
-      "price": 683
+      "price": -10
     },
     {
       "abr": "polymerlightsupportweapon",
       "category": "Machine guns",
       "defname": "Gun_PolymerLightSupportWeapon",
-      "price": 700
+      "price": -10
     },
     {
       "abr": "polymersubmachinegun",
       "category": "Submachine guns",
       "defname": "Gun_PolymerSubmachineGun",
-      "price": 633
+      "price": -10
     },
     {
       "abr": "pork",
@@ -3802,7 +3802,7 @@
       "abr": "prototyperifle",
       "category": "Rifles",
       "defname": "Gun_PrototypeRifle",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "psychicanimalpulser",
@@ -4126,7 +4126,7 @@
       "abr": "reconrifle",
       "category": "Sniper rifles",
       "defname": "Gun_ReconRifle",
-      "price": 767
+      "price": -10
     },
     {
       "abr": "recurvebow",
@@ -4252,7 +4252,7 @@
       "abr": "riotshotgun",
       "category": "Shotguns",
       "defname": "Gun_RiotShotgun",
-      "price": 533
+      "price": -10
     },
     {
       "abr": "robe",
@@ -4270,25 +4270,25 @@
       "abr": "ruggedassaultrifle",
       "category": "Rifles",
       "defname": "Gun_RuggedAssaultRifle",
-      "price": 650
+      "price": -10
     },
     {
       "abr": "ruggedcarbine",
       "category": "Rifles",
       "defname": "Gun_RuggedCarbine",
-      "price": 650
+      "price": -10
     },
     {
       "abr": "ruggedlightsupportweapon",
       "category": "Machine guns",
       "defname": "Gun_RuggedLMG",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "ruggedmarksman'srifle",
       "category": "Sniper rifles",
       "defname": "Gun_RuggedMarksmansRifle",
-      "price": 750
+      "price": -10
     },
     {
       "abr": "rusticrug(broad)",
@@ -4318,7 +4318,7 @@
       "abr": "sash",
       "category": "Misc",
       "defname": "Apparel_Sash",
-      "price": -10
+      "price": 89
     },
     {
       "abr": "saunaseating",
@@ -4330,7 +4330,7 @@
       "abr": "sawn-offshotgun",
       "category": "Shotguns",
       "defname": "Gun_SawnOffShotgun",
-      "price": 317
+      "price": -10
     },
     {
       "abr": "schooldesk",
@@ -4354,25 +4354,25 @@
       "abr": "semi-automaticshotgun",
       "category": "Shotguns",
       "defname": "Gun_SemiAutomaticShotgun",
-      "price": 600
+      "price": -10
     },
     {
       "abr": "servicecarbine",
       "category": "Rifles",
       "defname": "Gun_ServiceCarbine",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "servicepistol",
       "category": "Pistols",
       "defname": "Gun_ServicePistol",
-      "price": 317
+      "price": -10
     },
     {
       "abr": "servicerifle",
       "category": "Rifles",
       "defname": "Gun_ServiceRifle",
-      "price": 683
+      "price": -10
     },
     {
       "abr": "sewingtoolkit",
@@ -4690,7 +4690,7 @@
       "abr": "snipersupportrifle",
       "category": "Sniper rifles",
       "defname": "Gun_SniperSupportRifle",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "snowbeet",
@@ -4720,13 +4720,13 @@
       "abr": "specialoperationsrifle",
       "category": "Rare/unique",
       "defname": "Gun_SpecialOperationsRifle",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "specialpurposerifle",
       "category": "Sniper rifles",
       "defname": "Gun_SpecialPurposeRifle",
-      "price": 800
+      "price": -10
     },
     {
       "abr": "spelopede",
@@ -4756,7 +4756,7 @@
       "abr": "sportingrifle",
       "category": "Sniper rifles",
       "defname": "Gun_SportingRifle",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "squirrel",
@@ -5236,7 +5236,7 @@
       "abr": "toxbomblauncher",
       "category": "Ranged weapons",
       "defname": "Gun_ToxbombLauncher",
-      "price": 633
+      "price": -10
     },
     {
       "abr": "toxipotatoes",
@@ -5266,7 +5266,7 @@
       "abr": "triplerocketlauncher",
       "category": "Ranged weapons",
       "defname": "Gun_TripleRocket",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "t-shirt",
@@ -5308,7 +5308,7 @@
       "abr": "turretrifle",
       "category": "Rare/unique",
       "defname": "Gun_TurretRifle",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "unstablepowercell",
@@ -5326,7 +5326,7 @@
       "abr": "urbanpistol",
       "category": "Pistols",
       "defname": "Gun_UrbanPistol",
-      "price": 400
+      "price": -10
     },
     {
       "abr": "urn",
@@ -5380,43 +5380,43 @@
       "abr": "vintageassaultrifle",
       "category": "Rifles",
       "defname": "Gun_VintageAssaultRifle",
-      "price": 1000
+      "price": -10
     },
     {
       "abr": "vintagegeneral-purposemachinegun",
       "category": "Machine guns",
       "defname": "Gun_VintageGPMG",
-      "price": 1000
+      "price": -10
     },
     {
       "abr": "vintagelever-actionrifle",
       "category": "Rare/unique",
       "defname": "Gun_VintageLeverActionRifle",
-      "price": 642
+      "price": -10
     },
     {
       "abr": "vintagelightmachinegun",
       "category": "Machine guns",
       "defname": "Gun_VintageLightMachineGun",
-      "price": 867
+      "price": -10
     },
     {
       "abr": "vintagemachinepistol",
       "category": "Pistols",
       "defname": "Gun_VintageMachinePistol",
-      "price": 567
+      "price": -10
     },
     {
       "abr": "vintagesniper",
       "category": "Sniper rifles",
       "defname": "Gun_VintageSniper",
-      "price": 900
+      "price": -10
     },
     {
       "abr": "vintagesubmachinegun",
       "category": "Submachine guns",
       "defname": "Gun_VintageSubmachineGun",
-      "price": 700
+      "price": -10
     },
     {
       "abr": "visagemask",
@@ -5524,19 +5524,19 @@
       "abr": "weightedbullpupcarbine",
       "category": "Rifles",
       "defname": "Gun_WeightedBullpupCarbine",
-      "price": 683
+      "price": -10
     },
     {
       "abr": "weightedbullpuprifle",
       "category": "Rifles",
       "defname": "Gun_WeightedBullpupRifle",
-      "price": 700
+      "price": -10
     },
     {
       "abr": "weightedlightsupportweapon",
       "category": "Machine guns",
       "defname": "Gun_WeightedLightSupportWeapon",
-      "price": 700
+      "price": -10
     },
     {
       "abr": "wildboar",
@@ -5608,7 +5608,7 @@
       "abr": "zeushammer",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_Zeushammer",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "zombieextract",
@@ -5692,85 +5692,85 @@
       "abr": "antiquedouble-barrelledshotgun",
       "category": "Rare/unique",
       "defname": "Gun_AntiqueDoubleBarreledShotgun",
-      "price": 367
+      "price": -10
     },
     {
       "abr": "antiquegaussrifle",
       "category": "Rare/unique",
       "defname": "Gun_AntiqueGaussRifle",
-      "price": 1333
+      "price": -10
     },
     {
       "abr": "assassin'scarbine",
       "category": "Rare/unique",
       "defname": "Gun_AssasinsCarbine",
-      "price": 717
+      "price": -10
     },
     {
       "abr": "chargelance",
       "category": "Heavy",
       "defname": "Gun_ChargeLance",
-      "price": 2258
+      "price": -10
     },
     {
       "abr": "civilrifle",
       "category": "Rifles",
       "defname": "Gun_CivilRifle",
-      "price": 567
+      "price": -10
     },
     {
       "abr": "combatcarbine",
       "category": "Rifles",
       "defname": "Gun_CombatCarbine",
-      "price": 750
+      "price": -10
     },
     {
       "abr": "modernisedbattlerifle",
       "category": "Rifles",
       "defname": "Gun_ModernisedBattleRifle",
-      "price": 733
+      "price": -10
     },
     {
       "abr": "modernisedcommonwealthrifle",
       "category": "Rifles",
       "defname": "Gun_ModernisedCommonwealthRifle",
-      "price": 767
+      "price": -10
     },
     {
       "abr": "modernisedlever-actionrifle",
       "category": "Rifles",
       "defname": "Gun_ModernisedLeverActionRifle",
-      "price": 467
+      "price": -10
     },
     {
       "abr": "modernisedpolicecarbine",
       "category": "Rifles",
       "defname": "Gun_ModernisedPoliceCarbine",
-      "price": 717
+      "price": -10
     },
     {
       "abr": "modernisedpolicesubmachinegun",
       "category": "Submachine guns",
       "defname": "Gun_ModernisedPoliceSubmachineGun",
-      "price": 567
+      "price": -10
     },
     {
       "abr": "modernisedservicecarbine",
       "category": "Rifles",
       "defname": "Gun_ModernisedServiceCarbine",
-      "price": 700
+      "price": -10
     },
     {
       "abr": "modernisedservicerifle",
       "category": "Rifles",
       "defname": "Gun_ModernisedServiceRifle",
-      "price": 750
+      "price": -10
     },
     {
       "abr": "modularlmg",
       "category": "Machine guns",
       "defname": "Gun_ModularLightMachineGun",
-      "price": 700
+      "price": -10
     },
     {
       "abr": "mountedgausslmg",
@@ -5782,13 +5782,13 @@
       "abr": "policesubmachinegun",
       "category": "Submachine guns",
       "defname": "Gun_PoliceSubmachineGun",
-      "price": 500
+      "price": -10
     },
     {
       "abr": "vintagebattlerifle",
       "category": "Rifles",
       "defname": "Gun_VintageBattleRifle",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "wheelchair",

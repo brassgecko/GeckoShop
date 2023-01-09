@@ -27,7 +27,7 @@
     "author": "CrashM",
     "name": "CM Color Coded Mood Bar [1.1+]",
     "steamId": "2006605356",
-    "version": "1.4.3566.3"
+    "version": "1.4.3580.1"
   },
   {
     "author": "PeteTimesSix",
@@ -45,7 +45,7 @@
     "author": "void",
     "name": "Character Editor",
     "steamId": "1874644848",
-    "version": "1.4.1238.0"
+    "version": "1.4.1240.0"
   },
   {
     "author": "Jaxe",
@@ -117,13 +117,13 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.3.0.0.biotech.B4"
+    "version": "6.3.0.0.biotech.b6"
   },
   {
     "author": "Andreas Pardeike",
     "name": "Zombieland",
     "steamId": "928376710",
-    "version": "3.4.1.0"
+    "version": "3.5.0.0"
   },
   {
     "author": "Dubwise",
@@ -446,6 +446,12 @@
   {
     "author": "UnlimitedHugs",
     "name": "Allow Tool",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "Less Arbitrary Surgery (Continued)",
     "steamId": null,
     "version": null
   },
