@@ -3570,8 +3570,8 @@
           "+70% Flammability",
           "+$1750 Market value",
           "+4.60 Move speed",
-          "+28.8F Minimum comfortable temperature",
-          "+46.8F Maximum comfortable temperature",
+          "+28.8F [16.0C] Minimum comfortable temperature",
+          "+46.8F [26.0C] Maximum comfortable temperature",
           "+75 Leather amount",
           "+3 Honor value"
         ],
@@ -3590,8 +3590,8 @@
         "stats": [
           "+70.00 Mass",
           "+100% Flammability",
-          "-108.0F Minimum comfortable temperature",
-          "+360.0F Maximum comfortable temperature",
+          "-108.0F [-60.0C] Minimum comfortable temperature",
+          "+360.0F [200.0C] Maximum comfortable temperature",
           "+0% Psychic sensitivity",
           "+0% Toxic resistance",
           "+0 Meat amount",

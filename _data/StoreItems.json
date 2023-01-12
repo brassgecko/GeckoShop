@@ -157,12 +157,6 @@
       "price": 25
     },
     {
-      "abr": "ammunitionbench",
-      "category": "Production",
-      "defname": "LTS_AmmunitionBench",
-      "price": -10
-    },
-    {
       "abr": "animalbed",
       "category": "Furniture",
       "defname": "AnimalBed",
@@ -215,12 +209,6 @@
       "category": "Misc",
       "defname": "ArchiteCapsule",
       "price": -10
-    },
-    {
-      "abr": "archotechammo",
-      "category": "Ammunition",
-      "defname": "AmmoArchotech",
-      "price": 8
     },
     {
       "abr": "archotecharm",
@@ -1633,12 +1621,6 @@
       "price": 4067
     },
     {
-      "abr": "explosiveammo",
-      "category": "Ammunition",
-      "defname": "AmmoExplosive",
-      "price": 1
-    },
-    {
       "abr": "eyeball",
       "category": "Natural",
       "defname": "Eye",
@@ -2491,12 +2473,6 @@
       "price": -10
     },
     {
-      "abr": "industrialammo",
-      "category": "Ammunition",
-      "defname": "AmmoIndustrial",
-      "price": 1
-    },
-    {
       "abr": "infantryautomaticrifle",
       "category": "Machine guns",
       "defname": "Gun_InfantryAutomaticRifle",
@@ -2711,12 +2687,6 @@
       "category": "Furniture",
       "defname": "DoorMatBigTeal",
       "price": -10
-    },
-    {
-      "abr": "largekit",
-      "category": "Kits",
-      "defname": "LTS_KitLarge",
-      "price": 212
     },
     {
       "abr": "largelever-actionrifle",
@@ -3055,12 +3025,6 @@
       "price": 30
     },
     {
-      "abr": "medievalammo",
-      "category": "Ammunition",
-      "defname": "AmmoMedieval",
-      "price": 1
-    },
-    {
       "abr": "meditationthrone",
       "category": "Furniture",
       "defname": "Throne",
@@ -3101,12 +3065,6 @@
       "category": "Furniture",
       "defname": "DoorMatMediumTeal",
       "price": -10
-    },
-    {
-      "abr": "mediumkit",
-      "category": "Kits",
-      "defname": "LTS_KitMedium",
-      "price": 142
     },
     {
       "abr": "megascarab",
@@ -3749,12 +3707,6 @@
       "category": "Noble apparel",
       "defname": "Apparel_RobeRoyal",
       "price": 450
-    },
-    {
-      "abr": "primitiveammo",
-      "category": "Ammunition",
-      "defname": "AmmoPrimitive",
-      "price": 1
     },
     {
       "abr": "prostheticarm",
@@ -4621,12 +4573,6 @@
       "price": 62
     },
     {
-      "abr": "smallkit",
-      "category": "Kits",
-      "defname": "LTS_KitSmall",
-      "price": 73
-    },
-    {
       "abr": "smallnatureshrine",
       "category": "Misc",
       "defname": "NatureShrine_Small",
@@ -4703,12 +4649,6 @@
       "category": "Animals",
       "defname": "Snowhare",
       "price": -10
-    },
-    {
-      "abr": "spacerammo",
-      "category": "Ammunition",
-      "defname": "AmmoSpacer",
-      "price": 2
     },
     {
       "abr": "spear",
@@ -5734,68 +5674,62 @@
       "abr": "modernisedcommonwealthrifle",
       "category": "Rifles",
       "defname": "Gun_ModernisedCommonwealthRifle",
-      "price": -10
+      "price": 767
     },
     {
       "abr": "modernisedlever-actionrifle",
       "category": "Rifles",
       "defname": "Gun_ModernisedLeverActionRifle",
-      "price": -10
+      "price": 467
     },
     {
       "abr": "modernisedpolicecarbine",
       "category": "Rifles",
       "defname": "Gun_ModernisedPoliceCarbine",
-      "price": -10
+      "price": 717
     },
     {
       "abr": "modernisedpolicesubmachinegun",
       "category": "Submachine guns",
       "defname": "Gun_ModernisedPoliceSubmachineGun",
-      "price": -10
+      "price": 567
     },
     {
       "abr": "modernisedservicecarbine",
       "category": "Rifles",
       "defname": "Gun_ModernisedServiceCarbine",
-      "price": -10
+      "price": 700
     },
     {
       "abr": "modernisedservicerifle",
       "category": "Rifles",
       "defname": "Gun_ModernisedServiceRifle",
-      "price": -10
+      "price": 750
     },
     {
       "abr": "modularlmg",
       "category": "Machine guns",
       "defname": "Gun_ModularLightMachineGun",
-      "price": -10
+      "price": 700
     },
     {
       "abr": "mountedgausslmg",
       "category": "Security",
       "defname": "Turret_GaussLMGTurret",
-      "price": -10
+      "price": 1175
     },
     {
       "abr": "policesubmachinegun",
       "category": "Submachine guns",
       "defname": "Gun_PoliceSubmachineGun",
-      "price": -10
+      "price": 500
     },
     {
       "abr": "vintagebattlerifle",
       "category": "Rifles",
       "defname": "Gun_VintageBattleRifle",
-      "price": -10
-    },
-    {
-      "abr": "wheelchair",
-      "category": "Utility",
-      "defname": "Wheelchair",
-      "price": -10
+      "price": 833
     }
   ],
-  "total": 966
+  "total": 955
 }
