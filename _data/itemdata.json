@@ -3501,7 +3501,7 @@
   },
   "Cloth": {
     "CustomName": null,
-    "HasQuantityLimit": true,
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -3521,7 +3521,7 @@
   },
   "Synthread": {
     "CustomName": null,
-    "HasQuantityLimit": true,
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -3541,7 +3541,7 @@
   },
   "DevilstrandCloth": {
     "CustomName": null,
-    "HasQuantityLimit": true,
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -3561,7 +3561,7 @@
   },
   "Hyperweave": {
     "CustomName": null,
-    "HasQuantityLimit": true,
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -3581,7 +3581,7 @@
   },
   "WoolSheep": {
     "CustomName": null,
-    "HasQuantityLimit": true,
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -3601,7 +3601,7 @@
   },
   "WoolAlpaca": {
     "CustomName": null,
-    "HasQuantityLimit": true,
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -3621,7 +3621,7 @@
   },
   "WoolMegasloth": {
     "CustomName": null,
-    "HasQuantityLimit": true,
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -3641,7 +3641,7 @@
   },
   "WoolMuffalo": {
     "CustomName": null,
-    "HasQuantityLimit": true,
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -3661,7 +3661,7 @@
   },
   "WoolBison": {
     "CustomName": null,
-    "HasQuantityLimit": true,
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -3681,7 +3681,7 @@
   },
   "Leather_Plain": {
     "CustomName": null,
-    "HasQuantityLimit": true,
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -3701,7 +3701,7 @@
   },
   "Leather_Dog": {
     "CustomName": null,
-    "HasQuantityLimit": true,
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -3721,7 +3721,7 @@
   },
   "Leather_Wolf": {
     "CustomName": null,
-    "HasQuantityLimit": true,
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -3741,7 +3741,7 @@
   },
   "Leather_Panthera": {
     "CustomName": null,
-    "HasQuantityLimit": true,
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -3761,7 +3761,7 @@
   },
   "Leather_Camel": {
     "CustomName": null,
-    "HasQuantityLimit": true,
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -3781,7 +3781,7 @@
   },
   "Leather_Bluefur": {
     "CustomName": null,
-    "HasQuantityLimit": true,
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -3801,7 +3801,7 @@
   },
   "Leather_Bear": {
     "CustomName": null,
-    "HasQuantityLimit": true,
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -3821,7 +3821,7 @@
   },
   "Leather_GuineaPig": {
     "CustomName": null,
-    "HasQuantityLimit": true,
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -3841,7 +3841,7 @@
   },
   "Leather_Human": {
     "CustomName": null,
-    "HasQuantityLimit": true,
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -3861,7 +3861,7 @@
   },
   "Leather_Pig": {
     "CustomName": null,
-    "HasQuantityLimit": true,
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -3881,7 +3881,7 @@
   },
   "Leather_Light": {
     "CustomName": null,
-    "HasQuantityLimit": true,
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -3901,7 +3901,7 @@
   },
   "Leather_Bird": {
     "CustomName": null,
-    "HasQuantityLimit": true,
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -3921,7 +3921,7 @@
   },
   "Leather_Chinchilla": {
     "CustomName": null,
-    "HasQuantityLimit": true,
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -3941,7 +3941,7 @@
   },
   "Leather_Fox": {
     "CustomName": null,
-    "HasQuantityLimit": true,
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -3961,7 +3961,7 @@
   },
   "Leather_Lizard": {
     "CustomName": null,
-    "HasQuantityLimit": true,
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -3981,7 +3981,7 @@
   },
   "Leather_Elephant": {
     "CustomName": null,
-    "HasQuantityLimit": true,
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -4001,7 +4001,7 @@
   },
   "Leather_Heavy": {
     "CustomName": null,
-    "HasQuantityLimit": true,
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -4021,7 +4021,7 @@
   },
   "Leather_Rhinoceros": {
     "CustomName": null,
-    "HasQuantityLimit": true,
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -4041,7 +4041,7 @@
   },
   "Leather_Thrumbo": {
     "CustomName": null,
-    "HasQuantityLimit": true,
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -4061,7 +4061,7 @@
   },
   "Leather_Patch": {
     "CustomName": null,
-    "HasQuantityLimit": true,
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -19097,6 +19097,46 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Weapon Tech",
+    "KarmaType": null
+  },
+  "Building_RTCircuitBreaker": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "RT Fuse",
+    "KarmaType": null
+  },
+  "Building_RTMakeshiftFuse": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "RT Fuse",
     "KarmaType": null
   }
 }
