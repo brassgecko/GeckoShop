@@ -6,6 +6,12 @@
     "version": "1.5.0.0"
   },
   {
+    "author": "Dubwise",
+    "name": "Dubs Performance Analyzer",
+    "steamId": "2038874626",
+    "version": "1.0.0"
+  },
+  {
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
@@ -312,12 +318,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "SinaKpaa",
-    "name": "Close Quarters Combat Brutality",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Janson",
     "name": "Weapon Condition Matters",
     "steamId": null,
@@ -450,12 +450,6 @@
     "version": null
   },
   {
-    "author": "Mehni",
-    "name": "Pick Up And Haul",
-    "steamId": "1279012058",
-    "version": "1.0.0"
-  },
-  {
     "author": "CodeOptimist",
     "name": "While You're Up / PUAH+",
     "steamId": "2034960453",
@@ -510,12 +504,6 @@
     "version": null
   },
   {
-    "author": "Mlie",
-    "name": "All Memories Fade",
-    "steamId": "2800155563",
-    "version": "1.4.1"
-  },
-  {
     "author": "divineDerivative",
     "name": "Way Better Romance",
     "steamId": "2877731755",
@@ -558,6 +546,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Complex Jobs",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Fluffy",
     "name": "Medical Tab",
     "steamId": "715565817",
@@ -568,12 +562,6 @@
     "name": "InventoryTab",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Fluffy",
-    "name": "Work Tab",
-    "steamId": "725219116",
-    "version": "3.21.303"
   },
   {
     "author": "Mehni",

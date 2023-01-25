@@ -586,7 +586,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Close Quarters Combat Brutality",
+        "mod": "RimWorld",
         "karmaTypeForAdding": null
       },
       "defName": "Nimble",
@@ -1787,234 +1787,6 @@
       },
       "defName": "Recluse",
       "name": "recluse"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 2000,
-      "removePrice": 2000,
-      "degree": 2,
-      "description": "Timmy is obsessed with germs and will wash much more frequently than normal.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Hygienic",
-      "name": "germaphobe"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 2000,
-      "removePrice": 2000,
-      "degree": 1,
-      "description": "Timmy is very hygienic and will wash more frequently.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Hygienic",
-      "name": "hygienic"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 2000,
-      "removePrice": 2000,
-      "degree": -1,
-      "description": "Timmy is very unhygienic and will wash less frequently.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Hygienic",
-      "name": "unhygienic"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 2000,
-      "removePrice": 2000,
-      "degree": -2,
-      "description": "Timmy has very low standards of cleanliness and will only wash when they absolutely have to.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Hygienic",
-      "name": "slob"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 50,
-      "removePrice": 50,
-      "degree": 0,
-      "description": "Timmy is romantically and sexually attracted to people of the opposite gender.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": true,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": true,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Way Better Romance",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Straight",
-      "name": "straight"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 50,
-      "removePrice": 50,
-      "degree": 0,
-      "description": "Timmy is uninterested in sexual engagements, but is romantically attracted to people of the opposite gender.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": true,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": true,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Way Better Romance",
-        "karmaTypeForAdding": null
-      },
-      "defName": "HeteroAce",
-      "name": "asexual(hetero)"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 50,
-      "removePrice": 50,
-      "degree": 0,
-      "description": "Timmy is uninterested in sexual engagements, but is romantically attracted to people of his own gender.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": true,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": true,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Way Better Romance",
-        "karmaTypeForAdding": null
-      },
-      "defName": "HomoAce",
-      "name": "asexual(homo)"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 50,
-      "removePrice": 50,
-      "degree": 0,
-      "description": "Timmy is uninterested in sexual engagements, but is romantically attracted to people regardless of gender.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": true,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": true,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Way Better Romance",
-        "karmaTypeForAdding": null
-      },
-      "defName": "BiAce",
-      "name": "asexual(bi)"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 2000,
-      "removePrice": 2000,
-      "degree": 0,
-      "description": "Timmy will never cheat on a partner, no matter how bad the relationship gets.",
-      "stats": [],
-      "conflicts": [
-        "philanderer"
-      ],
-      "bypassLimit": true,
-      "data": {
-        "conflicts": [
-          "philanderer"
-        ],
-        "stats": [],
-        "canBypassLimit": true,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Way Better Romance",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Faithful",
-      "name": "faithful"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 2000,
-      "removePrice": 2000,
-      "degree": 0,
-      "description": "Timmy just cannot be trusted to stay faithful to a partner.",
-      "stats": [],
-      "conflicts": [
-        "faithful"
-      ],
-      "bypassLimit": true,
-      "data": {
-        "conflicts": [
-          "faithful"
-        ],
-        "stats": [],
-        "canBypassLimit": true,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Way Better Romance",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Philanderer",
-      "name": "philanderer"
     },
     {
       "canAdd": true,
@@ -3559,6 +3331,234 @@
       },
       "defName": "RT_Messy",
       "name": "messy"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 2000,
+      "degree": 2,
+      "description": "Timmy is obsessed with germs and will wash much more frequently than normal.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Hygienic",
+      "name": "germaphobe"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmy is very hygienic and will wash more frequently.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Hygienic",
+      "name": "hygienic"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 2000,
+      "degree": -1,
+      "description": "Timmy is very unhygienic and will wash less frequently.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Hygienic",
+      "name": "unhygienic"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -2,
+      "description": "Timmy has very low standards of cleanliness and will only wash when they absolutely have to.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Hygienic",
+      "name": "slob"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 50,
+      "removePrice": 50,
+      "degree": 0,
+      "description": "Timmy is romantically and sexually attracted to people of the opposite gender.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Way Better Romance",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Straight",
+      "name": "straight"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 50,
+      "removePrice": 50,
+      "degree": 0,
+      "description": "Timmy is uninterested in sexual engagements, but is romantically attracted to people of the opposite gender.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Way Better Romance",
+        "karmaTypeForAdding": null
+      },
+      "defName": "HeteroAce",
+      "name": "asexual(hetero)"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 50,
+      "removePrice": 50,
+      "degree": 0,
+      "description": "Timmy is uninterested in sexual engagements, but is romantically attracted to people of his own gender.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Way Better Romance",
+        "karmaTypeForAdding": null
+      },
+      "defName": "HomoAce",
+      "name": "asexual(homo)"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 50,
+      "removePrice": 50,
+      "degree": 0,
+      "description": "Timmy is uninterested in sexual engagements, but is romantically attracted to people regardless of gender.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Way Better Romance",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BiAce",
+      "name": "asexual(bi)"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 2000,
+      "degree": 0,
+      "description": "Timmy will never cheat on a partner, no matter how bad the relationship gets.",
+      "stats": [],
+      "conflicts": [
+        "philanderer"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "philanderer"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Way Better Romance",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Faithful",
+      "name": "faithful"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 2000,
+      "degree": 0,
+      "description": "Timmy just cannot be trusted to stay faithful to a partner.",
+      "stats": [],
+      "conflicts": [
+        "faithful"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "faithful"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Way Better Romance",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Philanderer",
+      "name": "philanderer"
     }
   ],
   "races": [
