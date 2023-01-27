@@ -1978,7 +1978,7 @@
       "abr": "low-shieldpack",
       "category": "Utility",
       "defname": "Apparel_PackBroadshield",
-      "price": 2400
+      "price": -10
     },
     {
       "abr": "luciferium",
@@ -3262,7 +3262,7 @@
       "abr": "smallsculpture",
       "category": "Art",
       "defname": "SculptureSmall",
-      "price": 275
+      "price": -10
     },
     {
       "abr": "smallshelf",
@@ -3304,7 +3304,7 @@
       "abr": "snowhare",
       "category": "Animals",
       "defname": "Snowhare",
-      "price": 83
+      "price": -10
     },
     {
       "abr": "spear",
@@ -3316,7 +3316,7 @@
       "abr": "spelopede",
       "category": "Animals",
       "defname": "Spelopede",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "spiketrap",
@@ -3340,7 +3340,7 @@
       "abr": "squirrel",
       "category": "Animals",
       "defname": "Squirrel",
-      "price": 58
+      "price": -10
     },
     {
       "abr": "squirrelmeat",
@@ -3448,7 +3448,7 @@
       "abr": "tablet",
       "category": "Inert relics",
       "defname": "RelicInertTablet",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "tailcap",
@@ -3556,7 +3556,7 @@
       "abr": "thrumbo",
       "category": "Animals",
       "defname": "Thrumbo",
-      "price": 6667
+      "price": -10
     },
     {
       "abr": "thrumbohorn",
@@ -3580,7 +3580,7 @@
       "abr": "timberwolf",
       "category": "Animals",
       "defname": "Wolf_Timber",
-      "price": 583
+      "price": -10
     },
     {
       "abr": "toolcabinet",
@@ -3604,7 +3604,7 @@
       "abr": "tortoise",
       "category": "Animals",
       "defname": "Tortoise",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "tortoiseegg(fert.)",
@@ -3664,7 +3664,7 @@
       "abr": "toxalope",
       "category": "Animals",
       "defname": "Toxalope",
-      "price": 583
+      "price": -10
     },
     {
       "abr": "toxalopemeat",
@@ -3730,7 +3730,7 @@
       "abr": "turkey",
       "category": "Animals",
       "defname": "Turkey",
-      "price": 167
+      "price": -10
     },
     {
       "abr": "turkeyegg(fert.)",
@@ -3772,13 +3772,13 @@
       "abr": "vegetarianfinemeal",
       "category": "Meals",
       "defname": "MealFine_Veg",
-      "price": 33
+      "price": -10
     },
     {
       "abr": "vegetarianlavishmeal",
       "category": "Meals",
       "defname": "MealLavish_Veg",
-      "price": 67
+      "price": -10
     },
     {
       "abr": "veil",
@@ -3832,7 +3832,7 @@
       "abr": "warg",
       "category": "Animals",
       "defname": "Warg",
-      "price": 750
+      "price": -10
     },
     {
       "abr": "wargmeat",
@@ -3850,7 +3850,7 @@
       "abr": "wasterat",
       "category": "Animals",
       "defname": "WasteRat",
-      "price": 58
+      "price": -10
     },
     {
       "abr": "wasteratmeat",
@@ -3862,7 +3862,7 @@
       "abr": "wildboar",
       "category": "Animals",
       "defname": "WildBoar",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "wolfmeat",
@@ -3898,7 +3898,7 @@
       "abr": "yak",
       "category": "Animals",
       "defname": "Yak",
-      "price": 533
+      "price": -10
     },
     {
       "abr": "yakbeef",
@@ -3916,7 +3916,7 @@
       "abr": "yorkshireterrier",
       "category": "Animals",
       "defname": "YorkshireTerrier",
-      "price": 167
+      "price": -10
     },
     {
       "abr": "yorkshireterriermeat",
@@ -4186,7 +4186,7 @@
       "abr": "biofuel",
       "category": "Manufactured",
       "defname": "VG_Biofuel",
-      "price": 7
+      "price": -10
     },
     {
       "abr": "bionicbladder",
@@ -5272,7 +5272,7 @@
       "abr": "queen",
       "category": "Animals",
       "defname": "BI_Queen",
-      "price": 4167
+      "price": -10
     },
     {
       "abr": "radiator",
@@ -5440,7 +5440,7 @@
       "abr": "silage",
       "category": "Animal Feed",
       "defname": "Silage",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "silentjaw",
@@ -5734,67 +5734,67 @@
       "abr": "zombieserum10%",
       "category": "Serum",
       "defname": "Zombie10Serum",
-      "price": 200
+      "price": -10
     },
     {
       "abr": "zombieserum100%",
       "category": "Serum",
       "defname": "ZombieSerumSimple",
-      "price": 200
+      "price": -10
     },
     {
       "abr": "zombieserum100%",
       "category": "Serum",
       "defname": "Zombie100Serum",
-      "price": 2000
+      "price": 1000
     },
     {
       "abr": "zombieserum20%",
       "category": "Serum",
       "defname": "Zombie20Serum",
-      "price": 400
+      "price": -10
     },
     {
       "abr": "zombieserum30%",
       "category": "Serum",
       "defname": "Zombie30Serum",
-      "price": 600
+      "price": -10
     },
     {
       "abr": "zombieserum40%",
       "category": "Serum",
       "defname": "Zombie40Serum",
-      "price": 800
+      "price": -10
     },
     {
       "abr": "zombieserum50%",
       "category": "Serum",
       "defname": "Zombie50Serum",
-      "price": 1000
+      "price": -10
     },
     {
       "abr": "zombieserum60%",
       "category": "Serum",
       "defname": "Zombie60Serum",
-      "price": 1200
+      "price": -10
     },
     {
       "abr": "zombieserum70%",
       "category": "Serum",
       "defname": "Zombie70Serum",
-      "price": 1400
+      "price": -10
     },
     {
       "abr": "zombieserum80%",
       "category": "Serum",
       "defname": "Zombie80Serum",
-      "price": 1600
+      "price": -10
     },
     {
       "abr": "zombieserum90%",
       "category": "Serum",
       "defname": "Zombie90Serum",
-      "price": 1800
+      "price": -10
     }
   ],
   "total": 966
