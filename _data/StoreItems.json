@@ -724,7 +724,7 @@
       "abr": "corn",
       "category": "Vegetarian",
       "defname": "RawCorn",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "coronet",
@@ -2506,7 +2506,7 @@
       "abr": "potatoes",
       "category": "Vegetarian",
       "defname": "RawPotatoes",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "powerclaw",
@@ -2956,7 +2956,7 @@
       "abr": "rice",
       "category": "Vegetarian",
       "defname": "RawRice",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "robe",
@@ -3322,7 +3322,7 @@
       "abr": "spiketrap",
       "category": "Security",
       "defname": "TrapSpike",
-      "price": 169
+      "price": -10
     },
     {
       "abr": "spikecorefloor-star(broad)",
@@ -5722,7 +5722,7 @@
       "abr": "zombieextract",
       "category": "Serum",
       "defname": "ZombieExtract",
-      "price": 17
+      "price": -10
     },
     {
       "abr": "zombiemeat",

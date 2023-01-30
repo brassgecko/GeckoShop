@@ -3357,8 +3357,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "degree": 1,
       "description": "Timmy is very hygienic and will wash more frequently.",
       "stats": [],
@@ -3401,8 +3401,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "degree": -2,
       "description": "Timmy has very low standards of cleanliness and will only wash when they absolutely have to.",
       "stats": [],
