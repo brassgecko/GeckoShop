@@ -6,6 +6,12 @@
     "version": "1.5.0.0"
   },
   {
+    "author": "bradson",
+    "name": "Performance Fish",
+    "steamId": "",
+    "version": "1.0.0"
+  },
+  {
     "author": "Dubwise",
     "name": "Dubs Performance Analyzer",
     "steamId": "2038874626",
@@ -144,40 +150,10 @@
     "version": "6.3.0.0.biotech.b6"
   },
   {
-    "author": "Andreas Pardeike",
-    "name": "Zombieland",
-    "steamId": "928376710",
-    "version": "3.5.0.0"
-  },
-  {
-    "author": "Dubwise",
-    "name": "Dubs Bad Hygiene",
-    "steamId": "836308268",
-    "version": "2.7.7366"
-  },
-  {
     "author": "Machine",
     "name": "Better Infestations 1.4",
     "steamId": "1319614331",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "PeteTimesSix",
-    "name": "Research Reinvented",
-    "steamId": "2868392160",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "PeteTimesSix",
-    "name": "Research Reinvented: Stepping Stones",
-    "steamId": "2868389782",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "The Village Guy",
-    "name": "Less Mechanoids",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Albion",
@@ -186,28 +162,34 @@
     "version": "1.1.0"
   },
   {
-    "author": "Zylle",
-    "name": "More Vanilla Biomes",
-    "steamId": "1931453053",
-    "version": "0.1.5.01"
+    "author": "The Biomes Mod Team",
+    "name": "Biomes! Core",
+    "steamId": "2038000893",
+    "version": "1.3.60.5"
   },
   {
-    "author": "m00nl1ght",
-    "name": "Geological Landforms",
-    "steamId": "2773943594",
-    "version": "1.5.2.0"
-  },
-  {
-    "author": "Makaru",
-    "name": "Fertile Planet",
-    "steamId": null,
-    "version": null
+    "author": "The Biomes Mod Team",
+    "name": "Biomes! Islands",
+    "steamId": "2038001322",
+    "version": "1.4.0.0"
   },
   {
     "author": "Meltup",
     "name": "Beautiful Outdoors",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Zylle",
+    "name": "Tribble Trouble",
+    "steamId": "2400590961",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Udon",
+    "name": "Animal Weapon",
+    "steamId": "2497919470",
+    "version": "1.0.0.0"
   },
   {
     "author": "KittahKhan",
@@ -255,6 +237,12 @@
     "author": "AncientGammoner",
     "name": "Ground Targeter",
     "steamId": "2356822769",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Atkana",
+    "name": "Interception Tweaks",
+    "steamId": "2880136489",
     "version": "1.0.0.0"
   },
   {
@@ -312,24 +300,6 @@
     "version": null
   },
   {
-    "author": "Atkana",
-    "name": "Interception Tweaks",
-    "steamId": "2880136489",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Janson",
-    "name": "Weapon Condition Matters",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "LimeTreeSnake",
-    "name": "[LTS]Maintenance",
-    "steamId": "2803673873",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "YAYO",
     "name": "Better Jump Pack (Continued)",
     "steamId": null,
@@ -362,18 +332,6 @@
   {
     "author": "miyamiya",
     "name": "Functional Room",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "dismarzero",
-    "name": "VGP Vegetable Garden",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Janson",
-    "name": "Weapon Tech",
     "steamId": null,
     "version": null
   },
@@ -414,12 +372,6 @@
     "version": "1.4.2"
   },
   {
-    "author": "Fluffy",
-    "name": "Stuffed Floors",
-    "steamId": "853043503",
-    "version": "2.13.92"
-  },
-  {
     "author": "Owlchemist",
     "name": "Underground Power Conduits",
     "steamId": "1735421319",
@@ -430,18 +382,6 @@
     "name": "[SYR] Doormats",
     "steamId": "1508778962",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "llunak",
-    "name": "More Precepts",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Mighty Panther III",
-    "name": "Survivalist Meme",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Falconne",
@@ -684,10 +624,28 @@
     "version": null
   },
   {
+    "author": "Owlchemist",
+    "name": "Scattered Flames",
+    "steamId": "2652749788",
+    "version": "1.4"
+  },
+  {
     "author": "Telefonmast",
     "name": "Graphics Settings+",
     "steamId": "1678847247",
     "version": "1.0.0"
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Reunity (unlisted)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Taranchuk",
+    "name": "Save Cleaner",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Taranchuk",
