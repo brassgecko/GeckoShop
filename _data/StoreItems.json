@@ -172,7 +172,7 @@
       "abr": "assaultrifle",
       "category": "Ranged weapons",
       "defname": "Gun_AssaultRifle",
-      "price": 2668
+      "price": 800
     },
     {
       "abr": "authoritycap",
@@ -184,13 +184,13 @@
       "abr": "automaticshotgun",
       "category": "Ranged weapons",
       "defname": "Gun_ChainShotgun",
-      "price": 2268
+      "price": 675
     },
     {
       "abr": "axe",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_Axe",
-      "price": 836
+      "price": 209
     },
     {
       "abr": "babydecoration",
@@ -376,13 +376,13 @@
       "abr": "bolt-actionrifle",
       "category": "Ranged weapons",
       "defname": "Gun_BoltActionRifle",
-      "price": 1600
+      "price": 425
     },
     {
       "abr": "bolt-actionsniper",
       "category": "Ranged weapons",
       "defname": "Gun_SniperRifle",
-      "price": 2000
+      "price": 883
     },
     {
       "abr": "bonsaipot",
@@ -436,7 +436,7 @@
       "abr": "breachaxe",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_BreachAxe",
-      "price": 788
+      "price": 197
     },
     {
       "abr": "brewery",
@@ -574,7 +574,7 @@
       "abr": "cheapsubmachinegun",
       "category": "Ranged weapons",
       "defname": "Gun_HeavySMG",
-      "price": -10
+      "price": 592
     },
     {
       "abr": "chemfuel",
@@ -664,7 +664,7 @@
       "abr": "club",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_Club",
-      "price": 564
+      "price": 141
     },
     {
       "abr": "coagulator",
@@ -1024,7 +1024,7 @@
       "abr": "elephanttusk",
       "category": "Misc",
       "defname": "ElephantTusk",
-      "price": -10
+      "price": 133
     },
     {
       "abr": "elk",
@@ -1084,7 +1084,7 @@
       "abr": "empgrenades",
       "category": "Grenades",
       "defname": "Weapon_GrenadeEMP",
-      "price": 2100
+      "price": 525
     },
     {
       "abr": "empshell",
@@ -1186,7 +1186,7 @@
       "abr": "flamebow",
       "category": "Ranged weapons",
       "defname": "Flamebow",
-      "price": -10
+      "price": 75
     },
     {
       "abr": "flatscreentelevision",
@@ -1234,7 +1234,7 @@
       "abr": "fraggrenades",
       "category": "Grenades",
       "defname": "Weapon_GrenadeFrag",
-      "price": 1768
+      "price": 442
     },
     {
       "abr": "fragment",
@@ -1282,7 +1282,7 @@
       "abr": "gaussrifle",
       "category": "Ranged weapons",
       "defname": "Gun_ChargeRifle",
-      "price": 4000
+      "price": 1683
     },
     {
       "abr": "gazelle",
@@ -1318,7 +1318,7 @@
       "abr": "gladius",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_Gladius",
-      "price": 956
+      "price": 239
     },
     {
       "abr": "glitterworldmedicine",
@@ -1402,7 +1402,7 @@
       "abr": "greatbow",
       "category": "Ranged weapons",
       "defname": "Bow_Great",
-      "price": 884
+      "price": 174
     },
     {
       "abr": "grenadierarmor",
@@ -1714,7 +1714,7 @@
       "abr": "ikwa",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_Ikwa",
-      "price": 788
+      "price": 197
     },
     {
       "abr": "immaturedryadmeat",
@@ -1732,7 +1732,7 @@
       "abr": "incendiarylauncher",
       "category": "Ranged weapons",
       "defname": "Gun_IncendiaryLauncher",
-      "price": 2268
+      "price": 567
     },
     {
       "abr": "incendiaryshell",
@@ -1864,7 +1864,7 @@
       "abr": "knife",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_Knife",
-      "price": 444
+      "price": 111
     },
     {
       "abr": "labradorretriever",
@@ -1918,7 +1918,7 @@
       "abr": "lightmachinegun",
       "category": "Ranged weapons",
       "defname": "Gun_LMG",
-      "price": 2800
+      "price": 708
     },
     {
       "abr": "lightball",
@@ -1960,7 +1960,7 @@
       "abr": "longsword",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_LongSword",
-      "price": 1768
+      "price": 442
     },
     {
       "abr": "loudspeaker",
@@ -2008,13 +2008,13 @@
       "abr": "mace",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_Mace",
-      "price": 812
+      "price": 203
     },
     {
       "abr": "machinepistol",
       "category": "Ranged weapons",
       "defname": "Gun_MachinePistol",
-      "price": -10
+      "price": 367
     },
     {
       "abr": "machiningtable",
@@ -2152,7 +2152,7 @@
       "abr": "minigun",
       "category": "Ranged weapons",
       "defname": "Gun_Minigun",
-      "price": 6668
+      "price": 1933
     },
     {
       "abr": "mini-turret",
@@ -2164,7 +2164,7 @@
       "abr": "molotovcocktails",
       "category": "Grenades",
       "defname": "Weapon_GrenadeMolotov",
-      "price": 1632
+      "price": 408
     },
     {
       "abr": "monkey",
@@ -2182,7 +2182,7 @@
       "abr": "monosword",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_MonoSword",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "morbidslab(broad)",
@@ -2386,19 +2386,19 @@
       "abr": "personamonosword",
       "category": "Persona weapons",
       "defname": "MeleeWeapon_MonoSwordBladelink",
-      "price": -10
+      "price": 5000
     },
     {
       "abr": "personaplasmasword",
       "category": "Persona weapons",
       "defname": "MeleeWeapon_PlasmaSwordBladelink",
-      "price": -10
+      "price": 5000
     },
     {
       "abr": "personazeushammer",
       "category": "Persona weapons",
       "defname": "MeleeWeapon_ZeusHammerBladelink",
-      "price": -10
+      "price": 5000
     },
     {
       "abr": "pew",
@@ -2434,7 +2434,7 @@
       "abr": "pila",
       "category": "Ranged weapons",
       "defname": "Pila",
-      "price": 1100
+      "price": 182
     },
     {
       "abr": "plainleather",
@@ -2452,7 +2452,7 @@
       "abr": "plasmasword",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_PlasmaSword",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "plasteel",
@@ -2830,7 +2830,7 @@
       "abr": "pump-actionshotgun",
       "category": "Ranged weapons",
       "defname": "Gun_PumpShotgun",
-      "price": 1468
+      "price": 425
     },
     {
       "abr": "pyre",
@@ -2884,7 +2884,7 @@
       "abr": "recurvebow",
       "category": "Ranged weapons",
       "defname": "Bow_Recurve",
-      "price": 652
+      "price": 110
     },
     {
       "abr": "redfox",
@@ -2932,7 +2932,7 @@
       "abr": "revolver",
       "category": "Ranged weapons",
       "defname": "Gun_Revolver",
-      "price": 1068
+      "price": 226
     },
     {
       "abr": "rhinoceros",
@@ -3010,7 +3010,7 @@
       "abr": "semi-automaticpistol",
       "category": "Ranged weapons",
       "defname": "Gun_Autopistol",
-      "price": 1200
+      "price": 232
     },
     {
       "abr": "shadecone",
@@ -3064,7 +3064,7 @@
       "abr": "shortbow",
       "category": "Ranged weapons",
       "defname": "Bow_Short",
-      "price": 456
+      "price": 74
     },
     {
       "abr": "signalchip",
@@ -3118,7 +3118,7 @@
       "abr": "chargelance",
       "category": "Ranged weapons",
       "defname": "Gun_ChargeLance",
-      "price": -10
+      "price": 2258
     },
     {
       "abr": "emplauncher",
@@ -3562,7 +3562,7 @@
       "abr": "thrumbohorn",
       "category": "Misc",
       "defname": "ThrumboHorn",
-      "price": -10
+      "price": 1333
     },
     {
       "abr": "thrumbomeat",
@@ -3676,7 +3676,7 @@
       "abr": "toxbomblauncher",
       "category": "Ranged weapons",
       "defname": "Gun_ToxbombLauncher",
-      "price": 633
+      "price": -10
     },
     {
       "abr": "toxipotatoes",
@@ -3928,7 +3928,7 @@
       "abr": "zeushammer",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_Zeushammer",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "adrenalineribimplant",
