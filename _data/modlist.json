@@ -102,6 +102,12 @@
     "version": "1.0.0"
   },
   {
+    "author": "m00nl1ght",
+    "name": "Geological Landforms",
+    "steamId": "2773943594",
+    "version": "1.5.2.0"
+  },
+  {
     "author": "Owlchemist",
     "name": "Toggleable Overlays",
     "steamId": "2608654598",
@@ -162,33 +168,39 @@
     "version": "1.1.0"
   },
   {
-    "author": "The Biomes Mod Team",
-    "name": "Biomes! Core",
-    "steamId": "2038000893",
-    "version": "1.3.60.5"
-  },
-  {
-    "author": "The Biomes Mod Team",
-    "name": "Biomes! Islands",
-    "steamId": "2038001322",
-    "version": "1.4.0.0"
-  },
-  {
     "author": "Meltup",
     "name": "Beautiful Outdoors",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Zylle",
-    "name": "Tribble Trouble",
-    "steamId": "2400590961",
+    "author": "Dubwise",
+    "name": "Dubs Bad Hygiene",
+    "steamId": "836308268",
+    "version": "2.7.7366"
+  },
+  {
+    "author": "Citrus",
+    "name": "Expectations Modifier",
+    "steamId": "1904336011",
+    "version": "3.1.0.1"
+  },
+  {
+    "author": "fyarn",
+    "name": "Fixable Mood Debuffs Alert",
+    "steamId": "1307316672",
     "version": "1.0.0.0"
   },
   {
-    "author": "Udon",
-    "name": "Animal Weapon",
-    "steamId": "2497919470",
+    "author": "newcolonist",
+    "name": "Adaptive Threats",
+    "steamId": "2050547028",
+    "version": "1.4.1.0"
+  },
+  {
+    "author": "RedMattis",
+    "name": "Adjustable Genes Regrowing Time",
+    "steamId": "2895892250",
     "version": "1.0.0.0"
   },
   {
@@ -210,10 +222,16 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Donald",
-    "name": "Vanilla Combat Reloaded",
-    "steamId": "2860414285",
+    "author": "LimeTreeSnake",
+    "name": "[LTS]Maintenance",
+    "steamId": "2803673873",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "DarkFlame7",
+    "name": "Biotech Cloning",
+    "steamId": "2881790485",
+    "version": "0.2.0.0"
   },
   {
     "author": "DaLLaN",
@@ -530,6 +548,12 @@
   {
     "author": "RelaxedOtter",
     "name": "Wear What You Want",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "1trickPwnyta",
+    "name": "Stranger in black",
     "steamId": null,
     "version": null
   },
