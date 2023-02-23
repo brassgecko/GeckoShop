@@ -1279,7 +1279,7 @@
       "price": -10
     },
     {
-      "abr": "gaussrifle",
+      "abr": "chargerifle",
       "category": "Ranged weapons",
       "defname": "Gun_ChargeRifle",
       "price": 3366
@@ -2467,7 +2467,7 @@
       "price": 1584
     },
     {
-      "abr": "platevest",
+      "abr": "flakvest",
       "category": "Armor",
       "defname": "Apparel_FlakVest",
       "price": 750
