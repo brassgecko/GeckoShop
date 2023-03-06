@@ -1,5 +1,11 @@
 [
   {
+    "author": "Zetrith",
+    "name": "Prepatcher",
+    "steamId": "2934420800",
+    "version": "1.0.0"
+  },
+  {
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
@@ -96,6 +102,12 @@
     "version": null
   },
   {
+    "author": "mr_chimick",
+    "name": "Block Unwanted Minutiae",
+    "steamId": "2266225921",
+    "version": "3.2"
+  },
+  {
     "author": "Krypt",
     "name": "Grouped Pawns Lists",
     "steamId": "2340773428",
@@ -162,10 +174,34 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Chicken Plucker",
+    "name": "[RH2] Faction: V.O.I.D.",
+    "steamId": "2883208829",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Metalocif",
+    "name": "No Cheese for VOID",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zylle",
+    "name": "More Predators",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Albion",
     "name": "Go Explore!",
     "steamId": "1814100216",
     "version": "1.1.0"
+  },
+  {
+    "author": "Zylle",
+    "name": "More Vanilla Biomes",
+    "steamId": "1931453053",
+    "version": "0.1.5.01"
   },
   {
     "author": "Meltup",
@@ -198,12 +234,6 @@
     "version": "1.4.1.0"
   },
   {
-    "author": "RedMattis",
-    "name": "Adjustable Genes Regrowing Time",
-    "steamId": "2895892250",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "KittahKhan",
     "name": "[Kit] Graze up",
     "steamId": "2302739121",
@@ -228,22 +258,28 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "DarkFlame7",
-    "name": "Biotech Cloning",
-    "steamId": "2881790485",
-    "version": "0.2.0.0"
+    "author": "Albion",
+    "name": "Sparkling Worlds - Full Mod",
+    "steamId": "1123043922",
+    "version": "2.6.0"
   },
   {
-    "author": "DaLLaN",
-    "name": "Combat Update 1.4",
+    "author": "Krkr",
+    "name": "CAI 5000 - Advanced AI + Fog Of War",
+    "steamId": "2938891185",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Evelyn",
+    "name": "Sensible Aiming",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Roolo and Updated by Ogliss",
-    "name": "RunAndGun",
-    "steamId": null,
-    "version": null
+    "author": "Donald",
+    "name": "Vanilla Combat Reloaded",
+    "steamId": "2860414285",
+    "version": "1.0.0.0"
   },
   {
     "author": "Fuu Chan",
@@ -258,18 +294,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Atkana",
-    "name": "Interception Tweaks",
-    "steamId": "2880136489",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "fed1sPlay",
-    "name": "PawnTargetFix",
-    "steamId": "2014789938",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Sozzky",
     "name": "Projectile Speed Booster",
     "steamId": "2552851555",
@@ -280,12 +304,6 @@
     "name": "Smart Turret Covering",
     "steamId": "2636621800",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Roolo",
-    "name": "Search and Destroy",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Zylle",
@@ -312,8 +330,20 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Trojan - Troopersmith1 - Linq - deathrat",
-    "name": "Death Rattle [1.4]",
+    "author": "Uuugggg",
+    "name": "Thick Armor",
+    "steamId": "1321600671",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "cat2002 - Troopersmith1 - Linq- deathrat",
+    "name": "Death Rattle Continued [1.2+]",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "LeveFUN",
+    "name": "Shields, Shields. SHIELDS!",
     "steamId": null,
     "version": null
   },
@@ -354,16 +384,46 @@
     "version": null
   },
   {
+    "author": "rooki1",
+    "name": "Rimsenal - Augmented Vanilla Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Rimatomics",
+    "steamId": "1127530465",
+    "version": "1.7.7368"
+  },
+  {
     "author": "Murmur",
     "name": "Wall Light",
     "steamId": "1423699208",
     "version": "1.0.0.0"
   },
   {
-    "author": "Owlchemist",
-    "name": "Modular Tables and Chairs",
+    "author": "AobaKuma",
+    "name": "Fortifications - Neolithic",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Ratys",
+    "name": "RT Solar Flare Shield",
+    "steamId": "728315620",
+    "version": "1.7.0.0"
+  },
+  {
+    "author": "Harkon",
+    "name": "[HRK] Vanilla Expanded Extra Embrasures",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "DoctorStupid",
+    "name": "Literally just a sofa",
+    "steamId": "2894560149",
+    "version": "1.0.0.0"
   },
   {
     "author": "Owlchemist",
@@ -372,10 +432,10 @@
     "version": null
   },
   {
-    "author": "Owlchemist and jptrrs",
-    "name": "Windows",
-    "steamId": "2571189146",
-    "version": "1.4"
+    "author": "DetVisor",
+    "name": "Det's Battle Meds",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Ratys",
@@ -404,8 +464,8 @@
   {
     "author": "Falconne",
     "name": "Better Workbench Management",
-    "steamId": null,
-    "version": null
+    "steamId": "",
+    "version": "1.4"
   },
   {
     "author": "CodeOptimist",
@@ -414,10 +474,22 @@
     "version": "3.2.2.1065"
   },
   {
+    "author": "gguake",
+    "name": "Do Something for Idle",
+    "steamId": "1896806569",
+    "version": "1.0.1.2"
+  },
+  {
     "author": "Andreas Pardeike",
     "name": "Achtung!",
     "steamId": "730936602",
     "version": "3.5.2.0"
+  },
+  {
+    "author": "avilmask",
+    "name": "Common Sense",
+    "steamId": "1561769193",
+    "version": "1.0.8391.36780"
   },
   {
     "author": "Owlchemist",
@@ -436,12 +508,6 @@
     "name": "Less Arbitrary Surgery (Continued)",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "avilmask",
-    "name": "Common Sense",
-    "steamId": "1561769193",
-    "version": "1.0.8391.36780"
   },
   {
     "author": "sirrandoo",
@@ -510,6 +576,12 @@
     "version": null
   },
   {
+    "author": "Owlchemist",
+    "name": "[Temp beta] Clean Pathfinding 2",
+    "steamId": "2887176193",
+    "version": "1.4"
+  },
+  {
     "author": "Fluffy",
     "name": "Medical Tab",
     "steamId": "715565817",
@@ -574,6 +646,12 @@
     "name": "RimTraits - General Traits",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Iwo Rosiak",
+    "name": "Holsters",
+    "steamId": "2610120706",
+    "version": "2.0.9"
   },
   {
     "author": "Dubwise",
@@ -646,6 +724,12 @@
     "name": "[1.4] Odz Hairs",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Simple FX: Splashes",
+    "steamId": "2889330414",
+    "version": "1.4"
   },
   {
     "author": "Owlchemist",

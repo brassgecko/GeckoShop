@@ -25,7 +25,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 2000,
+      "addPrice": 4000,
       "removePrice": 2000,
       "degree": 0,
       "description": "Timmy gets a rush from hurting people, and never minds the sight of blood or death. he is four times as likely to start a social fight as others.",
@@ -213,7 +213,7 @@
         "Shoot frenzy inspiration disabled.",
         "+4 melee",
         "-4 shooting",
-        "+4.00 melee hit chance"
+        "+4.0 melee hit chance"
       ],
       "conflicts": [
         "carefulshooter",
@@ -231,7 +231,7 @@
           "Shoot frenzy inspiration disabled.",
           "+4 melee",
           "-4 shooting",
-          "+4.00 melee hit chance"
+          "+4.0 melee hit chance"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -456,7 +456,7 @@
         "karmaTypeForAdding": null
       },
       "defName": "Asexual",
-      "name": "asexual"
+      "name": "asexual(aro)"
     },
     {
       "canAdd": true,
@@ -572,7 +572,7 @@
       "degree": 0,
       "description": "Timmy has remarkable kinesthetic intelligence. he seems to dance around danger with preternatural grace.",
       "stats": [
-        "+15% melee avoid chance",
+        "+15.0 melee dodge chance",
         "x10% trap spring chance"
       ],
       "conflicts": [],
@@ -580,7 +580,7 @@
       "data": {
         "conflicts": [],
         "stats": [
-          "+15% melee avoid chance",
+          "+15.0 melee dodge chance",
           "x10% trap spring chance"
         ],
         "canBypassLimit": false,
@@ -595,7 +595,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 2000,
+      "addPrice": 4000,
       "removePrice": 2000,
       "degree": 0,
       "description": "Timmy has a knack for learning. he picks things up much faster than others.",
@@ -1665,7 +1665,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 2000,
+      "addPrice": 4000,
       "removePrice": 2000,
       "degree": -2,
       "description": "Timmy is staggeringly ugly. his face looks like a cross between a drawing by an untalented child, a malformed fetus in a jar of formaldehyde, and a piece of modern art. Others must exert conscious effort to look at him while conversing.",
@@ -1791,6 +1791,234 @@
     {
       "canAdd": true,
       "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 2000,
+      "degree": 2,
+      "description": "Timmy is obsessed with germs and will wash much more frequently than normal.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Hygienic",
+      "name": "germaphobe"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 2000,
+      "degree": 1,
+      "description": "Timmy is very hygienic and will wash more frequently.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Hygienic",
+      "name": "hygienic"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 2000,
+      "degree": -1,
+      "description": "Timmy is very unhygienic and will wash less frequently.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Hygienic",
+      "name": "unhygienic"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 2000,
+      "degree": -2,
+      "description": "Timmy has very low standards of cleanliness and will only wash when they absolutely have to.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Hygienic",
+      "name": "slob"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 50,
+      "removePrice": 50,
+      "degree": 0,
+      "description": "Timmy is romantically and sexually attracted to people of the opposite gender.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": true,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": true,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Way Better Romance",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Straight",
+      "name": "straight"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 50,
+      "removePrice": 50,
+      "degree": 0,
+      "description": "Timmy is uninterested in sexual engagements, but is romantically attracted to people of the opposite gender.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": true,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": true,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Way Better Romance",
+        "karmaTypeForAdding": null
+      },
+      "defName": "HeteroAce",
+      "name": "asexual(hetero)"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 50,
+      "removePrice": 50,
+      "degree": 0,
+      "description": "Timmy is uninterested in sexual engagements, but is romantically attracted to people of his own gender.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": true,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": true,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Way Better Romance",
+        "karmaTypeForAdding": null
+      },
+      "defName": "HomoAce",
+      "name": "asexual(homo)"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 50,
+      "removePrice": 50,
+      "degree": 0,
+      "description": "Timmy is uninterested in sexual engagements, but is romantically attracted to people regardless of gender.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": true,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": true,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Way Better Romance",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BiAce",
+      "name": "asexual(bi)"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 2000,
+      "degree": 0,
+      "description": "Timmy will never cheat on a partner, no matter how bad the relationship gets.",
+      "stats": [],
+      "conflicts": [
+        "philanderer"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "philanderer"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Way Better Romance",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Faithful",
+      "name": "faithful"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 2000,
+      "degree": 0,
+      "description": "Timmy just cannot be trusted to stay faithful to a partner.",
+      "stats": [],
+      "conflicts": [
+        "faithful"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "faithful"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Way Better Romance",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Philanderer",
+      "name": "philanderer"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
       "addPrice": 4000,
       "removePrice": 2000,
       "degree": 0,
@@ -1800,8 +2028,8 @@
         "+2 melee",
         "-2.0 shooting accuracy",
         "+15% aiming time",
-        "+2.00 melee hit chance",
-        "+200% melee avoid chance"
+        "+2.0 melee hit chance",
+        "+2.0 melee dodge chance"
       ],
       "conflicts": [
         "farsighted"
@@ -1816,8 +2044,8 @@
           "+2 melee",
           "-2.0 shooting accuracy",
           "+15% aiming time",
-          "+2.00 melee hit chance",
-          "+200% melee avoid chance"
+          "+2.0 melee hit chance",
+          "+2.0 melee dodge chance"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -1840,8 +2068,8 @@
         "-2 melee",
         "+2.0 shooting accuracy",
         "-15% aiming time",
-        "-2.00 melee hit chance",
-        "-200% melee avoid chance"
+        "-2.0 melee hit chance",
+        "-2.0 melee dodge chance"
       ],
       "conflicts": [
         "nearsighted"
@@ -1856,8 +2084,8 @@
           "-2 melee",
           "+2.0 shooting accuracy",
           "-15% aiming time",
-          "-2.00 melee hit chance",
-          "-200% melee avoid chance"
+          "-2.0 melee hit chance",
+          "-2.0 melee dodge chance"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -1876,7 +2104,7 @@
       "degree": 0,
       "description": "Timmy's movements are smooth and graceful.",
       "stats": [
-        "+200% melee avoid chance",
+        "+2.0 melee dodge chance",
         "+0.10 move speed"
       ],
       "conflicts": [
@@ -1888,7 +2116,7 @@
           "stiff"
         ],
         "stats": [
-          "+200% melee avoid chance",
+          "+2.0 melee dodge chance",
           "+0.10 move speed"
         ],
         "canBypassLimit": false,
@@ -1908,7 +2136,7 @@
       "degree": 0,
       "description": "Timmy is so rigid, it's almost like he is souless.",
       "stats": [
-        "-200% melee avoid chance",
+        "-2.0 melee dodge chance",
         "-0.10 move speed"
       ],
       "conflicts": [
@@ -1920,7 +2148,7 @@
           "athletic"
         ],
         "stats": [
-          "-200% melee avoid chance",
+          "-2.0 melee dodge chance",
           "-0.10 move speed"
         ],
         "canBypassLimit": false,
@@ -2446,7 +2674,7 @@
       "degree": 0,
       "description": "Timmy is more comfortable being in hot environment than his peers.",
       "stats": [
-        "+5.4F Maximum comfortable temperature"
+        "+5.4F [3.0C] Maximum comfortable temperature"
       ],
       "conflicts": [
         "heatintolerant"
@@ -2457,7 +2685,7 @@
           "heatintolerant"
         ],
         "stats": [
-          "+5.4F Maximum comfortable temperature"
+          "+5.4F [3.0C] Maximum comfortable temperature"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -2476,7 +2704,7 @@
       "degree": 0,
       "description": "Timmy does not like being in the heat.",
       "stats": [
-        "-5.4F Maximum comfortable temperature"
+        "-5.4F [-3.0C] Maximum comfortable temperature"
       ],
       "conflicts": [
         "heattolerant"
@@ -2487,7 +2715,7 @@
           "heattolerant"
         ],
         "stats": [
-          "-5.4F Maximum comfortable temperature"
+          "-5.4F [-3.0C] Maximum comfortable temperature"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -2506,7 +2734,7 @@
       "degree": 0,
       "description": "Timmy is more comfortable being in cold environment than his peers.",
       "stats": [
-        "-5.4F Minimum comfortable temperature"
+        "-5.4F [-3.0C] Minimum comfortable temperature"
       ],
       "conflicts": [
         "coldintolerant"
@@ -2517,7 +2745,7 @@
           "coldintolerant"
         ],
         "stats": [
-          "-5.4F Minimum comfortable temperature"
+          "-5.4F [-3.0C] Minimum comfortable temperature"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -2536,7 +2764,7 @@
       "degree": 0,
       "description": "Timmy does not like being in the cold.",
       "stats": [
-        "+5.4F Minimum comfortable temperature"
+        "+5.4F [3.0C] Minimum comfortable temperature"
       ],
       "conflicts": [
         "coldtolerant"
@@ -2547,7 +2775,7 @@
           "coldtolerant"
         ],
         "stats": [
-          "+5.4F Minimum comfortable temperature"
+          "+5.4F [3.0C] Minimum comfortable temperature"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -2854,8 +3082,8 @@
         "+10% immunity gain speed",
         "+5% toxic resistance",
         "+5% toxic environment resistance",
-        "+1.8F Maximum comfortable temperature",
-        "-1.8F Minimum comfortable temperature"
+        "+1.8F [1.0C] Maximum comfortable temperature",
+        "-1.8F [-1.0C] Minimum comfortable temperature"
       ],
       "conflicts": [
         "chronicallyill"
@@ -2870,8 +3098,8 @@
           "+10% immunity gain speed",
           "+5% toxic resistance",
           "+5% toxic environment resistance",
-          "+1.8F Maximum comfortable temperature",
-          "-1.8F Minimum comfortable temperature"
+          "+1.8F [1.0C] Maximum comfortable temperature",
+          "-1.8F [-1.0C] Minimum comfortable temperature"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -2894,8 +3122,8 @@
         "-10% immunity gain speed",
         "-5% toxic resistance",
         "-5% toxic environment resistance",
-        "-1.8F Maximum comfortable temperature",
-        "+1.8F Minimum comfortable temperature"
+        "-1.8F [-1.0C] Maximum comfortable temperature",
+        "+1.8F [1.0C] Minimum comfortable temperature"
       ],
       "conflicts": [
         "healthy"
@@ -2910,8 +3138,8 @@
           "-10% immunity gain speed",
           "-5% toxic resistance",
           "-5% toxic environment resistance",
-          "-1.8F Maximum comfortable temperature",
-          "+1.8F Minimum comfortable temperature"
+          "-1.8F [-1.0C] Maximum comfortable temperature",
+          "+1.8F [1.0C] Minimum comfortable temperature"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -2930,8 +3158,8 @@
       "degree": 0,
       "description": "Timmy is comfortable in all seasons.",
       "stats": [
-        "+5.4F Maximum comfortable temperature",
-        "-5.4F Minimum comfortable temperature"
+        "+5.4F [3.0C] Maximum comfortable temperature",
+        "-5.4F [-3.0C] Minimum comfortable temperature"
       ],
       "conflicts": [
         "temperatureintolerant"
@@ -2942,8 +3170,8 @@
           "temperatureintolerant"
         ],
         "stats": [
-          "+5.4F Maximum comfortable temperature",
-          "-5.4F Minimum comfortable temperature"
+          "+5.4F [3.0C] Maximum comfortable temperature",
+          "-5.4F [-3.0C] Minimum comfortable temperature"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -2962,8 +3190,8 @@
       "degree": 0,
       "description": "Timmy thinks that summer is way too hot, and winter is way too cold.",
       "stats": [
-        "-5.4F Maximum comfortable temperature",
-        "+5.4F Minimum comfortable temperature"
+        "-5.4F [-3.0C] Maximum comfortable temperature",
+        "+5.4F [3.0C] Minimum comfortable temperature"
       ],
       "conflicts": [
         "temperaturetolerant"
@@ -2974,8 +3202,8 @@
           "temperaturetolerant"
         ],
         "stats": [
-          "-5.4F Maximum comfortable temperature",
-          "+5.4F Minimum comfortable temperature"
+          "-5.4F [-3.0C] Maximum comfortable temperature",
+          "+5.4F [3.0C] Minimum comfortable temperature"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -2995,8 +3223,8 @@
       "description": "Timmy has good reaction time and finds physical activities less stressful than his peers.",
       "stats": [
         "+2.0 shooting accuracy",
-        "+2.00 melee hit chance",
-        "+200% melee avoid chance"
+        "+2.0 melee hit chance",
+        "+2.0 melee dodge chance"
       ],
       "conflicts": [
         "clumsy"
@@ -3008,8 +3236,8 @@
         ],
         "stats": [
           "+2.0 shooting accuracy",
-          "+2.00 melee hit chance",
-          "+200% melee avoid chance"
+          "+2.0 melee hit chance",
+          "+2.0 melee dodge chance"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -3029,8 +3257,8 @@
       "description": "Timmy is easily distracted and often mess up when it comes to physical activities.",
       "stats": [
         "-2.0 shooting accuracy",
-        "-2.00 melee hit chance",
-        "-200% melee avoid chance"
+        "-2.0 melee hit chance",
+        "-2.0 melee dodge chance"
       ],
       "conflicts": [
         "coordinated"
@@ -3042,8 +3270,8 @@
         ],
         "stats": [
           "-2.0 shooting accuracy",
-          "-2.00 melee hit chance",
-          "-200% melee avoid chance"
+          "-2.0 melee hit chance",
+          "-2.0 melee dodge chance"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -3066,8 +3294,8 @@
         "+10% immunity gain speed",
         "+10% toxic resistance",
         "+10% toxic environment resistance",
-        "+1.8F Maximum comfortable temperature",
-        "-1.8F Minimum comfortable temperature"
+        "+1.8F [1.0C] Maximum comfortable temperature",
+        "-1.8F [-1.0C] Minimum comfortable temperature"
       ],
       "conflicts": [
         "fragile",
@@ -3084,8 +3312,8 @@
           "+10% immunity gain speed",
           "+10% toxic resistance",
           "+10% toxic environment resistance",
-          "+1.8F Maximum comfortable temperature",
-          "-1.8F Minimum comfortable temperature"
+          "+1.8F [1.0C] Maximum comfortable temperature",
+          "-1.8F [-1.0C] Minimum comfortable temperature"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -3108,8 +3336,8 @@
         "-10% immunity gain speed",
         "-10% toxic resistance",
         "-10% toxic environment resistance",
-        "-1.8F Maximum comfortable temperature",
-        "+1.8F Minimum comfortable temperature"
+        "-1.8F [-1.0C] Maximum comfortable temperature",
+        "+1.8F [1.0C] Minimum comfortable temperature"
       ],
       "conflicts": [
         "resilient",
@@ -3128,8 +3356,8 @@
           "-10% immunity gain speed",
           "-10% toxic resistance",
           "-10% toxic environment resistance",
-          "-1.8F Maximum comfortable temperature",
-          "+1.8F Minimum comfortable temperature"
+          "-1.8F [-1.0C] Maximum comfortable temperature",
+          "+1.8F [1.0C] Minimum comfortable temperature"
         ],
         "canBypassLimit": false,
         "customName": false,
@@ -3331,234 +3559,6 @@
       },
       "defName": "RT_Messy",
       "name": "messy"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 50,
-      "removePrice": 50,
-      "degree": 0,
-      "description": "Timmy is romantically and sexually attracted to people of the opposite gender.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": true,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": true,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Way Better Romance",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Straight",
-      "name": "straight"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 50,
-      "removePrice": 50,
-      "degree": 0,
-      "description": "Timmy is uninterested in sexual engagements, but is romantically attracted to people of the opposite gender.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": true,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": true,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Way Better Romance",
-        "karmaTypeForAdding": null
-      },
-      "defName": "HeteroAce",
-      "name": "asexual(hetero)"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 50,
-      "removePrice": 50,
-      "degree": 0,
-      "description": "Timmy is uninterested in sexual engagements, but is romantically attracted to people of his own gender.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": true,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": true,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Way Better Romance",
-        "karmaTypeForAdding": null
-      },
-      "defName": "HomoAce",
-      "name": "asexual(homo)"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 50,
-      "removePrice": 50,
-      "degree": 0,
-      "description": "Timmy is uninterested in sexual engagements, but is romantically attracted to people regardless of gender.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": true,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": true,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Way Better Romance",
-        "karmaTypeForAdding": null
-      },
-      "defName": "BiAce",
-      "name": "asexual(bi)"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 2000,
-      "removePrice": 2000,
-      "degree": 0,
-      "description": "Timmy will never cheat on a partner, no matter how bad the relationship gets.",
-      "stats": [],
-      "conflicts": [
-        "philanderer"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "philanderer"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Way Better Romance",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Faithful",
-      "name": "faithful"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 2000,
-      "removePrice": 2000,
-      "degree": 0,
-      "description": "Timmy just cannot be trusted to stay faithful to a partner.",
-      "stats": [],
-      "conflicts": [
-        "faithful"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "faithful"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Way Better Romance",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Philanderer",
-      "name": "philanderer"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 2,
-      "description": "Timmy is obsessed with germs and will wash much more frequently than normal.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Hygienic",
-      "name": "germaphobe"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 1,
-      "description": "Timmy is very hygienic and will wash more frequently.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Hygienic",
-      "name": "hygienic"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": -1,
-      "description": "Timmy is very unhygienic and will wash less frequently.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Hygienic",
-      "name": "unhygienic"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": -2,
-      "description": "Timmy has very low standards of cleanliness and will only wash when they absolutely have to.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Hygienic",
-      "name": "slob"
     }
   ],
   "races": [
@@ -3580,9 +3580,9 @@
       },
       "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
       "defName": "Human",
-      "enabled": false,
+      "enabled": true,
       "name": "human",
-      "price": 1000
+      "price": 2400
     }
   ]
 }
