@@ -6,11 +6,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "tornados",
-		"price": 16000,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "clearweather",
 		"price": 500,
 		"karmatype": "Good"
@@ -57,7 +52,7 @@
 	},
 	{
 		"abr": "flashstorm",
-		"price": 4000,
+		"price": 2000,
 		"karmatype": "Bad"
 	},
 	{
@@ -67,7 +62,7 @@
 	},
 	{
 		"abr": "solarflare",
-		"price": 500,
+		"price": 6000,
 		"karmatype": "Bad"
 	},
 	{
@@ -84,11 +79,6 @@
 		"abr": "eclipse",
 		"price": 4000,
 		"karmatype": "Bad"
-	},
-	{
-		"abr": "aurora",
-		"price": 600,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "blight",
@@ -136,11 +126,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "herdmigration",
-		"price": 2000,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "rarethrumbos",
 		"price": 1200,
 		"karmatype": "Good"
@@ -151,7 +136,7 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "visitorgroup",
+		"abr": "travelergroup",
 		"price": 1200,
 		"karmatype": "Good"
 	},
@@ -183,16 +168,6 @@
 	{
 		"abr": "raid",
 		"price": 2000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "dropraid",
-		"price": 3000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "sapperraid",
-		"price": 3000,
 		"karmatype": "Bad"
 	},
 	{
@@ -241,33 +216,8 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "genderswap",
-		"price": 150,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "visitcolony",
-		"price": 1200,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "randominspire",
 		"price": 1200,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "healall",
-		"price": 12000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "healanypawn",
-		"price": 2000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "healme",
-		"price": 2000,
 		"karmatype": "Good"
 	},
 	{
@@ -278,11 +228,6 @@
 	{
 		"abr": "passionshuffle",
 		"price": 2000,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "replacetrait",
-		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{
@@ -334,12 +279,7 @@
 		"abr": "randomadulthood",
 		"price": 3000,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "sanctuary",
-		"price": 200000,
-		"karmatype": "Good"
 	}
 	],
-	"total": 68
+	"total": 56
 }

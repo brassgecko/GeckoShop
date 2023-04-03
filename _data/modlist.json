@@ -1,11 +1,5 @@
 [
   {
-    "author": "Zetrith",
-    "name": "Prepatcher",
-    "steamId": "2934420800",
-    "version": "1.0.0"
-  },
-  {
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
@@ -42,10 +36,10 @@
     "version": "1.0.0"
   },
   {
-    "author": "DerekBickley",
-    "name": "[LTO] Colony Groups",
-    "steamId": "2345493945",
-    "version": "1.0.06"
+    "author": "Owlchemist",
+    "name": "Owl's Colonist Bar (dev)",
+    "steamId": "2623453038",
+    "version": "1.4"
   },
   {
     "author": "PeteTimesSix",
@@ -141,13 +135,7 @@
     "author": "m00nl1ght",
     "name": "Map Preview",
     "steamId": "2800857642",
-    "version": "1.11.0.0"
-  },
-  {
-    "author": "brucethemoose",
-    "name": "Hybrid Storytellers",
-    "steamId": null,
-    "version": null
+    "version": "1.12.4.0"
   },
   {
     "author": "hodlhodl",
@@ -168,34 +156,88 @@
     "version": "6.3.0.0.biotech.b6"
   },
   {
+    "author": "hodlhodl",
+    "name": "TwitchToolkit - Lootboxes (Unofficial)",
+    "steamId": "1720021578",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "brucethemoose",
+    "name": "Hybrid Storytellers",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Zombieland",
+    "steamId": "928376710",
+    "version": "3.6.0.0"
+  },
+  {
+    "author": "Orion",
+    "name": "Cash Register",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Orion",
+    "name": "Gastronomy",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Orpheusly",
+    "name": "Rimsential - Homebound",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SomewhereOutInSpace",
+    "name": "Rimsential - Spaceports",
+    "steamId": "2663999215",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "dismarzero",
+    "name": "VGP Vegetable Garden",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "dismarzero",
+    "name": "VGP Garden Gourmet",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "dismarzero",
+    "name": "VGP Garden Drinks",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Machine",
     "name": "Better Infestations 1.4",
     "steamId": "1319614331",
     "version": "1.0.0.0"
   },
   {
-    "author": "Chicken Plucker",
-    "name": "[RH2] Faction: V.O.I.D.",
-    "steamId": "2883208829",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Metalocif",
-    "name": "No Cheese for VOID",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Zylle",
-    "name": "More Predators",
-    "steamId": null,
-    "version": null
+    "author": "miyamiya and twsta",
+    "name": "Compressed Raid",
+    "steamId": "2927368319",
+    "version": "1.4"
   },
   {
     "author": "Albion",
     "name": "Go Explore!",
     "steamId": "1814100216",
     "version": "1.1.0"
+  },
+  {
+    "author": "Albion",
+    "name": "Sparkling Worlds Addon - More Events - Standalone Addon",
+    "steamId": "1280211279",
+    "version": "2.4.0"
   },
   {
     "author": "Zylle",
@@ -222,18 +264,6 @@
     "version": "3.1.0.1"
   },
   {
-    "author": "fyarn",
-    "name": "Fixable Mood Debuffs Alert",
-    "steamId": "1307316672",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "newcolonist",
-    "name": "Adaptive Threats",
-    "steamId": "2050547028",
-    "version": "1.4.1.0"
-  },
-  {
     "author": "KittahKhan",
     "name": "[Kit] Graze up",
     "steamId": "2302739121",
@@ -258,28 +288,10 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Albion",
-    "name": "Sparkling Worlds - Full Mod",
-    "steamId": "1123043922",
-    "version": "2.6.0"
-  },
-  {
-    "author": "Krkr",
-    "name": "CAI 5000 - Advanced AI + Fog Of War",
-    "steamId": "2938891185",
-    "version": "0.0.0.0"
-  },
-  {
     "author": "Evelyn",
     "name": "Sensible Aiming",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Donald",
-    "name": "Vanilla Combat Reloaded",
-    "steamId": "2860414285",
-    "version": "1.0.0.0"
   },
   {
     "author": "Fuu Chan",
@@ -324,26 +336,20 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Roolo and Owlchemist",
+    "name": "Tacticowl (temporary beta)",
+    "steamId": "2936140288",
+    "version": "1.4"
+  },
+  {
     "author": "Murmur",
     "name": "Enemy Self Preservation",
     "steamId": "2006638530",
     "version": "1.0.0.0"
   },
   {
-    "author": "Uuugggg",
-    "name": "Thick Armor",
-    "steamId": "1321600671",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "cat2002 - Troopersmith1 - Linq- deathrat",
     "name": "Death Rattle Continued [1.2+]",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "LeveFUN",
-    "name": "Shields, Shields. SHIELDS!",
     "steamId": null,
     "version": null
   },
@@ -358,12 +364,6 @@
     "name": "[Fuu] Uncompromising Fires",
     "steamId": "2623963630",
     "version": "1.1.0.0"
-  },
-  {
-    "author": "Victorique, Aurani and Tarojun",
-    "name": "Expanded Prosthetics and Organ Engineering - Forked",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "TheEyeOfBrows",
@@ -390,22 +390,10 @@
     "version": null
   },
   {
-    "author": "Dubwise",
-    "name": "Dubs Rimatomics",
-    "steamId": "1127530465",
-    "version": "1.7.7368"
-  },
-  {
-    "author": "Murmur",
-    "name": "Wall Light",
-    "steamId": "1423699208",
+    "author": "Pizzacat OttersHoldHands iforgotmysocks AobaKuma",
+    "name": "Villages:Homes",
+    "steamId": "2941977041",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "AobaKuma",
-    "name": "Fortifications - Neolithic",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Ratys",
@@ -414,26 +402,32 @@
     "version": "1.7.0.0"
   },
   {
-    "author": "Harkon",
-    "name": "[HRK] Vanilla Expanded Extra Embrasures",
-    "steamId": null,
-    "version": null
+    "author": "Owlchemist and jptrrs",
+    "name": "Windows",
+    "steamId": "2571189146",
+    "version": "1.4"
   },
   {
-    "author": "DoctorStupid",
-    "name": "Literally just a sofa",
-    "steamId": "2894560149",
+    "author": "Murmur",
+    "name": "Wall Light",
+    "steamId": "1423699208",
     "version": "1.0.0.0"
   },
   {
     "author": "Owlchemist",
-    "name": "Simple Utilities: Fridge",
+    "name": "Modular Tables and Chairs",
     "steamId": null,
     "version": null
   },
   {
-    "author": "DetVisor",
-    "name": "Det's Battle Meds",
+    "author": "sulusdacor, james76543, Meltup and leugimimi",
+    "name": "Advanced Power Plus",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Simple Utilities: Fridge",
     "steamId": null,
     "version": null
   },
@@ -474,22 +468,16 @@
     "version": "3.2.2.1065"
   },
   {
-    "author": "gguake",
-    "name": "Do Something for Idle",
-    "steamId": "1896806569",
-    "version": "1.0.1.2"
-  },
-  {
     "author": "Andreas Pardeike",
     "name": "Achtung!",
     "steamId": "730936602",
     "version": "3.5.2.0"
   },
   {
-    "author": "avilmask",
-    "name": "Common Sense",
-    "steamId": "1561769193",
-    "version": "1.0.8391.36780"
+    "author": "Kopp",
+    "name": "Caravan Formation Improvements",
+    "steamId": "2927335733",
+    "version": "1.0.1.0"
   },
   {
     "author": "Owlchemist",
@@ -502,6 +490,12 @@
     "name": "Allow Tool",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Cozarkian",
+    "name": "Variety Matters Improved(1.4 Fork)",
+    "steamId": "2918473100",
+    "version": "1.0.0.0"
   },
   {
     "author": "Mlie",
@@ -526,18 +520,6 @@
     "name": "Just Ignore Me Passing",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "divineDerivative",
-    "name": "Way Better Romance",
-    "steamId": "2877731755",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Dave-EEs",
-    "name": "No Random Relations",
-    "steamId": "2583377522",
-    "version": "1.0.0.0"
   },
   {
     "author": "Smash Phil",
@@ -568,18 +550,6 @@
     "name": "Better Bed Assignment",
     "steamId": "2417077360",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "FrozenSnowFox",
-    "name": "[FSF] Complex Jobs",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Owlchemist",
-    "name": "[Temp beta] Clean Pathfinding 2",
-    "steamId": "2887176193",
-    "version": "1.4"
   },
   {
     "author": "Fluffy",
@@ -726,6 +696,48 @@
     "version": null
   },
   {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Orion",
+    "name": "Hospitality",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Adamas",
+    "name": "Hospitality: Casino",
+    "steamId": "2939292644",
+    "version": "1.4.0.0"
+  },
+  {
+    "author": "LUNARTIKA",
+    "name": "Hos: Casino Retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Complex Jobs",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Killathon",
+    "name": "Android Tiers Reforged",
+    "steamId": "2917948202",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "avilmask",
+    "name": "Common Sense",
+    "steamId": "1561769193",
+    "version": "1.0.8391.36780"
+  },
+  {
     "author": "Owlchemist",
     "name": "Simple FX: Splashes",
     "steamId": "2889330414",
@@ -748,6 +760,12 @@
     "name": "Reunity (unlisted)",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Clean Pathfinding 2",
+    "steamId": "2603765747",
+    "version": "1.4"
   },
   {
     "author": "Taranchuk",
