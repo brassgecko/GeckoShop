@@ -2763,7 +2763,7 @@
       "name": "ravenous"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 2000,
       "removePrice": 2000,
@@ -2815,7 +2815,7 @@
       "name": "gifted"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 2000,
       "removePrice": 2000,
