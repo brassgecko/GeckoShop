@@ -114,6 +114,12 @@
     "version": "1.0.0"
   },
   {
+    "author": "Oblitus",
+    "name": "My Little Planet",
+    "steamId": "1117406550",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "m00nl1ght",
     "name": "Geological Landforms",
     "steamId": "2773943594",
@@ -132,16 +138,10 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "VinaLx and Owlchemist",
-    "name": "ResearchPowl",
-    "steamId": "2877856030",
-    "version": "1.4"
-  },
-  {
     "author": "m00nl1ght",
     "name": "Map Preview",
     "steamId": "2800857642",
-    "version": "1.12.4.0"
+    "version": "1.12.6.0"
   },
   {
     "author": "hodlhodl",
@@ -168,28 +168,10 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "brucethemoose",
-    "name": "Hybrid Storytellers",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Andreas Pardeike",
-    "name": "Zombieland",
-    "steamId": "928376710",
-    "version": "3.8.0.0"
-  },
-  {
-    "author": "Orion",
-    "name": "Cash Register",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Orion",
-    "name": "Gastronomy",
-    "steamId": null,
-    "version": null
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Storytellers Expanded - Winston Waves",
+    "steamId": "2734032569",
+    "version": "1.0.2.2"
   },
   {
     "author": "Orpheusly",
@@ -198,34 +180,16 @@
     "version": null
   },
   {
-    "author": "SomewhereOutInSpace",
-    "name": "Rimsential - Spaceports",
-    "steamId": "2663999215",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "dismarzero",
-    "name": "VGP Vegetable Garden",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "dismarzero",
-    "name": "VGP Garden Gourmet",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "dismarzero",
-    "name": "VGP Garden Drinks",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Machine",
     "name": "Better Infestations 1.4",
     "steamId": "1319614331",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Roolo and Owlchemist",
+    "name": "Giddy-Up 2",
+    "steamId": "2934245647",
+    "version": "1.4"
   },
   {
     "author": "miyamiya and twsta",
@@ -240,12 +204,6 @@
     "version": "1.1.0"
   },
   {
-    "author": "Albion",
-    "name": "Sparkling Worlds Addon - More Events - Standalone Addon",
-    "steamId": "1280211279",
-    "version": "2.4.0"
-  },
-  {
     "author": "Zylle",
     "name": "More Vanilla Biomes",
     "steamId": "1931453053",
@@ -254,6 +212,12 @@
   {
     "author": "Meltup",
     "name": "Beautiful Outdoors",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "dismarzero",
+    "name": "VGP Vegetable Garden",
     "steamId": null,
     "version": null
   },
@@ -294,12 +258,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Evelyn",
-    "name": "Sensible Aiming",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Fuu Chan",
     "name": "[Fuu] Punch Button",
     "steamId": "2651392585",
@@ -309,18 +267,6 @@
     "author": "AncientGammoner",
     "name": "Ground Targeter",
     "steamId": "2356822769",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Sozzky",
-    "name": "Projectile Speed Booster",
-    "steamId": "2552851555",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "denev",
-    "name": "Smart Turret Covering",
-    "steamId": "2636621800",
     "version": "1.0.0.0"
   },
   {
@@ -348,20 +294,38 @@
     "version": "1.4"
   },
   {
+    "author": "fed1sPlay",
+    "name": "PawnTargetFix",
+    "steamId": "2014789938",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Murmur",
     "name": "Enemy Self Preservation",
     "steamId": "2006638530",
     "version": "1.0.0.0"
   },
   {
-    "author": "cat2002 - Troopersmith1 - Linq- deathrat",
-    "name": "Death Rattle Continued [1.2+]",
+    "author": "CE Team",
+    "name": "Combat Extended",
+    "steamId": "2890901044",
+    "version": "1.4.5.2"
+  },
+  {
+    "author": "Tamias and JackeryFox",
+    "name": "Rimworld Westernization Project (Continued)",
     "steamId": null,
     "version": null
   },
   {
-    "author": "YAYO",
-    "name": "Better Jump Pack (Continued)",
+    "author": "Tamias",
+    "name": "Steam World (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "cat2002 - Troopersmith1 - Linq- deathrat",
+    "name": "Death Rattle Continued [1.2+]",
     "steamId": null,
     "version": null
   },
@@ -390,24 +354,6 @@
     "version": null
   },
   {
-    "author": "rooki1",
-    "name": "Rimsenal - Augmented Vanilla Pack",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Pizzacat OttersHoldHands iforgotmysocks AobaKuma",
-    "name": "Villages:Homes",
-    "steamId": "2941977041",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Ratys",
-    "name": "RT Solar Flare Shield",
-    "steamId": "728315620",
-    "version": "1.7.0.0"
-  },
-  {
     "author": "Owlchemist and jptrrs",
     "name": "Windows",
     "steamId": "2571189146",
@@ -420,46 +366,10 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Owlchemist",
-    "name": "Modular Tables and Chairs",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "sulusdacor, james76543, Meltup and leugimimi",
-    "name": "Advanced Power Plus",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Owlchemist",
-    "name": "Simple Utilities: Fridge",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Ratys",
-    "name": "RT Fuse",
-    "steamId": "728314182",
-    "version": "1.6.0.0"
-  },
-  {
     "author": "Lanilor",
     "name": "Simply More Bridges (Continued)",
     "steamId": "2012484790",
     "version": "1.4.2"
-  },
-  {
-    "author": "Owlchemist",
-    "name": "Underground Power Conduits",
-    "steamId": "1735421319",
-    "version": "1.4"
-  },
-  {
-    "author": "Syrchalis",
-    "name": "[SYR] Doormats",
-    "steamId": "1508778962",
-    "version": "1.0.0.0"
   },
   {
     "author": "Falconne",
@@ -498,12 +408,6 @@
     "version": null
   },
   {
-    "author": "Cozarkian",
-    "name": "Variety Matters Improved(1.4 Fork)",
-    "steamId": "2918473100",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Mlie",
     "name": "Less Arbitrary Surgery (Continued)",
     "steamId": null,
@@ -528,6 +432,12 @@
     "version": null
   },
   {
+    "author": "Owlchemist",
+    "name": "Door Clearance",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Smash Phil",
     "name": "Loading In Progress",
     "steamId": null,
@@ -536,12 +446,6 @@
   {
     "author": "Eagle0600",
     "name": "Dress Patients (1.4)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "tikubonn",
-    "name": "DontBlockDoor",
     "steamId": null,
     "version": null
   },
@@ -556,6 +460,12 @@
     "name": "Better Bed Assignment",
     "steamId": "2417077360",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "dhultgren",
+    "name": "Keep Bed Ownership",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Fluffy",
@@ -588,6 +498,18 @@
     "version": null
   },
   {
+    "author": "divineDerivative",
+    "name": "Way Better Romance",
+    "steamId": "2877731755",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Dave-EEs",
+    "name": "No Random Relations",
+    "steamId": "2583377522",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "cucumpear",
     "name": "Looks Don't Matter On The Rim",
     "steamId": null,
@@ -602,6 +524,12 @@
   {
     "author": "1trickPwnyta",
     "name": "Stranger in black",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "GrillMaster",
+    "name": "More xenotypes and multicultural factions",
     "steamId": null,
     "version": null
   },
@@ -622,12 +550,6 @@
     "name": "RimTraits - General Traits",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Iwo Rosiak",
-    "name": "Holsters",
-    "steamId": "2610120706",
-    "version": "2.0.9"
   },
   {
     "author": "Dubwise",
@@ -672,12 +594,6 @@
     "version": null
   },
   {
-    "author": "GrillMaster",
-    "name": "More xenotypes and multicultural factions",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Neronix17",
     "name": "Vanilla Hair Retextured",
     "steamId": null,
@@ -702,40 +618,10 @@
     "version": null
   },
   {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races",
-    "steamId": "839005762",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Orion",
-    "name": "Hospitality",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Adamas",
-    "name": "Hospitality: Casino",
-    "steamId": "",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "LUNARTIKA",
-    "name": "Hos: Casino Retexture",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "FrozenSnowFox",
     "name": "[FSF] Complex Jobs",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Killathon",
-    "name": "Android Tiers Reforged",
-    "steamId": "2917948202",
-    "version": "1.0.0.0"
   },
   {
     "author": "avilmask",
@@ -760,12 +646,6 @@
     "name": "Graphics Settings+",
     "steamId": "1678847247",
     "version": "1.0.0"
-  },
-  {
-    "author": "Owlchemist",
-    "name": "Reunity (unlisted)",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Owlchemist",
