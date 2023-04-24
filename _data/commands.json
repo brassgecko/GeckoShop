@@ -30,7 +30,7 @@
     },
     "description": "Awards all active viewers coins.",
     "name": "Karma round",
-    "usage": "!karmaround",
+    "usage": "!payday",
     "userLevel": "Moderator",
     "shortcut": false,
     "defName": "KarmaRound"
@@ -48,7 +48,7 @@
     },
     "description": "Gives eveyrone coins.",
     "name": "Give all coins",
-    "usage": "!giveallcoins <coins>",
+    "usage": "!payday <coins>",
     "userLevel": "Moderator",
     "shortcut": false,
     "defName": "GiveAllCoins"

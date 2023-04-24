@@ -1330,7 +1330,7 @@
       "abr": "shortbow",
       "category": "Ranged weapons",
       "defname": "Bow_Short",
-      "price": 456
+      "price": 228
     },
     {
       "abr": "pila",
@@ -1342,13 +1342,13 @@
       "abr": "recurvebow",
       "category": "Ranged weapons",
       "defname": "Bow_Recurve",
-      "price": 652
+      "price": 326
     },
     {
       "abr": "greatbow",
       "category": "Ranged weapons",
       "defname": "Bow_Great",
-      "price": 884
+      "price": 442
     },
     {
       "abr": "dye",
@@ -3478,7 +3478,7 @@
       "abr": "bowieknife",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_BowieKnife",
-      "price": 167
+      "price": 358
     },
     {
       "abr": "bowlofstew",
@@ -4661,7 +4661,451 @@
       "category": "90mm cannon shell",
       "defname": "Ammo_90mmCannonShell_EMP",
       "price": -10
+    },
+    {
+      "abr": "adrenalineribimplant",
+      "category": "Bionic",
+      "defname": "AdrenalineRib",
+      "price": -10
+    },
+    {
+      "abr": "advancedbionicarm",
+      "category": "Ultratech",
+      "defname": "AdvancedBionicArm",
+      "price": -10
+    },
+    {
+      "abr": "advancedbionicear",
+      "category": "Ultratech",
+      "defname": "AdvancedBionicEar",
+      "price": -10
+    },
+    {
+      "abr": "advancedbioniceye",
+      "category": "Ultratech",
+      "defname": "AdvancedBionicEye",
+      "price": -10
+    },
+    {
+      "abr": "advancedbionicfinger",
+      "category": "Ultratech",
+      "defname": "AdvancedBionicFinger",
+      "price": -10
+    },
+    {
+      "abr": "advancedbionicfoot",
+      "category": "Ultratech",
+      "defname": "AdvancedBionicFoot",
+      "price": -10
+    },
+    {
+      "abr": "advancedbionichand",
+      "category": "Ultratech",
+      "defname": "AdvancedBionicHand",
+      "price": -10
+    },
+    {
+      "abr": "advancedbionicjaw",
+      "category": "Ultratech",
+      "defname": "AdvancedBionicJaw",
+      "price": -10
+    },
+    {
+      "abr": "advancedbionicleg",
+      "category": "Ultratech",
+      "defname": "AdvancedBionicLeg",
+      "price": -10
+    },
+    {
+      "abr": "advancedbionicspine",
+      "category": "Ultratech",
+      "defname": "AdvancedBionicSpine",
+      "price": -10
+    },
+    {
+      "abr": "advancedbionictoe",
+      "category": "Ultratech",
+      "defname": "AdvancedBionicToe",
+      "price": -10
+    },
+    {
+      "abr": "advancedpowerarm",
+      "category": "Ultratech",
+      "defname": "AdvancedPowerArm",
+      "price": -10
+    },
+    {
+      "abr": "aichip",
+      "category": "Bionic",
+      "defname": "AIChip",
+      "price": -10
+    },
+    {
+      "abr": "arm",
+      "category": "Natural",
+      "defname": "Arm",
+      "price": -10
+    },
+    {
+      "abr": "artificialnose",
+      "category": "Prosthetic",
+      "defname": "ArtificialNose",
+      "price": 153
+    },
+    {
+      "abr": "auxiliaryai(combat)",
+      "category": "Ultratech",
+      "defname": "EPIA_AuxiliaryAI_Combat",
+      "price": -10
+    },
+    {
+      "abr": "auxiliaryai(worker)",
+      "category": "Ultratech",
+      "defname": "EPIA_AuxiliaryAI_Worker",
+      "price": -10
+    },
+    {
+      "abr": "bionicfinger",
+      "category": "Bionic",
+      "defname": "BionicFinger",
+      "price": -10
+    },
+    {
+      "abr": "bionicfoot",
+      "category": "Bionic",
+      "defname": "BionicFoot",
+      "price": -10
+    },
+    {
+      "abr": "bionichand",
+      "category": "Bionic",
+      "defname": "BionicHand",
+      "price": -10
+    },
+    {
+      "abr": "bionicjaw",
+      "category": "Bionic",
+      "defname": "BionicJaw",
+      "price": -10
+    },
+    {
+      "abr": "bionictoe",
+      "category": "Bionic",
+      "defname": "BionicToe",
+      "price": -10
+    },
+    {
+      "abr": "bionicsworkbench",
+      "category": "Production",
+      "defname": "TableBionics",
+      "price": -10
+    },
+    {
+      "abr": "blankribreplacement",
+      "category": "Bionic",
+      "defname": "SimpleRib",
+      "price": -10
+    },
+    {
+      "abr": "brainstimulator",
+      "category": "Prosthetic",
+      "defname": "BrainStimulator",
+      "price": -10
+    },
+    {
+      "abr": "coagulatorribimplant",
+      "category": "Bionic",
+      "defname": "CoagulatorRib",
+      "price": -10
+    },
+    {
+      "abr": "coolingribimplant",
+      "category": "Bionic",
+      "defname": "CoolerRib",
+      "price": -10
+    },
+    {
+      "abr": "damagedscytherblade",
+      "category": "Manufactured",
+      "defname": "EPOE_DamagedScytherBlade",
+      "price": -10
+    },
+    {
+      "abr": "druggedribimplant",
+      "category": "Bionic",
+      "defname": "DruggedRib",
+      "price": -10
+    },
+    {
+      "abr": "ear",
+      "category": "Natural",
+      "defname": "Ear",
+      "price": -10
+    },
+    {
+      "abr": "exoskeletonsuit",
+      "category": "Ultratech",
+      "defname": "ExoskeletonSuit",
+      "price": -10
+    },
+    {
+      "abr": "eyeball",
+      "category": "Natural",
+      "defname": "Eye",
+      "price": -10
+    },
+    {
+      "abr": "goldeneye",
+      "category": "Prosthetic",
+      "defname": "GoldenEye",
+      "price": 26
+    },
+    {
+      "abr": "heatingribimplant",
+      "category": "Bionic",
+      "defname": "HeaterRib",
+      "price": -10
+    },
+    {
+      "abr": "hookhand",
+      "category": "Prosthetic",
+      "defname": "HookHand",
+      "price": 31
+    },
+    {
+      "abr": "hydraulicjaw",
+      "category": "Prosthetic",
+      "defname": "HydraulicJaw",
+      "price": -10
+    },
+    {
+      "abr": "instinctoptimizingnanobots",
+      "category": "Organic optimizer",
+      "defname": "EPOE_InstinctOptimizingNanobots",
+      "price": -10
+    },
+    {
+      "abr": "jaw",
+      "category": "Natural",
+      "defname": "Jaw",
+      "price": -10
+    },
+    {
+      "abr": "leg",
+      "category": "Natural",
+      "defname": "Leg",
+      "price": -10
+    },
+    {
+      "abr": "lightreceptor",
+      "category": "Prosthetic",
+      "defname": "LightReceptor",
+      "price": 383
+    },
+    {
+      "abr": "ma-aichip",
+      "category": "Manufactured",
+      "defname": "EPOE_MAAI_Chip",
+      "price": -10
+    },
+    {
+      "abr": "medicalribimplant",
+      "category": "Bionic",
+      "defname": "MedicalRib",
+      "price": -10
+    },
+    {
+      "abr": "musclestimulator",
+      "category": "Bionic",
+      "defname": "MuscleStimulator",
+      "price": -10
+    },
+    {
+      "abr": "neuro-cureframework",
+      "category": "Body restoration",
+      "defname": "NeurocureFramework",
+      "price": -10
+    },
+    {
+      "abr": "neuromuscularframework",
+      "category": "Body restoration",
+      "defname": "NeuromuscularFramework",
+      "price": -10
+    },
+    {
+      "abr": "nose",
+      "category": "Natural",
+      "defname": "Nose",
+      "price": -10
+    },
+    {
+      "abr": "organicoptimizingnanobots",
+      "category": "Organic optimizer",
+      "defname": "EPOE_OrganicOptimizingNanobots",
+      "price": -10
+    },
+    {
+      "abr": "painkillerribimplant",
+      "category": "Bionic",
+      "defname": "PainkillerRib",
+      "price": -10
+    },
+    {
+      "abr": "powerarm",
+      "category": "Bionic",
+      "defname": "PowerArm",
+      "price": -10
+    },
+    {
+      "abr": "prostheticfinger",
+      "category": "Prosthetic",
+      "defname": "SimpleProstheticFinger",
+      "price": 28
+    },
+    {
+      "abr": "prostheticfoot",
+      "category": "Prosthetic",
+      "defname": "SimpleProstheticFoot",
+      "price": 329
+    },
+    {
+      "abr": "prosthetichand",
+      "category": "Prosthetic",
+      "defname": "SimpleProstheticHand",
+      "price": 329
+    },
+    {
+      "abr": "prosthetictoe",
+      "category": "Prosthetic",
+      "defname": "SimpleProstheticToe",
+      "price": 28
+    },
+    {
+      "abr": "protectiveexoskeleton",
+      "category": "Ultratech",
+      "defname": "EPIA_ProtectiveExoskeleton",
+      "price": -10
+    },
+    {
+      "abr": "replacementradius",
+      "category": "Prosthetic",
+      "defname": "ReplacementRadius",
+      "price": 169
+    },
+    {
+      "abr": "replacementspine",
+      "category": "Prosthetic",
+      "defname": "SimpleSpine",
+      "price": 433
+    },
+    {
+      "abr": "respirationribimplant",
+      "category": "Bionic",
+      "defname": "RespirationRib",
+      "price": -10
+    },
+    {
+      "abr": "scytherblade",
+      "category": "Prosthetic",
+      "defname": "EPIA_ScytherBlade",
+      "price": -10
+    },
+    {
+      "abr": "silentjaw",
+      "category": "Bionic",
+      "defname": "SilentJaw",
+      "price": -10
+    },
+    {
+      "abr": "steelarm",
+      "category": "Prosthetic",
+      "defname": "SteelArm",
+      "price": 173
+    },
+    {
+      "abr": "stomach",
+      "category": "Natural",
+      "defname": "Stomach",
+      "price": -10
+    },
+    {
+      "abr": "surrogatekidney",
+      "category": "Prosthetic",
+      "defname": "SurrogateKidney",
+      "price": -10
+    },
+    {
+      "abr": "surrogateliver",
+      "category": "Prosthetic",
+      "defname": "SurrogateLiver",
+      "price": -10
+    },
+    {
+      "abr": "surrogatelung",
+      "category": "Prosthetic",
+      "defname": "SurrogateLung",
+      "price": -10
+    },
+    {
+      "abr": "surrogatestomach",
+      "category": "Prosthetic",
+      "defname": "SurrogateStomach",
+      "price": -10
+    },
+    {
+      "abr": "syntheticbone",
+      "category": "Body restoration",
+      "defname": "EPIA_SyntheticBone",
+      "price": -10
+    },
+    {
+      "abr": "synthetickidney",
+      "category": "Bionic",
+      "defname": "SyntheticKidney",
+      "price": -10
+    },
+    {
+      "abr": "syntheticliver",
+      "category": "Bionic",
+      "defname": "SyntheticLiver",
+      "price": -10
+    },
+    {
+      "abr": "syntheticlung",
+      "category": "Bionic",
+      "defname": "SyntheticLung",
+      "price": -10
+    },
+    {
+      "abr": "syntheticnanoprinter",
+      "category": "Production",
+      "defname": "TableOrgans",
+      "price": -10
+    },
+    {
+      "abr": "synthetictissue",
+      "category": "Body restoration",
+      "defname": "SyntheticSkin",
+      "price": -10
+    },
+    {
+      "abr": "tacticalbioniceye",
+      "category": "Ultratech",
+      "defname": "EPIA_TacticalBionicEye",
+      "price": -10
+    },
+    {
+      "abr": "tacticalcorneaimplant",
+      "category": "Ultratech",
+      "defname": "TacticalCorneaImplant",
+      "price": -10
+    },
+    {
+      "abr": "wake-upribimplant",
+      "category": "Bionic",
+      "defname": "WakeUpRib",
+      "price": -10
     }
   ],
-  "total": 777
+  "total": 851
 }
