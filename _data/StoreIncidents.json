@@ -157,12 +157,12 @@
 	},
 	{
 		"abr": "reviveme",
-		"price": 2500,
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "healanypawn",
-		"price": 1000,
+		"abr": "healall",
+		"price": 2000,
 		"karmatype": "Good"
 	},
 	{

@@ -1129,12 +1129,6 @@
       "price": 150
     },
     {
-      "abr": "simplehelmet",
-      "category": "Headgear",
-      "defname": "Apparel_SimpleHelmet",
-      "price": 306
-    },
-    {
       "abr": "reconhelmet",
       "category": "Headgear",
       "defname": "Apparel_ArmorHelmetRecon",
@@ -1217,18 +1211,6 @@
       "category": "Armor",
       "defname": "Apparel_FlakVest",
       "price": 750
-    },
-    {
-      "abr": "flakpants",
-      "category": "Armor",
-      "defname": "Apparel_FlakPants",
-      "price": 750
-    },
-    {
-      "abr": "flakjacket",
-      "category": "Armor",
-      "defname": "Apparel_FlakJacket",
-      "price": 966
     },
     {
       "abr": "reconarmor",
@@ -1324,7 +1306,7 @@
       "abr": "molotovcocktails",
       "category": "Grenades",
       "defname": "Weapon_GrenadeMolotov",
-      "price": 816
+      "price": 100
     },
     {
       "abr": "shortbow",
@@ -1336,7 +1318,7 @@
       "abr": "pila",
       "category": "Ranged weapons",
       "defname": "Pila",
-      "price": 550
+      "price": 65
     },
     {
       "abr": "recurvebow",
@@ -2050,7 +2032,7 @@
       "abr": "tophat",
       "category": "Headgear",
       "defname": "Apparel_HatTop",
-      "price": 406
+      "price": -10
     },
     {
       "abr": "coronet",
@@ -2353,12 +2335,6 @@
       "price": 124
     },
     {
-      "abr": "slavecollar",
-      "category": "Headgear",
-      "defname": "Apparel_Collar",
-      "price": -10
-    },
-    {
       "abr": "authoritycap",
       "category": "Headgear",
       "defname": "Apparel_AuthorityCap",
@@ -2383,12 +2359,6 @@
       "price": 148
     },
     {
-      "abr": "slavebodystrap",
-      "category": "Misc",
-      "defname": "Apparel_BodyStrap",
-      "price": -10
-    },
-    {
       "abr": "burka",
       "category": "Misc",
       "defname": "Apparel_Burka",
@@ -2404,12 +2374,6 @@
       "abr": "torturecrown",
       "category": "Headgear",
       "defname": "Apparel_TortureCrown",
-      "price": -10
-    },
-    {
-      "abr": "blindfold",
-      "category": "Headgear",
-      "defname": "Apparel_Blindfold",
       "price": -10
     },
     {
@@ -2857,18 +2821,6 @@
       "price": -10
     },
     {
-      "abr": "gasmask",
-      "category": "Headgear",
-      "defname": "Apparel_GasMask",
-      "price": -10
-    },
-    {
-      "abr": "facemask",
-      "category": "Headgear",
-      "defname": "Apparel_ClothMask",
-      "price": -10
-    },
-    {
       "abr": "controlpack",
       "category": "Utility",
       "defname": "Apparel_PackControl",
@@ -2878,12 +2830,6 @@
       "abr": "bandwidthpack",
       "category": "Utility",
       "defname": "Apparel_PackBandwidth",
-      "price": -10
-    },
-    {
-      "abr": "toxpack",
-      "category": "Utility",
-      "defname": "Apparel_PackTox",
       "price": -10
     },
     {
@@ -2939,12 +2885,6 @@
       "category": "Fruits",
       "defname": "RawBerries",
       "price": 4
-    },
-    {
-      "abr": "queen",
-      "category": "Animals",
-      "defname": "BI_Queen",
-      "price": -10
     },
     {
       "abr": "bionicbladder",
@@ -3721,12 +3661,6 @@
       "price": -10
     },
     {
-      "abr": "gasmask",
-      "category": "Headgear",
-      "defname": "CE_Apparel_GasMask",
-      "price": -10
-    },
-    {
       "abr": "gazellemeat",
       "category": "Meat",
       "defname": "Meat_Gazelle",
@@ -3832,12 +3766,6 @@
       "abr": "immaturedryadmeat",
       "category": "Meat",
       "defname": "Meat_Dryad_Basic",
-      "price": -10
-    },
-    {
-      "abr": "improvisedgasmask",
-      "category": "Headgear",
-      "defname": "CE_Apparel_ImprovGasMask",
       "price": -10
     },
     {
@@ -5104,8 +5032,8 @@
       "abr": "wake-upribimplant",
       "category": "Bionic",
       "defname": "WakeUpRib",
-      "price": -10
+      "price": 958
     }
   ],
-  "total": 851
+  "total": 839
 }

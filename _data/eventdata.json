@@ -559,14 +559,6 @@
     "LocalCooldown": 0,
     "Mod": "ToolkitUtils"
   },
-  "healanypawn": {
-    "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
-    "Mod": "ToolkitUtils"
-  },
   "healme": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
@@ -704,6 +696,14 @@
     "Mod": "ToolkitUtils"
   },
   "sanctuary": {
+    "EventType": "Default",
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "ToolkitUtils"
+  },
+  "healanypawn": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
