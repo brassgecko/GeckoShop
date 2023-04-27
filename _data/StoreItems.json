@@ -1129,12 +1129,6 @@
       "price": 150
     },
     {
-      "abr": "reconhelmet",
-      "category": "Headgear",
-      "defname": "Apparel_ArmorHelmetRecon",
-      "price": -10
-    },
-    {
       "abr": "hood",
       "category": "Headgear",
       "defname": "Apparel_HatHood",
@@ -1211,12 +1205,6 @@
       "category": "Armor",
       "defname": "Apparel_FlakVest",
       "price": 750
-    },
-    {
-      "abr": "reconarmor",
-      "category": "Armor",
-      "defname": "Apparel_ArmorRecon",
-      "price": -10
     },
     {
       "abr": "cape",
@@ -1765,12 +1753,6 @@
       "price": -10
     },
     {
-      "abr": "armorskingland",
-      "category": "Bionic",
-      "defname": "ArmorskinGland",
-      "price": -10
-    },
-    {
       "abr": "stoneskingland",
       "category": "Bionic",
       "defname": "StoneskinGland",
@@ -1969,12 +1951,6 @@
       "price": -10
     },
     {
-      "abr": "eltexhelmet",
-      "category": "Headgear",
-      "defname": "Apparel_PsyfocusHelmet",
-      "price": -10
-    },
-    {
       "abr": "eltexskullcap",
       "category": "Headgear",
       "defname": "Apparel_EltexSkullcap",
@@ -2057,54 +2033,6 @@
       "category": "Headgear",
       "defname": "Apparel_Beret",
       "price": 282
-    },
-    {
-      "abr": "prestigereconarmor",
-      "category": "Armor",
-      "defname": "Apparel_ArmorReconPrestige",
-      "price": -10
-    },
-    {
-      "abr": "prestigereconhelmet",
-      "category": "Headgear",
-      "defname": "Apparel_ArmorHelmetReconPrestige",
-      "price": -10
-    },
-    {
-      "abr": "cataphractarmor",
-      "category": "Armor",
-      "defname": "Apparel_ArmorCataphract",
-      "price": -10
-    },
-    {
-      "abr": "cataphracthelmet",
-      "category": "Headgear",
-      "defname": "Apparel_ArmorHelmetCataphract",
-      "price": -10
-    },
-    {
-      "abr": "prestigecataphractarmor",
-      "category": "Armor",
-      "defname": "Apparel_ArmorCataphractPrestige",
-      "price": -10
-    },
-    {
-      "abr": "prestigecataphracthelmet",
-      "category": "Headgear",
-      "defname": "Apparel_ArmorHelmetCataphractPrestige",
-      "price": -10
-    },
-    {
-      "abr": "locustarmor",
-      "category": "Armor",
-      "defname": "Apparel_ArmorLocust",
-      "price": -10
-    },
-    {
-      "abr": "phoenixarmor",
-      "category": "Armor",
-      "defname": "Apparel_ArmorCataphractPhoenix",
-      "price": -10
     },
     {
       "abr": "gunlink",
@@ -2785,12 +2713,6 @@
       "price": -10
     },
     {
-      "abr": "kidhelmet",
-      "category": "Headgear",
-      "defname": "Apparel_KidHelmet",
-      "price": -10
-    },
-    {
       "abr": "airwireheadset",
       "category": "Headgear",
       "defname": "Apparel_AirwireHeadset",
@@ -2806,18 +2728,6 @@
       "abr": "integratorheadset",
       "category": "Headgear",
       "defname": "Apparel_IntegratorHeadset",
-      "price": -10
-    },
-    {
-      "abr": "mechcommanderhelmet",
-      "category": "Headgear",
-      "defname": "Apparel_ArmorHelmetMechCommander",
-      "price": -10
-    },
-    {
-      "abr": "mechlordhelmet",
-      "category": "Headgear",
-      "defname": "Apparel_ArmorHelmetMechlordHelmet",
       "price": -10
     },
     {
@@ -3328,13 +3238,7 @@
       "abr": "backpack",
       "category": "Loadbearing gear",
       "defname": "CE_Apparel_Backpack",
-      "price": -10
-    },
-    {
-      "abr": "ballisticshield",
-      "category": "Shields",
-      "defname": "CE_Apparel_BallisticShield",
-      "price": -10
+      "price": 100
     },
     {
       "abr": "bamboo",
@@ -4381,12 +4285,6 @@
       "price": -10
     },
     {
-      "abr": "techprint(cataphractarmor)",
-      "category": "Techprints",
-      "defname": "Techprint_CataphractArmor",
-      "price": -10
-    },
-    {
       "abr": "techprint(circadianinfluence)",
       "category": "Techprints",
       "defname": "Techprint_CircadianInfluence",
@@ -5035,5 +4933,5 @@
       "price": 958
     }
   ],
-  "total": 839
+  "total": 822
 }
