@@ -123,7 +123,7 @@
     "author": "m00nl1ght",
     "name": "Geological Landforms",
     "steamId": "2773943594",
-    "version": "1.5.2.0"
+    "version": "1.6.3.0"
   },
   {
     "author": "Owlchemist",
@@ -172,6 +172,12 @@
     "name": "Vanilla Storytellers Expanded - Winston Waves",
     "steamId": "2734032569",
     "version": "1.0.2.2"
+  },
+  {
+    "author": "Imranfish",
+    "name": "XML Extensions",
+    "steamId": "2574315206",
+    "version": "1.7.0"
   },
   {
     "author": "Orpheusly",
@@ -252,6 +258,30 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Donald",
+    "name": "Vanilla Combat Reloaded",
+    "steamId": "2860414285",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Atkana",
+    "name": "Interception Tweaks",
+    "steamId": "2880136489",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "denev",
+    "name": "Smart Turret Covering",
+    "steamId": "2636621800",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sozzky",
+    "name": "Projectile Speed Booster",
+    "steamId": "2552851555",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Fuu Chan",
     "name": "[Fuu] Punch Button",
     "steamId": "2651392585",
@@ -300,10 +330,16 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "CE Team",
-    "name": "Combat Extended",
-    "steamId": "2890901044",
-    "version": "1.4.5.2"
+    "author": "cat2002 - Troopersmith1 - Linq- deathrat",
+    "name": "Death Rattle Continued [1.2+]",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Victor and wilki24",
+    "name": "Walls are solid",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Tamias and JackeryFox",
@@ -318,8 +354,8 @@
     "version": null
   },
   {
-    "author": "cat2002 - Troopersmith1 - Linq- deathrat",
-    "name": "Death Rattle Continued [1.2+]",
+    "author": "UnlimitedHugs",
+    "name": "Defensive Positions",
     "steamId": null,
     "version": null
   },
@@ -352,6 +388,12 @@
     "name": "Windows",
     "steamId": "2571189146",
     "version": "1.4"
+  },
+  {
+    "author": "Wemd",
+    "name": "[WD] Barbed Wire",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Victorique, Aurani and Tarojun",

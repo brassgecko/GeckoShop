@@ -28,7 +28,7 @@
       "abr": "flake",
       "category": "Drugs",
       "defname": "Flake",
-      "price": 23
+      "price": -10
     },
     {
       "abr": "psychitetea",
@@ -841,39 +841,9 @@
       "price": 6
     },
     {
-      "abr": "high-explosiveshell",
-      "category": "81mm mortar shell",
-      "defname": "Shell_HighExplosive",
-      "price": -10
-    },
-    {
-      "abr": "incendiaryshell",
-      "category": "81mm mortar shell",
-      "defname": "Shell_Incendiary",
-      "price": -10
-    },
-    {
-      "abr": "empshell",
-      "category": "81mm mortar shell",
-      "defname": "Shell_EMP",
-      "price": -10
-    },
-    {
       "abr": "smokeshell",
-      "category": "81mm mortar shell",
+      "category": "Mortar shells",
       "defname": "Shell_Smoke",
-      "price": -10
-    },
-    {
-      "abr": "firefoamshell",
-      "category": "81mm mortar shell",
-      "defname": "Shell_Firefoam",
-      "price": -10
-    },
-    {
-      "abr": "antigrainwarhead",
-      "category": "81mm mortar shell",
-      "defname": "Shell_AntigrainWarhead",
       "price": -10
     },
     {
@@ -1135,12 +1105,6 @@
       "price": 406
     },
     {
-      "abr": "firefoampoppack",
-      "category": "Utility",
-      "defname": "Apparel_FirefoampopPack",
-      "price": -10
-    },
-    {
       "abr": "psychicshocklance",
       "category": "Utility",
       "defname": "Apparel_PsychicShockLance",
@@ -1294,7 +1258,7 @@
       "abr": "molotovcocktails",
       "category": "Grenades",
       "defname": "Weapon_GrenadeMolotov",
-      "price": 100
+      "price": 225
     },
     {
       "abr": "shortbow",
@@ -1306,7 +1270,7 @@
       "abr": "pila",
       "category": "Ranged weapons",
       "defname": "Pila",
-      "price": 65
+      "price": 300
     },
     {
       "abr": "recurvebow",
@@ -2035,12 +1999,6 @@
       "price": 282
     },
     {
-      "abr": "gunlink",
-      "category": "Headgear",
-      "defname": "Apparel_Gunlink",
-      "price": -10
-    },
-    {
       "abr": "personamonosword",
       "category": "Persona weapons",
       "defname": "MeleeWeapon_MonoSwordBladelink",
@@ -2642,7 +2600,7 @@
     },
     {
       "abr": "toxshell",
-      "category": "81mm mortar shell",
+      "category": "Mortar shells",
       "defname": "Shell_Toxic",
       "price": -10
     },
@@ -3211,12 +3169,6 @@
       "price": -10
     },
     {
-      "abr": "advancednightvisiongoggles",
-      "category": "Headgear",
-      "defname": "CE_Apparel_AdvancedNightVision",
-      "price": -10
-    },
-    {
       "abr": "alpacameat",
       "category": "Meat",
       "defname": "Meat_Alpaca",
@@ -3233,12 +3185,6 @@
       "category": "Fruits",
       "defname": "Rawapple",
       "price": 4
-    },
-    {
-      "abr": "backpack",
-      "category": "Loadbearing gear",
-      "defname": "CE_Apparel_Backpack",
-      "price": 100
     },
     {
       "abr": "bamboo",
@@ -3293,12 +3239,6 @@
       "category": "Vegetarian",
       "defname": "Rawbean",
       "price": 4
-    },
-    {
-      "abr": "binoculars",
-      "category": "Ranged weapons",
-      "defname": "Gun_BinocularsRadio",
-      "price": 2166
     },
     {
       "abr": "biofuel",
@@ -3439,18 +3379,6 @@
       "price": 328
     },
     {
-      "abr": "compositevest",
-      "category": "Armor",
-      "defname": "CE_Apparel_CompositeVest",
-      "price": -10
-    },
-    {
-      "abr": "concussiongrenade",
-      "category": "Grenades",
-      "defname": "Weapon_GrenadeConcussion",
-      "price": -10
-    },
-    {
       "abr": "date",
       "category": "Fruits",
       "defname": "Rawdate",
@@ -3481,12 +3409,6 @@
       "price": 107
     },
     {
-      "abr": "disposablerocketlauncher",
-      "category": "Ranged weapons",
-      "defname": "CE_DisposableRocketLauncher",
-      "price": -20
-    },
-    {
       "abr": "elephantmeat",
       "category": "Meat",
       "defname": "Meat_Elephant",
@@ -3511,12 +3433,6 @@
       "price": 4
     },
     {
-      "abr": "flaregun",
-      "category": "Ranged weapons",
-      "defname": "CE_FlareGun",
-      "price": 400
-    },
-    {
       "abr": "foodshelf2x2",
       "category": "Furniture",
       "defname": "VG_FoodShelf",
@@ -3538,12 +3454,6 @@
       "abr": "fruitjuicedrink",
       "category": "Garden Drinks",
       "defname": "Fruitdrink",
-      "price": -10
-    },
-    {
-      "abr": "fsx",
-      "category": "Raw resources",
-      "defname": "FSX",
       "price": -10
     },
     {
@@ -3593,18 +3503,6 @@
       "category": "Fruits",
       "defname": "Rawgrape",
       "price": 4
-    },
-    {
-      "abr": "grenadelauncher",
-      "category": "Ranged weapons",
-      "defname": "CE_GrenadeLauncher",
-      "price": -20
-    },
-    {
-      "abr": "gunsmithingbench",
-      "category": "Production",
-      "defname": "GunsmithingBench",
-      "price": -10
     },
     {
       "abr": "hardtack",
@@ -3697,12 +3595,6 @@
       "price": 101
     },
     {
-      "abr": "kidbackpack",
-      "category": "Loadbearing gear",
-      "defname": "CE_Apparel_KidBackpack",
-      "price": -10
-    },
-    {
       "abr": "leatherapron",
       "category": "Apparel",
       "defname": "RWP_Apparel_LeatherApron",
@@ -3712,12 +3604,6 @@
       "abr": "limestonechunk",
       "category": "Stone chunks",
       "defname": "ChunkLimestone",
-      "price": -10
-    },
-    {
-      "abr": "loadingbench",
-      "category": "Production",
-      "defname": "AmmoBench",
       "price": -10
     },
     {
@@ -3745,12 +3631,6 @@
       "price": -10
     },
     {
-      "abr": "meleeshield",
-      "category": "Shields",
-      "defname": "CE_Apparel_MeleeShield",
-      "price": -10
-    },
-    {
       "abr": "model1840heavycavalrysaber",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_M1840Saber",
@@ -3773,12 +3653,6 @@
       "category": "Garden meat",
       "defname": "Rawmushroom",
       "price": 4
-    },
-    {
-      "abr": "nightvisionmonocular",
-      "category": "Headgear",
-      "defname": "CE_Apparel_SimpleNightVision",
-      "price": -10
     },
     {
       "abr": "olive",
@@ -3823,12 +3697,6 @@
       "price": 4
     },
     {
-      "abr": "platehelmet",
-      "category": "Headgear",
-      "defname": "CE_Apparel_PlateHelmet",
-      "price": 265
-    },
-    {
       "abr": "pocketwatch",
       "category": "Apparel",
       "defname": "RWP_Apparel_Pocketwatch",
@@ -3847,28 +3715,10 @@
       "price": -10
     },
     {
-      "abr": "poweredexoframe",
-      "category": "Loadbearing gear",
-      "defname": "CE_Apparel_ExoFrame",
-      "price": -10
-    },
-    {
       "abr": "prairieskirt",
       "category": "Apparel",
       "defname": "RWP_Apparel_PrairieSkirt",
       "price": 321
-    },
-    {
-      "abr": "prometheum",
-      "category": "Raw resources",
-      "defname": "Prometheum",
-      "price": -10
-    },
-    {
-      "abr": "psycho",
-      "category": "Drugs",
-      "defname": "Psycho",
-      "price": -10
     },
     {
       "abr": "psytrainer(beckon)",
@@ -4237,12 +4087,6 @@
       "price": -10
     },
     {
-      "abr": "stickbomb",
-      "category": "Grenades",
-      "defname": "Weapon_GrenadeStickBomb",
-      "price": -10
-    },
-    {
       "abr": "stirfry",
       "category": "Meals",
       "defname": "stirfry",
@@ -4259,12 +4103,6 @@
       "category": "Apparel",
       "defname": "RWP_Apparel_MedicalApron",
       "price": 333
-    },
-    {
-      "abr": "tacticalvest",
-      "category": "Loadbearing gear",
-      "defname": "CE_Apparel_TacVest",
-      "price": -10
     },
     {
       "abr": "tealeaves",
@@ -4387,12 +4225,6 @@
       "price": 309
     },
     {
-      "abr": "tribalbackpack",
-      "category": "Loadbearing gear",
-      "defname": "CE_Apparel_TribalBackpack",
-      "price": -10
-    },
-    {
       "abr": "venison",
       "category": "Meat",
       "defname": "Meat_Deer",
@@ -4462,30 +4294,6 @@
       "abr": "wolfmeat",
       "category": "Meat",
       "defname": "Meat_Wolf_Timber",
-      "price": -10
-    },
-    {
-      "abr": "90mmcannonshell(heat)",
-      "category": "90mm cannon shell",
-      "defname": "Ammo_90mmCannonShell_HEAT",
-      "price": -10
-    },
-    {
-      "abr": "90mmcannonshell(he)",
-      "category": "90mm cannon shell",
-      "defname": "Ammo_90mmCannonShell_HE",
-      "price": -10
-    },
-    {
-      "abr": "90mmcannonshell(hetimefuzed)",
-      "category": "90mm cannon shell",
-      "defname": "Ammo_90mmCannonShell_HE_TFuzed",
-      "price": -10
-    },
-    {
-      "abr": "90mmcannonshell(emp)",
-      "category": "90mm cannon shell",
-      "defname": "Ammo_90mmCannonShell_EMP",
       "price": -10
     },
     {
@@ -4930,8 +4738,56 @@
       "abr": "wake-upribimplant",
       "category": "Bionic",
       "defname": "WakeUpRib",
-      "price": 958
+      "price": -10
+    },
+    {
+      "abr": "12-poundartilleryshell",
+      "category": "Mortar shells",
+      "defname": "RWP_Shell_ExplosiveShell",
+      "price": -10
+    },
+    {
+      "abr": "12-poundernapoleoncannon",
+      "category": "Security",
+      "defname": "RWP_Building_Cannon",
+      "price": -10
+    },
+    {
+      "abr": "chargelance",
+      "category": "Ranged weapons",
+      "defname": "Gun_ChargeLance",
+      "price": -10
+    },
+    {
+      "abr": "emplauncher",
+      "category": "Ranged weapons",
+      "defname": "Gun_EmpLauncher",
+      "price": -10
+    },
+    {
+      "abr": "flamebow",
+      "category": "Ranged weapons",
+      "defname": "Flamebow",
+      "price": -10
+    },
+    {
+      "abr": "smokelauncher",
+      "category": "Ranged weapons",
+      "defname": "Gun_SmokeLauncher",
+      "price": -10
+    },
+    {
+      "abr": "toxbomblauncher",
+      "category": "Ranged weapons",
+      "defname": "Gun_ToxbombLauncher",
+      "price": -10
+    },
+    {
+      "abr": "originalepoeworkbench(debug)",
+      "category": "Production",
+      "defname": "TableProsthetics",
+      "price": 1433
     }
   ],
-  "total": 822
+  "total": 798
 }
