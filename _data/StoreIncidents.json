@@ -6,48 +6,43 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "tornados",
-		"price": 12000,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "clearweather",
-		"price": 500,
+		"price": 600,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "rain",
-		"price": 500,
+		"price": 600,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "foggyrain",
-		"price": 500,
+		"price": 600,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "rainythunderstorm",
-		"price": 500,
+		"price": 600,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "drythunderstorm",
-		"price": 4000,
+		"price": 4800,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "snowgentle",
-		"price": 500,
+		"price": 600,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "snowhard",
-		"price": 500,
+		"price": 600,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "fog",
-		"price": 500,
+		"price": 600,
 		"karmatype": "Neutral"
 	},
 	{
@@ -72,52 +67,82 @@
 	},
 	{
 		"abr": "eclipse",
-		"price": 1200,
+		"price": 1800,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "resourcepodcrash",
-		"price": 1500,
+		"abr": "blight",
+		"price": 1800,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "animaltame",
+		"price": 2400,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "meteor",
-		"price": 1200,
+		"price": 2400,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "madanimal",
-		"price": 800,
+		"price": 1200,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "ambrosiasprout",
-		"price": 1200,
+		"price": 6000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "herdmigration",
-		"price": 1600,
+		"price": 2400,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "farmanimals",
-		"price": 1500,
+		"price": 4800,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "rarethrumbos",
+		"price": 4800,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "travelergroup",
 		"price": 1200,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "visitorgroup",
+		"price": 2400,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "party",
-		"price": 1200,
+		"price": 1800,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "alphabeavers",
-		"price": 1200,
+		"price": 2400,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "sapperraid",
+		"price": 2400,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "siegeraid",
+		"price": 2400,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "infestation",
+		"price": 2400,
 		"karmatype": "Bad"
 	},
 	{
@@ -127,7 +152,7 @@
 	},
 	{
 		"abr": "randomdisease",
-		"price": 4000,
+		"price": 4800,
 		"karmatype": "Bad"
 	},
 	{
@@ -156,16 +181,6 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "reviveme",
-		"price": 1500,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "healall",
-		"price": 2000,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "surgery",
 		"price": 1,
 		"karmatype": "Neutral"
@@ -176,14 +191,14 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "replacetrait",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
 		"abr": "passion",
 		"price": 2000,
 		"karmatype": "Good"
-	},
-	{
-		"abr": "backpack",
-		"price": 1,
-		"karmatype": "Neutral"
 	},
 	{
 		"abr": "settraits",
@@ -212,14 +227,14 @@
 	},
 	{
 		"abr": "randomchildhood",
-		"price": 500,
+		"price": 1000,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "randomadulthood",
-		"price": 500,
+		"price": 1000,
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 44
+	"total": 47
 }

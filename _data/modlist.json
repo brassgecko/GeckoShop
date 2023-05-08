@@ -30,9 +30,9 @@
     "version": "10.0.1"
   },
   {
-    "author": "LimeTreeSnake",
-    "name": "[LTS]Systems",
-    "steamId": "2812826451",
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
     "version": "1.0.0.0"
   },
   {
@@ -40,6 +40,18 @@
     "name": "RWLayout",
     "steamId": "2209393954",
     "version": "1.0.0"
+  },
+  {
+    "author": "Syrchalis",
+    "name": "[SYR] Processor Framework",
+    "steamId": "2633514537",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Imranfish",
+    "name": "XML Extensions",
+    "steamId": "2574315206",
+    "version": "1.7.0"
   },
   {
     "author": "Owlchemist",
@@ -123,7 +135,7 @@
     "author": "m00nl1ght",
     "name": "Geological Landforms",
     "steamId": "2773943594",
-    "version": "1.6.3.0"
+    "version": "1.6.4.0"
   },
   {
     "author": "Owlchemist",
@@ -168,16 +180,88 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Oskar Potocki and Kikohi",
-    "name": "Vanilla Storytellers Expanded - Winston Waves",
-    "steamId": "2734032569",
-    "version": "1.0.2.2"
+    "author": "SirLalaPyon",
+    "name": "Medieval Overhaul",
+    "steamId": "2553700067",
+    "version": "1.0.0.0"
   },
   {
-    "author": "Imranfish",
-    "name": "XML Extensions",
-    "steamId": "2574315206",
-    "version": "1.7.0"
+    "author": "Sierra",
+    "name": "RimFantasy - Medieval Overhaul Edition",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sierra",
+    "name": "RimFantasy - House Doyle",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Adamas",
+    "name": "Perfect Medieval Playthrough",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ogam;Taranchuk;ILuvSilicon",
+    "name": "Rimedieval",
+    "steamId": "2516523040",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Vanilla Expanded team",
+    "name": "Vanilla Factions Expanded - Vikings",
+    "steamId": "2231295285",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "pelador",
+    "name": "Apothecary (Continued)",
+    "steamId": "2195469123",
+    "version": "1.4.2"
+  },
+  {
+    "author": "Evil Eye Guy",
+    "name": "Medieval Overhaul: Royalty",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oken",
+    "name": "Medieval Quest Rewards",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "NinjaPirate_",
+    "name": "Medieval Tool Cabinet",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "死萌",
+    "name": "Medieval Repair",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AobaKuma OttersHoldHands iforgotmysocks",
+    "name": "Camping Tent",
+    "steamId": "2407128339",
+    "version": "2.1.3.0"
+  },
+  {
+    "author": "Pizzacat OttersHoldHands iforgotmysocks AobaKuma",
+    "name": "Villages:Homes",
+    "steamId": "2941977041",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Catachat",
+    "name": "Inspiration Tweaks",
+    "steamId": "2117570018",
+    "version": "1.0.0.0"
   },
   {
     "author": "Orpheusly",
@@ -216,16 +300,16 @@
     "version": null
   },
   {
-    "author": "dismarzero",
-    "name": "VGP Vegetable Garden",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Dubwise",
     "name": "Dubs Bad Hygiene",
     "steamId": "836308268",
     "version": "2.7.7366"
+  },
+  {
+    "author": "ElderSign",
+    "name": "DBH for Medieval",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Citrus",
@@ -249,12 +333,6 @@
     "author": "Syrchalis",
     "name": "[SYR] Set Up Camp",
     "steamId": "1470065926",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "LimeTreeSnake",
-    "name": "[LTS]Maintenance",
-    "steamId": "2803673873",
     "version": "1.0.0.0"
   },
   {
@@ -342,18 +420,6 @@
     "version": null
   },
   {
-    "author": "Tamias and JackeryFox",
-    "name": "Rimworld Westernization Project (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Tamias",
-    "name": "Steam World (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "UnlimitedHugs",
     "name": "Defensive Positions",
     "steamId": null,
@@ -384,28 +450,22 @@
     "version": null
   },
   {
+    "author": "dninemfive",
+    "name": "Ambrosial Longevity",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Owlchemist and jptrrs",
     "name": "Windows",
     "steamId": "2571189146",
     "version": "1.4"
   },
   {
-    "author": "Wemd",
-    "name": "[WD] Barbed Wire",
+    "author": "AobaKuma",
+    "name": "Fortifications - Neolithic",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Victorique, Aurani and Tarojun",
-    "name": "Expanded Prosthetics and Organ Engineering - Forked",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Murmur",
-    "name": "Wall Light",
-    "steamId": "1423699208",
-    "version": "1.0.0.0"
   },
   {
     "author": "Lanilor",
@@ -570,12 +630,6 @@
     "version": null
   },
   {
-    "author": "GrillMaster",
-    "name": "More xenotypes and multicultural factions",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Holgast",
     "name": "Anime Cat Ears Retexture",
     "steamId": null,
@@ -660,6 +714,12 @@
     "version": null
   },
   {
+    "author": "Odz",
+    "name": "Odz Face Replacer",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "FrozenSnowFox",
     "name": "[FSF] Complex Jobs",
     "steamId": null,
@@ -670,6 +730,12 @@
     "name": "Common Sense",
     "steamId": "1561769193",
     "version": "1.0.8391.36780"
+  },
+  {
+    "author": "Owlchemist and Mlie",
+    "name": "Simple FX: Smoke",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Owlchemist",
