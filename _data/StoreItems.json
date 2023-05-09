@@ -2978,175 +2978,175 @@
     },
     {
       "abr": "psytrainer(beckon)",
-      "category": "Psyskill potions",
+      "category": "Psytrainers",
       "defname": "Psytrainer_Beckon",
       "price": -10
     },
     {
       "abr": "psytrainer(berserkpulse)",
-      "category": "Psyskill potions",
+      "category": "Psytrainers",
       "defname": "Psytrainer_BerserkPulse",
       "price": -10
     },
     {
       "abr": "psytrainer(berserk)",
-      "category": "Psyskill potions",
+      "category": "Psytrainers",
       "defname": "Psytrainer_Berserk",
       "price": -10
     },
     {
       "abr": "psytrainer(blindingpulse)",
-      "category": "Psyskill potions",
+      "category": "Psytrainers",
       "defname": "Psytrainer_BlindingPulse",
       "price": -10
     },
     {
       "abr": "psytrainer(burden)",
-      "category": "Psyskill potions",
+      "category": "Psytrainers",
       "defname": "Psytrainer_Burden",
       "price": -10
     },
     {
       "abr": "psytrainer(chaosskip)",
-      "category": "Psyskill potions",
+      "category": "Psytrainers",
       "defname": "Psytrainer_ChaosSkip",
       "price": -10
     },
     {
       "abr": "psytrainer(chunkskip)",
-      "category": "Psyskill potions",
+      "category": "Psytrainers",
       "defname": "Psytrainer_Chunkskip",
       "price": -10
     },
     {
       "abr": "psytrainer(farskip)",
-      "category": "Psyskill potions",
+      "category": "Psytrainers",
       "defname": "Psytrainer_Farskip",
       "price": -10
     },
     {
       "abr": "psytrainer(flashstorm)",
-      "category": "Psyskill potions",
+      "category": "Psytrainers",
       "defname": "Psytrainer_Flashstorm",
       "price": -10
     },
     {
       "abr": "psytrainer(focus)",
-      "category": "Psyskill potions",
+      "category": "Psytrainers",
       "defname": "Psytrainer_Focus",
       "price": -10
     },
     {
       "abr": "psytrainer(invisibility)",
-      "category": "Psyskill potions",
+      "category": "Psytrainers",
       "defname": "Psytrainer_Invisibility",
       "price": -10
     },
     {
       "abr": "psytrainer(manhunterpulse)",
-      "category": "Psyskill potions",
+      "category": "Psytrainers",
       "defname": "Psytrainer_ManhunterPulse",
       "price": -10
     },
     {
       "abr": "psytrainer(masschaosskip)",
-      "category": "Psyskill potions",
+      "category": "Psytrainers",
       "defname": "Psytrainer_MassChaosSkip",
       "price": -10
     },
     {
       "abr": "psytrainer(neuralheatdump)",
-      "category": "Psyskill potions",
+      "category": "Psytrainers",
       "defname": "Psytrainer_EntropyDump",
       "price": -10
     },
     {
       "abr": "psytrainer(neuroquake)",
-      "category": "Psyskill potions",
+      "category": "Psytrainers",
       "defname": "Psytrainer_Neuroquake",
       "price": -10
     },
     {
       "abr": "psytrainer(painblock)",
-      "category": "Psyskill potions",
+      "category": "Psytrainers",
       "defname": "Psytrainer_Painblock",
       "price": -10
     },
     {
       "abr": "psytrainer(skip)",
-      "category": "Psyskill potions",
+      "category": "Psytrainers",
       "defname": "Psytrainer_Skip",
       "price": -10
     },
     {
       "abr": "psytrainer(skipshield)",
-      "category": "Psyskill potions",
+      "category": "Psytrainers",
       "defname": "Psytrainer_BulletShield",
       "price": -10
     },
     {
       "abr": "psytrainer(smokepop)",
-      "category": "Psyskill potions",
+      "category": "Psytrainers",
       "defname": "Psytrainer_Smokepop",
       "price": -10
     },
     {
       "abr": "psytrainer(solarpinhole)",
-      "category": "Psyskill potions",
+      "category": "Psytrainers",
       "defname": "Psytrainer_SolarPinhole",
       "price": -10
     },
     {
       "abr": "psytrainer(stun)",
-      "category": "Psyskill potions",
+      "category": "Psytrainers",
       "defname": "Psytrainer_Stun",
       "price": -10
     },
     {
       "abr": "psytrainer(vertigopulse)",
-      "category": "Psyskill potions",
+      "category": "Psytrainers",
       "defname": "Psytrainer_VertigoPulse",
       "price": -10
     },
     {
       "abr": "psytrainer(wallraise)",
-      "category": "Psyskill potions",
+      "category": "Psytrainers",
       "defname": "Psytrainer_Wallraise",
       "price": -10
     },
     {
       "abr": "psytrainer(waterskip)",
-      "category": "Psyskill potions",
+      "category": "Psytrainers",
       "defname": "Psytrainer_Waterskip",
       "price": -10
     },
     {
       "abr": "psytrainer(wordofinspiration)",
-      "category": "Psyskill potions",
+      "category": "Psytrainers",
       "defname": "Psytrainer_WordOfInspiration",
       "price": -10
     },
     {
       "abr": "psytrainer(wordofjoy)",
-      "category": "Psyskill potions",
+      "category": "Psytrainers",
       "defname": "Psytrainer_WordOfJoy",
       "price": -10
     },
     {
       "abr": "psytrainer(wordoflove)",
-      "category": "Psyskill potions",
+      "category": "Psytrainers",
       "defname": "Psytrainer_WordOfLove",
       "price": -10
     },
     {
       "abr": "psytrainer(wordofserenity)",
-      "category": "Psyskill potions",
+      "category": "Psytrainers",
       "defname": "Psytrainer_WordOfSerenity",
       "price": -10
     },
     {
       "abr": "psytrainer(wordoftrust)",
-      "category": "Psyskill potions",
+      "category": "Psytrainers",
       "defname": "Psytrainer_WordOfTrust",
       "price": -10
     },
@@ -3176,73 +3176,73 @@
     },
     {
       "abr": "skilltrainer(animals)",
-      "category": "Skill potions",
+      "category": "Skilltrainers",
       "defname": "Neurotrainer_Animals",
       "price": -10
     },
     {
       "abr": "skilltrainer(artistic)",
-      "category": "Skill potions",
+      "category": "Skilltrainers",
       "defname": "Neurotrainer_Artistic",
       "price": -10
     },
     {
       "abr": "skilltrainer(construction)",
-      "category": "Skill potions",
+      "category": "Skilltrainers",
       "defname": "Neurotrainer_Construction",
       "price": -10
     },
     {
       "abr": "skilltrainer(cooking)",
-      "category": "Skill potions",
+      "category": "Skilltrainers",
       "defname": "Neurotrainer_Cooking",
       "price": -10
     },
     {
       "abr": "skilltrainer(crafting)",
-      "category": "Skill potions",
+      "category": "Skilltrainers",
       "defname": "Neurotrainer_Crafting",
       "price": -10
     },
     {
       "abr": "skilltrainer(intellectual)",
-      "category": "Skill potions",
+      "category": "Skilltrainers",
       "defname": "Neurotrainer_Intellectual",
       "price": -10
     },
     {
       "abr": "skilltrainer(medical)",
-      "category": "Skill potions",
+      "category": "Skilltrainers",
       "defname": "Neurotrainer_Medicine",
       "price": -10
     },
     {
       "abr": "skilltrainer(melee)",
-      "category": "Skill potions",
+      "category": "Skilltrainers",
       "defname": "Neurotrainer_Melee",
       "price": -10
     },
     {
       "abr": "skilltrainer(mining)",
-      "category": "Skill potions",
+      "category": "Skilltrainers",
       "defname": "Neurotrainer_Mining",
       "price": -10
     },
     {
       "abr": "skilltrainer(plants)",
-      "category": "Skill potions",
+      "category": "Skilltrainers",
       "defname": "Neurotrainer_Plants",
       "price": -10
     },
     {
       "abr": "skilltrainer(shooting)",
-      "category": "Skill potions",
+      "category": "Skilltrainers",
       "defname": "Neurotrainer_Shooting",
       "price": -10
     },
     {
       "abr": "skilltrainer(social)",
-      "category": "Skill potions",
+      "category": "Skilltrainers",
       "defname": "Neurotrainer_Social",
       "price": -10
     },
@@ -3541,12 +3541,6 @@
       "price": -10
     },
     {
-      "abr": "ancientscroll",
-      "category": "Items",
-      "defname": "AncientScroll",
-      "price": -10
-    },
-    {
       "abr": "ancienttimber",
       "category": "Raw resources",
       "defname": "DankPyon_AncientWoodLog",
@@ -3562,18 +3556,6 @@
       "abr": "angus",
       "category": "Animals",
       "defname": "DankPyon_Angus",
-      "price": -10
-    },
-    {
-      "abr": "animalinsanityorb",
-      "category": "Artifacts",
-      "defname": "AnimalInsanityGem",
-      "price": -10
-    },
-    {
-      "abr": "animalsskillpotion",
-      "category": "Skill potions",
-      "defname": "SkillPotionAnimals",
       "price": -10
     },
     {
@@ -3676,12 +3658,6 @@
       "abr": "armorstatue",
       "category": "Art",
       "defname": "DankPyon_ArmorStatue",
-      "price": -10
-    },
-    {
-      "abr": "artisticskillpotion",
-      "category": "Skill potions",
-      "defname": "SkillPotionArtistic",
       "price": -10
     },
     {
@@ -3880,12 +3856,6 @@
       "abr": "blackpowderschematics",
       "category": "Books",
       "defname": "DankPyon_Book_Gunpowder",
-      "price": -10
-    },
-    {
-      "abr": "blessedweave",
-      "category": "Textiles",
-      "defname": "Blessedweave",
       "price": -10
     },
     {
@@ -4333,18 +4303,6 @@
       "price": -10
     },
     {
-      "abr": "constructionskillpotion",
-      "category": "Skill potions",
-      "defname": "SkillPotionConstruction",
-      "price": -10
-    },
-    {
-      "abr": "cookingskillpotion",
-      "category": "Skill potions",
-      "defname": "SkillPotionCooking",
-      "price": -10
-    },
-    {
       "abr": "cookingtable",
       "category": "Production",
       "defname": "DankPyon_RusticCookingTable",
@@ -4372,12 +4330,6 @@
       "abr": "counter(1x3)",
       "category": "Furniture",
       "defname": "DankPyon_RusticCounter1x3c",
-      "price": -10
-    },
-    {
-      "abr": "craftingskillpotion",
-      "category": "Skill potions",
-      "defname": "SkillPotionCrafting",
       "price": -10
     },
     {
@@ -4414,12 +4366,6 @@
       "abr": "cupboard",
       "category": "Furniture",
       "defname": "DankPyon_RusticCupboardEmpty",
-      "price": -10
-    },
-    {
-      "abr": "cyclonestaff",
-      "category": "Utility",
-      "defname": "CycloneStaff",
       "price": -10
     },
     {
@@ -4486,18 +4432,6 @@
       "abr": "decorativeroofsmallhome",
       "category": "Furniture",
       "defname": "Village_SmallHouse_Masked",
-      "price": -10
-    },
-    {
-      "abr": "destructionstaff",
-      "category": "Utility",
-      "defname": "DestructionStaff",
-      "price": -10
-    },
-    {
-      "abr": "devil'spotion",
-      "category": "Drugs",
-      "defname": "LuciferiumPotion",
       "price": -10
     },
     {
@@ -4745,12 +4679,6 @@
       "category": "Grenades",
       "defname": "DankPyon_Weapon_PotFire",
       "price": 438
-    },
-    {
-      "abr": "firebeamstaff",
-      "category": "Utility",
-      "defname": "FirebeamStaff",
-      "price": -10
     },
     {
       "abr": "firefoamshell",
@@ -5251,12 +5179,6 @@
       "price": -10
     },
     {
-      "abr": "healingpotion",
-      "category": "Items",
-      "defname": "HealingPotion",
-      "price": 2400
-    },
-    {
       "abr": "heartoftheforest",
       "category": "Loot",
       "defname": "DankPyon_SchratHeart",
@@ -5671,18 +5593,6 @@
       "price": -10
     },
     {
-      "abr": "insanitystaff",
-      "category": "Utility",
-      "defname": "InsanityStaff",
-      "price": -10
-    },
-    {
-      "abr": "intellectualskillpotion",
-      "category": "Skill potions",
-      "defname": "SkillPotionIntellectual",
-      "price": -10
-    },
-    {
       "abr": "intermediatecookingschematics",
       "category": "Books",
       "defname": "DankPyon_Book_IntermediateCooking",
@@ -5983,12 +5893,6 @@
       "price": -10
     },
     {
-      "abr": "legendarymedicine",
-      "category": "Medicine",
-      "defname": "LegendaryMedicine",
-      "price": -10
-    },
-    {
       "abr": "lemons",
       "category": "Vegetarian",
       "defname": "DankPyon_RawLemons",
@@ -5998,12 +5902,6 @@
       "abr": "lentils",
       "category": "Vegetarian",
       "defname": "DankPyon_RawLentils",
-      "price": -10
-    },
-    {
-      "abr": "lifepotion",
-      "category": "Items",
-      "defname": "LifePotion",
       "price": -10
     },
     {
@@ -6175,12 +6073,6 @@
       "price": -10
     },
     {
-      "abr": "medicineskillpotion",
-      "category": "Skill potions",
-      "defname": "SkillPotionMedicine",
-      "price": -10
-    },
-    {
       "abr": "mediumbirdskin",
       "category": "Hides",
       "defname": "DankPyon_Hide_BirdMedium",
@@ -6226,12 +6118,6 @@
       "abr": "megascreentelevision",
       "category": "Recreation",
       "defname": "MegascreenTelevision",
-      "price": -10
-    },
-    {
-      "abr": "meleeskillpotion",
-      "category": "Skill potions",
-      "defname": "SkillPotionMelee",
       "price": -10
     },
     {
@@ -6286,12 +6172,6 @@
       "abr": "minigun",
       "category": "Ranged weapons",
       "defname": "Gun_Minigun",
-      "price": -10
-    },
-    {
-      "abr": "miningskillpotion",
-      "category": "Skill potions",
-      "defname": "SkillPotionMining",
       "price": -10
     },
     {
@@ -6706,12 +6586,6 @@
       "abr": "planter",
       "category": "Lime plaster art",
       "defname": "AYPlasterPlanter",
-      "price": -10
-    },
-    {
-      "abr": "plantsskillpotion",
-      "category": "Skill potions",
-      "defname": "SkillPotionPlants",
       "price": -10
     },
     {
@@ -7336,18 +7210,6 @@
       "abr": "shiplandingbeacon",
       "category": "Misc",
       "defname": "ShipLandingBeacon",
-      "price": -10
-    },
-    {
-      "abr": "shockingstaff",
-      "category": "Utility",
-      "defname": "ShockingStaff",
-      "price": -10
-    },
-    {
-      "abr": "shootingskillpotion",
-      "category": "Skill potions",
-      "defname": "SkillPotionShooting",
       "price": -10
     },
     {
@@ -8371,18 +8233,6 @@
       "price": -10
     },
     {
-      "abr": "socialskillpotion",
-      "category": "Skill potions",
-      "defname": "SkillPotionSocial",
-      "price": -10
-    },
-    {
-      "abr": "soothingorb",
-      "category": "Artifacts",
-      "defname": "SootheBlessingGem",
-      "price": -10
-    },
-    {
       "abr": "spearrack",
       "category": "Furniture",
       "defname": "DankPyon_RackSpear",
@@ -9245,7 +9095,271 @@
       "category": "Headgear",
       "defname": "DankPyon_Headgear_ZweihandersHat",
       "price": 396
+    },
+    {
+      "abr": "grease",
+      "category": "Manufactured",
+      "defname": "LTSGrease",
+      "price": -10
+    },
+    {
+      "abr": "repairstoolkit",
+      "category": "Manufactured",
+      "defname": "LTSRepairsToolkit",
+      "price": -10
+    },
+    {
+      "abr": "sewingtoolkit",
+      "category": "Manufactured",
+      "defname": "LTSSewingToolkit",
+      "price": -10
+    },
+    {
+      "abr": "weaponstoolkit",
+      "category": "Manufactured",
+      "defname": "LTSWeaponsToolkit",
+      "price": -10
+    },
+    {
+      "abr": "ambroisenarm",
+      "category": "Simple parts",
+      "defname": "AmbroisenMedArm",
+      "price": -10
+    },
+    {
+      "abr": "ambroisenear",
+      "category": "Simple parts",
+      "defname": "AmbroisenMedEar",
+      "price": -10
+    },
+    {
+      "abr": "ambroiseneye",
+      "category": "Simple parts",
+      "defname": "AmbroisenMedEye",
+      "price": -10
+    },
+    {
+      "abr": "ambroisenfinger",
+      "category": "Simple parts",
+      "defname": "AmbroisenMedFinger",
+      "price": -10
+    },
+    {
+      "abr": "ambroisenfoot",
+      "category": "Simple parts",
+      "defname": "AmbroisenMedFoot",
+      "price": -10
+    },
+    {
+      "abr": "ambroisenhand",
+      "category": "Simple parts",
+      "defname": "AmbroisenMedHand",
+      "price": -10
+    },
+    {
+      "abr": "ambroisenleg",
+      "category": "Simple parts",
+      "defname": "AmbroisenMedLeg",
+      "price": -10
+    },
+    {
+      "abr": "ambroisennose",
+      "category": "Simple parts",
+      "defname": "AmbroisenMedNose",
+      "price": -10
+    },
+    {
+      "abr": "ambroisentoe",
+      "category": "Simple parts",
+      "defname": "AmbroisenMedToe",
+      "price": -10
+    },
+    {
+      "abr": "artificialarm",
+      "category": "Simple parts",
+      "defname": "ArtificialMedArm",
+      "price": 433
+    },
+    {
+      "abr": "artificialear",
+      "category": "Simple parts",
+      "defname": "ArtificialMedEar",
+      "price": 92
+    },
+    {
+      "abr": "artificialeye",
+      "category": "Simple parts",
+      "defname": "ArtificialMedEye",
+      "price": 92
+    },
+    {
+      "abr": "artificialfinger",
+      "category": "Simple parts",
+      "defname": "ArtificialMedFinger",
+      "price": 84
+    },
+    {
+      "abr": "artificialfoot",
+      "category": "Simple parts",
+      "defname": "ArtificialMedFoot",
+      "price": 236
+    },
+    {
+      "abr": "artificialhand",
+      "category": "Simple parts",
+      "defname": "ArtificialMedHand",
+      "price": 245
+    },
+    {
+      "abr": "artificialleg",
+      "category": "Simple parts",
+      "defname": "ArtificialMedLeg",
+      "price": 433
+    },
+    {
+      "abr": "artificialnose",
+      "category": "Simple parts",
+      "defname": "ArtificialMedNose",
+      "price": 92
+    },
+    {
+      "abr": "artificialtoe",
+      "category": "Simple parts",
+      "defname": "ArtificialMedToe",
+      "price": 84
+    },
+    {
+      "abr": "earpatch",
+      "category": "Simple parts",
+      "defname": "EarPatch",
+      "price": 62
+    },
+    {
+      "abr": "earlymedievalmedicine",
+      "category": "Medicine",
+      "defname": "MedicineEarlyMedievalMM",
+      "price": 50
+    },
+    {
+      "abr": "eyepatch",
+      "category": "Simple parts",
+      "defname": "EyePatch",
+      "price": 62
+    },
+    {
+      "abr": "ironarm",
+      "category": "Simple parts",
+      "defname": "IronArm",
+      "price": 191
+    },
+    {
+      "abr": "latemedievalmedicine",
+      "category": "Medicine",
+      "defname": "MedicineLateMedievalMM",
+      "price": -10
+    },
+    {
+      "abr": "mechanicalarm",
+      "category": "Simple parts",
+      "defname": "MechanicalMedArm",
+      "price": -10
+    },
+    {
+      "abr": "mechanicalear",
+      "category": "Simple parts",
+      "defname": "MechanicalMedEar",
+      "price": -10
+    },
+    {
+      "abr": "mechanicaleye",
+      "category": "Simple parts",
+      "defname": "MechanicalMedEye",
+      "price": -10
+    },
+    {
+      "abr": "mechanicalfinger",
+      "category": "Simple parts",
+      "defname": "MechanicalMedFinger",
+      "price": -10
+    },
+    {
+      "abr": "mechanicalfoot",
+      "category": "Simple parts",
+      "defname": "MechanicalMedFoot",
+      "price": -10
+    },
+    {
+      "abr": "mechanicalhand",
+      "category": "Simple parts",
+      "defname": "MechanicalMedHand",
+      "price": -10
+    },
+    {
+      "abr": "mechanicalleg",
+      "category": "Simple parts",
+      "defname": "MechanicalMedLeg",
+      "price": -10
+    },
+    {
+      "abr": "mechanicalnose",
+      "category": "Simple parts",
+      "defname": "MechanicalMedNose",
+      "price": -10
+    },
+    {
+      "abr": "mechanicaltoe",
+      "category": "Simple parts",
+      "defname": "MechanicalMedToe",
+      "price": -10
+    },
+    {
+      "abr": "paresianmedicine",
+      "category": "Medicine",
+      "defname": "MedicineParesianMM",
+      "price": -10
+    },
+    {
+      "abr": "prosthetichook",
+      "category": "Simple parts",
+      "defname": "ProstheticHook",
+      "price": 101
+    },
+    {
+      "abr": "woodenfinger",
+      "category": "Simple parts",
+      "defname": "WoodenFinger",
+      "price": -10
+    },
+    {
+      "abr": "woodenfoot",
+      "category": "Simple parts",
+      "defname": "WoodenFoot",
+      "price": -10
+    },
+    {
+      "abr": "woodennose",
+      "category": "Simple parts",
+      "defname": "WoodenNose",
+      "price": -10
+    },
+    {
+      "abr": "woodentoe",
+      "category": "Simple parts",
+      "defname": "WoodenToe",
+      "price": -10
+    },
+    {
+      "abr": "waterbowl",
+      "category": "Hygiene",
+      "defname": "PetWaterBowl",
+      "price": 51
+    },
+    {
+      "abr": "watertrough",
+      "category": "Hygiene",
+      "defname": "WaterTrough",
+      "price": 239
     }
   ],
-  "total": 1541
+  "total": 1560
 }

@@ -30,28 +30,28 @@
     "version": "10.0.1"
   },
   {
+    "author": "Imranfish",
+    "name": "XML Extensions",
+    "steamId": "2574315206",
+    "version": "1.7.0"
+  },
+  {
+    "author": "LimeTreeSnake",
+    "name": "[LTS]Systems",
+    "steamId": "2812826451",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
     "name": "Vanilla Expanded Framework",
     "steamId": "2023507013",
     "version": "1.0.0.0"
   },
   {
-    "author": "Krypt",
-    "name": "RWLayout",
-    "steamId": "2209393954",
-    "version": "1.0.0"
-  },
-  {
     "author": "Syrchalis",
     "name": "[SYR] Processor Framework",
     "steamId": "2633514537",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Imranfish",
-    "name": "XML Extensions",
-    "steamId": "2574315206",
-    "version": "1.7.0"
   },
   {
     "author": "Owlchemist",
@@ -120,12 +120,6 @@
     "version": "3.2"
   },
   {
-    "author": "Krypt",
-    "name": "Grouped Pawns Lists",
-    "steamId": "2340773428",
-    "version": "1.0.0"
-  },
-  {
     "author": "Oblitus",
     "name": "My Little Planet",
     "steamId": "1117406550",
@@ -180,6 +174,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "LimeTreeSnake",
+    "name": "[LTS]Maintenance",
+    "steamId": "2803673873",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "SirLalaPyon",
     "name": "Medieval Overhaul",
     "steamId": "2553700067",
@@ -228,12 +228,6 @@
     "version": null
   },
   {
-    "author": "Oken",
-    "name": "Medieval Quest Rewards",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "NinjaPirate_",
     "name": "Medieval Tool Cabinet",
     "steamId": null,
@@ -242,6 +236,12 @@
   {
     "author": "死萌",
     "name": "Medieval Repair",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Joe Daly",
+    "name": "Medieval Medicines 1.4 Medieval Overhaul Edition",
     "steamId": null,
     "version": null
   },
@@ -414,6 +414,12 @@
     "version": null
   },
   {
+    "author": "Netrve",
+    "name": "Hunters Use Melee! (Continued)",
+    "steamId": "2900108163",
+    "version": "1.4.2"
+  },
+  {
     "author": "Victor and wilki24",
     "name": "Walls are solid",
     "steamId": null,
@@ -460,12 +466,6 @@
     "name": "Windows",
     "steamId": "2571189146",
     "version": "1.4"
-  },
-  {
-    "author": "AobaKuma",
-    "name": "Fortifications - Neolithic",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Lanilor",

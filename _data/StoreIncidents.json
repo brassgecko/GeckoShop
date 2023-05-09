@@ -81,6 +81,11 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "tradercaravan",
+		"price": 4800,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "meteor",
 		"price": 2400,
 		"karmatype": "Neutral"
@@ -161,11 +166,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "pawn",
-		"price": 1,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "trait",
 		"price": 1,
 		"karmatype": "Good"
@@ -179,6 +179,11 @@
 		"abr": "genderswap",
 		"price": 100,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "randominspire",
+		"price": 1800,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "surgery",
@@ -199,6 +204,11 @@
 		"abr": "passion",
 		"price": 2000,
 		"karmatype": "Good"
+	},
+	{
+		"abr": "backpack",
+		"price": 1,
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "settraits",
@@ -236,5 +246,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 47
+	"total": 49
 }
