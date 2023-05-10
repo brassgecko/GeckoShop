@@ -16,7 +16,7 @@
       "abr": "ambrosia",
       "category": "Drugs",
       "defname": "Ambrosia",
-      "price": 1200
+      "price": 25
     },
     {
       "abr": "penoxycyline",
@@ -3448,7 +3448,7 @@
       "abr": "aloecream",
       "category": "Ointments",
       "defname": "AYAloeCream",
-      "price": 600
+      "price": -10
     },
     {
       "abr": "aloeleaves",
@@ -5860,7 +5860,7 @@
       "abr": "lavenderbalm",
       "category": "Ointments",
       "defname": "AYLavenderBalm",
-      "price": 600
+      "price": -10
     },
     {
       "abr": "lavenderflowers",
@@ -5878,7 +5878,7 @@
       "abr": "lavendersoap",
       "category": "Ointments",
       "defname": "AYLavenderSoap",
-      "price": 600
+      "price": -10
     },
     {
       "abr": "leather",
@@ -7162,7 +7162,7 @@
       "abr": "scarcream",
       "category": "Ointments",
       "defname": "AYScarCream",
-      "price": 600
+      "price": -10
     },
     {
       "abr": "schratmeat",
@@ -9046,7 +9046,7 @@
       "abr": "yarrowcream",
       "category": "Ointments",
       "defname": "AYYarrowCream",
-      "price": 600
+      "price": -10
     },
     {
       "abr": "yarrowmaterial",
@@ -9238,7 +9238,7 @@
       "abr": "earlymedievalmedicine",
       "category": "Medicine",
       "defname": "MedicineEarlyMedievalMM",
-      "price": 50
+      "price": 27
     },
     {
       "abr": "eyepatch",
