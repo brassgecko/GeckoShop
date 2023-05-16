@@ -165,7 +165,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.3.0.0.biotech.b6"
+    "version": "6.3.0.0.biotech.b12"
   },
   {
     "author": "hodlhodl",
@@ -360,12 +360,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Sozzky",
-    "name": "Projectile Speed Booster",
-    "steamId": "2552851555",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Fuu Chan",
     "name": "[Fuu] Punch Button",
     "steamId": "2651392585",
@@ -498,6 +492,12 @@
     "version": "3.5.2.0"
   },
   {
+    "author": "gguake",
+    "name": "Free Draftee Direction",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Kopp",
     "name": "Caravan Formation Improvements",
     "steamId": "2927335733",
@@ -592,6 +592,18 @@
     "name": "Numbers",
     "steamId": "1414302321",
     "version": "1.0.0"
+  },
+  {
+    "author": "bodlosh",
+    "name": "WeaponStats",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Antaios",
+    "name": "Mod Medicine Patch",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "iforgotmysocks",
@@ -716,12 +728,6 @@
   {
     "author": "Odz",
     "name": "[1.4] Odz Hairs",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Odz",
-    "name": "Odz Face Replacer",
     "steamId": null,
     "version": null
   },

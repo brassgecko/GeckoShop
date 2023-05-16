@@ -10739,26 +10739,6 @@
     "Mod": "Biotech",
     "KarmaType": null
   },
-  "Apparel_ClothMask": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Biotech",
-    "KarmaType": null
-  },
   "Apparel_PackControl": {
     "CustomName": null,
     "HasQuantityLimit": false,

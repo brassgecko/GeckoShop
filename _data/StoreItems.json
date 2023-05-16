@@ -16,7 +16,7 @@
       "abr": "ambrosia",
       "category": "Drugs",
       "defname": "Ambrosia",
-      "price": 25
+      "price": 1200
     },
     {
       "abr": "penoxycyline",
@@ -3448,7 +3448,7 @@
       "abr": "aloecream",
       "category": "Ointments",
       "defname": "AYAloeCream",
-      "price": -10
+      "price": 600
     },
     {
       "abr": "aloeleaves",
@@ -5878,7 +5878,7 @@
       "abr": "lavendersoap",
       "category": "Ointments",
       "defname": "AYLavenderSoap",
-      "price": -10
+      "price": 100
     },
     {
       "abr": "leather",
@@ -7162,7 +7162,7 @@
       "abr": "scarcream",
       "category": "Ointments",
       "defname": "AYScarCream",
-      "price": -10
+      "price": 600
     },
     {
       "abr": "schratmeat",
@@ -7408,12 +7408,6 @@
       "abr": "eltexhelmet",
       "category": "Headgear",
       "defname": "Apparel_PsyfocusHelmet",
-      "price": -10
-    },
-    {
-      "abr": "facemask",
-      "category": "Headgear",
-      "defname": "Apparel_ClothMask",
       "price": -10
     },
     {
@@ -9046,7 +9040,7 @@
       "abr": "yarrowcream",
       "category": "Ointments",
       "defname": "AYYarrowCream",
-      "price": -10
+      "price": 600
     },
     {
       "abr": "yarrowmaterial",
@@ -9238,7 +9232,7 @@
       "abr": "earlymedievalmedicine",
       "category": "Medicine",
       "defname": "MedicineEarlyMedievalMM",
-      "price": 27
+      "price": 50
     },
     {
       "abr": "eyepatch",
@@ -9352,14 +9346,14 @@
       "abr": "waterbowl",
       "category": "Hygiene",
       "defname": "PetWaterBowl",
-      "price": 51
+      "price": -10
     },
     {
       "abr": "watertrough",
       "category": "Hygiene",
       "defname": "WaterTrough",
-      "price": 239
+      "price": -10
     }
   ],
-  "total": 1560
+  "total": 1559
 }
