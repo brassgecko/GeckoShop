@@ -30,7 +30,7 @@
     },
     "description": "Awards all active viewers coins.",
     "name": "Karma round",
-    "usage": "!payday",
+    "usage": "!karmaround",
     "userLevel": "Moderator",
     "shortcut": false,
     "defName": "KarmaRound"
@@ -48,7 +48,7 @@
     },
     "description": "Gives eveyrone coins.",
     "name": "Give all coins",
-    "usage": "!payday <coins>",
+    "usage": "!giveallcoins <coins>",
     "userLevel": "Moderator",
     "shortcut": false,
     "defName": "GiveAllCoins"
@@ -570,7 +570,7 @@
     },
     "description": null,
     "name": "Heal any pawn",
-    "usage": "!heal",
+    "usage": "!healanypawn",
     "userLevel": "Anyone",
     "shortcut": true,
     "defName": "HealAnyPawnShortcut"
@@ -1032,8 +1032,8 @@
       "isBalance": false,
       "hasGlobalCooldown": false,
       "globalCooldown": 0,
-      "hasLocalCooldown": true,
-      "localCooldown": 300,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
     "description": "Makes your pawn insult a random pawn. If a viewer is specified, you'll insult them instead.",
@@ -1050,8 +1050,8 @@
       "isBalance": false,
       "hasGlobalCooldown": false,
       "globalCooldown": 0,
-      "hasLocalCooldown": true,
-      "localCooldown": 300,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
     "description": "Makes your pawn chat with a random pawn. If a viewer is specified, you'll chat with their pawn instead.",
@@ -1068,8 +1068,8 @@
       "isBalance": false,
       "hasGlobalCooldown": false,
       "globalCooldown": 0,
-      "hasLocalCooldown": true,
-      "localCooldown": 300,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
     "description": "Makes your pawn flirt with a random pawn. If a viewer is specified, you'll flirt with their pawn instead.",
@@ -1086,8 +1086,8 @@
       "isBalance": false,
       "hasGlobalCooldown": false,
       "globalCooldown": 0,
-      "hasLocalCooldown": true,
-      "localCooldown": 300,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
     "description": "Makes your pawn have a deep chat a random pawn. If a viewer is specified, you'll have a deep chat with their pawn instead.",

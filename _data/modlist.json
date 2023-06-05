@@ -42,18 +42,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Syrchalis",
-    "name": "[SYR] Processor Framework",
-    "steamId": "2633514537",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Owlchemist",
     "name": "Owl's Colonist Bar (dev)",
     "steamId": "2623453038",
@@ -129,7 +117,7 @@
     "author": "m00nl1ght",
     "name": "Geological Landforms",
     "steamId": "2773943594",
-    "version": "1.6.4.0"
+    "version": "1.6.5.0"
   },
   {
     "author": "Owlchemist",
@@ -142,12 +130,6 @@
     "name": "Letter stack cleaner",
     "steamId": "2669779266",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "m00nl1ght",
-    "name": "Map Preview",
-    "steamId": "2800857642",
-    "version": "1.12.6.0"
   },
   {
     "author": "hodlhodl",
@@ -168,9 +150,21 @@
     "version": "6.3.0.0.biotech.b12"
   },
   {
-    "author": "hodlhodl",
-    "name": "TwitchToolkit - Lootboxes (Unofficial)",
-    "steamId": "1720021578",
+    "author": "SirRandoo",
+    "name": "ToolkitPolls",
+    "steamId": "2435838514",
+    "version": "1.1.1.7"
+  },
+  {
+    "author": "newcolonist",
+    "name": "Adaptive Threats",
+    "steamId": "2050547028",
+    "version": "1.4.1.0"
+  },
+  {
+    "author": "NilchEi",
+    "name": "Powerful Faction Bases",
+    "steamId": "1570960972",
     "version": "1.0.0.0"
   },
   {
@@ -180,82 +174,10 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "SirLalaPyon",
-    "name": "Medieval Overhaul",
-    "steamId": "2553700067",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Sierra",
-    "name": "RimFantasy - Medieval Overhaul Edition",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Sierra",
-    "name": "RimFantasy - House Doyle",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Adamas",
-    "name": "Perfect Medieval Playthrough",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Ogam;Taranchuk;ILuvSilicon",
-    "name": "Rimedieval",
-    "steamId": "2516523040",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Vanilla Expanded team",
-    "name": "Vanilla Factions Expanded - Vikings",
-    "steamId": "2231295285",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "pelador",
-    "name": "Apothecary (Continued)",
-    "steamId": "2195469123",
-    "version": "1.4.2"
-  },
-  {
-    "author": "Evil Eye Guy",
-    "name": "Medieval Overhaul: Royalty",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "NinjaPirate_",
-    "name": "Medieval Tool Cabinet",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "死萌",
-    "name": "Medieval Repair",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Joe Daly",
-    "name": "Medieval Medicines 1.4 Medieval Overhaul Edition",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "AobaKuma OttersHoldHands iforgotmysocks",
     "name": "Camping Tent",
     "steamId": "2407128339",
     "version": "2.1.3.0"
-  },
-  {
-    "author": "Pizzacat OttersHoldHands iforgotmysocks AobaKuma",
-    "name": "Villages:Homes",
-    "steamId": "2941977041",
-    "version": "1.0.0.0"
   },
   {
     "author": "Catachat",
@@ -264,22 +186,16 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Orpheusly",
-    "name": "Rimsential - Homebound",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Roolo and Owlchemist",
-    "name": "Giddy-Up 2",
-    "steamId": "2934245647",
-    "version": "1.4"
-  },
-  {
     "author": "miyamiya and twsta",
     "name": "Compressed Raid",
     "steamId": "2927368319",
     "version": "1.4"
+  },
+  {
+    "author": "llunak",
+    "name": "More Precepts",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Albion",
@@ -306,12 +222,6 @@
     "version": "2.7.7366"
   },
   {
-    "author": "ElderSign",
-    "name": "DBH for Medieval",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Citrus",
     "name": "Expectations Modifier",
     "steamId": "1904336011",
@@ -330,6 +240,18 @@
     "version": null
   },
   {
+    "author": "Machine",
+    "name": "Better Infestations 1.4",
+    "steamId": "1319614331",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "The Village Guy",
+    "name": "Less Mechanoids",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Rainbeau Flambe (original), Kiame Vivacity and Taranchuk",
     "name": "[KV] More Trait Slots [1.4]",
     "steamId": "",
@@ -339,12 +261,6 @@
     "author": "Syrchalis",
     "name": "[SYR] Set Up Camp",
     "steamId": "1470065926",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Donald",
-    "name": "Vanilla Combat Reloaded",
-    "steamId": "2860414285",
     "version": "1.0.0.0"
   },
   {
@@ -420,12 +336,6 @@
     "version": "1.4.2"
   },
   {
-    "author": "Victor and wilki24",
-    "name": "Walls are solid",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "UnlimitedHugs",
     "name": "Defensive Positions",
     "steamId": null,
@@ -452,12 +362,6 @@
   {
     "author": "miyamiya",
     "name": "Functional Room",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "dninemfive",
-    "name": "Ambrosial Longevity",
     "steamId": null,
     "version": null
   },
@@ -501,7 +405,7 @@
     "author": "Kopp",
     "name": "Caravan Formation Improvements",
     "steamId": "2927335733",
-    "version": "1.0.1.0"
+    "version": "1.0.2.0"
   },
   {
     "author": "Owlchemist",
@@ -600,12 +504,6 @@
     "version": null
   },
   {
-    "author": "Antaios",
-    "name": "Mod Medicine Patch",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "iforgotmysocks",
     "name": "Just Copy",
     "steamId": "2836605140",
@@ -666,16 +564,40 @@
     "version": null
   },
   {
+    "author": "Kayesh",
+    "name": "Scenario Pawns and Corpses",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "FLASHPOINT55",
+    "name": "RPG Style Level Up Mod",
+    "steamId": "1995668415",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Kayesh",
+    "name": "Corpse Children",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kayesh",
+    "name": "Corpse Children: Ghoulish Body Enhancement",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "GrillMaster",
+    "name": "More xenotypes and multicultural factions",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Dubwise",
     "name": "Dubs Apparel Tweaks",
     "steamId": "2296697286",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Oracle and Erin",
-    "name": "Oracle + Erin's HD Tattoos",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Holgast",
