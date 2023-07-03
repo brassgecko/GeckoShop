@@ -91,51 +91,9 @@
       "price": -10
     },
     {
-      "abr": "bioniceye",
-      "category": "Bionic",
-      "defname": "BionicEye",
-      "price": -10
-    },
-    {
-      "abr": "bionicarm",
-      "category": "Bionic",
-      "defname": "BionicArm",
-      "price": -10
-    },
-    {
-      "abr": "bionicleg",
-      "category": "Bionic",
-      "defname": "BionicLeg",
-      "price": -10
-    },
-    {
-      "abr": "bionicspine",
-      "category": "Bionic",
-      "defname": "BionicSpine",
-      "price": -10
-    },
-    {
-      "abr": "bionicheart",
-      "category": "Bionic",
-      "defname": "BionicHeart",
-      "price": -10
-    },
-    {
-      "abr": "bionicstomach",
-      "category": "Bionic",
-      "defname": "BionicStomach",
-      "price": -10
-    },
-    {
       "abr": "deathacidifier",
       "category": "Bionic",
       "defname": "DeathAcidifier",
-      "price": -10
-    },
-    {
-      "abr": "bionicear",
-      "category": "Bionic",
-      "defname": "BionicEar",
       "price": -10
     },
     {
@@ -166,30 +124,6 @@
       "abr": "liver",
       "category": "Natural",
       "defname": "Liver",
-      "price": -10
-    },
-    {
-      "abr": "prostheticleg",
-      "category": "Prosthetic",
-      "defname": "SimpleProstheticLeg",
-      "price": -10
-    },
-    {
-      "abr": "prostheticarm",
-      "category": "Prosthetic",
-      "defname": "SimpleProstheticArm",
-      "price": -10
-    },
-    {
-      "abr": "prostheticheart",
-      "category": "Prosthetic",
-      "defname": "SimpleProstheticHeart",
-      "price": -10
-    },
-    {
-      "abr": "cochlearimplant",
-      "category": "Prosthetic",
-      "defname": "CochlearImplant",
       "price": -10
     },
     {
@@ -764,7 +698,7 @@
     },
     {
       "abr": "kibble",
-      "category": "Foods",
+      "category": "Animal Feed",
       "defname": "Kibble",
       "price": -10
     },
@@ -776,13 +710,13 @@
     },
     {
       "abr": "chocolate",
-      "category": "Foods",
+      "category": "Sweets",
       "defname": "Chocolate",
       "price": -10
     },
     {
       "abr": "milk",
-      "category": "Animal products",
+      "category": "Ingredients",
       "defname": "Milk",
       "price": -10
     },
@@ -938,7 +872,7 @@
     },
     {
       "abr": "agavefruit",
-      "category": "Vegetarian",
+      "category": "Fruits",
       "defname": "RawAgave",
       "price": -10
     },
@@ -950,13 +884,13 @@
     },
     {
       "abr": "berries",
-      "category": "Vegetarian",
+      "category": "Fruits",
       "defname": "RawBerries",
       "price": -10
     },
     {
       "abr": "hay",
-      "category": "Foods",
+      "category": "Animal Feed",
       "defname": "Hay",
       "price": -10
     },
@@ -3259,6 +3193,546 @@
       "price": -10
     },
     {
+      "abr": "simplefieldresearchkit",
+      "category": "Utility",
+      "defname": "RR_FieldResearchKitSimple",
+      "price": -10
+    },
+    {
+      "abr": "fieldresearchkit",
+      "category": "Utility",
+      "defname": "RR_FieldResearchKitHiTech",
+      "price": -10
+    },
+    {
+      "abr": "fieldresearchanalyzer-kit",
+      "category": "Utility",
+      "defname": "RR_FieldResearchKitMultiAnalyzer",
+      "price": -10
+    },
+    {
+      "abr": "remotefieldresearchkit",
+      "category": "Utility",
+      "defname": "RR_FieldResearchKitRemote",
+      "price": -10
+    },
+    {
+      "abr": "archotechear",
+      "category": "Archotech",
+      "defname": "SoSArchotechEar",
+      "price": -10
+    },
+    {
+      "abr": "archotechnose",
+      "category": "Archotech",
+      "defname": "SoSArchotechNose",
+      "price": -10
+    },
+    {
+      "abr": "archotechjaw",
+      "category": "Archotech",
+      "defname": "SoSArchotechJaw",
+      "price": -10
+    },
+    {
+      "abr": "archotechheart",
+      "category": "Archotech",
+      "defname": "SoSArchotechHeart",
+      "price": -10
+    },
+    {
+      "abr": "archotechlung",
+      "category": "Archotech",
+      "defname": "SoSArchotechLung",
+      "price": -10
+    },
+    {
+      "abr": "archotechstomach",
+      "category": "Archotech",
+      "defname": "SoSArchotechStomach",
+      "price": -10
+    },
+    {
+      "abr": "archotechkidney",
+      "category": "Archotech",
+      "defname": "SoSArchotechKidney",
+      "price": -10
+    },
+    {
+      "abr": "archotechliver",
+      "category": "Archotech",
+      "defname": "SoSArchotechLiver",
+      "price": -10
+    },
+    {
+      "abr": "archotechspine",
+      "category": "Archotech",
+      "defname": "SoSArchotechSpine",
+      "price": -10
+    },
+    {
+      "abr": "archotechskin",
+      "category": "Archotech",
+      "defname": "SoSArchotechSkin",
+      "price": -10
+    },
+    {
+      "abr": "psychicpredictor",
+      "category": "Archotech",
+      "defname": "SoSPsychicPredictor",
+      "price": -10
+    },
+    {
+      "abr": "psychicmanipulator",
+      "category": "Archotech",
+      "defname": "SoSPsychicManipulator",
+      "price": -10
+    },
+    {
+      "abr": "archocat",
+      "category": "Animals",
+      "defname": "Archocat",
+      "price": -10
+    },
+    {
+      "abr": "archomutt",
+      "category": "Animals",
+      "defname": "Archomutt",
+      "price": -10
+    },
+    {
+      "abr": "archostrich",
+      "category": "Animals",
+      "defname": "Archostrich",
+      "price": -10
+    },
+    {
+      "abr": "archostrichegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "EggArchostrichFertilized",
+      "price": -10
+    },
+    {
+      "abr": "archostrichegg(unfert.)",
+      "category": "Eggs (unfert.)",
+      "defname": "EggArchostrichUnfertilized",
+      "price": -10
+    },
+    {
+      "abr": "archoffalo",
+      "category": "Animals",
+      "defname": "Archoffalo",
+      "price": -10
+    },
+    {
+      "abr": "archospider",
+      "category": "Animals",
+      "defname": "Archospider",
+      "price": -10
+    },
+    {
+      "abr": "archolope",
+      "category": "Animals",
+      "defname": "Archolope",
+      "price": -10
+    },
+    {
+      "abr": "archotortoise",
+      "category": "Animals",
+      "defname": "Archotortoise",
+      "price": -10
+    },
+    {
+      "abr": "archotortoiseegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "EggArchotortoiseFertilized",
+      "price": -10
+    },
+    {
+      "abr": "archopanda",
+      "category": "Animals",
+      "defname": "Archopanda",
+      "price": -10
+    },
+    {
+      "abr": "archojerboa",
+      "category": "Animals",
+      "defname": "Archojerboa",
+      "price": -10
+    },
+    {
+      "abr": "archothrumbo",
+      "category": "Animals",
+      "defname": "Archothrumbo",
+      "price": -10
+    },
+    {
+      "abr": "personalshuttle(hovermode)",
+      "category": "Animal",
+      "defname": "ShuttlePersonalRace",
+      "price": -10
+    },
+    {
+      "abr": "cargoshuttle(hovermode)",
+      "category": "Animal",
+      "defname": "ShuttleCargoRace",
+      "price": -10
+    },
+    {
+      "abr": "heavycargoshuttle(hovermode)",
+      "category": "Animal",
+      "defname": "ShuttleHeavyRace",
+      "price": -10
+    },
+    {
+      "abr": "superheavydropship(hovermode)",
+      "category": "Animal",
+      "defname": "ShuttleDropshipRace",
+      "price": -10
+    },
+    {
+      "abr": "astromite",
+      "category": "Animals",
+      "defname": "Astromite",
+      "price": -10
+    },
+    {
+      "abr": "stellapede",
+      "category": "Animals",
+      "defname": "Stellapede",
+      "price": -10
+    },
+    {
+      "abr": "cosmopillar",
+      "category": "Animals",
+      "defname": "Cosmopillar",
+      "price": -10
+    },
+    {
+      "abr": "basicholodeck",
+      "category": "Recreation",
+      "defname": "Holodeck_Basic",
+      "price": -10
+    },
+    {
+      "abr": "advancedholodeck",
+      "category": "Recreation",
+      "defname": "Holodeck_Standard",
+      "price": -10
+    },
+    {
+      "abr": "sapientholodeck",
+      "category": "Recreation",
+      "defname": "Holodeck_AI",
+      "price": -10
+    },
+    {
+      "abr": "spacetelescope",
+      "category": "Recreation",
+      "defname": "TelescopeSpace",
+      "price": -10
+    },
+    {
+      "abr": "shipsalvage",
+      "category": "Special",
+      "defname": "ShipChunkSalvage",
+      "price": -10
+    },
+    {
+      "abr": "shipcapacitor",
+      "category": "Furniture",
+      "defname": "ShipCapacitorSmall",
+      "price": -10
+    },
+    {
+      "abr": "spacercrib",
+      "category": "Furniture",
+      "defname": "SpaceCrib",
+      "price": -10
+    },
+    {
+      "abr": "afterlifecasket",
+      "category": "Buildings",
+      "defname": "Ship_AvatarCasket",
+      "price": -10
+    },
+    {
+      "abr": "shipblueprint(heavybomber)",
+      "category": "Ship blueprints",
+      "defname": "ShipBPBomberHeavy",
+      "price": -10
+    },
+    {
+      "abr": "shipblueprint(fireflytransport)",
+      "category": "Ship blueprints",
+      "defname": "ShipBPCargoFirefly",
+      "price": -10
+    },
+    {
+      "abr": "shipblueprint(corvette)",
+      "category": "Ship blueprints",
+      "defname": "ShipBPCorvette",
+      "price": -10
+    },
+    {
+      "abr": "shipblueprint(corvettegunship)",
+      "category": "Ship blueprints",
+      "defname": "ShipBPCorvetteGunship",
+      "price": -10
+    },
+    {
+      "abr": "shipblueprint(torpedocorvette)",
+      "category": "Ship blueprints",
+      "defname": "ShipBPCorvetteTorp",
+      "price": -10
+    },
+    {
+      "abr": "shipblueprint(corvette)",
+      "category": "Ship blueprints",
+      "defname": "ShipBPCorvetteWinged",
+      "price": -10
+    },
+    {
+      "abr": "shipblueprint(archerfrigate)",
+      "category": "Ship blueprints",
+      "defname": "ShipBPFrigateArcher",
+      "price": -10
+    },
+    {
+      "abr": "shipblueprint(frigate)",
+      "category": "Ship blueprints",
+      "defname": "ShipBPFrigateWinged",
+      "price": -10
+    },
+    {
+      "abr": "shipblueprint(ancientmartiancorvette)",
+      "category": "Ship blueprints",
+      "defname": "ShipBPTachinante",
+      "price": -10
+    },
+    {
+      "abr": "shipblueprint(smalltransport)",
+      "category": "Ship blueprints",
+      "defname": "ShipBPTransportSmall",
+      "price": -10
+    },
+    {
+      "abr": "archotechuplink",
+      "category": "Misc",
+      "defname": "ArchotechUplink",
+      "price": -10
+    },
+    {
+      "abr": "archotechpillaralpha",
+      "category": "Misc",
+      "defname": "ShipArchotechPillarA",
+      "price": -10
+    },
+    {
+      "abr": "archotechpillarbeta",
+      "category": "Misc",
+      "defname": "ShipArchotechPillarB",
+      "price": -10
+    },
+    {
+      "abr": "archotechpillargamma",
+      "category": "Misc",
+      "defname": "ShipArchotechPillarC",
+      "price": -10
+    },
+    {
+      "abr": "archotechpillardelta",
+      "category": "Misc",
+      "defname": "ShipArchotechPillarD",
+      "price": -10
+    },
+    {
+      "abr": "mechanitecocktails",
+      "category": "Grenades",
+      "defname": "Weapon_GrenadeMechanite",
+      "price": -10
+    },
+    {
+      "abr": "recyclotron",
+      "category": "Production",
+      "defname": "ArchoRecycler",
+      "price": -10
+    },
+    {
+      "abr": "personalshuttle",
+      "category": "Furniture",
+      "defname": "PersonalShuttle",
+      "price": -10
+    },
+    {
+      "abr": "cargoshuttle",
+      "category": "Furniture",
+      "defname": "CargoShuttle",
+      "price": -10
+    },
+    {
+      "abr": "heavycargoshuttle",
+      "category": "Furniture",
+      "defname": "HeavyShuttle",
+      "price": -10
+    },
+    {
+      "abr": "superheavydropship",
+      "category": "Furniture",
+      "defname": "DropshipShuttle",
+      "price": -10
+    },
+    {
+      "abr": "archolifepod",
+      "category": "Items",
+      "defname": "ArcholifePod",
+      "price": -10
+    },
+    {
+      "abr": "mechaniterepairgel",
+      "category": "Items",
+      "defname": "ArchotechRepairGel",
+      "price": -10
+    },
+    {
+      "abr": "mechanitedisassemblercore",
+      "category": "Items",
+      "defname": "ArchotechMechaniteCore",
+      "price": -10
+    },
+    {
+      "abr": "psychicflayercore",
+      "category": "Items",
+      "defname": "ArchotechPsychicCore",
+      "price": -10
+    },
+    {
+      "abr": "exoticparticles",
+      "category": "Manufactured",
+      "defname": "ArchotechExoticParticles",
+      "price": -10
+    },
+    {
+      "abr": "high-explosivetorpedo",
+      "category": "Torpedoes",
+      "defname": "ShipTorpedo_HighExplosive",
+      "price": -10
+    },
+    {
+      "abr": "emptorpedo",
+      "category": "Torpedoes",
+      "defname": "ShipTorpedo_EMP",
+      "price": -10
+    },
+    {
+      "abr": "antigraintorpedo",
+      "category": "Torpedoes",
+      "defname": "ShipTorpedo_Antimatter",
+      "price": -10
+    },
+    {
+      "abr": "uraniumfuelpod",
+      "category": "Manufactured",
+      "defname": "ShuttleFuelPods",
+      "price": -10
+    },
+    {
+      "abr": "weathernormalizationdevice",
+      "category": "Artifacts",
+      "defname": "WeatherCancelDevice",
+      "price": -10
+    },
+    {
+      "abr": "entanglementmanifold",
+      "category": "Items",
+      "defname": "SoSEntanglementManifold",
+      "price": -10
+    },
+    {
+      "abr": "hullfoamcanister",
+      "category": "Items",
+      "defname": "HullFoam",
+      "price": -10
+    },
+    {
+      "abr": "evasuit",
+      "category": "Armor",
+      "defname": "Apparel_SpaceSuitBody",
+      "price": -10
+    },
+    {
+      "abr": "kidevasuit",
+      "category": "Armor",
+      "defname": "Apparel_SpaceSuitBodyChild",
+      "price": -10
+    },
+    {
+      "abr": "evahelmet",
+      "category": "Headgear",
+      "defname": "Apparel_SpaceSuitHelmet",
+      "price": -10
+    },
+    {
+      "abr": "kidevahelmet",
+      "category": "Headgear",
+      "defname": "Apparel_SpaceSuitHelmetChild",
+      "price": -10
+    },
+    {
+      "abr": "heavyevasuit",
+      "category": "Armor",
+      "defname": "Apparel_SpaceSuitBodyHeavy",
+      "price": -10
+    },
+    {
+      "abr": "heavyevahelmet",
+      "category": "Headgear",
+      "defname": "Apparel_SpaceSuitHelmetHeavy",
+      "price": -10
+    },
+    {
+      "abr": "survivalbelt",
+      "category": "Armor",
+      "defname": "Apparel_SpaceSurvivalBelt",
+      "price": -10
+    },
+    {
+      "abr": "vanoroot",
+      "category": "Vegetarian",
+      "defname": "RawVanoroot",
+      "price": -10
+    },
+    {
+      "abr": "satellitemodule",
+      "category": "Manufactured",
+      "defname": "RimNauts2_Module_Satellite",
+      "price": -10
+    },
+    {
+      "abr": "stationmodule",
+      "category": "Manufactured",
+      "defname": "RimNauts2_Module_Station",
+      "price": -10
+    },
+    {
+      "abr": "spacesuithelmet",
+      "category": "Headgear",
+      "defname": "RimNauts2_Apparel_SpaceSuit_Head",
+      "price": -10
+    },
+    {
+      "abr": "spacesuitearmor",
+      "category": "Armor",
+      "defname": "RimNauts2_Apparel_SpaceSuit_Body",
+      "price": -10
+    },
+    {
+      "abr": "satellitecontroller",
+      "category": "Utility",
+      "defname": "SatelliteController",
+      "price": -10
+    },
+    {
       "abr": "weaponstoolkit",
       "category": "Manufactured",
       "defname": "LTSWeaponsToolkit",
@@ -3283,309 +3757,567 @@
       "price": -10
     },
     {
-      "abr": "canopy",
+      "abr": "queen",
+      "category": "Animals",
+      "defname": "BI_Queen",
+      "price": -10
+    },
+    {
+      "abr": "refrigerator",
       "category": "Furniture",
-      "defname": "Canopy",
+      "defname": "owl_refrigerator",
       "price": -10
     },
     {
-      "abr": "woodencanopy",
+      "abr": "doublewiderefrigerator",
       "category": "Furniture",
-      "defname": "WoodenCanopy",
+      "defname": "owl_doublerefrigerator",
       "price": -10
     },
     {
-      "abr": "teepee",
+      "abr": "modulartable",
       "category": "Furniture",
-      "defname": "Teepee",
+      "defname": "TableShortModular",
       "price": -10
     },
     {
-      "abr": "tent",
+      "abr": "modularstool",
       "category": "Furniture",
-      "defname": "Tent",
+      "defname": "StoolLinkable",
       "price": -10
     },
     {
-      "abr": "vikingtent",
-      "category": "Furniture",
-      "defname": "VikingTent",
+      "abr": "circuitbreaker",
+      "category": "Power",
+      "defname": "Building_RTCircuitBreaker",
       "price": -10
     },
     {
-      "abr": "industrialtent",
-      "category": "Furniture",
-      "defname": "ModernTent",
+      "abr": "makeshiftfuse",
+      "category": "Power",
+      "defname": "Building_RTMakeshiftFuse",
       "price": -10
     },
     {
-      "abr": "foldingtent",
-      "category": "Furniture",
-      "defname": "FoldingTent",
-      "price": -10
-    },
-    {
-      "abr": "campingluggages",
-      "category": "Furniture",
-      "defname": "CampingLuggages",
-      "price": -10
-    },
-    {
-      "abr": "woodpile",
-      "category": "Furniture",
-      "defname": "WoodPile",
-      "price": -10
-    },
-    {
-      "abr": "funeralpyre",
-      "category": "Misc",
-      "defname": "FuneralPyre",
-      "price": -10
-    },
-    {
-      "abr": "bionicbladder",
+      "abr": "powerarm",
       "category": "Bionic",
-      "defname": "BionicBladder",
+      "defname": "PowerArm",
       "price": -10
     },
     {
-      "abr": "hygieneenhancer",
+      "abr": "advancedpowerarm",
+      "category": "Ultratech",
+      "defname": "AdvancedPowerArm",
+      "price": -10
+    },
+    {
+      "abr": "advancedbioniceye",
+      "category": "Ultratech",
+      "defname": "AdvancedBionicEye",
+      "price": -10
+    },
+    {
+      "abr": "advancedbionicarm",
+      "category": "Ultratech",
+      "defname": "AdvancedBionicArm",
+      "price": -10
+    },
+    {
+      "abr": "advancedbionicleg",
+      "category": "Ultratech",
+      "defname": "AdvancedBionicLeg",
+      "price": -10
+    },
+    {
+      "abr": "advancedbionicspine",
+      "category": "Ultratech",
+      "defname": "AdvancedBionicSpine",
+      "price": -10
+    },
+    {
+      "abr": "advancedbionicear",
+      "category": "Ultratech",
+      "defname": "AdvancedBionicEar",
+      "price": -10
+    },
+    {
+      "abr": "advancedbionichand",
+      "category": "Ultratech",
+      "defname": "AdvancedBionicHand",
+      "price": -10
+    },
+    {
+      "abr": "advancedbionicfoot",
+      "category": "Ultratech",
+      "defname": "AdvancedBionicFoot",
+      "price": -10
+    },
+    {
+      "abr": "advancedbionicfinger",
+      "category": "Ultratech",
+      "defname": "AdvancedBionicFinger",
+      "price": -10
+    },
+    {
+      "abr": "advancedbionictoe",
+      "category": "Ultratech",
+      "defname": "AdvancedBionicToe",
+      "price": -10
+    },
+    {
+      "abr": "advancedbionicjaw",
+      "category": "Ultratech",
+      "defname": "AdvancedBionicJaw",
+      "price": -10
+    },
+    {
+      "abr": "exoskeletonsuit",
+      "category": "Ultratech",
+      "defname": "ExoskeletonSuit",
+      "price": -10
+    },
+    {
+      "abr": "protectiveexoskeleton",
+      "category": "Ultratech",
+      "defname": "EPIA_ProtectiveExoskeleton",
+      "price": -10
+    },
+    {
+      "abr": "hookhand",
+      "category": "Prosthetic",
+      "defname": "HookHand",
+      "price": -10
+    },
+    {
+      "abr": "steelarm",
+      "category": "Prosthetic",
+      "defname": "SteelArm",
+      "price": -10
+    },
+    {
+      "abr": "bioniceye",
       "category": "Bionic",
-      "defname": "HygieneEnhancer",
+      "defname": "BionicEye",
       "price": -10
     },
     {
-      "abr": "plumbingvalve",
-      "category": "Hygiene",
-      "defname": "plumbingValve",
+      "abr": "bionicleg",
+      "category": "Bionic",
+      "defname": "BionicLeg",
       "price": -10
     },
     {
-      "abr": "latrine",
-      "category": "Hygiene",
-      "defname": "PitLatrine",
+      "abr": "bionicarm",
+      "category": "Bionic",
+      "defname": "BionicArm",
       "price": -10
     },
     {
-      "abr": "watertub",
-      "category": "Hygiene",
-      "defname": "WashBucket",
+      "abr": "bionicspine",
+      "category": "Bionic",
+      "defname": "BionicSpine",
       "price": -10
     },
     {
-      "abr": "watertrough",
-      "category": "Hygiene",
-      "defname": "WaterTrough",
+      "abr": "bionicear",
+      "category": "Bionic",
+      "defname": "BionicEar",
       "price": -10
     },
     {
-      "abr": "waterbowl",
-      "category": "Hygiene",
-      "defname": "PetWaterBowl",
+      "abr": "bionichand",
+      "category": "Bionic",
+      "defname": "BionicHand",
       "price": -10
     },
     {
-      "abr": "litterbox",
-      "category": "Hygiene",
-      "defname": "LitterBox",
+      "abr": "bionicfoot",
+      "category": "Bionic",
+      "defname": "BionicFoot",
       "price": -10
     },
     {
-      "abr": "basin",
-      "category": "Hygiene",
-      "defname": "BasinStuff",
+      "abr": "bionicfinger",
+      "category": "Bionic",
+      "defname": "BionicFinger",
       "price": -10
     },
     {
-      "abr": "fountain",
-      "category": "Hygiene",
-      "defname": "Fountain",
+      "abr": "bionictoe",
+      "category": "Bionic",
+      "defname": "BionicToe",
       "price": -10
     },
     {
-      "abr": "kitchensink",
-      "category": "Hygiene",
-      "defname": "KitchenSink",
+      "abr": "bionicjaw",
+      "category": "Bionic",
+      "defname": "BionicJaw",
       "price": -10
     },
     {
-      "abr": "toilet",
-      "category": "Hygiene",
-      "defname": "ToiletStuff",
+      "abr": "silentjaw",
+      "category": "Bionic",
+      "defname": "SilentJaw",
       "price": -10
     },
     {
-      "abr": "smarttoilet",
-      "category": "Hygiene",
-      "defname": "ToiletAdvStuff",
+      "abr": "blankribreplacement",
+      "category": "Bionic",
+      "defname": "SimpleRib",
       "price": -10
     },
     {
-      "abr": "bathmat",
+      "abr": "medicalribimplant",
+      "category": "Bionic",
+      "defname": "MedicalRib",
+      "price": -10
+    },
+    {
+      "abr": "druggedribimplant",
+      "category": "Bionic",
+      "defname": "DruggedRib",
+      "price": -10
+    },
+    {
+      "abr": "adrenalineribimplant",
+      "category": "Bionic",
+      "defname": "AdrenalineRib",
+      "price": -10
+    },
+    {
+      "abr": "painkillerribimplant",
+      "category": "Bionic",
+      "defname": "PainkillerRib",
+      "price": -10
+    },
+    {
+      "abr": "heatingribimplant",
+      "category": "Bionic",
+      "defname": "HeaterRib",
+      "price": -10
+    },
+    {
+      "abr": "coolingribimplant",
+      "category": "Bionic",
+      "defname": "CoolerRib",
+      "price": -10
+    },
+    {
+      "abr": "coagulatorribimplant",
+      "category": "Bionic",
+      "defname": "CoagulatorRib",
+      "price": -10
+    },
+    {
+      "abr": "respirationribimplant",
+      "category": "Bionic",
+      "defname": "RespirationRib",
+      "price": -10
+    },
+    {
+      "abr": "wake-upribimplant",
+      "category": "Bionic",
+      "defname": "WakeUpRib",
+      "price": -10
+    },
+    {
+      "abr": "tacticalcorneaimplant",
+      "category": "Ultratech",
+      "defname": "TacticalCorneaImplant",
+      "price": -10
+    },
+    {
+      "abr": "auxiliaryai(worker)",
+      "category": "Ultratech",
+      "defname": "EPIA_AuxiliaryAI_Worker",
+      "price": -10
+    },
+    {
+      "abr": "auxiliaryai(combat)",
+      "category": "Ultratech",
+      "defname": "EPIA_AuxiliaryAI_Combat",
+      "price": -10
+    },
+    {
+      "abr": "tacticalbioniceye",
+      "category": "Ultratech",
+      "defname": "EPIA_TacticalBionicEye",
+      "price": -10
+    },
+    {
+      "abr": "organicoptimizingnanobots",
+      "category": "Organic optimizer",
+      "defname": "EPOE_OrganicOptimizingNanobots",
+      "price": -10
+    },
+    {
+      "abr": "instinctoptimizingnanobots",
+      "category": "Organic optimizer",
+      "defname": "EPOE_InstinctOptimizingNanobots",
+      "price": -10
+    },
+    {
+      "abr": "synthetictissue",
+      "category": "Body restoration",
+      "defname": "SyntheticSkin",
+      "price": -10
+    },
+    {
+      "abr": "neuromuscularframework",
+      "category": "Body restoration",
+      "defname": "NeuromuscularFramework",
+      "price": -10
+    },
+    {
+      "abr": "neuro-cureframework",
+      "category": "Body restoration",
+      "defname": "NeurocureFramework",
+      "price": -10
+    },
+    {
+      "abr": "syntheticbone",
+      "category": "Body restoration",
+      "defname": "EPIA_SyntheticBone",
+      "price": -10
+    },
+    {
+      "abr": "prostheticleg",
+      "category": "Prosthetic",
+      "defname": "SimpleProstheticLeg",
+      "price": -10
+    },
+    {
+      "abr": "prostheticarm",
+      "category": "Prosthetic",
+      "defname": "SimpleProstheticArm",
+      "price": -10
+    },
+    {
+      "abr": "cochlearimplant",
+      "category": "Prosthetic",
+      "defname": "CochlearImplant",
+      "price": -10
+    },
+    {
+      "abr": "goldeneye",
+      "category": "Prosthetic",
+      "defname": "GoldenEye",
+      "price": -10
+    },
+    {
+      "abr": "lightreceptor",
+      "category": "Prosthetic",
+      "defname": "LightReceptor",
+      "price": -10
+    },
+    {
+      "abr": "replacementspine",
+      "category": "Prosthetic",
+      "defname": "SimpleSpine",
+      "price": -10
+    },
+    {
+      "abr": "prosthetichand",
+      "category": "Prosthetic",
+      "defname": "SimpleProstheticHand",
+      "price": -10
+    },
+    {
+      "abr": "prostheticfoot",
+      "category": "Prosthetic",
+      "defname": "SimpleProstheticFoot",
+      "price": -10
+    },
+    {
+      "abr": "prostheticfinger",
+      "category": "Prosthetic",
+      "defname": "SimpleProstheticFinger",
+      "price": -10
+    },
+    {
+      "abr": "prosthetictoe",
+      "category": "Prosthetic",
+      "defname": "SimpleProstheticToe",
+      "price": -10
+    },
+    {
+      "abr": "hydraulicjaw",
+      "category": "Prosthetic",
+      "defname": "HydraulicJaw",
+      "price": -10
+    },
+    {
+      "abr": "artificialnose",
+      "category": "Prosthetic",
+      "defname": "ArtificialNose",
+      "price": -10
+    },
+    {
+      "abr": "replacementradius",
+      "category": "Prosthetic",
+      "defname": "ReplacementRadius",
+      "price": -10
+    },
+    {
+      "abr": "scytherblade",
+      "category": "Prosthetic",
+      "defname": "EPIA_ScytherBlade",
+      "price": -10
+    },
+    {
+      "abr": "surrogateheart",
+      "category": "Prosthetic",
+      "defname": "SimpleProstheticHeart",
+      "price": -10
+    },
+    {
+      "abr": "surrogatelung",
+      "category": "Prosthetic",
+      "defname": "SurrogateLung",
+      "price": -10
+    },
+    {
+      "abr": "surrogatestomach",
+      "category": "Prosthetic",
+      "defname": "SurrogateStomach",
+      "price": -10
+    },
+    {
+      "abr": "surrogateliver",
+      "category": "Prosthetic",
+      "defname": "SurrogateLiver",
+      "price": -10
+    },
+    {
+      "abr": "surrogatekidney",
+      "category": "Prosthetic",
+      "defname": "SurrogateKidney",
+      "price": -10
+    },
+    {
+      "abr": "brainstimulator",
+      "category": "Prosthetic",
+      "defname": "BrainStimulator",
+      "price": -10
+    },
+    {
+      "abr": "syntheticheart",
+      "category": "Bionic",
+      "defname": "BionicHeart",
+      "price": -10
+    },
+    {
+      "abr": "syntheticlung",
+      "category": "Bionic",
+      "defname": "SyntheticLung",
+      "price": -10
+    },
+    {
+      "abr": "syntheticstomach",
+      "category": "Bionic",
+      "defname": "BionicStomach",
+      "price": -10
+    },
+    {
+      "abr": "syntheticliver",
+      "category": "Bionic",
+      "defname": "SyntheticLiver",
+      "price": -10
+    },
+    {
+      "abr": "synthetickidney",
+      "category": "Bionic",
+      "defname": "SyntheticKidney",
+      "price": -10
+    },
+    {
+      "abr": "musclestimulator",
+      "category": "Bionic",
+      "defname": "MuscleStimulator",
+      "price": -10
+    },
+    {
+      "abr": "aichip",
+      "category": "Bionic",
+      "defname": "AIChip",
+      "price": -10
+    },
+    {
+      "abr": "eyeball",
+      "category": "Natural",
+      "defname": "Eye",
+      "price": -10
+    },
+    {
+      "abr": "nose",
+      "category": "Natural",
+      "defname": "Nose",
+      "price": -10
+    },
+    {
+      "abr": "ear",
+      "category": "Natural",
+      "defname": "Ear",
+      "price": -10
+    },
+    {
+      "abr": "jaw",
+      "category": "Natural",
+      "defname": "Jaw",
+      "price": -10
+    },
+    {
+      "abr": "stomach",
+      "category": "Natural",
+      "defname": "Stomach",
+      "price": -10
+    },
+    {
+      "abr": "arm",
+      "category": "Natural",
+      "defname": "Arm",
+      "price": -10
+    },
+    {
+      "abr": "leg",
+      "category": "Natural",
+      "defname": "Leg",
+      "price": -10
+    },
+    {
+      "abr": "bionicsworkbench",
+      "category": "Production",
+      "defname": "TableBionics",
+      "price": -10
+    },
+    {
+      "abr": "syntheticnanoprinter",
+      "category": "Production",
+      "defname": "TableOrgans",
+      "price": -10
+    },
+    {
+      "abr": "damagedscytherblade",
+      "category": "Manufactured",
+      "defname": "EPOE_DamagedScytherBlade",
+      "price": -10
+    },
+    {
+      "abr": "ma-aichip",
+      "category": "Manufactured",
+      "defname": "EPOE_MAAI_Chip",
+      "price": -10
+    },
+    {
+      "abr": "walllight",
       "category": "Furniture",
-      "defname": "BathMat",
+      "defname": "Lighting_MURWallLight",
       "price": -10
     },
     {
-      "abr": "bathtub",
-      "category": "Hygiene",
-      "defname": "BathtubStuff",
-      "price": -10
-    },
-    {
-      "abr": "shower",
-      "category": "Hygiene",
-      "defname": "ShowerStuff",
-      "price": -10
-    },
-    {
-      "abr": "simpleshower",
-      "category": "Hygiene",
-      "defname": "ShowerSimple",
-      "price": -10
-    },
-    {
-      "abr": "powershower",
-      "category": "Hygiene",
-      "defname": "ShowerAdvStuff",
-      "price": -10
-    },
-    {
-      "abr": "hottub",
-      "category": "Hygiene",
-      "defname": "HotTub",
-      "price": -10
-    },
-    {
-      "abr": "washingmachine",
-      "category": "Hygiene",
-      "defname": "WashingMachine",
-      "price": -10
-    },
-    {
-      "abr": "fueledsaunaheater",
-      "category": "Hygiene",
-      "defname": "DBHSaunaHeaterLog",
-      "price": -10
-    },
-    {
-      "abr": "electricsaunaheater",
-      "category": "Hygiene",
-      "defname": "DBHSaunaHeaterElec",
-      "price": -10
-    },
-    {
-      "abr": "saunaseating",
+      "abr": "wallsunlight",
       "category": "Furniture",
-      "defname": "DBHSaunaSeating",
-      "price": -10
-    },
-    {
-      "abr": "electricpump",
-      "category": "Hygiene",
-      "defname": "ElectricPump",
-      "price": -10
-    },
-    {
-      "abr": "thermostat",
-      "category": "Hygiene",
-      "defname": "Thermostat",
-      "price": -10
-    },
-    {
-      "abr": "logboiler",
-      "category": "Hygiene",
-      "defname": "LogBoiler",
-      "price": -10
-    },
-    {
-      "abr": "gasboiler",
-      "category": "Hygiene",
-      "defname": "GasBoiler",
-      "price": -10
-    },
-    {
-      "abr": "electricboiler",
-      "category": "Hygiene",
-      "defname": "ElectricBoiler",
-      "price": -10
-    },
-    {
-      "abr": "hotwatertank",
-      "category": "Hygiene",
-      "defname": "HotWaterTank",
-      "price": -10
-    },
-    {
-      "abr": "radiator",
-      "category": "Hygiene",
-      "defname": "RadiatorStuffed",
-      "price": -10
-    },
-    {
-      "abr": "largeradiator",
-      "category": "Hygiene",
-      "defname": "RadiatorLarge",
-      "price": -10
-    },
-    {
-      "abr": "towelrail",
-      "category": "Hygiene",
-      "defname": "RadiatorTowelRail",
-      "price": -10
-    },
-    {
-      "abr": "ceilingfan2x2",
-      "category": "Hygiene",
-      "defname": "CeilingFan",
-      "price": -10
-    },
-    {
-      "abr": "ceilingfan1x1",
-      "category": "Hygiene",
-      "defname": "CeilingFanS",
-      "price": -10
-    },
-    {
-      "abr": "air-conoutdoorunit",
-      "category": "Hygiene",
-      "defname": "AirConOutdoorUnit",
-      "price": -10
-    },
-    {
-      "abr": "air-conindoorunit",
-      "category": "Hygiene",
-      "defname": "AirconIndoorUnit",
-      "price": -10
-    },
-    {
-      "abr": "walk-infreezerunit",
-      "category": "Hygiene",
-      "defname": "FreezerUnit",
-      "price": -10
-    },
-    {
-      "abr": "irrigationsprinkler",
-      "category": "Hygiene",
-      "defname": "IrrigationSprinkler",
-      "price": -10
-    },
-    {
-      "abr": "firesprinkler",
-      "category": "Hygiene",
-      "defname": "FireSprinkler",
-      "price": -10
-    },
-    {
-      "abr": "biosolidscomposter",
-      "category": "Hygiene",
-      "defname": "BiosolidsComposter",
-      "price": -10
-    },
-    {
-      "abr": "biosolids",
-      "category": "Waste",
-      "defname": "Biosolids",
+      "defname": "Lighting_MURWallSunLight",
       "price": -10
     },
     {
@@ -4237,11 +4969,551 @@
       "price": -10
     },
     {
-      "abr": "queen",
-      "category": "Animals",
-      "defname": "BI_Queen",
-      "price": 4167
+      "abr": "blindfold",
+      "category": "Headgear",
+      "defname": "Apparel_Blindfold",
+      "price": -10
+    },
+    {
+      "abr": "facemask",
+      "category": "Headgear",
+      "defname": "Apparel_ClothMask",
+      "price": -10
+    },
+    {
+      "abr": "slavebodystrap",
+      "category": "Misc",
+      "defname": "Apparel_BodyStrap",
+      "price": -10
+    },
+    {
+      "abr": "apples",
+      "category": "Fruits",
+      "defname": "Rawapple",
+      "price": -10
+    },
+    {
+      "abr": "babyonesie",
+      "category": "Misc",
+      "defname": "Apparel_BabyOnesie",
+      "price": -10
+    },
+    {
+      "abr": "babyshadecone",
+      "category": "Misc",
+      "defname": "Apparel_BabyShadecone",
+      "price": -10
+    },
+    {
+      "abr": "babytuque",
+      "category": "Misc",
+      "defname": "Apparel_BabyTuque",
+      "price": -10
+    },
+    {
+      "abr": "bakedpolenta",
+      "category": "Simple Meals",
+      "defname": "bakedpolenta",
+      "price": -10
+    },
+    {
+      "abr": "bamboo",
+      "category": "Raw resources",
+      "defname": "Bamboo",
+      "price": -10
+    },
+    {
+      "abr": "bamboobonsaipot",
+      "category": "Furniture",
+      "defname": "PlantPot_BambooBonsai",
+      "price": -10
+    },
+    {
+      "abr": "banana",
+      "category": "Fruits",
+      "defname": "Rawbanana",
+      "price": -10
+    },
+    {
+      "abr": "barley",
+      "category": "Vegetarian",
+      "defname": "RawBarley",
+      "price": -10
+    },
+    {
+      "abr": "barleytea",
+      "category": "Garden Drinks",
+      "defname": "VG_BarleyTea",
+      "price": -10
+    },
+    {
+      "abr": "bean",
+      "category": "Vegetarian",
+      "defname": "Rawbean",
+      "price": -10
+    },
+    {
+      "abr": "biofuel",
+      "category": "Manufactured",
+      "defname": "VG_Biofuel",
+      "price": -10
+    },
+    {
+      "abr": "blueberry",
+      "category": "Fruits",
+      "defname": "Rawblueberry",
+      "price": -10
+    },
+    {
+      "abr": "bowlofstew",
+      "category": "Meals",
+      "defname": "bowlstew",
+      "price": -10
+    },
+    {
+      "abr": "bread",
+      "category": "Simple Meals",
+      "defname": "Bread",
+      "price": -10
+    },
+    {
+      "abr": "cactusfruit",
+      "category": "Vegetarian",
+      "defname": "RawCactusFruit",
+      "price": -10
+    },
+    {
+      "abr": "caramel",
+      "category": "Sweets",
+      "defname": "Caramel",
+      "price": -10
+    },
+    {
+      "abr": "cheese",
+      "category": "Ingredients",
+      "defname": "cheese",
+      "price": -10
+    },
+    {
+      "abr": "cheeseburger",
+      "category": "Fine Meals",
+      "defname": "grilledmeat",
+      "price": -10
+    },
+    {
+      "abr": "cherries",
+      "category": "Fruits",
+      "defname": "RawCherry",
+      "price": -10
+    },
+    {
+      "abr": "chocolatemilk",
+      "category": "Garden Drinks",
+      "defname": "Chocomilk",
+      "price": -10
+    },
+    {
+      "abr": "cloudberry",
+      "category": "Fruits",
+      "defname": "Rawcloudberry",
+      "price": -10
+    },
+    {
+      "abr": "coconut",
+      "category": "Fruits",
+      "defname": "RawCoconut",
+      "price": -10
+    },
+    {
+      "abr": "coffeebeans",
+      "category": "Plant matter",
+      "defname": "CPD_CoffeeBeans",
+      "price": -10
+    },
+    {
+      "abr": "cookie",
+      "category": "Lavish Meals",
+      "defname": "cookie",
+      "price": -10
+    },
+    {
+      "abr": "cookingtools",
+      "category": "Production",
+      "defname": "CookingTools",
+      "price": -10
+    },
+    {
+      "abr": "date",
+      "category": "Fruits",
+      "defname": "Rawdate",
+      "price": -10
+    },
+    {
+      "abr": "driedfruit",
+      "category": "Fruits",
+      "defname": "driedfruit",
+      "price": -10
+    },
+    {
+      "abr": "electricmillingstone",
+      "category": "Production",
+      "defname": "ElectricGrindStone",
+      "price": -10
+    },
+    {
+      "abr": "electricoven",
+      "category": "Production",
+      "defname": "ElectricOven",
+      "price": -10
+    },
+    {
+      "abr": "fig",
+      "category": "Fruits",
+      "defname": "Rawfig",
+      "price": -10
+    },
+    {
+      "abr": "flour",
+      "category": "Ingredients",
+      "defname": "Flour",
+      "price": -10
+    },
+    {
+      "abr": "foodpreptable",
+      "category": "Production",
+      "defname": "Canningstove",
+      "price": -10
+    },
+    {
+      "abr": "foodshelf2x2",
+      "category": "Furniture",
+      "defname": "VG_FoodShelf",
+      "price": -10
+    },
+    {
+      "abr": "fruitjuicedrink",
+      "category": "Garden Drinks",
+      "defname": "Fruitdrink",
+      "price": -10
+    },
+    {
+      "abr": "fruitpieslice",
+      "category": "Fine Meals",
+      "defname": "BlueberryPie",
+      "price": -10
+    },
+    {
+      "abr": "fueledfoodpreptable",
+      "category": "Production",
+      "defname": "HandCanningstove",
+      "price": -10
+    },
+    {
+      "abr": "fueledsweetstable",
+      "category": "Production",
+      "defname": "FueledCandyTable",
+      "price": -10
+    },
+    {
+      "abr": "gardencoffee",
+      "category": "Garden Drinks",
+      "defname": "Coffee",
+      "price": -10
+    },
+    {
+      "abr": "gardenfish",
+      "category": "Garden meat",
+      "defname": "VG_GardenFish",
+      "price": -10
+    },
+    {
+      "abr": "gardentea",
+      "category": "Garden Drinks",
+      "defname": "Cuptea",
+      "price": -10
+    },
+    {
+      "abr": "gooseberry",
+      "category": "Fruits",
+      "defname": "Rawgooseberry",
+      "price": -10
+    },
+    {
+      "abr": "grapes",
+      "category": "Fruits",
+      "defname": "Rawgrape",
+      "price": -10
+    },
+    {
+      "abr": "grilledcheesesandwich",
+      "category": "Simple Meals",
+      "defname": "grilledcheese",
+      "price": -10
+    },
+    {
+      "abr": "grilledkabob",
+      "category": "Fine Meals",
+      "defname": "Kabob",
+      "price": -10
+    },
+    {
+      "abr": "grilledpolenta",
+      "category": "Simple Meals",
+      "defname": "grilledpolenta",
+      "price": -10
+    },
+    {
+      "abr": "grilledsteak",
+      "category": "Simple Meals",
+      "defname": "Grilledsteak",
+      "price": -10
+    },
+    {
+      "abr": "grilledvegetables",
+      "category": "Simple Meals",
+      "defname": "Grilledveg",
+      "price": -10
+    },
+    {
+      "abr": "hardcandy",
+      "category": "Sweets",
+      "defname": "Hardcandy",
+      "price": -10
+    },
+    {
+      "abr": "hardtack",
+      "category": "Foods",
+      "defname": "VG_Hardtack",
+      "price": -10
+    },
+    {
+      "abr": "hivepiece",
+      "category": "Raw resources",
+      "defname": "VG_Hivepiece",
+      "price": -10
+    },
+    {
+      "abr": "honey",
+      "category": "Ingredients",
+      "defname": "Honey",
+      "price": -10
+    },
+    {
+      "abr": "honeymead",
+      "category": "Drugs",
+      "defname": "Mead",
+      "price": -10
+    },
+    {
+      "abr": "icecream",
+      "category": "Sweets",
+      "defname": "icecream",
+      "price": -10
+    },
+    {
+      "abr": "ironwood",
+      "category": "Raw resources",
+      "defname": "VG_IronWoodLog",
+      "price": -10
+    },
+    {
+      "abr": "makiroll",
+      "category": "Simple Meals",
+      "defname": "MakiRoll",
+      "price": -10
+    },
+    {
+      "abr": "meatpie",
+      "category": "Simple Meals",
+      "defname": "meatpie",
+      "price": -10
+    },
+    {
+      "abr": "millingstone",
+      "category": "Production",
+      "defname": "GrindStone",
+      "price": -10
+    },
+    {
+      "abr": "muffin",
+      "category": "Fine Meals",
+      "defname": "muffin",
+      "price": -10
+    },
+    {
+      "abr": "mushroom",
+      "category": "Garden meat",
+      "defname": "Rawmushroom",
+      "price": -10
+    },
+    {
+      "abr": "nigiri",
+      "category": "Fine Meals",
+      "defname": "Nigiri",
+      "price": -10
+    },
+    {
+      "abr": "olive",
+      "category": "Vegetarian",
+      "defname": "RawOlive",
+      "price": -10
+    },
+    {
+      "abr": "orange",
+      "category": "Fruits",
+      "defname": "Raworange",
+      "price": -10
+    },
+    {
+      "abr": "oven",
+      "category": "Production",
+      "defname": "Oven",
+      "price": -10
+    },
+    {
+      "abr": "peach",
+      "category": "Fruits",
+      "defname": "Rawpeach",
+      "price": -10
+    },
+    {
+      "abr": "pickledvegetable",
+      "category": "Vegetarian",
+      "defname": "PickledVeg",
+      "price": -10
+    },
+    {
+      "abr": "pineapple",
+      "category": "Fruits",
+      "defname": "Rawpineapple",
+      "price": -10
+    },
+    {
+      "abr": "pizza",
+      "category": "Lavish Meals",
+      "defname": "pizza",
+      "price": -10
+    },
+    {
+      "abr": "porridge",
+      "category": "Simple Meals",
+      "defname": "Porridge",
+      "price": -10
+    },
+    {
+      "abr": "redlentil",
+      "category": "Garden meat",
+      "defname": "RawRedLentil",
+      "price": -10
+    },
+    {
+      "abr": "salt",
+      "category": "Raw resources",
+      "defname": "ChunkSalt",
+      "price": -10
+    },
+    {
+      "abr": "saltedmeat",
+      "category": "Garden meat",
+      "defname": "SaltedMeat",
+      "price": -10
+    },
+    {
+      "abr": "silage",
+      "category": "Animal Feed",
+      "defname": "Silage",
+      "price": -10
+    },
+    {
+      "abr": "slavecollar",
+      "category": "Headgear",
+      "defname": "Apparel_Collar",
+      "price": -10
+    },
+    {
+      "abr": "smoothie",
+      "category": "Sweets",
+      "defname": "smoothie",
+      "price": -10
+    },
+    {
+      "abr": "snowbeet",
+      "category": "Vegetarian",
+      "defname": "Rawsnowbeet",
+      "price": -10
+    },
+    {
+      "abr": "stirfry",
+      "category": "Meals",
+      "defname": "stirfry",
+      "price": -10
+    },
+    {
+      "abr": "sugarcane",
+      "category": "Ingredients",
+      "defname": "Rawsugarcane",
+      "price": -10
+    },
+    {
+      "abr": "sweetbun",
+      "category": "Simple Meals",
+      "defname": "sweetbun",
+      "price": -10
+    },
+    {
+      "abr": "sweetstable",
+      "category": "Production",
+      "defname": "CandyTable",
+      "price": -10
+    },
+    {
+      "abr": "tacos",
+      "category": "Lavish Meals",
+      "defname": "Tacos",
+      "price": -10
+    },
+    {
+      "abr": "taffy",
+      "category": "Sweets",
+      "defname": "Taffy",
+      "price": -10
+    },
+    {
+      "abr": "tealeaves",
+      "category": "Plant matter",
+      "defname": "Rawtea",
+      "price": -10
+    },
+    {
+      "abr": "tofu",
+      "category": "Meat",
+      "defname": "Rawtofu",
+      "price": -10
+    },
+    {
+      "abr": "veganeggsubstitute",
+      "category": "Eggs (unfert.)",
+      "defname": "VeganEgg",
+      "price": -10
+    },
+    {
+      "abr": "watermelon",
+      "category": "Fruits",
+      "defname": "Rawwatermelon",
+      "price": -10
+    },
+    {
+      "abr": "wheat",
+      "category": "Vegetarian",
+      "defname": "Rawwheat",
+      "price": -10
+    },
+    {
+      "abr": "yogurt",
+      "category": "Sweets",
+      "defname": "yogurt",
+      "price": -10
     }
   ],
-  "total": 707
+  "total": 919
 }
