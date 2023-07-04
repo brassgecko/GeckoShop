@@ -480,6 +480,24 @@
     "version": "1.4"
   },
   {
+    "author": "Aelanna",
+    "name": "Eccentric Tech - Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Aelanna",
+    "name": "Eccentric Tech - Foxy's Armory 2.0",
+    "steamId": "2552628608",
+    "version": "2.6.0.0"
+  },
+  {
+    "author": "Aelanna",
+    "name": "Eccentric Tech - Advanced Shields",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Owlchemist",
     "name": "Simple Utilities: Fridge",
     "steamId": null,
@@ -686,6 +704,12 @@
   {
     "author": "AUTOMATIC",
     "name": "Bionic icons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sea",
+    "name": "Consistent Gene Inheritance",
     "steamId": null,
     "version": null
   },
