@@ -86,8 +86,8 @@
   {
     "author": "Jaxe",
     "name": "RimHUD",
-    "steamId": null,
-    "version": null
+    "steamId": "1508850027",
+    "version": "1.12.1.0"
   },
   {
     "author": "aRandomKiwi",
@@ -444,12 +444,6 @@
     "version": null
   },
   {
-    "author": "UnlimitedHugs",
-    "name": "Defensive Positions",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Fuu Chan",
     "name": "[Fuu] Uncompromising Fires",
     "steamId": "2623963630",
@@ -478,6 +472,12 @@
     "name": "Windows",
     "steamId": "2571189146",
     "version": "1.4"
+  },
+  {
+    "author": "Meltup and Sicarious",
+    "name": "Polyamory Beds (Vanilla Edition)",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Aelanna",
@@ -537,7 +537,7 @@
     "author": "Lanilor",
     "name": "Simply More Bridges (Continued)",
     "steamId": "2012484790",
-    "version": "1.4.2"
+    "version": "1.4.5"
   },
   {
     "author": "Falconne",
@@ -570,10 +570,28 @@
     "version": null
   },
   {
+    "author": "RedShark",
+    "name": "Samesex IVF",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Tyler",
+    "name": "Pawn Education (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "RedMattis",
     "name": "Better Children Skill Learning",
     "steamId": "2899562773",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "kathanon",
+    "name": "Impressionable Children",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "cyanobot",
@@ -591,7 +609,7 @@
     "author": "Kopp",
     "name": "Caravan Formation Improvements",
     "steamId": "2927335733",
-    "version": "1.0.2.0"
+    "version": "1.0.5.0"
   },
   {
     "author": "Owlchemist",
@@ -690,12 +708,6 @@
     "version": "1.0.0"
   },
   {
-    "author": "bodlosh",
-    "name": "WeaponStats",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "iforgotmysocks",
     "name": "Just Copy",
     "steamId": "2836605140",
@@ -724,6 +736,12 @@
     "name": "Way Better Romance",
     "steamId": "2877731755",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "bdew",
+    "name": "Romance Tweaks",
+    "steamId": "1575463949",
+    "version": "1.2.0.0"
   },
   {
     "author": "Dave-EEs",
