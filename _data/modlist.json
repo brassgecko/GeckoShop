@@ -87,7 +87,7 @@
     "author": "Jaxe",
     "name": "RimHUD",
     "steamId": "1508850027",
-    "version": "1.12.1.0"
+    "version": "1.13.0.0"
   },
   {
     "author": "aRandomKiwi",
@@ -154,6 +154,12 @@
     "name": "Toggleable Overlays",
     "steamId": "2608654598",
     "version": "1.4"
+  },
+  {
+    "author": "okthisismyidnow",
+    "name": "Message 2 Letter",
+    "steamId": "2655483454",
+    "version": "1.0.7999.19714"
   },
   {
     "author": "SeoHyeon",
@@ -435,7 +441,7 @@
     "author": "Netrve",
     "name": "Hunters Use Melee! (Continued)",
     "steamId": "2900108163",
-    "version": "1.4.2"
+    "version": "1.4.3"
   },
   {
     "author": "Victor and wilki24",
@@ -609,7 +615,7 @@
     "author": "Kopp",
     "name": "Caravan Formation Improvements",
     "steamId": "2927335733",
-    "version": "1.0.5.0"
+    "version": "1.0.7.0"
   },
   {
     "author": "Owlchemist",
@@ -624,8 +630,8 @@
     "version": null
   },
   {
-    "author": "Mlie",
-    "name": "Less Arbitrary Surgery (Continued)",
+    "author": "Gege",
+    "name": "Better Surgery",
     "steamId": null,
     "version": null
   },
@@ -879,7 +885,7 @@
     "author": "avilmask",
     "name": "Common Sense",
     "steamId": "1561769193",
-    "version": "1.0.8572.18461"
+    "version": "1.0.8619.22669"
   },
   {
     "author": "Owlchemist and Mlie",
@@ -898,6 +904,12 @@
     "name": "Scattered Flames",
     "steamId": "2652749788",
     "version": "1.4"
+  },
+  {
+    "author": "NomadRw",
+    "name": "Projectile Bullet Retexture",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Telefonmast",
