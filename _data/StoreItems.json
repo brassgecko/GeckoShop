@@ -91,9 +91,51 @@
       "price": -10
     },
     {
+      "abr": "bioniceye",
+      "category": "Bionic",
+      "defname": "BionicEye",
+      "price": -10
+    },
+    {
+      "abr": "bionicarm",
+      "category": "Bionic",
+      "defname": "BionicArm",
+      "price": -10
+    },
+    {
+      "abr": "bionicleg",
+      "category": "Bionic",
+      "defname": "BionicLeg",
+      "price": -10
+    },
+    {
+      "abr": "bionicspine",
+      "category": "Bionic",
+      "defname": "BionicSpine",
+      "price": -10
+    },
+    {
+      "abr": "bionicheart",
+      "category": "Bionic",
+      "defname": "BionicHeart",
+      "price": -10
+    },
+    {
+      "abr": "bionicstomach",
+      "category": "Bionic",
+      "defname": "BionicStomach",
+      "price": -10
+    },
+    {
       "abr": "deathacidifier",
       "category": "Bionic",
       "defname": "DeathAcidifier",
+      "price": -10
+    },
+    {
+      "abr": "bionicear",
+      "category": "Bionic",
+      "defname": "BionicEar",
       "price": -10
     },
     {
@@ -124,6 +166,30 @@
       "abr": "liver",
       "category": "Natural",
       "defname": "Liver",
+      "price": -10
+    },
+    {
+      "abr": "prostheticleg",
+      "category": "Prosthetic",
+      "defname": "SimpleProstheticLeg",
+      "price": -10
+    },
+    {
+      "abr": "prostheticarm",
+      "category": "Prosthetic",
+      "defname": "SimpleProstheticArm",
+      "price": -10
+    },
+    {
+      "abr": "prostheticheart",
+      "category": "Prosthetic",
+      "defname": "SimpleProstheticHeart",
+      "price": -10
+    },
+    {
+      "abr": "cochlearimplant",
+      "category": "Prosthetic",
+      "defname": "CochlearImplant",
       "price": -10
     },
     {
@@ -559,7 +625,7 @@
       "price": -10
     },
     {
-      "abr": "mortar",
+      "abr": "81mmmortar",
       "category": "Security",
       "defname": "Turret_Mortar",
       "price": -10
@@ -698,7 +764,7 @@
     },
     {
       "abr": "kibble",
-      "category": "Animal Feed",
+      "category": "Foods",
       "defname": "Kibble",
       "price": -10
     },
@@ -710,13 +776,13 @@
     },
     {
       "abr": "chocolate",
-      "category": "Sweets",
+      "category": "Foods",
       "defname": "Chocolate",
       "price": -10
     },
     {
       "abr": "milk",
-      "category": "Ingredients",
+      "category": "Animal products",
       "defname": "Milk",
       "price": -10
     },
@@ -872,7 +938,7 @@
     },
     {
       "abr": "agavefruit",
-      "category": "Fruits",
+      "category": "Vegetarian",
       "defname": "RawAgave",
       "price": -10
     },
@@ -884,13 +950,13 @@
     },
     {
       "abr": "berries",
-      "category": "Fruits",
+      "category": "Vegetarian",
       "defname": "RawBerries",
       "price": -10
     },
     {
       "abr": "hay",
-      "category": "Animal Feed",
+      "category": "Foods",
       "defname": "Hay",
       "price": -10
     },
@@ -913,82 +979,46 @@
       "price": -10
     },
     {
-      "abr": "high-explosiveshell",
-      "category": "Mortar shells",
-      "defname": "Shell_HighExplosive",
-      "price": -10
-    },
-    {
-      "abr": "incendiaryshell",
-      "category": "Mortar shells",
-      "defname": "Shell_Incendiary",
-      "price": -10
-    },
-    {
-      "abr": "empshell",
-      "category": "Mortar shells",
-      "defname": "Shell_EMP",
-      "price": -10
-    },
-    {
-      "abr": "smokeshell",
-      "category": "Mortar shells",
-      "defname": "Shell_Smoke",
-      "price": -10
-    },
-    {
-      "abr": "firefoamshell",
-      "category": "Mortar shells",
-      "defname": "Shell_Firefoam",
-      "price": -10
-    },
-    {
-      "abr": "antigrainwarhead",
-      "category": "Mortar shells",
-      "defname": "Shell_AntigrainWarhead",
-      "price": -10
-    },
-    {
       "abr": "silver",
       "category": "Raw resources",
       "defname": "Silver",
-      "price": -10
+      "price": 10
     },
     {
       "abr": "gold",
       "category": "Raw resources",
       "defname": "Gold",
-      "price": -10
+      "price": 17
     },
     {
       "abr": "steel",
       "category": "Raw resources",
       "defname": "Steel",
-      "price": -10
+      "price": 5
     },
     {
       "abr": "plasteel",
       "category": "Raw resources",
       "defname": "Plasteel",
-      "price": -10
+      "price": 15
     },
     {
       "abr": "wood",
       "category": "Raw resources",
       "defname": "WoodLog",
-      "price": -10
+      "price": 10
     },
     {
       "abr": "uranium",
       "category": "Raw resources",
       "defname": "Uranium",
-      "price": -10
+      "price": 10
     },
     {
       "abr": "jade",
       "category": "Raw resources",
       "defname": "Jade",
-      "price": -10
+      "price": 8
     },
     {
       "abr": "cloth",
@@ -1213,7 +1243,7 @@
       "price": -10
     },
     {
-      "abr": "flakhelmet",
+      "abr": "compositehelmet",
       "category": "Headgear",
       "defname": "Apparel_AdvancedHelmet",
       "price": -10
@@ -1315,7 +1345,7 @@
       "price": -10
     },
     {
-      "abr": "flakvest",
+      "abr": "armorvest",
       "category": "Armor",
       "defname": "Apparel_FlakVest",
       "price": -10
@@ -1354,31 +1384,31 @@
       "abr": "sandstoneblocks",
       "category": "Stone blocks",
       "defname": "BlocksSandstone",
-      "price": -10
+      "price": 10
     },
     {
       "abr": "graniteblocks",
       "category": "Stone blocks",
       "defname": "BlocksGranite",
-      "price": -10
+      "price": 10
     },
     {
       "abr": "limestoneblocks",
       "category": "Stone blocks",
       "defname": "BlocksLimestone",
-      "price": -10
+      "price": 10
     },
     {
       "abr": "slateblocks",
       "category": "Stone blocks",
       "defname": "BlocksSlate",
-      "price": -10
+      "price": 10
     },
     {
       "abr": "marbleblocks",
       "category": "Stone blocks",
       "defname": "BlocksMarble",
-      "price": -10
+      "price": 10
     },
     {
       "abr": "breachaxe",
@@ -1453,18 +1483,6 @@
       "price": -10
     },
     {
-      "abr": "smokelauncher",
-      "category": "Ranged weapons",
-      "defname": "Gun_SmokeLauncher",
-      "price": -10
-    },
-    {
-      "abr": "emplauncher",
-      "category": "Ranged weapons",
-      "defname": "Gun_EmpLauncher",
-      "price": -10
-    },
-    {
       "abr": "bolt-actionrifle",
       "category": "Ranged weapons",
       "defname": "Gun_BoltActionRifle",
@@ -1525,19 +1543,19 @@
       "price": -10
     },
     {
-      "abr": "fraggrenades",
+      "abr": "fraggrenade",
       "category": "Grenades",
       "defname": "Weapon_GrenadeFrag",
       "price": -10
     },
     {
-      "abr": "molotovcocktails",
+      "abr": "molotovcocktail",
       "category": "Grenades",
       "defname": "Weapon_GrenadeMolotov",
       "price": -10
     },
     {
-      "abr": "empgrenades",
+      "abr": "empgrenade",
       "category": "Grenades",
       "defname": "Weapon_GrenadeEMP",
       "price": -10
@@ -1546,12 +1564,6 @@
       "abr": "shortbow",
       "category": "Ranged weapons",
       "defname": "Bow_Short",
-      "price": -10
-    },
-    {
-      "abr": "pila",
-      "category": "Ranged weapons",
-      "defname": "Pila",
       "price": -10
     },
     {
@@ -1570,12 +1582,6 @@
       "abr": "chargerifle",
       "category": "Ranged weapons",
       "defname": "Gun_ChargeRifle",
-      "price": -10
-    },
-    {
-      "abr": "chargelance",
-      "category": "Ranged weapons",
-      "defname": "Gun_ChargeLance",
       "price": -10
     },
     {
@@ -2629,6 +2635,12 @@
       "price": -10
     },
     {
+      "abr": "slavecollar",
+      "category": "Headgear",
+      "defname": "Apparel_Collar",
+      "price": -10
+    },
+    {
       "abr": "authoritycap",
       "category": "Headgear",
       "defname": "Apparel_AuthorityCap",
@@ -2653,6 +2665,12 @@
       "price": -10
     },
     {
+      "abr": "slavebodystrap",
+      "category": "Misc",
+      "defname": "Apparel_BodyStrap",
+      "price": -10
+    },
+    {
       "abr": "burka",
       "category": "Misc",
       "defname": "Apparel_Burka",
@@ -2668,6 +2686,12 @@
       "abr": "torturecrown",
       "category": "Headgear",
       "defname": "Apparel_TortureCrown",
+      "price": -10
+    },
+    {
+      "abr": "blindfold",
+      "category": "Headgear",
+      "defname": "Apparel_Blindfold",
       "price": -10
     },
     {
@@ -3007,12 +3031,6 @@
       "price": -10
     },
     {
-      "abr": "toxshell",
-      "category": "Mortar shells",
-      "defname": "Shell_Toxic",
-      "price": -10
-    },
-    {
       "abr": "genepack",
       "category": "Misc",
       "defname": "Genepack",
@@ -3121,6 +3139,12 @@
       "price": -10
     },
     {
+      "abr": "facemask",
+      "category": "Headgear",
+      "defname": "Apparel_ClothMask",
+      "price": -10
+    },
+    {
       "abr": "controlpack",
       "category": "Utility",
       "defname": "Apparel_PackControl",
@@ -3146,7 +3170,7 @@
     },
     {
       "abr": "heavybandolier",
-      "category": "Misc",
+      "category": "Loadbearing gear",
       "defname": "Apparel_Bandolier",
       "price": -10
     },
@@ -3157,21 +3181,9 @@
       "price": -10
     },
     {
-      "abr": "toxbomblauncher",
-      "category": "Ranged weapons",
-      "defname": "Gun_ToxbombLauncher",
-      "price": -10
-    },
-    {
-      "abr": "toxgrenades",
+      "abr": "toxgrenade",
       "category": "Grenades",
       "defname": "Weapon_GrenadeTox",
-      "price": -10
-    },
-    {
-      "abr": "flamebow",
-      "category": "Ranged weapons",
-      "defname": "Flamebow",
       "price": -10
     },
     {
@@ -3193,1119 +3205,219 @@
       "price": -10
     },
     {
-      "abr": "simplefieldresearchkit",
-      "category": "Utility",
-      "defname": "RR_FieldResearchKitSimple",
+      "abr": "psycho",
+      "category": "Drugs",
+      "defname": "Psycho",
       "price": -10
     },
     {
-      "abr": "fieldresearchkit",
-      "category": "Utility",
-      "defname": "RR_FieldResearchKitHiTech",
+      "abr": "loadingbench",
+      "category": "Production",
+      "defname": "AmmoBench",
       "price": -10
     },
     {
-      "abr": "fieldresearchanalyzer-kit",
-      "category": "Utility",
-      "defname": "RR_FieldResearchKitMultiAnalyzer",
+      "abr": "gunsmithingbench",
+      "category": "Production",
+      "defname": "GunsmithingBench",
       "price": -10
     },
     {
-      "abr": "remotefieldresearchkit",
-      "category": "Utility",
-      "defname": "RR_FieldResearchKitRemote",
+      "abr": "chargeblasterauto-turret",
+      "category": "Security",
+      "defname": "Turret_Blaster",
       "price": -10
     },
     {
-      "abr": "archotechear",
-      "category": "Archotech",
-      "defname": "SoSArchotechEar",
+      "abr": "heavyauto-turret",
+      "category": "Security",
+      "defname": "Turret_Heavy",
       "price": -10
     },
     {
-      "abr": "archotechnose",
-      "category": "Archotech",
-      "defname": "SoSArchotechNose",
+      "abr": "mediumauto-turret",
+      "category": "Security",
+      "defname": "Turret_Medium",
       "price": -10
     },
     {
-      "abr": "archotechjaw",
-      "category": "Archotech",
-      "defname": "SoSArchotechJaw",
+      "abr": "kpvmachinegun",
+      "category": "Security",
+      "defname": "Turret_KPV",
       "price": -10
     },
     {
-      "abr": "archotechheart",
-      "category": "Archotech",
-      "defname": "SoSArchotechHeart",
+      "abr": "m240b",
+      "category": "Security",
+      "defname": "Turret_M240B",
       "price": -10
     },
     {
-      "abr": "archotechlung",
-      "category": "Archotech",
-      "defname": "SoSArchotechLung",
+      "abr": "ags-30",
+      "category": "Security",
+      "defname": "Turret_AGSThirty",
       "price": -10
     },
     {
-      "abr": "archotechstomach",
-      "category": "Archotech",
-      "defname": "SoSArchotechStomach",
+      "abr": "90mmflakturret",
+      "category": "Security",
+      "defname": "Turret_Flak",
       "price": -10
     },
     {
-      "abr": "archotechkidney",
-      "category": "Archotech",
-      "defname": "SoSArchotechKidney",
+      "abr": "prometheum",
+      "category": "Raw resources",
+      "defname": "Prometheum",
       "price": -10
     },
     {
-      "abr": "archotechliver",
-      "category": "Archotech",
-      "defname": "SoSArchotechLiver",
+      "abr": "fsx",
+      "category": "Raw resources",
+      "defname": "FSX",
       "price": -10
     },
     {
-      "abr": "archotechspine",
-      "category": "Archotech",
-      "defname": "SoSArchotechSpine",
+      "abr": "tacticalvest",
+      "category": "Loadbearing gear",
+      "defname": "CE_Apparel_TacVest",
       "price": -10
     },
     {
-      "abr": "archotechskin",
-      "category": "Archotech",
-      "defname": "SoSArchotechSkin",
+      "abr": "backpack",
+      "category": "Loadbearing gear",
+      "defname": "CE_Apparel_Backpack",
       "price": -10
     },
     {
-      "abr": "psychicpredictor",
-      "category": "Archotech",
-      "defname": "SoSPsychicPredictor",
+      "abr": "kidbackpack",
+      "category": "Loadbearing gear",
+      "defname": "CE_Apparel_KidBackpack",
       "price": -10
     },
     {
-      "abr": "psychicmanipulator",
-      "category": "Archotech",
-      "defname": "SoSPsychicManipulator",
+      "abr": "tribalbackpack",
+      "category": "Loadbearing gear",
+      "defname": "CE_Apparel_TribalBackpack",
       "price": -10
     },
     {
-      "abr": "archocat",
-      "category": "Animals",
-      "defname": "Archocat",
+      "abr": "radiopack",
+      "category": "Loadbearing gear",
+      "defname": "CE_Apparel_RadioPack",
       "price": -10
     },
     {
-      "abr": "archomutt",
-      "category": "Animals",
-      "defname": "Archomutt",
+      "abr": "poweredexoframe",
+      "category": "Loadbearing gear",
+      "defname": "CE_Apparel_ExoFrame",
       "price": -10
     },
     {
-      "abr": "archostrich",
-      "category": "Animals",
-      "defname": "Archostrich",
+      "abr": "platehelmet",
+      "category": "Headgear",
+      "defname": "CE_Apparel_PlateHelmet",
       "price": -10
     },
     {
-      "abr": "archostrichegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "EggArchostrichFertilized",
+      "abr": "gasmask",
+      "category": "Headgear",
+      "defname": "CE_Apparel_GasMask",
       "price": -10
     },
     {
-      "abr": "archostrichegg(unfert.)",
-      "category": "Eggs (unfert.)",
-      "defname": "EggArchostrichUnfertilized",
+      "abr": "improvisedgasmask",
+      "category": "Headgear",
+      "defname": "CE_Apparel_ImprovGasMask",
       "price": -10
     },
     {
-      "abr": "archoffalo",
-      "category": "Animals",
-      "defname": "Archoffalo",
+      "abr": "nightvisionmonocular",
+      "category": "Headgear",
+      "defname": "CE_Apparel_SimpleNightVision",
       "price": -10
     },
     {
-      "abr": "archospider",
-      "category": "Animals",
-      "defname": "Archospider",
+      "abr": "advancednightvisiongoggles",
+      "category": "Headgear",
+      "defname": "CE_Apparel_AdvancedNightVision",
       "price": -10
     },
     {
-      "abr": "archolope",
-      "category": "Animals",
-      "defname": "Archolope",
+      "abr": "meleeshield",
+      "category": "Shields",
+      "defname": "CE_Apparel_MeleeShield",
       "price": -10
     },
     {
-      "abr": "archotortoise",
-      "category": "Animals",
-      "defname": "Archotortoise",
+      "abr": "ballisticshield",
+      "category": "Shields",
+      "defname": "CE_Apparel_BallisticShield",
       "price": -10
     },
     {
-      "abr": "archotortoiseegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "EggArchotortoiseFertilized",
+      "abr": "compositevest",
+      "category": "Armor",
+      "defname": "CE_Apparel_CompositeVest",
       "price": -10
     },
     {
-      "abr": "archopanda",
-      "category": "Animals",
-      "defname": "Archopanda",
-      "price": -10
-    },
-    {
-      "abr": "archojerboa",
-      "category": "Animals",
-      "defname": "Archojerboa",
-      "price": -10
-    },
-    {
-      "abr": "archothrumbo",
-      "category": "Animals",
-      "defname": "Archothrumbo",
-      "price": -10
-    },
-    {
-      "abr": "personalshuttle(hovermode)",
-      "category": "Animal",
-      "defname": "ShuttlePersonalRace",
-      "price": -10
-    },
-    {
-      "abr": "cargoshuttle(hovermode)",
-      "category": "Animal",
-      "defname": "ShuttleCargoRace",
-      "price": -10
-    },
-    {
-      "abr": "heavycargoshuttle(hovermode)",
-      "category": "Animal",
-      "defname": "ShuttleHeavyRace",
-      "price": -10
-    },
-    {
-      "abr": "superheavydropship(hovermode)",
-      "category": "Animal",
-      "defname": "ShuttleDropshipRace",
-      "price": -10
-    },
-    {
-      "abr": "astromite",
-      "category": "Animals",
-      "defname": "Astromite",
-      "price": -10
-    },
-    {
-      "abr": "stellapede",
-      "category": "Animals",
-      "defname": "Stellapede",
-      "price": -10
-    },
-    {
-      "abr": "cosmopillar",
-      "category": "Animals",
-      "defname": "Cosmopillar",
-      "price": -10
-    },
-    {
-      "abr": "basicholodeck",
-      "category": "Recreation",
-      "defname": "Holodeck_Basic",
-      "price": -10
-    },
-    {
-      "abr": "advancedholodeck",
-      "category": "Recreation",
-      "defname": "Holodeck_Standard",
-      "price": -10
-    },
-    {
-      "abr": "sapientholodeck",
-      "category": "Recreation",
-      "defname": "Holodeck_AI",
-      "price": -10
-    },
-    {
-      "abr": "spacetelescope",
-      "category": "Recreation",
-      "defname": "TelescopeSpace",
-      "price": -10
-    },
-    {
-      "abr": "shipsalvage",
-      "category": "Special",
-      "defname": "ShipChunkSalvage",
-      "price": -10
-    },
-    {
-      "abr": "shipcapacitor",
-      "category": "Furniture",
-      "defname": "ShipCapacitorSmall",
-      "price": -10
-    },
-    {
-      "abr": "spacercrib",
-      "category": "Furniture",
-      "defname": "SpaceCrib",
-      "price": -10
-    },
-    {
-      "abr": "afterlifecasket",
-      "category": "Buildings",
-      "defname": "Ship_AvatarCasket",
-      "price": -10
-    },
-    {
-      "abr": "shipblueprint(heavybomber)",
-      "category": "Ship blueprints",
-      "defname": "ShipBPBomberHeavy",
-      "price": -10
-    },
-    {
-      "abr": "shipblueprint(fireflytransport)",
-      "category": "Ship blueprints",
-      "defname": "ShipBPCargoFirefly",
-      "price": -10
-    },
-    {
-      "abr": "shipblueprint(corvette)",
-      "category": "Ship blueprints",
-      "defname": "ShipBPCorvette",
-      "price": -10
-    },
-    {
-      "abr": "shipblueprint(corvettegunship)",
-      "category": "Ship blueprints",
-      "defname": "ShipBPCorvetteGunship",
-      "price": -10
-    },
-    {
-      "abr": "shipblueprint(torpedocorvette)",
-      "category": "Ship blueprints",
-      "defname": "ShipBPCorvetteTorp",
-      "price": -10
-    },
-    {
-      "abr": "shipblueprint(corvette)",
-      "category": "Ship blueprints",
-      "defname": "ShipBPCorvetteWinged",
-      "price": -10
-    },
-    {
-      "abr": "shipblueprint(archerfrigate)",
-      "category": "Ship blueprints",
-      "defname": "ShipBPFrigateArcher",
-      "price": -10
-    },
-    {
-      "abr": "shipblueprint(frigate)",
-      "category": "Ship blueprints",
-      "defname": "ShipBPFrigateWinged",
-      "price": -10
-    },
-    {
-      "abr": "shipblueprint(ancientmartiancorvette)",
-      "category": "Ship blueprints",
-      "defname": "ShipBPTachinante",
-      "price": -10
-    },
-    {
-      "abr": "shipblueprint(smalltransport)",
-      "category": "Ship blueprints",
-      "defname": "ShipBPTransportSmall",
-      "price": -10
-    },
-    {
-      "abr": "archotechuplink",
-      "category": "Misc",
-      "defname": "ArchotechUplink",
-      "price": -10
-    },
-    {
-      "abr": "archotechpillaralpha",
-      "category": "Misc",
-      "defname": "ShipArchotechPillarA",
-      "price": -10
-    },
-    {
-      "abr": "archotechpillarbeta",
-      "category": "Misc",
-      "defname": "ShipArchotechPillarB",
-      "price": -10
-    },
-    {
-      "abr": "archotechpillargamma",
-      "category": "Misc",
-      "defname": "ShipArchotechPillarC",
-      "price": -10
-    },
-    {
-      "abr": "archotechpillardelta",
-      "category": "Misc",
-      "defname": "ShipArchotechPillarD",
-      "price": -10
-    },
-    {
-      "abr": "mechanitecocktails",
+      "abr": "concussiongrenade",
       "category": "Grenades",
-      "defname": "Weapon_GrenadeMechanite",
+      "defname": "Weapon_GrenadeConcussion",
       "price": -10
     },
     {
-      "abr": "recyclotron",
-      "category": "Production",
-      "defname": "ArchoRecycler",
+      "abr": "flashbanggrenade",
+      "category": "Grenades",
+      "defname": "Weapon_GrenadeFlashbang",
       "price": -10
     },
     {
-      "abr": "personalshuttle",
-      "category": "Furniture",
-      "defname": "PersonalShuttle",
+      "abr": "stickbomb",
+      "category": "Grenades",
+      "defname": "Weapon_GrenadeStickBomb",
       "price": -10
     },
     {
-      "abr": "cargoshuttle",
-      "category": "Furniture",
-      "defname": "CargoShuttle",
+      "abr": "smokegrenade",
+      "category": "Grenades",
+      "defname": "Weapon_GrenadeSmoke",
       "price": -10
     },
     {
-      "abr": "heavycargoshuttle",
-      "category": "Furniture",
-      "defname": "HeavyShuttle",
+      "abr": "firefoamgrenade",
+      "category": "Grenades",
+      "defname": "Weapon_GrenadeFirefoam",
       "price": -10
     },
     {
-      "abr": "superheavydropship",
-      "category": "Furniture",
-      "defname": "DropshipShuttle",
+      "abr": "grenadelauncher",
+      "category": "Ranged weapons",
+      "defname": "CE_GrenadeLauncher",
       "price": -10
     },
     {
-      "abr": "archolifepod",
-      "category": "Items",
-      "defname": "ArcholifePod",
+      "abr": "disposablerocketlauncher",
+      "category": "Ranged weapons",
+      "defname": "CE_DisposableRocketLauncher",
       "price": -10
     },
     {
-      "abr": "mechaniterepairgel",
-      "category": "Items",
-      "defname": "ArchotechRepairGel",
+      "abr": "flaregun",
+      "category": "Ranged weapons",
+      "defname": "CE_FlareGun",
       "price": -10
     },
     {
-      "abr": "mechanitedisassemblercore",
-      "category": "Items",
-      "defname": "ArchotechMechaniteCore",
+      "abr": "javelins",
+      "category": "Ranged weapons",
+      "defname": "Pila",
       "price": -10
     },
     {
-      "abr": "psychicflayercore",
-      "category": "Items",
-      "defname": "ArchotechPsychicCore",
-      "price": -10
-    },
-    {
-      "abr": "exoticparticles",
-      "category": "Manufactured",
-      "defname": "ArchotechExoticParticles",
-      "price": -10
-    },
-    {
-      "abr": "high-explosivetorpedo",
-      "category": "Torpedoes",
-      "defname": "ShipTorpedo_HighExplosive",
-      "price": -10
-    },
-    {
-      "abr": "emptorpedo",
-      "category": "Torpedoes",
-      "defname": "ShipTorpedo_EMP",
-      "price": -10
-    },
-    {
-      "abr": "antigraintorpedo",
-      "category": "Torpedoes",
-      "defname": "ShipTorpedo_Antimatter",
-      "price": -10
-    },
-    {
-      "abr": "uraniumfuelpod",
-      "category": "Manufactured",
-      "defname": "ShuttleFuelPods",
-      "price": -10
-    },
-    {
-      "abr": "weathernormalizationdevice",
-      "category": "Artifacts",
-      "defname": "WeatherCancelDevice",
-      "price": -10
-    },
-    {
-      "abr": "entanglementmanifold",
-      "category": "Items",
-      "defname": "SoSEntanglementManifold",
-      "price": -10
-    },
-    {
-      "abr": "hullfoamcanister",
-      "category": "Items",
-      "defname": "HullFoam",
-      "price": -10
-    },
-    {
-      "abr": "evasuit",
-      "category": "Armor",
-      "defname": "Apparel_SpaceSuitBody",
-      "price": -10
-    },
-    {
-      "abr": "kidevasuit",
-      "category": "Armor",
-      "defname": "Apparel_SpaceSuitBodyChild",
-      "price": -10
-    },
-    {
-      "abr": "evahelmet",
-      "category": "Headgear",
-      "defname": "Apparel_SpaceSuitHelmet",
-      "price": -10
-    },
-    {
-      "abr": "kidevahelmet",
-      "category": "Headgear",
-      "defname": "Apparel_SpaceSuitHelmetChild",
-      "price": -10
-    },
-    {
-      "abr": "heavyevasuit",
-      "category": "Armor",
-      "defname": "Apparel_SpaceSuitBodyHeavy",
-      "price": -10
-    },
-    {
-      "abr": "heavyevahelmet",
-      "category": "Headgear",
-      "defname": "Apparel_SpaceSuitHelmetHeavy",
-      "price": -10
-    },
-    {
-      "abr": "survivalbelt",
-      "category": "Armor",
-      "defname": "Apparel_SpaceSurvivalBelt",
-      "price": -10
-    },
-    {
-      "abr": "vanoroot",
-      "category": "Vegetarian",
-      "defname": "RawVanoroot",
-      "price": -10
-    },
-    {
-      "abr": "satellitemodule",
-      "category": "Manufactured",
-      "defname": "RimNauts2_Module_Satellite",
-      "price": -10
-    },
-    {
-      "abr": "stationmodule",
-      "category": "Manufactured",
-      "defname": "RimNauts2_Module_Station",
-      "price": -10
-    },
-    {
-      "abr": "spacesuithelmet",
-      "category": "Headgear",
-      "defname": "RimNauts2_Apparel_SpaceSuit_Head",
-      "price": -10
-    },
-    {
-      "abr": "spacesuitearmor",
-      "category": "Armor",
-      "defname": "RimNauts2_Apparel_SpaceSuit_Body",
-      "price": -10
-    },
-    {
-      "abr": "satellitecontroller",
-      "category": "Utility",
-      "defname": "SatelliteController",
-      "price": -10
-    },
-    {
-      "abr": "weaponstoolkit",
-      "category": "Manufactured",
-      "defname": "LTSWeaponsToolkit",
-      "price": -10
-    },
-    {
-      "abr": "sewingtoolkit",
-      "category": "Manufactured",
-      "defname": "LTSSewingToolkit",
-      "price": -10
-    },
-    {
-      "abr": "repairstoolkit",
-      "category": "Manufactured",
-      "defname": "LTSRepairsToolkit",
-      "price": -10
-    },
-    {
-      "abr": "grease",
-      "category": "Manufactured",
-      "defname": "LTSGrease",
-      "price": -10
-    },
-    {
-      "abr": "queen",
-      "category": "Animals",
-      "defname": "BI_Queen",
-      "price": -10
-    },
-    {
-      "abr": "refrigerator",
-      "category": "Furniture",
-      "defname": "owl_refrigerator",
-      "price": -10
-    },
-    {
-      "abr": "doublewiderefrigerator",
-      "category": "Furniture",
-      "defname": "owl_doublerefrigerator",
-      "price": -10
-    },
-    {
-      "abr": "modulartable",
-      "category": "Furniture",
-      "defname": "TableShortModular",
-      "price": -10
-    },
-    {
-      "abr": "modularstool",
-      "category": "Furniture",
-      "defname": "StoolLinkable",
-      "price": -10
-    },
-    {
-      "abr": "circuitbreaker",
-      "category": "Power",
-      "defname": "Building_RTCircuitBreaker",
-      "price": -10
-    },
-    {
-      "abr": "makeshiftfuse",
-      "category": "Power",
-      "defname": "Building_RTMakeshiftFuse",
-      "price": -10
-    },
-    {
-      "abr": "powerarm",
-      "category": "Bionic",
-      "defname": "PowerArm",
-      "price": -10
-    },
-    {
-      "abr": "advancedpowerarm",
-      "category": "Ultratech",
-      "defname": "AdvancedPowerArm",
-      "price": -10
-    },
-    {
-      "abr": "advancedbioniceye",
-      "category": "Ultratech",
-      "defname": "AdvancedBionicEye",
-      "price": -10
-    },
-    {
-      "abr": "advancedbionicarm",
-      "category": "Ultratech",
-      "defname": "AdvancedBionicArm",
-      "price": -10
-    },
-    {
-      "abr": "advancedbionicleg",
-      "category": "Ultratech",
-      "defname": "AdvancedBionicLeg",
-      "price": -10
-    },
-    {
-      "abr": "advancedbionicspine",
-      "category": "Ultratech",
-      "defname": "AdvancedBionicSpine",
-      "price": -10
-    },
-    {
-      "abr": "advancedbionicear",
-      "category": "Ultratech",
-      "defname": "AdvancedBionicEar",
-      "price": -10
-    },
-    {
-      "abr": "advancedbionichand",
-      "category": "Ultratech",
-      "defname": "AdvancedBionicHand",
-      "price": -10
-    },
-    {
-      "abr": "advancedbionicfoot",
-      "category": "Ultratech",
-      "defname": "AdvancedBionicFoot",
-      "price": -10
-    },
-    {
-      "abr": "advancedbionicfinger",
-      "category": "Ultratech",
-      "defname": "AdvancedBionicFinger",
-      "price": -10
-    },
-    {
-      "abr": "advancedbionictoe",
-      "category": "Ultratech",
-      "defname": "AdvancedBionicToe",
-      "price": -10
-    },
-    {
-      "abr": "advancedbionicjaw",
-      "category": "Ultratech",
-      "defname": "AdvancedBionicJaw",
-      "price": -10
-    },
-    {
-      "abr": "exoskeletonsuit",
-      "category": "Ultratech",
-      "defname": "ExoskeletonSuit",
-      "price": -10
-    },
-    {
-      "abr": "protectiveexoskeleton",
-      "category": "Ultratech",
-      "defname": "EPIA_ProtectiveExoskeleton",
-      "price": -10
-    },
-    {
-      "abr": "hookhand",
-      "category": "Prosthetic",
-      "defname": "HookHand",
-      "price": -10
-    },
-    {
-      "abr": "steelarm",
-      "category": "Prosthetic",
-      "defname": "SteelArm",
-      "price": -10
-    },
-    {
-      "abr": "bioniceye",
-      "category": "Bionic",
-      "defname": "BionicEye",
-      "price": -10
-    },
-    {
-      "abr": "bionicleg",
-      "category": "Bionic",
-      "defname": "BionicLeg",
-      "price": -10
-    },
-    {
-      "abr": "bionicarm",
-      "category": "Bionic",
-      "defname": "BionicArm",
-      "price": -10
-    },
-    {
-      "abr": "bionicspine",
-      "category": "Bionic",
-      "defname": "BionicSpine",
-      "price": -10
-    },
-    {
-      "abr": "bionicear",
-      "category": "Bionic",
-      "defname": "BionicEar",
-      "price": -10
-    },
-    {
-      "abr": "bionichand",
-      "category": "Bionic",
-      "defname": "BionicHand",
-      "price": -10
-    },
-    {
-      "abr": "bionicfoot",
-      "category": "Bionic",
-      "defname": "BionicFoot",
-      "price": -10
-    },
-    {
-      "abr": "bionicfinger",
-      "category": "Bionic",
-      "defname": "BionicFinger",
-      "price": -10
-    },
-    {
-      "abr": "bionictoe",
-      "category": "Bionic",
-      "defname": "BionicToe",
-      "price": -10
-    },
-    {
-      "abr": "bionicjaw",
-      "category": "Bionic",
-      "defname": "BionicJaw",
-      "price": -10
-    },
-    {
-      "abr": "silentjaw",
-      "category": "Bionic",
-      "defname": "SilentJaw",
-      "price": -10
-    },
-    {
-      "abr": "blankribreplacement",
-      "category": "Bionic",
-      "defname": "SimpleRib",
-      "price": -10
-    },
-    {
-      "abr": "medicalribimplant",
-      "category": "Bionic",
-      "defname": "MedicalRib",
-      "price": -10
-    },
-    {
-      "abr": "druggedribimplant",
-      "category": "Bionic",
-      "defname": "DruggedRib",
-      "price": -10
-    },
-    {
-      "abr": "adrenalineribimplant",
-      "category": "Bionic",
-      "defname": "AdrenalineRib",
-      "price": -10
-    },
-    {
-      "abr": "painkillerribimplant",
-      "category": "Bionic",
-      "defname": "PainkillerRib",
-      "price": -10
-    },
-    {
-      "abr": "heatingribimplant",
-      "category": "Bionic",
-      "defname": "HeaterRib",
-      "price": -10
-    },
-    {
-      "abr": "coolingribimplant",
-      "category": "Bionic",
-      "defname": "CoolerRib",
-      "price": -10
-    },
-    {
-      "abr": "coagulatorribimplant",
-      "category": "Bionic",
-      "defname": "CoagulatorRib",
-      "price": -10
-    },
-    {
-      "abr": "respirationribimplant",
-      "category": "Bionic",
-      "defname": "RespirationRib",
-      "price": -10
-    },
-    {
-      "abr": "wake-upribimplant",
-      "category": "Bionic",
-      "defname": "WakeUpRib",
-      "price": -10
-    },
-    {
-      "abr": "tacticalcorneaimplant",
-      "category": "Ultratech",
-      "defname": "TacticalCorneaImplant",
-      "price": -10
-    },
-    {
-      "abr": "auxiliaryai(worker)",
-      "category": "Ultratech",
-      "defname": "EPIA_AuxiliaryAI_Worker",
-      "price": -10
-    },
-    {
-      "abr": "auxiliaryai(combat)",
-      "category": "Ultratech",
-      "defname": "EPIA_AuxiliaryAI_Combat",
-      "price": -10
-    },
-    {
-      "abr": "tacticalbioniceye",
-      "category": "Ultratech",
-      "defname": "EPIA_TacticalBionicEye",
-      "price": -10
-    },
-    {
-      "abr": "organicoptimizingnanobots",
-      "category": "Organic optimizer",
-      "defname": "EPOE_OrganicOptimizingNanobots",
-      "price": -10
-    },
-    {
-      "abr": "instinctoptimizingnanobots",
-      "category": "Organic optimizer",
-      "defname": "EPOE_InstinctOptimizingNanobots",
-      "price": -10
-    },
-    {
-      "abr": "synthetictissue",
-      "category": "Body restoration",
-      "defname": "SyntheticSkin",
-      "price": -10
-    },
-    {
-      "abr": "neuromuscularframework",
-      "category": "Body restoration",
-      "defname": "NeuromuscularFramework",
-      "price": -10
-    },
-    {
-      "abr": "neuro-cureframework",
-      "category": "Body restoration",
-      "defname": "NeurocureFramework",
-      "price": -10
-    },
-    {
-      "abr": "syntheticbone",
-      "category": "Body restoration",
-      "defname": "EPIA_SyntheticBone",
-      "price": -10
-    },
-    {
-      "abr": "prostheticleg",
-      "category": "Prosthetic",
-      "defname": "SimpleProstheticLeg",
-      "price": -10
-    },
-    {
-      "abr": "prostheticarm",
-      "category": "Prosthetic",
-      "defname": "SimpleProstheticArm",
-      "price": -10
-    },
-    {
-      "abr": "cochlearimplant",
-      "category": "Prosthetic",
-      "defname": "CochlearImplant",
-      "price": -10
-    },
-    {
-      "abr": "goldeneye",
-      "category": "Prosthetic",
-      "defname": "GoldenEye",
-      "price": -10
-    },
-    {
-      "abr": "lightreceptor",
-      "category": "Prosthetic",
-      "defname": "LightReceptor",
-      "price": -10
-    },
-    {
-      "abr": "replacementspine",
-      "category": "Prosthetic",
-      "defname": "SimpleSpine",
-      "price": -10
-    },
-    {
-      "abr": "prosthetichand",
-      "category": "Prosthetic",
-      "defname": "SimpleProstheticHand",
-      "price": -10
-    },
-    {
-      "abr": "prostheticfoot",
-      "category": "Prosthetic",
-      "defname": "SimpleProstheticFoot",
-      "price": -10
-    },
-    {
-      "abr": "prostheticfinger",
-      "category": "Prosthetic",
-      "defname": "SimpleProstheticFinger",
-      "price": -10
-    },
-    {
-      "abr": "prosthetictoe",
-      "category": "Prosthetic",
-      "defname": "SimpleProstheticToe",
-      "price": -10
-    },
-    {
-      "abr": "hydraulicjaw",
-      "category": "Prosthetic",
-      "defname": "HydraulicJaw",
-      "price": -10
-    },
-    {
-      "abr": "artificialnose",
-      "category": "Prosthetic",
-      "defname": "ArtificialNose",
-      "price": -10
-    },
-    {
-      "abr": "replacementradius",
-      "category": "Prosthetic",
-      "defname": "ReplacementRadius",
-      "price": -10
-    },
-    {
-      "abr": "scytherblade",
-      "category": "Prosthetic",
-      "defname": "EPIA_ScytherBlade",
-      "price": -10
-    },
-    {
-      "abr": "surrogateheart",
-      "category": "Prosthetic",
-      "defname": "SimpleProstheticHeart",
-      "price": -10
-    },
-    {
-      "abr": "surrogatelung",
-      "category": "Prosthetic",
-      "defname": "SurrogateLung",
-      "price": -10
-    },
-    {
-      "abr": "surrogatestomach",
-      "category": "Prosthetic",
-      "defname": "SurrogateStomach",
-      "price": -10
-    },
-    {
-      "abr": "surrogateliver",
-      "category": "Prosthetic",
-      "defname": "SurrogateLiver",
-      "price": -10
-    },
-    {
-      "abr": "surrogatekidney",
-      "category": "Prosthetic",
-      "defname": "SurrogateKidney",
-      "price": -10
-    },
-    {
-      "abr": "brainstimulator",
-      "category": "Prosthetic",
-      "defname": "BrainStimulator",
-      "price": -10
-    },
-    {
-      "abr": "syntheticheart",
-      "category": "Bionic",
-      "defname": "BionicHeart",
-      "price": -10
-    },
-    {
-      "abr": "syntheticlung",
-      "category": "Bionic",
-      "defname": "SyntheticLung",
-      "price": -10
-    },
-    {
-      "abr": "syntheticstomach",
-      "category": "Bionic",
-      "defname": "BionicStomach",
-      "price": -10
-    },
-    {
-      "abr": "syntheticliver",
-      "category": "Bionic",
-      "defname": "SyntheticLiver",
-      "price": -10
-    },
-    {
-      "abr": "synthetickidney",
-      "category": "Bionic",
-      "defname": "SyntheticKidney",
-      "price": -10
-    },
-    {
-      "abr": "musclestimulator",
-      "category": "Bionic",
-      "defname": "MuscleStimulator",
-      "price": -10
-    },
-    {
-      "abr": "aichip",
-      "category": "Bionic",
-      "defname": "AIChip",
-      "price": -10
-    },
-    {
-      "abr": "eyeball",
-      "category": "Natural",
-      "defname": "Eye",
-      "price": -10
-    },
-    {
-      "abr": "nose",
-      "category": "Natural",
-      "defname": "Nose",
-      "price": -10
-    },
-    {
-      "abr": "ear",
-      "category": "Natural",
-      "defname": "Ear",
-      "price": -10
-    },
-    {
-      "abr": "jaw",
-      "category": "Natural",
-      "defname": "Jaw",
-      "price": -10
-    },
-    {
-      "abr": "stomach",
-      "category": "Natural",
-      "defname": "Stomach",
-      "price": -10
-    },
-    {
-      "abr": "arm",
-      "category": "Natural",
-      "defname": "Arm",
-      "price": -10
-    },
-    {
-      "abr": "leg",
-      "category": "Natural",
-      "defname": "Leg",
-      "price": -10
-    },
-    {
-      "abr": "bionicsworkbench",
-      "category": "Production",
-      "defname": "TableBionics",
-      "price": -10
-    },
-    {
-      "abr": "syntheticnanoprinter",
-      "category": "Production",
-      "defname": "TableOrgans",
-      "price": -10
-    },
-    {
-      "abr": "damagedscytherblade",
-      "category": "Manufactured",
-      "defname": "EPOE_DamagedScytherBlade",
-      "price": -10
-    },
-    {
-      "abr": "ma-aichip",
-      "category": "Manufactured",
-      "defname": "EPOE_MAAI_Chip",
+      "abr": "binoculars",
+      "category": "Ranged weapons",
+      "defname": "Gun_BinocularsRadio",
       "price": -10
     },
     {
@@ -4318,6 +3430,2496 @@
       "abr": "wallsunlight",
       "category": "Furniture",
       "defname": "Lighting_MURWallSunLight",
+      "price": -10
+    },
+    {
+      "abr": "multilauncher",
+      "category": "Ranged weapons",
+      "defname": "Gun_MultiLauncher",
+      "price": -10
+    },
+    {
+      "abr": "toolcabinet(shelf)",
+      "category": "Misc",
+      "defname": "ToolCabinetShelf",
+      "price": -10
+    },
+    {
+      "abr": "imperialmachiningtable",
+      "category": "Production",
+      "defname": "OGI_TableMachining",
+      "price": -10
+    },
+    {
+      "abr": "warptaintedmachiningtable",
+      "category": "Production",
+      "defname": "OGC_TableMachining",
+      "price": -10
+    },
+    {
+      "abr": "eldarcraftingsupplies",
+      "category": "Production",
+      "defname": "OGE_TableMachining",
+      "price": -10
+    },
+    {
+      "abr": "darkeldarcraftingsupplies",
+      "category": "Production",
+      "defname": "OGDE_TableMachining",
+      "price": -10
+    },
+    {
+      "abr": "taucraftingsupplies",
+      "category": "Production",
+      "defname": "OGT_TableMachining",
+      "price": -10
+    },
+    {
+      "abr": "pintle-mountedstormbolter",
+      "category": "Security",
+      "defname": "OGI_Turret_StormBolter_Manual",
+      "price": -10
+    },
+    {
+      "abr": "pintle-mountedheavybolter",
+      "category": "Security",
+      "defname": "OGI_Turret_HeavyBolter_Manual",
+      "price": -10
+    },
+    {
+      "abr": "stcdatacore",
+      "category": "Items",
+      "defname": "OGI_STC_Datacore",
+      "price": -10
+    },
+    {
+      "abr": "psychiccircuitry",
+      "category": "Manufactured",
+      "defname": "OGDE_Component",
+      "price": -10
+    },
+    {
+      "abr": "wraithbone",
+      "category": "Manufactured",
+      "defname": "OGDE_Wraithbone",
+      "price": -10
+    },
+    {
+      "abr": "spiritstones",
+      "category": "Manufactured",
+      "defname": "OGDE_SpiritStone",
+      "price": -10
+    },
+    {
+      "abr": "psychiccircuitry",
+      "category": "Manufactured",
+      "defname": "OGE_Component",
+      "price": -10
+    },
+    {
+      "abr": "wraithbone",
+      "category": "Manufactured",
+      "defname": "OGE_Wraithbone",
+      "price": -10
+    },
+    {
+      "abr": "spiritstones",
+      "category": "Manufactured",
+      "defname": "OGE_SpiritStone",
+      "price": -10
+    },
+    {
+      "abr": "komponent",
+      "category": "Manufactured",
+      "defname": "OGO_Component",
+      "price": -10
+    },
+    {
+      "abr": "bitz",
+      "category": "Manufactured",
+      "defname": "OGO_Bitz",
+      "price": -10
+    },
+    {
+      "abr": "fiocomponents",
+      "category": "Manufactured",
+      "defname": "OGT_Component",
+      "price": -10
+    },
+    {
+      "abr": "fio'tak",
+      "category": "Manufactured",
+      "defname": "OGT_Fiotak",
+      "price": -10
+    },
+    {
+      "abr": "mor'tonium",
+      "category": "Manufactured",
+      "defname": "OGT_Mortonium",
+      "price": -10
+    },
+    {
+      "abr": "nutrientsolution",
+      "category": "Manufactured",
+      "defname": "OG_NutrientSolution",
+      "price": -10
+    },
+    {
+      "abr": "proteinmash",
+      "category": "Manufactured",
+      "defname": "OG_ProteinMash",
+      "price": -10
+    },
+    {
+      "abr": "holodisk",
+      "category": "Items",
+      "defname": "HoloDisk",
+      "price": -10
+    },
+    {
+      "abr": "synth-skin",
+      "category": "Imperial",
+      "defname": "OGOA_Apparel_SynthSkin",
+      "price": -10
+    },
+    {
+      "abr": "culexusassasainhelmet",
+      "category": "Imperial",
+      "defname": "OGOA_Apparel_Culexus_Helmet",
+      "price": -10
+    },
+    {
+      "abr": "eversorassasainhelmet",
+      "category": "Imperial",
+      "defname": "OGOA_Apparel_Eversor_Helmet",
+      "price": -10
+    },
+    {
+      "abr": "vindicareassasainhelmet",
+      "category": "Imperial",
+      "defname": "OGOA_Apparel_Vindicare_Helmet",
+      "price": -10
+    },
+    {
+      "abr": "imperialpowerarmor",
+      "category": "Imperial",
+      "defname": "OGI_Armour_Power",
+      "price": -10
+    },
+    {
+      "abr": "imperialpowerarmourhelmet",
+      "category": "Imperial",
+      "defname": "OGI_Armour_Power_Helmet",
+      "price": -10
+    },
+    {
+      "abr": "enginseerrobe",
+      "category": "Adeptus Mechanicus",
+      "defname": "OGAM_Apparel_EnginseerRobe",
+      "price": -10
+    },
+    {
+      "abr": "enginseerhood",
+      "category": "Adeptus Mechanicus",
+      "defname": "OGAM_Apparel_EnginseerHood",
+      "price": -10
+    },
+    {
+      "abr": "skitariilegionnairearmour",
+      "category": "Adeptus Mechanicus",
+      "defname": "OGAM_Apparel_SkitariiLegionnaireArmour",
+      "price": -10
+    },
+    {
+      "abr": "skitariirangerhelmet",
+      "category": "Adeptus Mechanicus",
+      "defname": "OGAM_Apparel_SkitariiRangerHelmet",
+      "price": -10
+    },
+    {
+      "abr": "skitariivanguardhelmet",
+      "category": "Adeptus Mechanicus",
+      "defname": "OGAM_Apparel_SkitariiVanguardHelmet",
+      "price": -10
+    },
+    {
+      "abr": "skitariisicarianarmour",
+      "category": "Adeptus Mechanicus",
+      "defname": "OGAM_Apparel_SicarianArmour",
+      "price": -10
+    },
+    {
+      "abr": "sicarianhelmet",
+      "category": "Adeptus Mechanicus",
+      "defname": "OGAM_Apparel_SicarianRuststalkerHelmet",
+      "price": -10
+    },
+    {
+      "abr": "lightflakarmour",
+      "category": "Imperial",
+      "defname": "OGIG_Apparel_FlakArmourLight",
+      "price": -10
+    },
+    {
+      "abr": "lightflakgreaves",
+      "category": "Imperial",
+      "defname": "OGIG_Apparel_FlakArmourLightGreaves",
+      "price": -10
+    },
+    {
+      "abr": "imperialguardflakarmor",
+      "category": "Imperial",
+      "defname": "OGIG_Apparel_FlakArmour",
+      "price": -10
+    },
+    {
+      "abr": "tempestusscioncarapacearmor",
+      "category": "Imperial",
+      "defname": "OGIG_Apparel_TempestusScion_CarapaceArmour",
+      "price": -10
+    },
+    {
+      "abr": "lightflakhelmet",
+      "category": "Imperial",
+      "defname": "OGIG_Apparel_FlakHelmetLight",
+      "price": -10
+    },
+    {
+      "abr": "cadianpatternhelmet",
+      "category": "Imperial",
+      "defname": "OGIG_Apparel_Cadia_FlakHelmet_TOGGLEDEF_GogglesUp",
+      "price": -10
+    },
+    {
+      "abr": "cadianpatternhelmet(goggled)",
+      "category": "Imperial",
+      "defname": "OGIG_Apparel_Cadia_FlakHelmet_TOGGLEDEF_GogglesDown",
+      "price": -10
+    },
+    {
+      "abr": "armageddonpatternhelmet",
+      "category": "Imperial",
+      "defname": "OGIG_Apparel_Armageddon_FlakHelmet",
+      "price": -10
+    },
+    {
+      "abr": "kriegpatternhelmet",
+      "category": "Imperial",
+      "defname": "OGIG_Apparel_Krieg_FlakHelmet",
+      "price": -10
+    },
+    {
+      "abr": "valhallanpatternhelmet",
+      "category": "Imperial",
+      "defname": "OGIG_Apparel_Valhallan_FlakHelmet",
+      "price": -10
+    },
+    {
+      "abr": "tempestusscionomnishieldhelmet",
+      "category": "Imperial",
+      "defname": "OGIG_Apparel_TempestusScion_CarapaceHelmet",
+      "price": -10
+    },
+    {
+      "abr": "imperialguardgasmask",
+      "category": "Imperial",
+      "defname": "OGIG_Apparel_Cadian_GasMask",
+      "price": -10
+    },
+    {
+      "abr": "valhallanpatternrebreather",
+      "category": "Imperial",
+      "defname": "OGIG_Apparel_Valhallan_GasMask",
+      "price": -10
+    },
+    {
+      "abr": "sororitaspowerarmour",
+      "category": "Imperial",
+      "defname": "OGAS_Apparel_PowerArmour",
+      "price": -10
+    },
+    {
+      "abr": "sororitaspowerarmourhelmet",
+      "category": "Imperial",
+      "defname": "OGAS_Apparel_PowerArmourHelmet",
+      "price": -10
+    },
+    {
+      "abr": "repentiagarb",
+      "category": "Imperial",
+      "defname": "OGAS_Apparel_Armor_Repentia",
+      "price": -10
+    },
+    {
+      "abr": "repentiahood",
+      "category": "Headgear",
+      "defname": "OGAS_Apparel_Armor_RepentiaHood",
+      "price": -10
+    },
+    {
+      "abr": "tribalcloak",
+      "category": "Apparel",
+      "defname": "OG_Apparel_Tribal_Cloak",
+      "price": -10
+    },
+    {
+      "abr": "cloak",
+      "category": "Apparel",
+      "defname": "OG_Apparel_Cloak",
+      "price": -10
+    },
+    {
+      "abr": "blindgrenadepack(i)",
+      "category": "Imperial Wargear",
+      "defname": "OGI_GrenadePack_Blind",
+      "price": -10
+    },
+    {
+      "abr": "fraggrenadepack(i)",
+      "category": "Imperial Wargear",
+      "defname": "OGI_GrenadePack_Frag",
+      "price": -10
+    },
+    {
+      "abr": "krakgrenadepack(i)",
+      "category": "Imperial Wargear",
+      "defname": "OGI_GrenadePack_Krak",
+      "price": -10
+    },
+    {
+      "abr": "radgrenadepack(i)",
+      "category": "Imperial Wargear",
+      "defname": "OGI_GrenadePack_Rad",
+      "price": -10
+    },
+    {
+      "abr": "meltabombpack(i)",
+      "category": "Imperial Wargear",
+      "defname": "OGI_GrenadePack_Melta",
+      "price": -10
+    },
+    {
+      "abr": "imperialundershirt",
+      "category": "Imperial",
+      "defname": "OGIG_Apparel_UniformShirt",
+      "price": -10
+    },
+    {
+      "abr": "commissarjacket",
+      "category": "Imperial",
+      "defname": "OGIG_Apparel_CommissarJacket",
+      "price": -10
+    },
+    {
+      "abr": "armageddonpatterntrenchcoat",
+      "category": "Imperial",
+      "defname": "OGIG_Apparel_Armageddon_Uniform_Trenchcoat",
+      "price": -10
+    },
+    {
+      "abr": "kriegpatterntrenchcoat",
+      "category": "Imperial",
+      "defname": "OGIG_Apparel_Krieg_Uniform_Trenchcoat",
+      "price": -10
+    },
+    {
+      "abr": "fieldcap",
+      "category": "Imperial",
+      "defname": "OGIG_Apparel_FieldCap",
+      "price": -10
+    },
+    {
+      "abr": "officercap",
+      "category": "Imperial",
+      "defname": "OGIG_Apparel_OfficerCap",
+      "price": -10
+    },
+    {
+      "abr": "commissarcap",
+      "category": "Imperial",
+      "defname": "OGIG_Apparel_CommissarCap",
+      "price": -10
+    },
+    {
+      "abr": "armageddonpatternrebreather",
+      "category": "Imperial",
+      "defname": "OGIG_Apparel_Armageddon_Gasmask",
+      "price": -10
+    },
+    {
+      "abr": "kriegpatternrebreather",
+      "category": "Imperial",
+      "defname": "OGIG_Apparel_Krieg_Gasmask",
+      "price": -10
+    },
+    {
+      "abr": "ushanka",
+      "category": "Imperial",
+      "defname": "OGIG_Apparel_ValhallanUshanhka",
+      "price": -10
+    },
+    {
+      "abr": "pilotka",
+      "category": "Imperial",
+      "defname": "OGIG_Apparel_ValhallanPilotka",
+      "price": -10
+    },
+    {
+      "abr": "snowgoggles",
+      "category": "Imperial",
+      "defname": "OGIG_Apparel_Valhallan_Goggles",
+      "price": -10
+    },
+    {
+      "abr": "snowgoggles",
+      "category": "Imperial",
+      "defname": "OGIG_Apparel_Armageddon_Goggles",
+      "price": -10
+    },
+    {
+      "abr": "rosarius",
+      "category": "Imperial Wargear",
+      "defname": "OGI_Wargear_Rosarius",
+      "price": -10
+    },
+    {
+      "abr": "ironhalo",
+      "category": "Imperial Wargear",
+      "defname": "OGI_Wargear_IronHalo",
+      "price": -10
+    },
+    {
+      "abr": "combatshield",
+      "category": "Imperial Wargear",
+      "defname": "OGI_Wargear_CombatShield",
+      "price": -10
+    },
+    {
+      "abr": "stormshield",
+      "category": "Imperial Wargear",
+      "defname": "OGI_Wargear_StormShield",
+      "price": -10
+    },
+    {
+      "abr": "purityseal",
+      "category": "Imperial Wargear",
+      "defname": "OGI_Apparel_PuritySealA_TOGGLEDEF_S",
+      "price": -10
+    },
+    {
+      "abr": "purityseal(wargearslot1)",
+      "category": "Imperial Wargear",
+      "defname": "OGI_Apparel_PuritySealA_TOGGLEDEF_1S",
+      "price": -10
+    },
+    {
+      "abr": "purityseal(wargearslot2)",
+      "category": "Imperial Wargear",
+      "defname": "OGI_Apparel_PuritySealA_TOGGLEDEF_2S",
+      "price": -10
+    },
+    {
+      "abr": "purityseal(wargearslot3)",
+      "category": "Imperial Wargear",
+      "defname": "OGI_Apparel_PuritySealA_TOGGLEDEF_3S",
+      "price": -10
+    },
+    {
+      "abr": "hospitallerservoskull",
+      "category": "Imperial Wargear",
+      "defname": "OGI_Apparel_ServoSkullA",
+      "price": -10
+    },
+    {
+      "abr": "inquisitorialservoskull",
+      "category": "Imperial Wargear",
+      "defname": "OGI_Apparel_ServoSkullB",
+      "price": -10
+    },
+    {
+      "abr": "mechanariumservoskull",
+      "category": "Imperial Wargear",
+      "defname": "OGI_Apparel_ServoSkullC",
+      "price": -10
+    },
+    {
+      "abr": "imperialbasicservoarm",
+      "category": "Imperial Wargear",
+      "defname": "OGI_Wargear_ServoArm",
+      "price": -10
+    },
+    {
+      "abr": "chainsword(c)",
+      "category": "Chaos Melee Weapons",
+      "defname": "OGC_Melee_ChainSword",
+      "price": -10
+    },
+    {
+      "abr": "chainaxe(c)",
+      "category": "Chaos Melee Weapons",
+      "defname": "OGC_Melee_ChainAxe",
+      "price": -10
+    },
+    {
+      "abr": "hellblade",
+      "category": "Chaos Melee Weapons",
+      "defname": "OGC_Melee_Hellblade",
+      "price": -10
+    },
+    {
+      "abr": "plagueknife",
+      "category": "Chaos Melee Weapons",
+      "defname": "OGC_Melee_PlagueKnife",
+      "price": -10
+    },
+    {
+      "abr": "plaguesword",
+      "category": "Chaos Melee Weapons",
+      "defname": "OGC_Melee_Plaguesword",
+      "price": -10
+    },
+    {
+      "abr": "bilesword(c)",
+      "category": "Chaos Melee Weapons",
+      "defname": "OGC_Melee_Bileblade",
+      "price": -10
+    },
+    {
+      "abr": "manreaper",
+      "category": "Chaos Melee Weapons",
+      "defname": "OGC_Melee_ManReaper",
+      "price": -10
+    },
+    {
+      "abr": "deamonicclaw",
+      "category": "Chaos Melee Weapons",
+      "defname": "OGCD_Melee_Deamonette_Claw",
+      "price": -10
+    },
+    {
+      "abr": "sorcerersstaff",
+      "category": "Chaos Melee Weapons",
+      "defname": "OGC_Melee_SorcerersStaff",
+      "price": -10
+    },
+    {
+      "abr": "powersword(c)",
+      "category": "Chaos Melee Weapons",
+      "defname": "OGC_Melee_PowerSword",
+      "price": -10
+    },
+    {
+      "abr": "poweraxe(c)",
+      "category": "Chaos Melee Weapons",
+      "defname": "OGC_Melee_PowerAxe",
+      "price": -10
+    },
+    {
+      "abr": "lightningclaw(c)",
+      "category": "Chaos Melee Weapons",
+      "defname": "OGC_Melee_LightningClawS",
+      "price": -10
+    },
+    {
+      "abr": "duallightningclaws(c)",
+      "category": "Chaos Melee Weapons",
+      "defname": "OGC_Melee_LightningClawD",
+      "price": -10
+    },
+    {
+      "abr": "powerfist(c)",
+      "category": "Chaos Melee Weapons",
+      "defname": "OGC_Melee_PowerFist",
+      "price": -10
+    },
+    {
+      "abr": "powermaul(c)",
+      "category": "Chaos Melee Weapons",
+      "defname": "OGC_Melee_PowerMaul",
+      "price": -10
+    },
+    {
+      "abr": "thunderhammer(c)",
+      "category": "Chaos Melee Weapons",
+      "defname": "OGC_Melee_ThunderHammer",
+      "price": -10
+    },
+    {
+      "abr": "autopistol(c)",
+      "category": "Ranged weapons",
+      "defname": "OGC_Gun_AutoPistol",
+      "price": -10
+    },
+    {
+      "abr": "autogun(c)",
+      "category": "Ranged weapons",
+      "defname": "OGC_Gun_AutoGun",
+      "price": -10
+    },
+    {
+      "abr": "reaperautocannon(c)",
+      "category": "Ranged weapons",
+      "defname": "OGC_Gun_RAutocannon",
+      "price": -10
+    },
+    {
+      "abr": "chaingun(c)",
+      "category": "Ranged weapons",
+      "defname": "OGC_Gun_ReaperChaingun",
+      "price": -10
+    },
+    {
+      "abr": "boltpistol(c)",
+      "category": "Ranged weapons",
+      "defname": "OGC_Gun_BoltPistol",
+      "price": -10
+    },
+    {
+      "abr": "bolter(c)",
+      "category": "Ranged weapons",
+      "defname": "OGC_Gun_BoltGun",
+      "price": -10
+    },
+    {
+      "abr": "stormbolter(c)",
+      "category": "Ranged weapons",
+      "defname": "OGC_Gun_StormBolter",
+      "price": -10
+    },
+    {
+      "abr": "heavybolter(c)",
+      "category": "Ranged weapons",
+      "defname": "OGC_Gun_HeavyBolter",
+      "price": -10
+    },
+    {
+      "abr": "laspistol(c)",
+      "category": "Ranged weapons",
+      "defname": "OGC_Gun_LasPistol",
+      "price": -10
+    },
+    {
+      "abr": "lasgun(c)",
+      "category": "Ranged weapons",
+      "defname": "OGC_Gun_LasGun",
+      "price": -10
+    },
+    {
+      "abr": "lascannon(c)",
+      "category": "Ranged weapons",
+      "defname": "OGC_Gun_LasCannon",
+      "price": -10
+    },
+    {
+      "abr": "meltagun(c)",
+      "category": "Ranged weapons",
+      "defname": "OGC_Gun_MeltaGun",
+      "price": -10
+    },
+    {
+      "abr": "sonicblaster(c)",
+      "category": "Ranged weapons",
+      "defname": "OGC_Gun_SonicBlaster",
+      "price": -10
+    },
+    {
+      "abr": "blastmaster(c)",
+      "category": "Ranged weapons",
+      "defname": "OGC_Gun_Blastmaster",
+      "price": -10
+    },
+    {
+      "abr": "missilelauncher(c)",
+      "category": "Ranged weapons",
+      "defname": "OGC_Gun_RocketLaucher",
+      "price": -10
+    },
+    {
+      "abr": "plasmapistol(c)",
+      "category": "Ranged weapons",
+      "defname": "OGC_Gun_PlasmaPistol",
+      "price": -10
+    },
+    {
+      "abr": "plasmagun(c)",
+      "category": "Ranged weapons",
+      "defname": "OGC_Gun_PlasmaGun",
+      "price": -10
+    },
+    {
+      "abr": "plasmacannon(c)",
+      "category": "Ranged weapons",
+      "defname": "OGC_Gun_PlasmaCannon",
+      "price": -10
+    },
+    {
+      "abr": "vambraceblade(de)",
+      "category": "Dark Eldar Melee Weapons",
+      "defname": "OGDE_Melee_VambraceBlade",
+      "price": -10
+    },
+    {
+      "abr": "wychknife(de)",
+      "category": "Dark Eldar Melee Weapons",
+      "defname": "OGDE_Melee_WychKnife",
+      "price": -10
+    },
+    {
+      "abr": "mandrakeblade(de)",
+      "category": "Dark Eldar Melee Weapons",
+      "defname": "OGDE_Melee_MandrakeBlade",
+      "price": -10
+    },
+    {
+      "abr": "razorflail(de)",
+      "category": "Dark Eldar Melee Weapons",
+      "defname": "OGDE_Melee_Razorflail",
+      "price": -10
+    },
+    {
+      "abr": "impaler(de)",
+      "category": "Dark Eldar Melee Weapons",
+      "defname": "OGDE_Melee_Impaler",
+      "price": -10
+    },
+    {
+      "abr": "powersword(de)",
+      "category": "Dark Eldar Melee Weapons",
+      "defname": "OGDE_Melee_PowerSword",
+      "price": -10
+    },
+    {
+      "abr": "venomblade(de)",
+      "category": "Dark Eldar Melee Weapons",
+      "defname": "OGDE_Melee_VenomBlade",
+      "price": -10
+    },
+    {
+      "abr": "djinblade(de)",
+      "category": "Dark Eldar Melee Weapons",
+      "defname": "OGDE_Melee_DjinBlade",
+      "price": -10
+    },
+    {
+      "abr": "demiklaive(de)",
+      "category": "Dark Eldar Melee Weapons",
+      "defname": "OGDE_Melee_Demiklaive",
+      "price": -10
+    },
+    {
+      "abr": "klaive(de)",
+      "category": "Dark Eldar Melee Weapons",
+      "defname": "OGDE_Melee_Klaive",
+      "price": -10
+    },
+    {
+      "abr": "agoniser(de)",
+      "category": "Dark Eldar Melee Weapons",
+      "defname": "OGDE_Melee_Agoniser",
+      "price": -10
+    },
+    {
+      "abr": "huskblade(de)",
+      "category": "Dark Eldar Melee Weapons",
+      "defname": "OGDE_Melee_HuskBlade",
+      "price": -10
+    },
+    {
+      "abr": "hellglaive(de)",
+      "category": "Dark Eldar Melee Weapons",
+      "defname": "OGDE_Melee_Hellglaive",
+      "price": -10
+    },
+    {
+      "abr": "splinterpistol(de)",
+      "category": "Ranged weapons",
+      "defname": "OGDE_Gun_SplinterPistol",
+      "price": -10
+    },
+    {
+      "abr": "splinterrifle(de)",
+      "category": "Ranged weapons",
+      "defname": "OGDE_Gun_SplinterRifle",
+      "price": -10
+    },
+    {
+      "abr": "shardcarbine(de)",
+      "category": "Ranged weapons",
+      "defname": "OGDE_Gun_ShardCarbine",
+      "price": -10
+    },
+    {
+      "abr": "splintercannon(de)",
+      "category": "Ranged weapons",
+      "defname": "OGDE_Gun_SplinterCannon",
+      "price": -10
+    },
+    {
+      "abr": "disintegratorcannon(de)",
+      "category": "Ranged weapons",
+      "defname": "OGDE_Gun_DisintegratorCannon",
+      "price": -10
+    },
+    {
+      "abr": "shredder(de)",
+      "category": "Ranged weapons",
+      "defname": "OGDE_Gun_Shredder",
+      "price": -10
+    },
+    {
+      "abr": "stingerpistol(de)",
+      "category": "Ranged weapons",
+      "defname": "OGDE_Gun_StingerPistol",
+      "price": -10
+    },
+    {
+      "abr": "blastpistol(de)",
+      "category": "Ranged weapons",
+      "defname": "OGDE_Gun_BlastPistol",
+      "price": -10
+    },
+    {
+      "abr": "blaster(de)",
+      "category": "Ranged weapons",
+      "defname": "OGDE_Gun_Blaster",
+      "price": -10
+    },
+    {
+      "abr": "darklance(de)",
+      "category": "Ranged weapons",
+      "defname": "OGDE_Gun_Darklance",
+      "price": -10
+    },
+    {
+      "abr": "fusionpistol(de)",
+      "category": "Ranged weapons",
+      "defname": "OGDE_Gun_FusionPistol",
+      "price": -10
+    },
+    {
+      "abr": "heatlance(de)",
+      "category": "Ranged weapons",
+      "defname": "OGDE_Gun_HeatLance",
+      "price": -10
+    },
+    {
+      "abr": "haywireblaster(de)",
+      "category": "Ranged weapons",
+      "defname": "OGDE_Gun_HaywireBlaster",
+      "price": -10
+    },
+    {
+      "abr": "scorpionchainsword(e)",
+      "category": "Eldar Melee Weapons",
+      "defname": "OGE_Melee_ScorpionChainsword",
+      "price": -10
+    },
+    {
+      "abr": "bitingblade(e)",
+      "category": "Eldar Melee Weapons",
+      "defname": "OGE_Melee_BitingBlade",
+      "price": -10
+    },
+    {
+      "abr": "scorpion'sclaw(e)",
+      "category": "Eldar Melee Weapons",
+      "defname": "OGE_Melee_ScorpionsClaw",
+      "price": -10
+    },
+    {
+      "abr": "powersword(e)",
+      "category": "Eldar Melee Weapons",
+      "defname": "OGE_Melee_PowerSword",
+      "price": -10
+    },
+    {
+      "abr": "mirrorsword(e)",
+      "category": "Eldar Melee Weapons",
+      "defname": "OGE_Melee_MirrorswordS",
+      "price": -10
+    },
+    {
+      "abr": "pairedmirrorswords(e)",
+      "category": "Eldar Melee Weapons",
+      "defname": "OGE_Melee_MirrorswordD",
+      "price": -10
+    },
+    {
+      "abr": "ghostsword(e)",
+      "category": "Eldar Melee Weapons",
+      "defname": "OGE_Melee_GhostSword",
+      "price": -10
+    },
+    {
+      "abr": "dualghostswords(e)",
+      "category": "Eldar Melee Weapons",
+      "defname": "OGE_Melee_GhostSwordD",
+      "price": -10
+    },
+    {
+      "abr": "ghostaxe(e)",
+      "category": "Eldar Melee Weapons",
+      "defname": "OGE_Melee_GhostAxe",
+      "price": -10
+    },
+    {
+      "abr": "executioner(e)",
+      "category": "Eldar Melee Weapons",
+      "defname": "OGE_Melee_Executioner",
+      "price": -10
+    },
+    {
+      "abr": "diresword(e)",
+      "category": "Eldar Melee Weapons",
+      "defname": "OGE_Melee_Diresword",
+      "price": -10
+    },
+    {
+      "abr": "witchblade(e)",
+      "category": "Eldar Melee Weapons",
+      "defname": "OGE_Melee_Witchblade",
+      "price": -10
+    },
+    {
+      "abr": "singingspear(e)",
+      "category": "Eldar Melee Weapons",
+      "defname": "OGE_Melee_SingingSpear",
+      "price": -10
+    },
+    {
+      "abr": "miststave(e)",
+      "category": "Eldar Melee Weapons",
+      "defname": "OGE_Melee_Miststave",
+      "price": -10
+    },
+    {
+      "abr": "harlequin'skiss(e)",
+      "category": "Eldar Melee Weapons",
+      "defname": "OGE_Melee_HarlequinsKiss",
+      "price": -10
+    },
+    {
+      "abr": "shurikenpistol(e)",
+      "category": "Ranged weapons",
+      "defname": "OGE_Gun_ShurikenPistol",
+      "price": -10
+    },
+    {
+      "abr": "shurikencatapult(e)",
+      "category": "Ranged weapons",
+      "defname": "OGE_Gun_ShurikenCatapult",
+      "price": -10
+    },
+    {
+      "abr": "avengershurikencatapult(e)",
+      "category": "Ranged weapons",
+      "defname": "OGE_Gun_ShurikenCatapultAvenger",
+      "price": -10
+    },
+    {
+      "abr": "shurikencannon(e)",
+      "category": "Ranged weapons",
+      "defname": "OGE_Gun_ShurikenCannon",
+      "price": -10
+    },
+    {
+      "abr": "maugetarshurikencannon(e)",
+      "category": "Ranged weapons",
+      "defname": "OGE_Gun_ShurikenCannon_Maugetar",
+      "price": -10
+    },
+    {
+      "abr": "starcannon(e)",
+      "category": "Ranged weapons",
+      "defname": "OGE_Gun_Starcannon",
+      "price": -10
+    },
+    {
+      "abr": "deathspinner(e)",
+      "category": "Ranged weapons",
+      "defname": "OGE_Gun_Deathspinner",
+      "price": -10
+    },
+    {
+      "abr": "flamer(e)",
+      "category": "Ranged weapons",
+      "defname": "OGE_Gun_Flamer",
+      "price": -10
+    },
+    {
+      "abr": "reaperlauncher(e)",
+      "category": "Ranged weapons",
+      "defname": "OGE_Gun_ReaperLauncher",
+      "price": -10
+    },
+    {
+      "abr": "lasblaster(e)",
+      "category": "Ranged weapons",
+      "defname": "OGE_Gun_LasBlaster",
+      "price": -10
+    },
+    {
+      "abr": "longrifle(e)",
+      "category": "Ranged weapons",
+      "defname": "OGE_Gun_RangerLongrifle",
+      "price": -10
+    },
+    {
+      "abr": "prismrifle(e)",
+      "category": "Ranged weapons",
+      "defname": "OGE_Gun_PrismRifle",
+      "price": -10
+    },
+    {
+      "abr": "brightlance(e)",
+      "category": "Ranged weapons",
+      "defname": "OGE_Gun_Brightlance",
+      "price": -10
+    },
+    {
+      "abr": "fusiongun(e)",
+      "category": "Ranged weapons",
+      "defname": "OGE_Gun_FusionGun",
+      "price": -10
+    },
+    {
+      "abr": "firepike(e)",
+      "category": "Ranged weapons",
+      "defname": "OGE_Gun_Firepike",
+      "price": -10
+    },
+    {
+      "abr": "wraithcannon(e)",
+      "category": "Ranged weapons",
+      "defname": "OGE_Gun_Wraithcannon",
+      "price": -10
+    },
+    {
+      "abr": "neurodisruptor(e)",
+      "category": "Ranged weapons",
+      "defname": "OGE_Gun_NeuroDisruptor",
+      "price": -10
+    },
+    {
+      "abr": "haywirecannon(e)",
+      "category": "Ranged weapons",
+      "defname": "OGE_Gun_HaywireCannon",
+      "price": -10
+    },
+    {
+      "abr": "executionerpistol(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_ExecutionerPistol",
+      "price": -10
+    },
+    {
+      "abr": "exituspistol(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_ExitusPistol",
+      "price": -10
+    },
+    {
+      "abr": "exitusrifle(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_ExitusRifle",
+      "price": -10
+    },
+    {
+      "abr": "catachanfang(i)",
+      "category": "Imperial Melee Weapons",
+      "defname": "OGI_Melee_CatachanFang",
+      "price": -10
+    },
+    {
+      "abr": "nightreaper(i)",
+      "category": "Imperial Melee Weapons",
+      "defname": "OGI_Melee_NightReaper",
+      "price": -10
+    },
+    {
+      "abr": "devil'sclaw(i)",
+      "category": "Imperial Melee Weapons",
+      "defname": "OGI_Melee_DevilsClaw",
+      "price": -10
+    },
+    {
+      "abr": "chainsword(i)",
+      "category": "Imperial Melee Weapons",
+      "defname": "OGI_Melee_ChainSword",
+      "price": -10
+    },
+    {
+      "abr": "eviscerator(i)",
+      "category": "Imperial Melee Weapons",
+      "defname": "OGI_Melee_Eviscerator",
+      "price": -10
+    },
+    {
+      "abr": "forcestaff(i)",
+      "category": "Imperial Melee Weapons",
+      "defname": "OGI_Melee_ForceStaff",
+      "price": -10
+    },
+    {
+      "abr": "powersword(i)",
+      "category": "Imperial Melee Weapons",
+      "defname": "OGI_Melee_PowerSword",
+      "price": -10
+    },
+    {
+      "abr": "poweraxe(i)",
+      "category": "Imperial Melee Weapons",
+      "defname": "OGI_Melee_PowerAxe",
+      "price": -10
+    },
+    {
+      "abr": "lightningclaw(i)",
+      "category": "Imperial Melee Weapons",
+      "defname": "OGI_Melee_LightningClawS",
+      "price": -10
+    },
+    {
+      "abr": "duallightningclaws(i)",
+      "category": "Imperial Melee Weapons",
+      "defname": "OGI_Melee_LightningClawD",
+      "price": -10
+    },
+    {
+      "abr": "powerfist(i)",
+      "category": "Imperial Melee Weapons",
+      "defname": "OGI_Melee_PowerFistS",
+      "price": -10
+    },
+    {
+      "abr": "chainfist(i)",
+      "category": "Imperial Melee Weapons",
+      "defname": "OGI_Melee_ChainFistS",
+      "price": -10
+    },
+    {
+      "abr": "powermaul(i)",
+      "category": "Imperial Melee Weapons",
+      "defname": "OGI_Melee_PowerMaul",
+      "price": -10
+    },
+    {
+      "abr": "thunderhammer(i)",
+      "category": "Imperial Melee Weapons",
+      "defname": "OGI_Melee_ThunderHammer",
+      "price": -10
+    },
+    {
+      "abr": "guardianspear(bolter)",
+      "category": "Imperial Melee Weapons",
+      "defname": "OGI_Melee_GuardianSpear",
+      "price": -10
+    },
+    {
+      "abr": "autopistol(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_AutoPistol",
+      "price": -10
+    },
+    {
+      "abr": "autogun(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_AutoGun",
+      "price": -10
+    },
+    {
+      "abr": "heavystubber(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_HeavyStubber",
+      "price": -10
+    },
+    {
+      "abr": "autocannon(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_AutoCannon",
+      "price": -10
+    },
+    {
+      "abr": "assaultcannon(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_AssaultCannon",
+      "price": -10
+    },
+    {
+      "abr": "arbitesshotgun(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_ArbitesShotgun",
+      "price": -10
+    },
+    {
+      "abr": "vanaheimshotgun(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_Vanaheim",
+      "price": -10
+    },
+    {
+      "abr": "astartesshotgun(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_AstartesShotgun",
+      "price": -10
+    },
+    {
+      "abr": "rippergun(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_OgrynRipperGun",
+      "price": -10
+    },
+    {
+      "abr": "ripperpistol(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_RipperPistol",
+      "price": -10
+    },
+    {
+      "abr": "boltpistol(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_BoltPistol",
+      "price": -10
+    },
+    {
+      "abr": "dualboltpistols(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_BoltPistolD",
+      "price": -10
+    },
+    {
+      "abr": "bolterlocke(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_BoltGun",
+      "price": -10
+    },
+    {
+      "abr": "stormbolter(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_StormBolter",
+      "price": -10
+    },
+    {
+      "abr": "combi-flamer(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_CombiFlamer",
+      "price": -10
+    },
+    {
+      "abr": "combi-melta(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_CombiMelta",
+      "price": -10
+    },
+    {
+      "abr": "combi-plasma(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_CombiPlasma",
+      "price": -10
+    },
+    {
+      "abr": "combi-grav(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_CombiGrav",
+      "price": -10
+    },
+    {
+      "abr": "stalkerpatternbolter(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_StalkerBolter",
+      "price": -10
+    },
+    {
+      "abr": "heavybolter(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_HeavyBolter",
+      "price": -10
+    },
+    {
+      "abr": "handflamer(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_FlamerHand",
+      "price": -10
+    },
+    {
+      "abr": "flamer(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_Flamer",
+      "price": -10
+    },
+    {
+      "abr": "heavyflamer(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_FlamerHeavy",
+      "price": -10
+    },
+    {
+      "abr": "meltapistol(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_MeltaPistol",
+      "price": -10
+    },
+    {
+      "abr": "meltagun(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_MeltaGun",
+      "price": -10
+    },
+    {
+      "abr": "multimelta(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_MeltaMulti",
+      "price": -10
+    },
+    {
+      "abr": "laspistol(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_LasPistol",
+      "price": -10
+    },
+    {
+      "abr": "m-galaxypatternlasgun(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_LasGun_Galaxy",
+      "price": -10
+    },
+    {
+      "abr": "kantraelpatternlasgun(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_LasGun_Kantrael",
+      "price": -10
+    },
+    {
+      "abr": "triplexpatternlasgun(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_LasGun_Triplex",
+      "price": -10
+    },
+    {
+      "abr": "merovechpatternlasgun(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_LasGun_Merovech",
+      "price": -10
+    },
+    {
+      "abr": "lockepatternlascarbine(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_LasGun_Locke",
+      "price": -10
+    },
+    {
+      "abr": "mkiv\"catachan\"lascarbine(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_LasGun_Catachan",
+      "price": -10
+    },
+    {
+      "abr": "vosspatternlascarbine(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_LasGun_Voss",
+      "price": -10
+    },
+    {
+      "abr": "accatranpatternlascarbine(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_LasGun_Accatran",
+      "price": -10
+    },
+    {
+      "abr": "luciuspatternlasgun(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_LasGun_Lucius",
+      "price": -10
+    },
+    {
+      "abr": "martianpatternlasrifle(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_LasGun_Mars",
+      "price": -10
+    },
+    {
+      "abr": "vostroyapatternlasgun(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_LasGun_Vostroya",
+      "price": -10
+    },
+    {
+      "abr": "hellpistol(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_HellPistol",
+      "price": -10
+    },
+    {
+      "abr": "hellgun(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_Hellgun",
+      "price": -10
+    },
+    {
+      "abr": "long-las(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_LongLas",
+      "price": -10
+    },
+    {
+      "abr": "lascannon(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_LasCannon",
+      "price": -10
+    },
+    {
+      "abr": "webber(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_Webber",
+      "price": -10
+    },
+    {
+      "abr": "grenadiergauntlet(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_OgrynGrenadeGauntlet",
+      "price": -10
+    },
+    {
+      "abr": "missilelauncher(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_RocketLaucher",
+      "price": -10
+    },
+    {
+      "abr": "plasmapistol(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_PlasmaPistol",
+      "price": -10
+    },
+    {
+      "abr": "plasmagun(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_PlasmaGun",
+      "price": -10
+    },
+    {
+      "abr": "plasmacannon(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_PlasmaCannon",
+      "price": -10
+    },
+    {
+      "abr": "fightingstaff(k)",
+      "category": "Kroot Melee Weapons",
+      "defname": "OGK_Melee_FightingStaff",
+      "price": -10
+    },
+    {
+      "abr": "powersword(k)",
+      "category": "Kroot Melee Weapons",
+      "defname": "OGK_Melee_PowerSword",
+      "price": -10
+    },
+    {
+      "abr": "shamanstaff(k)",
+      "category": "Kroot Melee Weapons",
+      "defname": "OGK_Melee_ShamanStaff",
+      "price": -10
+    },
+    {
+      "abr": "recurvebow(k)",
+      "category": "Ranged weapons",
+      "defname": "OGK_Bow_Recurve",
+      "price": -10
+    },
+    {
+      "abr": "krootpistol",
+      "category": "Ranged weapons",
+      "defname": "OGK_Gun_KrootPistol",
+      "price": -10
+    },
+    {
+      "abr": "krootrifle",
+      "category": "Ranged weapons",
+      "defname": "OGK_Gun_KrootRifle",
+      "price": -10
+    },
+    {
+      "abr": "kroothunterrifle",
+      "category": "Ranged weapons",
+      "defname": "OGK_Gun_KrootHunterRifle",
+      "price": -10
+    },
+    {
+      "abr": "transonicrazor(am)",
+      "category": "Mechanicus Melee Weapons",
+      "defname": "OGAM_Melee_TransonicRazor",
+      "price": -10
+    },
+    {
+      "abr": "transonicblade(am)",
+      "category": "Mechanicus Melee Weapons",
+      "defname": "OGAM_Melee_TransonicBlade",
+      "price": -10
+    },
+    {
+      "abr": "arcmaul(am)",
+      "category": "Mechanicus Melee Weapons",
+      "defname": "OGAM_Melee_ArcMaul",
+      "price": -10
+    },
+    {
+      "abr": "tasergoad(am)",
+      "category": "Mechanicus Melee Weapons",
+      "defname": "OGAM_Melee_TaserGoad",
+      "price": -10
+    },
+    {
+      "abr": "chordclaw(am)",
+      "category": "Imperial Melee Weapons",
+      "defname": "OGAM_Melee_SingleChordClaw",
+      "price": -10
+    },
+    {
+      "abr": "omnisianaxe(am)",
+      "category": "Mechanicus Melee Weapons",
+      "defname": "OGAM_Melee_OmnisianAxe",
+      "price": -10
+    },
+    {
+      "abr": "radiumpistol(am)",
+      "category": "Ranged weapons",
+      "defname": "OGAM_Gun_RadiumPistol",
+      "price": -10
+    },
+    {
+      "abr": "radiumcarbine(am)",
+      "category": "Ranged weapons",
+      "defname": "OGAM_Gun_RadiumCarbine",
+      "price": -10
+    },
+    {
+      "abr": "radiumjezzail(am)",
+      "category": "Ranged weapons",
+      "defname": "OGAM_Gun_RadiumJezzail",
+      "price": -10
+    },
+    {
+      "abr": "macrostubber(am)",
+      "category": "Ranged weapons",
+      "defname": "OGAM_Gun_MacroStubber",
+      "price": -10
+    },
+    {
+      "abr": "stubcarbine(am)",
+      "category": "Ranged weapons",
+      "defname": "OGAM_Gun_StubCarbine",
+      "price": -10
+    },
+    {
+      "abr": "galvanicrifle(am)",
+      "category": "Ranged weapons",
+      "defname": "OGAM_Gun_GalvanicRifle",
+      "price": -10
+    },
+    {
+      "abr": "transuranicarquebus(am)",
+      "category": "Ranged weapons",
+      "defname": "OGAM_Gun_TransuranicArquebus",
+      "price": -10
+    },
+    {
+      "abr": "plasmacaliver(am)",
+      "category": "Ranged weapons",
+      "defname": "OGAM_Gun_PlasmaCaliver",
+      "price": -10
+    },
+    {
+      "abr": "plasmaculverin(am)",
+      "category": "Ranged weapons",
+      "defname": "OGAM_Gun_PlasmaCulverin",
+      "price": -10
+    },
+    {
+      "abr": "phosphorserpenta(am)",
+      "category": "Ranged weapons",
+      "defname": "OGAM_Gun_PhosphorSerpenta",
+      "price": -10
+    },
+    {
+      "abr": "phosphorblastpistol(am)",
+      "category": "Ranged weapons",
+      "defname": "OGAM_Gun_PhosphorBlastPistol",
+      "price": -10
+    },
+    {
+      "abr": "cognisflamer(am)",
+      "category": "Ranged weapons",
+      "defname": "OGAM_Gun_FlamerCognis",
+      "price": -10
+    },
+    {
+      "abr": "arcpistol(am)",
+      "category": "Ranged weapons",
+      "defname": "OGAM_Gun_ArcPistol",
+      "price": -10
+    },
+    {
+      "abr": "arcrifle(am)",
+      "category": "Ranged weapons",
+      "defname": "OGAM_Gun_ArcRifle",
+      "price": -10
+    },
+    {
+      "abr": "mitralock(am)",
+      "category": "Ranged weapons",
+      "defname": "OGAM_Gun_Mitralock",
+      "price": -10
+    },
+    {
+      "abr": "volkiteserpenta(am)",
+      "category": "Ranged weapons",
+      "defname": "OGAM_Gun_VolkiteSerpenta",
+      "price": -10
+    },
+    {
+      "abr": "volkitecharger(am)",
+      "category": "Ranged weapons",
+      "defname": "OGAM_Gun_VolkiteCharger",
+      "price": -10
+    },
+    {
+      "abr": "volkitecaliver(am)",
+      "category": "Ranged weapons",
+      "defname": "OGAM_Gun_VolkiteCaliver",
+      "price": -10
+    },
+    {
+      "abr": "conversionbeamer(am)",
+      "category": "Ranged weapons",
+      "defname": "OGAM_Gun_ConversionBeamer",
+      "price": -10
+    },
+    {
+      "abr": "hyperphasesword(n)",
+      "category": "Necron Melee Weapons",
+      "defname": "OGN_Melee_HyperphaseSword",
+      "price": -10
+    },
+    {
+      "abr": "warscythe(n)",
+      "category": "Necron Melee Weapons",
+      "defname": "OGN_Melee_WarScythe",
+      "price": -10
+    },
+    {
+      "abr": "flayingtalons(n)",
+      "category": "Necron Melee Weapons",
+      "defname": "OGN_Melee_FlayingTalon",
+      "price": -10
+    },
+    {
+      "abr": "fabricatorclaw(n)",
+      "category": "Necron Melee Weapons",
+      "defname": "OGN_Melee_FabricatorClaw",
+      "price": -10
+    },
+    {
+      "abr": "gaussflayer(n)",
+      "category": "Necron Ranged Weapons",
+      "defname": "OGN_Gun_GaussFlayer",
+      "price": -10
+    },
+    {
+      "abr": "gaussblaster(n)",
+      "category": "Necron Ranged Weapons",
+      "defname": "OGN_Gun_GaussBlaster",
+      "price": -10
+    },
+    {
+      "abr": "twin-linkedgaussblaster(n)",
+      "category": "Necron Ranged Weapons",
+      "defname": "OGN_Gun_GaussBlasterTwinLinked",
+      "price": -10
+    },
+    {
+      "abr": "gausscannon(n)",
+      "category": "Necron Ranged Weapons",
+      "defname": "OGN_Gun_GaussCannon",
+      "price": -10
+    },
+    {
+      "abr": "heavygausscannon(n)",
+      "category": "Necron Ranged Weapons",
+      "defname": "OGN_Gun_GaussCannonHeavy",
+      "price": -10
+    },
+    {
+      "abr": "teslacarbine(n)",
+      "category": "Necron Ranged Weapons",
+      "defname": "OGN_Gun_TeslaCarbine",
+      "price": -10
+    },
+    {
+      "abr": "twin-linkedteslacarbine(n)",
+      "category": "Necron Ranged Weapons",
+      "defname": "OGN_Gun_TeslaCarbineTwinLinked",
+      "price": -10
+    },
+    {
+      "abr": "synapticdisintergrator(n)",
+      "category": "Necron Ranged Weapons",
+      "defname": "OGN_Gun_SynapticDisintegrator",
+      "price": -10
+    },
+    {
+      "abr": "particlebeamer(n)",
+      "category": "Necron Ranged Weapons",
+      "defname": "OGN_Gun_ParticleBeamer",
+      "price": -10
+    },
+    {
+      "abr": "staffoflight(n)",
+      "category": "Necron Melee Weapons",
+      "defname": "OGN_Gun_StaffOfLight",
+      "price": -10
+    },
+    {
+      "abr": "krudechoppa(o)",
+      "category": "Ork Melee Weapons",
+      "defname": "OGO_Melee_CrudeChoppa",
+      "price": 375
+    },
+    {
+      "abr": "choppa(o)",
+      "category": "Ork Melee Weapons",
+      "defname": "OGO_Melee_Choppa",
+      "price": 833
+    },
+    {
+      "abr": "chainchoppa(o)",
+      "category": "Ork Melee Weapons",
+      "defname": "OGO_Melee_ChainChoppa",
+      "price": 917
+    },
+    {
+      "abr": "bigchoppa(o)",
+      "category": "Ork Melee Weapons",
+      "defname": "OGO_Melee_BigChoppa",
+      "price": 2500
+    },
+    {
+      "abr": "powaklaw(o)",
+      "category": "Ork Melee Weapons",
+      "defname": "OGO_Melee_PowerKlaw",
+      "price": 2917
+    },
+    {
+      "abr": "weirdboystaff(o)",
+      "category": "Ork Melee Weapons",
+      "defname": "OGO_Melee_WeirdboyStaff",
+      "price": 2917
+    },
+    {
+      "abr": "grotblasta(o)",
+      "category": "Ranged weapons",
+      "defname": "OGO_Gun_GrotBlasta",
+      "price": 94
+    },
+    {
+      "abr": "slugga(o)",
+      "category": "Ranged weapons",
+      "defname": "OGO_Gun_Slugga",
+      "price": 278
+    },
+    {
+      "abr": "shoota(o)",
+      "category": "Ranged weapons",
+      "defname": "OGO_Gun_Shoota",
+      "price": 625
+    },
+    {
+      "abr": "twin-linkedshoota(o)",
+      "category": "Ranged weapons",
+      "defname": "OGO_Gun_TwinLinkedShoota",
+      "price": 1033
+    },
+    {
+      "abr": "bigshoota(o)",
+      "category": "Ranged weapons",
+      "defname": "OGO_Gun_BigShoota",
+      "price": 1442
+    },
+    {
+      "abr": "snazzgun(o)",
+      "category": "Ranged weapons",
+      "defname": "OGO_Gun_Snazzgun",
+      "price": 1708
+    },
+    {
+      "abr": "zappkannon(o)",
+      "category": "Ranged weapons",
+      "defname": "OGO_Gun_ZappKannon",
+      "price": 2208
+    },
+    {
+      "abr": "dakkadeffgun(o)",
+      "category": "Ranged weapons",
+      "defname": "OGO_Gun_DeffgunDakka",
+      "price": 2750
+    },
+    {
+      "abr": "plasmadeffgun(o)",
+      "category": "Ranged weapons",
+      "defname": "OGO_Gun_DeffgunPlasma",
+      "price": 2775
+    },
+    {
+      "abr": "beamydeffgun(o)",
+      "category": "Ranged weapons",
+      "defname": "OGO_Gun_DeffgunBeamy",
+      "price": 2925
+    },
+    {
+      "abr": "burna(o)",
+      "category": "Ranged weapons",
+      "defname": "OGO_Gun_Burna",
+      "price": 1633
+    },
+    {
+      "abr": "scorcha(o)",
+      "category": "Ranged weapons",
+      "defname": "OGO_Gun_Scorcha",
+      "price": 1633
+    },
+    {
+      "abr": "rokkitlauncha(o)",
+      "category": "Ranged weapons",
+      "defname": "OGO_Gun_RokkitLaucha",
+      "price": 2117
+    },
+    {
+      "abr": "kombi-burna(o)",
+      "category": "Ranged weapons",
+      "defname": "OGO_Gun_KombiBurna",
+      "price": 2767
+    },
+    {
+      "abr": "kombi-rokkit(o)",
+      "category": "Ranged weapons",
+      "defname": "OGO_Gun_KombiRokkit",
+      "price": 2783
+    },
+    {
+      "abr": "boltergodwyn-deaz(as)",
+      "category": "Ranged weapons",
+      "defname": "OGAS_Gun_BoltGun_GodwynDeaz",
+      "price": -10
+    },
+    {
+      "abr": "honorblade(t)",
+      "category": "Tau Melee Weapons",
+      "defname": "OGT_Melee_HonorBlade",
+      "price": -10
+    },
+    {
+      "abr": "pulsepistol(t)",
+      "category": "Ranged weapons",
+      "defname": "OGT_Gun_PulsePistol",
+      "price": -10
+    },
+    {
+      "abr": "pulsecarbine(t)",
+      "category": "Ranged weapons",
+      "defname": "OGT_Gun_PulseCarbine",
+      "price": -10
+    },
+    {
+      "abr": "pulserifle(t)",
+      "category": "Ranged weapons",
+      "defname": "OGT_Gun_PulseRifle",
+      "price": -10
+    },
+    {
+      "abr": "pulseblaster(t)",
+      "category": "Ranged weapons",
+      "defname": "OGT_Gun_PulseBlaster",
+      "price": -10
+    },
+    {
+      "abr": "railrifle(t)",
+      "category": "Ranged weapons",
+      "defname": "OGT_Gun_RailRifle",
+      "price": -10
+    },
+    {
+      "abr": "ionrifle(t)",
+      "category": "Ranged weapons",
+      "defname": "OGT_Gun_IonRifle",
+      "price": -10
+    },
+    {
+      "abr": "burstcannon(t)",
+      "category": "Ranged weapons",
+      "defname": "OGT_Gun_BurstCannon",
+      "price": -10
+    },
+    {
+      "abr": "neutronblaster(t)",
+      "category": "Ranged weapons",
+      "defname": "OGT_Gun_NeutronBlaster",
+      "price": -10
+    },
+    {
+      "abr": "beastman",
+      "category": "Animal",
+      "defname": "OG_Abhuman_Beastman",
+      "price": -10
+    },
+    {
+      "abr": "human(mechanicus)",
+      "category": "Animal",
+      "defname": "OG_Human_Mechanicus",
+      "price": -10
+    },
+    {
+      "abr": "ogryn",
+      "category": "Animal",
+      "defname": "OG_Abhuman_Ogryn",
+      "price": -10
+    },
+    {
+      "abr": "ratling",
+      "category": "Animal",
+      "defname": "OG_Abhuman_Ratlin",
+      "price": -10
+    },
+    {
+      "abr": "ambullhide",
+      "category": "Leathers",
+      "defname": "Leather_Ambull",
+      "price": -10
+    },
+    {
+      "abr": "fiendhide",
+      "category": "Leathers",
+      "defname": "Leather_ClawedFiend",
+      "price": -10
+    },
+    {
+      "abr": "eldarskin",
+      "category": "Leathers",
+      "defname": "Leather_Eldar",
+      "price": -10
+    },
+    {
+      "abr": "tauskin",
+      "category": "Leathers",
+      "defname": "Leather_Tau",
+      "price": -10
+    },
+    {
+      "abr": "krootskin",
+      "category": "Leathers",
+      "defname": "Leather_Kroot",
+      "price": -10
+    },
+    {
+      "abr": "vespidhide",
+      "category": "Leathers",
+      "defname": "Leather_Vespid",
+      "price": -10
+    },
+    {
+      "abr": "eldarskin",
+      "category": "Leathers",
+      "defname": "Leather_TyranidSmall",
+      "price": -10
+    },
+    {
+      "abr": "twin-linkedpulsecarbine",
+      "category": "Ranged weapons",
+      "defname": "OGT_Gun_PulseCarbineTwinLinked",
+      "price": -10
+    },
+    {
+      "abr": "astartesrace",
+      "category": "Animal",
+      "defname": "OG_Alien_Astartes",
+      "price": -10
+    },
+    {
+      "abr": "scout",
+      "category": "Animal",
+      "defname": "Astartes_Scout",
+      "price": -10
+    },
+    {
+      "abr": "battle-brother",
+      "category": "Animal",
+      "defname": "Astartes_Battle_Brother",
+      "price": -10
+    },
+    {
+      "abr": "commander",
+      "category": "Animal",
+      "defname": "Astartes_Commander",
+      "price": -10
+    },
+    {
+      "abr": "terminator",
+      "category": "Animal",
+      "defname": "Astartes_Terminator",
+      "price": -10
+    },
+    {
+      "abr": "darkeldarrace",
+      "category": "Animal",
+      "defname": "OG_Alien_DarkEldar",
+      "price": -10
+    },
+    {
+      "abr": "archon",
+      "category": "Animal",
+      "defname": "OG_DarkEldar_Archon",
+      "price": -10
+    },
+    {
+      "abr": "warlock",
+      "category": "Animal",
+      "defname": "OG_DarkEldar_Haemonculi",
+      "price": -10
+    },
+    {
+      "abr": "kabalite",
+      "category": "Animal",
+      "defname": "OG_DarkEldar_Kabalite",
+      "price": -10
+    },
+    {
+      "abr": "kabalite",
+      "category": "Animal",
+      "defname": "OG_DarkEldar_Kabalite_Trueborn",
+      "price": -10
+    },
+    {
+      "abr": "wych",
+      "category": "Animal",
+      "defname": "OG_DarkEldar_Wych",
+      "price": -10
+    },
+    {
+      "abr": "hekatrixwych",
+      "category": "Animal",
+      "defname": "OG_DarkEldar_Wych_Hekatrix",
+      "price": -10
+    },
+    {
+      "abr": "hellion",
+      "category": "Animal",
+      "defname": "OG_DarkEldar_Hellion",
+      "price": -10
+    },
+    {
+      "abr": "heliarchhellion",
+      "category": "Animal",
+      "defname": "OG_DarkEldar_Hellion_Heliarch",
+      "price": -10
+    },
+    {
+      "abr": "incubi",
+      "category": "Animal",
+      "defname": "OG_DarkEldar_Incubi",
+      "price": -10
+    },
+    {
+      "abr": "incubilord",
+      "category": "Animal",
+      "defname": "OG_DarkEldar_Incubi_Lord",
+      "price": -10
+    },
+    {
+      "abr": "eldarrace",
+      "category": "Animal",
+      "defname": "OG_Alien_Eldar",
+      "price": -10
+    },
+    {
+      "abr": "guardian",
+      "category": "Animal",
+      "defname": "Eldar_Warrior",
+      "price": -10
+    },
+    {
+      "abr": "aspectwarrior",
+      "category": "Animal",
+      "defname": "Eldar_Aspect_Warrior",
+      "price": -10
+    },
+    {
+      "abr": "warlock",
+      "category": "Animal",
+      "defname": "Eldar_Warlock",
+      "price": -10
+    },
+    {
+      "abr": "farseer",
+      "category": "Animal",
+      "defname": "Eldar_Farseer",
+      "price": -10
+    },
+    {
+      "abr": "ork(warboss)",
+      "category": "Animal",
+      "defname": "Ork_Warboss",
+      "price": -10
+    },
+    {
+      "abr": "ork(nob)",
+      "category": "Animal",
+      "defname": "Ork_Nob",
+      "price": -10
+    },
+    {
+      "abr": "ork(eavynob)",
+      "category": "Animal",
+      "defname": "Ork_Eavy_Nob",
+      "price": -10
+    },
+    {
+      "abr": "ork(boy)",
+      "category": "Animal",
+      "defname": "Ork_Boy",
+      "price": -10
+    },
+    {
+      "abr": "ork(eavyboy)",
+      "category": "Animal",
+      "defname": "Ork_Eavy_Boy",
+      "price": -10
+    },
+    {
+      "abr": "grot",
+      "category": "Animal",
+      "defname": "OG_Grot",
+      "price": -10
+    },
+    {
+      "abr": "tau",
+      "category": "Animal",
+      "defname": "OG_Alien_Tau",
+      "price": -10
+    },
+    {
+      "abr": "ethereal",
+      "category": "Animal",
+      "defname": "Tau_Ethereal",
+      "price": -10
+    },
+    {
+      "abr": "firewarrior",
+      "category": "Animal",
+      "defname": "Tau_Firewarrior",
+      "price": -10
+    },
+    {
+      "abr": "krootwarrior",
+      "category": "Animal",
+      "defname": "OG_Alien_Kroot",
+      "price": -10
+    },
+    {
+      "abr": "vespidstingwing",
+      "category": "Animal",
+      "defname": "OG_Alien_Vespid",
+      "price": -10
+    },
+    {
+      "abr": "knarloc",
+      "category": "Animals",
+      "defname": "OG_Knarloc",
+      "price": -10
+    },
+    {
+      "abr": "kroothound",
+      "category": "Animals",
+      "defname": "OG_Kroothound",
+      "price": -10
+    },
+    {
+      "abr": "krootox",
+      "category": "Animals",
+      "defname": "OG_KrootOx",
+      "price": -10
+    },
+    {
+      "abr": "ripperswarm",
+      "category": "Animal",
+      "defname": "Tyranid_RipperSwarm",
+      "price": -10
+    },
+    {
+      "abr": "krudebionikeye",
+      "category": "Bionic",
+      "defname": "OG_KrudeBionikEye",
+      "price": 667
+    },
+    {
+      "abr": "krudebionikarm",
+      "category": "Bionic",
+      "defname": "OG_KrudeBionikArm",
+      "price": 500
+    },
+    {
+      "abr": "krudebionikleg",
+      "category": "Bionic",
+      "defname": "OG_KrudeBionikLeg",
+      "price": 500
+    },
+    {
+      "abr": "krudebionikspine",
+      "category": "Bionic",
+      "defname": "OG_KrudeBionikSpine",
+      "price": 667
+    },
+    {
+      "abr": "krudebionikbludgeon",
+      "category": "Bionic",
+      "defname": "OG_KrudeBionikArm_Bludgeon",
+      "price": 1667
+    },
+    {
+      "abr": "krudebionikspike",
+      "category": "Bionic",
+      "defname": "OG_KrudeBionikArm_Spike",
+      "price": 1667
+    },
+    {
+      "abr": "krudebionikrangedweaponplatform",
+      "category": "Bionic",
+      "defname": "OG_KrudeBionikArm_RangedWeaponPlatform",
+      "price": 1333
+    },
+    {
+      "abr": "orkleather",
+      "category": "Leathers",
+      "defname": "Leather_Ork",
+      "price": 7
+    },
+    {
+      "abr": "grotleather",
+      "category": "Leathers",
+      "defname": "Leather_Grot",
+      "price": 5
+    },
+    {
+      "abr": "squigleather",
+      "category": "Leathers",
+      "defname": "Leather_Squig",
+      "price": 5
+    },
+    {
+      "abr": "snotlingleather",
+      "category": "Leathers",
+      "defname": "Leather_Snotling",
+      "price": 5
+    },
+    {
+      "abr": "waaagh!banner",
+      "category": "Furniture",
+      "defname": "OG_Ork_HighBannerAA",
+      "price": 215
+    },
+    {
+      "abr": "smallsculpture",
+      "category": "Art",
+      "defname": "OG_Ork_SculptureSmall",
+      "price": 500
+    },
+    {
+      "abr": "bed",
+      "category": "Furniture",
+      "defname": "OGO_Bed",
+      "price": 155
+    },
+    {
+      "abr": "orkcraftingsupplies",
+      "category": "Production",
+      "defname": "OGO_TableMachining",
+      "price": -10
+    },
+    {
+      "abr": "butchertable",
+      "category": "Production",
+      "defname": "OGO_TableButcher",
+      "price": -10
+    },
+    {
+      "abr": "electricstove",
+      "category": "Production",
+      "defname": "OGO_ElectricStove",
+      "price": -10
+    },
+    {
+      "abr": "fueledstove",
+      "category": "Production",
+      "defname": "OGO_FueledStove",
+      "price": -10
+    },
+    {
+      "abr": "druglab",
+      "category": "Production",
+      "defname": "OGO_DrugLab",
+      "price": -10
+    },
+    {
+      "abr": "simpleresearchbench",
+      "category": "Production",
+      "defname": "OGO_SimpleResearchBench",
+      "price": -10
+    },
+    {
+      "abr": "studdedarma",
+      "category": "Ork",
+      "defname": "OGO_Apparel_LevaArmour",
+      "price": 1833
+    },
+    {
+      "abr": "flakarma",
+      "category": "Ork",
+      "defname": "OGO_Apparel_Armour",
+      "price": 1833
+    },
+    {
+      "abr": "'eavyarma",
+      "category": "Ork",
+      "defname": "OGO_Apparel_EavyArmour",
+      "price": 2833
+    },
+    {
+      "abr": "megaarma",
+      "category": "Ork",
+      "defname": "OGO_Apparel_MegaArmour",
+      "price": 6942
+    },
+    {
+      "abr": "studdedelmet",
+      "category": "Ork",
+      "defname": "OGO_Apparel_LevaElmet",
+      "price": 1833
+    },
+    {
+      "abr": "'ardhat",
+      "category": "Ork",
+      "defname": "OGO_Apparel_Elmet",
+      "price": 1833
+    },
+    {
+      "abr": "'eavy'ardhat",
+      "category": "Ork",
+      "defname": "OGO_Apparel_EavyElmet",
+      "price": 2833
+    },
+    {
+      "abr": "mega'elmet",
+      "category": "Ork",
+      "defname": "OGO_Apparel_MegaArmourElmet",
+      "price": 1242
+    },
+    {
+      "abr": "orkundershirt",
+      "category": "Ork",
+      "defname": "OGO_Apparel_UniformShirt",
+      "price": 167
+    },
+    {
+      "abr": "orkjacket",
+      "category": "Ork",
+      "defname": "OGO_Apparel_UniformJacket",
+      "price": 209
+    },
+    {
+      "abr": "slavacowl",
+      "category": "Ork",
+      "defname": "OGO_Apparel_SlavaCowl",
+      "price": 500
+    },
+    {
+      "abr": "fragstikkbombz(o)",
+      "category": "Ork Wargear",
+      "defname": "OGO_GrenadePack_Frag",
+      "price": 2500
+    },
+    {
+      "abr": "krakstikkbombz(o)",
+      "category": "Ork Wargear",
+      "defname": "OGO_GrenadePack_Krak",
+      "price": 2500
+    },
+    {
+      "abr": "tankbustabombz(o)",
+      "category": "Ork Wargear",
+      "defname": "OGO_GrenadePack_Melta",
+      "price": 2500
+    },
+    {
+      "abr": "kustomforcefield",
+      "category": "Ork Wargear",
+      "defname": "OGO_Wargear_KustomForcefield",
+      "price": 56667
+    },
+    {
+      "abr": "bosspole",
+      "category": "Ork Wargear",
+      "defname": "OGO_Wargear_BossPole",
+      "price": 2500
+    },
+    {
+      "abr": "irongob",
+      "category": "Ork",
+      "defname": "OGO_Apparel_IronGob",
+      "price": 667
+    },
+    {
+      "abr": "orkoidfungus",
+      "category": "Vegetarian",
+      "defname": "OG_Raw_Orkoid_Fungus",
+      "price": -10
+    },
+    {
+      "abr": "speckledbloodshade",
+      "category": "Medicine",
+      "defname": "OG_Orkoid_MedicineFungal",
+      "price": -10
+    },
+    {
+      "abr": "snotling",
+      "category": "Animals",
+      "defname": "OG_Snotling",
+      "price": 750
+    },
+    {
+      "abr": "squig",
+      "category": "Animals",
+      "defname": "OG_Squig",
+      "price": 500
+    },
+    {
+      "abr": "eatinsquig",
+      "category": "Animals",
+      "defname": "OG_Squig_Eatin",
+      "price": 333
+    },
+    {
+      "abr": "oilysquig",
+      "category": "Animals",
+      "defname": "OG_Squig_Oily",
+      "price": 583
+    },
+    {
+      "abr": "grot",
+      "category": "Animal",
+      "defname": "OG_Alien_Grot",
+      "price": -10
+    },
+    {
+      "abr": "ork",
+      "category": "Animal",
+      "defname": "OG_Alien_Ork",
       "price": -10
     },
     {
@@ -4645,6 +6247,90 @@
       "price": -10
     },
     {
+      "abr": "eldarmeat",
+      "category": "Meat",
+      "defname": "Meat_OG_Alien_DarkEldar",
+      "price": -10
+    },
+    {
+      "abr": "eldarmeat",
+      "category": "Meat",
+      "defname": "Meat_OG_Alien_Eldar",
+      "price": -10
+    },
+    {
+      "abr": "taumeat",
+      "category": "Meat",
+      "defname": "Meat_OG_Alien_Tau",
+      "price": -10
+    },
+    {
+      "abr": "krootmeat",
+      "category": "Meat",
+      "defname": "Meat_OG_Alien_Kroot",
+      "price": -10
+    },
+    {
+      "abr": "krootmeat",
+      "category": "Meat",
+      "defname": "Meat_OG_Alien_Vespid",
+      "price": -10
+    },
+    {
+      "abr": "knarlocmeat",
+      "category": "Meat",
+      "defname": "Meat_OG_Knarloc",
+      "price": -10
+    },
+    {
+      "abr": "kroothoundmeat",
+      "category": "Meat",
+      "defname": "Meat_OG_Kroothound",
+      "price": -10
+    },
+    {
+      "abr": "krootoxmeat",
+      "category": "Meat",
+      "defname": "Meat_OG_KrootOx",
+      "price": -10
+    },
+    {
+      "abr": "snotlingmeat",
+      "category": "Meat",
+      "defname": "Meat_OG_Snotling",
+      "price": -10
+    },
+    {
+      "abr": "squigmeat",
+      "category": "Meat",
+      "defname": "Meat_OG_Squig",
+      "price": -10
+    },
+    {
+      "abr": "eatinsquigmeat",
+      "category": "Meat",
+      "defname": "Meat_OG_Squig_Eatin",
+      "price": -10
+    },
+    {
+      "abr": "oilysquigmeat",
+      "category": "Meat",
+      "defname": "Meat_OG_Squig_Oily",
+      "price": -10
+    },
+    {
+      "abr": "grotmeat",
+      "category": "Meat",
+      "defname": "Meat_OG_Alien_Grot",
+      "price": -10
+    },
+    {
+      "abr": "orkmeat",
+      "category": "Meat",
+      "defname": "Meat_OG_Alien_Ork",
+      "price": -10
+    },
+    {
       "abr": "techprint(cataphractarmor)",
       "category": "Techprints",
       "defname": "Techprint_CataphractArmor",
@@ -4720,6 +6406,36 @@
       "abr": "techprint(circadianinfluence)",
       "category": "Techprints",
       "defname": "Techprint_CircadianInfluence",
+      "price": -10
+    },
+    {
+      "abr": "techprint(volkitetech)",
+      "category": "Techprints",
+      "defname": "Techprint_OG_Mechanicus_Tech_Weapons_Volkite",
+      "price": -10
+    },
+    {
+      "abr": "techprint(vindicaretemple)",
+      "category": "Techprints",
+      "defname": "Techprint_OG_Assassinorum_Tech_Weapons_Vindicare",
+      "price": -10
+    },
+    {
+      "abr": "techprint(callidustemple)",
+      "category": "Techprints",
+      "defname": "Techprint_OG_Assassinorum_Tech_Weapons_Callidus",
+      "price": -10
+    },
+    {
+      "abr": "techprint(culexustemple)",
+      "category": "Techprints",
+      "defname": "Techprint_OG_Assassinorum_Tech_Weapons_Culexus",
+      "price": -10
+    },
+    {
+      "abr": "techprint(eversortemple)",
+      "category": "Techprints",
+      "defname": "Techprint_OG_Assassinorum_Tech_Weapons_Eversor",
       "price": -10
     },
     {
@@ -4969,551 +6685,71 @@
       "price": -10
     },
     {
-      "abr": "blindfold",
-      "category": "Headgear",
-      "defname": "Apparel_Blindfold",
+      "abr": "81mmmortarshell(he)",
+      "category": "81mm mortar shell",
+      "defname": "Shell_HighExplosive",
       "price": -10
     },
     {
-      "abr": "facemask",
-      "category": "Headgear",
-      "defname": "Apparel_ClothMask",
+      "abr": "81mmmortarshell(incendiary)",
+      "category": "81mm mortar shell",
+      "defname": "Shell_Incendiary",
       "price": -10
     },
     {
-      "abr": "slavebodystrap",
-      "category": "Misc",
-      "defname": "Apparel_BodyStrap",
+      "abr": "81mmmortarshell(emp)",
+      "category": "81mm mortar shell",
+      "defname": "Shell_EMP",
       "price": -10
     },
     {
-      "abr": "apples",
-      "category": "Fruits",
-      "defname": "Rawapple",
+      "abr": "81mmmortarshell(foam)",
+      "category": "81mm mortar shell",
+      "defname": "Shell_Firefoam",
       "price": -10
     },
     {
-      "abr": "babyonesie",
-      "category": "Misc",
-      "defname": "Apparel_BabyOnesie",
+      "abr": "81mmmortarshell(smoke)",
+      "category": "81mm mortar shell",
+      "defname": "Shell_Smoke",
       "price": -10
     },
     {
-      "abr": "babyshadecone",
-      "category": "Misc",
-      "defname": "Apparel_BabyShadecone",
+      "abr": "81mmmortarshell(anti)",
+      "category": "81mm mortar shell",
+      "defname": "Shell_AntigrainWarhead",
       "price": -10
     },
     {
-      "abr": "babytuque",
-      "category": "Misc",
-      "defname": "Apparel_BabyTuque",
+      "abr": "81mmmortarshell(toxic)",
+      "category": "81mm mortar shell",
+      "defname": "Shell_Toxic",
       "price": -10
     },
     {
-      "abr": "bakedpolenta",
-      "category": "Simple Meals",
-      "defname": "bakedpolenta",
+      "abr": "90mmcannonshell(heat)",
+      "category": "90mm cannon shell",
+      "defname": "Ammo_90mmCannonShell_HEAT",
       "price": -10
     },
     {
-      "abr": "bamboo",
-      "category": "Raw resources",
-      "defname": "Bamboo",
+      "abr": "90mmcannonshell(he)",
+      "category": "90mm cannon shell",
+      "defname": "Ammo_90mmCannonShell_HE",
       "price": -10
     },
     {
-      "abr": "bamboobonsaipot",
-      "category": "Furniture",
-      "defname": "PlantPot_BambooBonsai",
+      "abr": "90mmcannonshell(hetime-fuzed)",
+      "category": "90mm cannon shell",
+      "defname": "Ammo_90mmCannonShell_HE_TFuzed",
       "price": -10
     },
     {
-      "abr": "banana",
-      "category": "Fruits",
-      "defname": "Rawbanana",
-      "price": -10
-    },
-    {
-      "abr": "barley",
-      "category": "Vegetarian",
-      "defname": "RawBarley",
-      "price": -10
-    },
-    {
-      "abr": "barleytea",
-      "category": "Garden Drinks",
-      "defname": "VG_BarleyTea",
-      "price": -10
-    },
-    {
-      "abr": "bean",
-      "category": "Vegetarian",
-      "defname": "Rawbean",
-      "price": -10
-    },
-    {
-      "abr": "biofuel",
-      "category": "Manufactured",
-      "defname": "VG_Biofuel",
-      "price": -10
-    },
-    {
-      "abr": "blueberry",
-      "category": "Fruits",
-      "defname": "Rawblueberry",
-      "price": -10
-    },
-    {
-      "abr": "bowlofstew",
-      "category": "Meals",
-      "defname": "bowlstew",
-      "price": -10
-    },
-    {
-      "abr": "bread",
-      "category": "Simple Meals",
-      "defname": "Bread",
-      "price": -10
-    },
-    {
-      "abr": "cactusfruit",
-      "category": "Vegetarian",
-      "defname": "RawCactusFruit",
-      "price": -10
-    },
-    {
-      "abr": "caramel",
-      "category": "Sweets",
-      "defname": "Caramel",
-      "price": -10
-    },
-    {
-      "abr": "cheese",
-      "category": "Ingredients",
-      "defname": "cheese",
-      "price": -10
-    },
-    {
-      "abr": "cheeseburger",
-      "category": "Fine Meals",
-      "defname": "grilledmeat",
-      "price": -10
-    },
-    {
-      "abr": "cherries",
-      "category": "Fruits",
-      "defname": "RawCherry",
-      "price": -10
-    },
-    {
-      "abr": "chocolatemilk",
-      "category": "Garden Drinks",
-      "defname": "Chocomilk",
-      "price": -10
-    },
-    {
-      "abr": "cloudberry",
-      "category": "Fruits",
-      "defname": "Rawcloudberry",
-      "price": -10
-    },
-    {
-      "abr": "coconut",
-      "category": "Fruits",
-      "defname": "RawCoconut",
-      "price": -10
-    },
-    {
-      "abr": "coffeebeans",
-      "category": "Plant matter",
-      "defname": "CPD_CoffeeBeans",
-      "price": -10
-    },
-    {
-      "abr": "cookie",
-      "category": "Lavish Meals",
-      "defname": "cookie",
-      "price": -10
-    },
-    {
-      "abr": "cookingtools",
-      "category": "Production",
-      "defname": "CookingTools",
-      "price": -10
-    },
-    {
-      "abr": "date",
-      "category": "Fruits",
-      "defname": "Rawdate",
-      "price": -10
-    },
-    {
-      "abr": "driedfruit",
-      "category": "Fruits",
-      "defname": "driedfruit",
-      "price": -10
-    },
-    {
-      "abr": "electricmillingstone",
-      "category": "Production",
-      "defname": "ElectricGrindStone",
-      "price": -10
-    },
-    {
-      "abr": "electricoven",
-      "category": "Production",
-      "defname": "ElectricOven",
-      "price": -10
-    },
-    {
-      "abr": "fig",
-      "category": "Fruits",
-      "defname": "Rawfig",
-      "price": -10
-    },
-    {
-      "abr": "flour",
-      "category": "Ingredients",
-      "defname": "Flour",
-      "price": -10
-    },
-    {
-      "abr": "foodpreptable",
-      "category": "Production",
-      "defname": "Canningstove",
-      "price": -10
-    },
-    {
-      "abr": "foodshelf2x2",
-      "category": "Furniture",
-      "defname": "VG_FoodShelf",
-      "price": -10
-    },
-    {
-      "abr": "fruitjuicedrink",
-      "category": "Garden Drinks",
-      "defname": "Fruitdrink",
-      "price": -10
-    },
-    {
-      "abr": "fruitpieslice",
-      "category": "Fine Meals",
-      "defname": "BlueberryPie",
-      "price": -10
-    },
-    {
-      "abr": "fueledfoodpreptable",
-      "category": "Production",
-      "defname": "HandCanningstove",
-      "price": -10
-    },
-    {
-      "abr": "fueledsweetstable",
-      "category": "Production",
-      "defname": "FueledCandyTable",
-      "price": -10
-    },
-    {
-      "abr": "gardencoffee",
-      "category": "Garden Drinks",
-      "defname": "Coffee",
-      "price": -10
-    },
-    {
-      "abr": "gardenfish",
-      "category": "Garden meat",
-      "defname": "VG_GardenFish",
-      "price": -10
-    },
-    {
-      "abr": "gardentea",
-      "category": "Garden Drinks",
-      "defname": "Cuptea",
-      "price": -10
-    },
-    {
-      "abr": "gooseberry",
-      "category": "Fruits",
-      "defname": "Rawgooseberry",
-      "price": -10
-    },
-    {
-      "abr": "grapes",
-      "category": "Fruits",
-      "defname": "Rawgrape",
-      "price": -10
-    },
-    {
-      "abr": "grilledcheesesandwich",
-      "category": "Simple Meals",
-      "defname": "grilledcheese",
-      "price": -10
-    },
-    {
-      "abr": "grilledkabob",
-      "category": "Fine Meals",
-      "defname": "Kabob",
-      "price": -10
-    },
-    {
-      "abr": "grilledpolenta",
-      "category": "Simple Meals",
-      "defname": "grilledpolenta",
-      "price": -10
-    },
-    {
-      "abr": "grilledsteak",
-      "category": "Simple Meals",
-      "defname": "Grilledsteak",
-      "price": -10
-    },
-    {
-      "abr": "grilledvegetables",
-      "category": "Simple Meals",
-      "defname": "Grilledveg",
-      "price": -10
-    },
-    {
-      "abr": "hardcandy",
-      "category": "Sweets",
-      "defname": "Hardcandy",
-      "price": -10
-    },
-    {
-      "abr": "hardtack",
-      "category": "Foods",
-      "defname": "VG_Hardtack",
-      "price": -10
-    },
-    {
-      "abr": "hivepiece",
-      "category": "Raw resources",
-      "defname": "VG_Hivepiece",
-      "price": -10
-    },
-    {
-      "abr": "honey",
-      "category": "Ingredients",
-      "defname": "Honey",
-      "price": -10
-    },
-    {
-      "abr": "honeymead",
-      "category": "Drugs",
-      "defname": "Mead",
-      "price": -10
-    },
-    {
-      "abr": "icecream",
-      "category": "Sweets",
-      "defname": "icecream",
-      "price": -10
-    },
-    {
-      "abr": "ironwood",
-      "category": "Raw resources",
-      "defname": "VG_IronWoodLog",
-      "price": -10
-    },
-    {
-      "abr": "makiroll",
-      "category": "Simple Meals",
-      "defname": "MakiRoll",
-      "price": -10
-    },
-    {
-      "abr": "meatpie",
-      "category": "Simple Meals",
-      "defname": "meatpie",
-      "price": -10
-    },
-    {
-      "abr": "millingstone",
-      "category": "Production",
-      "defname": "GrindStone",
-      "price": -10
-    },
-    {
-      "abr": "muffin",
-      "category": "Fine Meals",
-      "defname": "muffin",
-      "price": -10
-    },
-    {
-      "abr": "mushroom",
-      "category": "Garden meat",
-      "defname": "Rawmushroom",
-      "price": -10
-    },
-    {
-      "abr": "nigiri",
-      "category": "Fine Meals",
-      "defname": "Nigiri",
-      "price": -10
-    },
-    {
-      "abr": "olive",
-      "category": "Vegetarian",
-      "defname": "RawOlive",
-      "price": -10
-    },
-    {
-      "abr": "orange",
-      "category": "Fruits",
-      "defname": "Raworange",
-      "price": -10
-    },
-    {
-      "abr": "oven",
-      "category": "Production",
-      "defname": "Oven",
-      "price": -10
-    },
-    {
-      "abr": "peach",
-      "category": "Fruits",
-      "defname": "Rawpeach",
-      "price": -10
-    },
-    {
-      "abr": "pickledvegetable",
-      "category": "Vegetarian",
-      "defname": "PickledVeg",
-      "price": -10
-    },
-    {
-      "abr": "pineapple",
-      "category": "Fruits",
-      "defname": "Rawpineapple",
-      "price": -10
-    },
-    {
-      "abr": "pizza",
-      "category": "Lavish Meals",
-      "defname": "pizza",
-      "price": -10
-    },
-    {
-      "abr": "porridge",
-      "category": "Simple Meals",
-      "defname": "Porridge",
-      "price": -10
-    },
-    {
-      "abr": "redlentil",
-      "category": "Garden meat",
-      "defname": "RawRedLentil",
-      "price": -10
-    },
-    {
-      "abr": "salt",
-      "category": "Raw resources",
-      "defname": "ChunkSalt",
-      "price": -10
-    },
-    {
-      "abr": "saltedmeat",
-      "category": "Garden meat",
-      "defname": "SaltedMeat",
-      "price": -10
-    },
-    {
-      "abr": "silage",
-      "category": "Animal Feed",
-      "defname": "Silage",
-      "price": -10
-    },
-    {
-      "abr": "slavecollar",
-      "category": "Headgear",
-      "defname": "Apparel_Collar",
-      "price": -10
-    },
-    {
-      "abr": "smoothie",
-      "category": "Sweets",
-      "defname": "smoothie",
-      "price": -10
-    },
-    {
-      "abr": "snowbeet",
-      "category": "Vegetarian",
-      "defname": "Rawsnowbeet",
-      "price": -10
-    },
-    {
-      "abr": "stirfry",
-      "category": "Meals",
-      "defname": "stirfry",
-      "price": -10
-    },
-    {
-      "abr": "sugarcane",
-      "category": "Ingredients",
-      "defname": "Rawsugarcane",
-      "price": -10
-    },
-    {
-      "abr": "sweetbun",
-      "category": "Simple Meals",
-      "defname": "sweetbun",
-      "price": -10
-    },
-    {
-      "abr": "sweetstable",
-      "category": "Production",
-      "defname": "CandyTable",
-      "price": -10
-    },
-    {
-      "abr": "tacos",
-      "category": "Lavish Meals",
-      "defname": "Tacos",
-      "price": -10
-    },
-    {
-      "abr": "taffy",
-      "category": "Sweets",
-      "defname": "Taffy",
-      "price": -10
-    },
-    {
-      "abr": "tealeaves",
-      "category": "Plant matter",
-      "defname": "Rawtea",
-      "price": -10
-    },
-    {
-      "abr": "tofu",
-      "category": "Meat",
-      "defname": "Rawtofu",
-      "price": -10
-    },
-    {
-      "abr": "veganeggsubstitute",
-      "category": "Eggs (unfert.)",
-      "defname": "VeganEgg",
-      "price": -10
-    },
-    {
-      "abr": "watermelon",
-      "category": "Fruits",
-      "defname": "Rawwatermelon",
-      "price": -10
-    },
-    {
-      "abr": "wheat",
-      "category": "Vegetarian",
-      "defname": "Rawwheat",
-      "price": -10
-    },
-    {
-      "abr": "yogurt",
-      "category": "Sweets",
-      "defname": "yogurt",
+      "abr": "90mmcannonshell(emp)",
+      "category": "90mm cannon shell",
+      "defname": "Ammo_90mmCannonShell_EMP",
       "price": -10
     }
   ],
-  "total": 919
+  "total": 1125
 }

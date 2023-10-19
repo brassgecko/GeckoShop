@@ -1,6 +1,181 @@
 {
 	"incitems" : [
 	{
+		"abr": "tornado",
+		"price": 3600,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "clearweather",
+		"price": 500,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "rain",
+		"price": 500,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "foggyrain",
+		"price": 500,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "rainythunderstorm",
+		"price": 500,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "drythunderstorm",
+		"price": 800,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "snowgentle",
+		"price": 500,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "snowhard",
+		"price": 500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "fog",
+		"price": 500,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "heatwave",
+		"price": 2400,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "flashstorm",
+		"price": 2400,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "coldsnap",
+		"price": 2400,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "solarflare",
+		"price": 2400,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "shortcircuit",
+		"price": 800,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "volcanicwinter",
+		"price": 3600,
+		"karmatype": "Doom"
+	},
+	{
+		"abr": "eclipse",
+		"price": 2400,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "blight",
+		"price": 3600,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "resourcepodcrash",
+		"price": 1200,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "meteor",
+		"price": 1200,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "psychicdrone",
+		"price": 2400,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "psychicsoothe",
+		"price": 2400,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "wildman",
+		"price": 1200,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "rarethrumbos",
+		"price": 2400,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "shipchunkdrop",
+		"price": 2400,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "shippartpoison",
+		"price": 2400,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "shippartpsychic",
+		"price": 2400,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "raid",
+		"price": 1200,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "dropraid",
+		"price": 2400,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "sapperraid",
+		"price": 1200,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "siegeraid",
+		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "manhunterpack",
+		"price": 1200,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "predators",
+		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "randomdisease",
+		"price": 2400,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "disease",
+		"price": 3600,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "pawn",
+		"price": 1,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "trait",
 		"price": 1,
 		"karmatype": "Good"
@@ -11,15 +186,60 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "randominspire",
+		"price": 1200,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "surgery",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
 		"abr": "passionshuffle",
-		"price": 1000,
+		"price": 2000,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "passion",
-		"price": 1000,
+		"price": 7000,
 		"karmatype": "Good"
+	},
+	{
+		"abr": "removepassion",
+		"price": 500,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "cleartraits",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "use",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "wear",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "equip",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "randomchildhood",
+		"price": 500,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "randomadulthood",
+		"price": 500,
+		"karmatype": "Neutral"
 	}
 	],
-	"total": 4
+	"total": 48
 }
